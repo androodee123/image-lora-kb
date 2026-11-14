@@ -22,6 +22,10 @@ def main() -> int:
     OUT.mkdir(parents=True, exist_ok=True)
     repos = [(r.id, "model") for r in api.list_models(author=ACCOUNT)]
     repos += [(r.id, "dataset") for r in api.list_datasets(author=ACCOUNT)]
+    current = {r.split("/")[1] + ".jsonl" for r, _ in repos}
+    for stale in OUT.glob("*.jsonl"):
+        if stale.name not in current:
+            stale.unlink()  # repo deleted/renamed on HF
     for repo, rtype in repos:
         rows = []
         for i in api.list_repo_tree(repo, repo_type=rtype, recursive=True):

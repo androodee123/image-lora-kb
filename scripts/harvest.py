@@ -67,11 +67,55 @@ def slim(it, family):
             "downloadCount": st.get("downloadCount"), "thumbsUpCount": st.get("thumbsUpCount"),
             "description": (it.get("description") or "")[:2000], "versions": vers[:6]}
 
+def merge_newest(pages: int, delay: float, deadline: float = 0):
+    """Incremental: fetch the newest `pages` pages per baseModel and MERGE into civitai_candidates.jsonl."""
+    models = {}
+    for ln in OUT.read_text().splitlines() if OUT.exists() else []:
+        try:
+            r = json.loads(ln); models[r["id"]] = r
+        except Exception:
+            pass
+    added = 0
+    for family, bases in PLAN.items():
+        for bm in bases:
+            cursor = None
+            for _ in range(pages):
+                if deadline and time.time() > deadline:
+                    print("deadline reached", file=sys.stderr); break
+                params = [("limit", 100), ("nsfw", "true"), ("sort", "Newest"), ("types", "LORA"), ("types", "LoCon"), ("types", "DoRA"), ("baseModels", bm)]
+                if cursor:
+                    params.append(("cursor", cursor))
+                d = get(API + "?" + urllib.parse.urlencode(params))
+                for it in d.get("items") or []:
+                    r = slim(it, family)
+                    old = models.get(r["id"])
+                    if old:
+                        have = {v["id"] for v in old["versions"]}
+                        old["versions"] += [v for v in r["versions"] if v["id"] not in have]
+                        old["downloadCount"] = max(old.get("downloadCount") or 0, r["downloadCount"] or 0)
+                        old["thumbsUpCount"] = max(old.get("thumbsUpCount") or 0, r["thumbsUpCount"] or 0)
+                    else:
+                        models[r["id"]] = r; added += 1
+                cursor = (d.get("metadata") or {}).get("nextCursor")
+                time.sleep(delay)
+                if not (d.get("items") and cursor):
+                    break
+    OUT.write_text("\n".join(json.dumps(m, ensure_ascii=False) for m in models.values()) + "\n")
+    print(json.dumps({"models_total": len(models), "models_added": added}))
+
 def main():
     ap = argparse.ArgumentParser()
+    ap.add_argument("--merge-newest", type=int, metavar="PAGES", help="incremental: newest PAGES per baseModel merged into the candidate cache")
+    ap.add_argument("--full", action="store_true", help="re-run the full multi-sort harvest (resets paging state; merges into existing cache)")
+    ap.add_argument("--deadline", type=float, default=0)
     ap.add_argument("--newest-only", action="store_true")
     ap.add_argument("--delay", type=float, default=0.6)
     a = ap.parse_args()
+    if a.merge_newest:
+        merge_newest(a.merge_newest, a.delay, a.deadline)
+        return
+    if a.full and STATE.exists():
+        STATE.unlink()
     state = json.loads(STATE.read_text()) if STATE.exists() and not a.newest_only else {}
     models = {}
     if OUT.exists() and not a.newest_only:
@@ -87,7 +131,7 @@ def main():
                     continue
                 cursor = state.get(key + "|cursor")
                 pages = state.get(key + "|pages", 0)
-                while pages < (2 if a.newest_only else maxp):
+                while pages < (2 if a.newest_only else maxp) and not (a.deadline and time.time() > a.deadline):
                     params = [("limit", 100), ("nsfw", "true"), ("sort", sort), ("types", "LORA"), ("types", "LoCon"), ("types", "DoRA"), ("baseModels", bm)]
                     if cursor:
                         params.append(("cursor", cursor))

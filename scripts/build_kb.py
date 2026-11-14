@@ -48,7 +48,11 @@ def load_inputs():
     byhash = {r["sha256"]: r for r in jl(RAW / "civitai_byhash.jsonl")}
     models = {r["modelId"]: r for r in jl(RAW / "civitai_models.jsonl") if r.get("found")}
     legacy = {}
-    for r in jl(RAW / "legacy_enriched.jsonl"):
+    legacy_rows = jl(RAW / "legacy_enriched.jsonl")
+    if not legacy_rows and (DATA / "legacy_enriched.jsonl.gz").exists():
+        import gzip
+        legacy_rows = [json.loads(l) for l in gzip.open(DATA / "legacy_enriched.jsonl.gz", "rt").read().splitlines() if l.strip()]
+    for r in legacy_rows:
         legacy[r["slug"]] = r
         legacy.setdefault(norm(r["slug"]), r)
     return hf, byhash, models, legacy

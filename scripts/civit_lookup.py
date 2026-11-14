@@ -18,6 +18,7 @@ ROOT = Path(__file__).resolve().parents[1]
 RAW = ROOT / "data" / "raw"
 UA = "image-lora-kb/civit_lookup (metadata only; never downloads weights)"
 LOCK = threading.Lock()
+DEADLINE = 0.0  # epoch seconds; 0 = none
 
 def get(url, retries=6):
     last = None
@@ -90,6 +91,8 @@ def run_byhash(limit=None, workers=5):
     print(f"byhash: {len(todo)} to fetch ({len(done)} cached)", file=sys.stderr)
     n = [0]
     def work(h):
+        if DEADLINE and time.time() > DEADLINE:
+            return
         try:
             d = get(f"https://civitai.com/api/v1/model-versions/by-hash/{h}")
             row = {"sha256": h, **(slim_version(d) if d else {"found": False})}
@@ -120,6 +123,8 @@ def run_models(workers=5):
     print(f"models: {len(todo)} to fetch ({len(done)} cached)", file=sys.stderr)
     n = [0]
     def work(mid):
+        if DEADLINE and time.time() > DEADLINE:
+            return
         try:
             d = get(f"https://civitai.com/api/v1/models/{mid}")
         except Exception as e:
@@ -150,10 +155,29 @@ def is_scope(b):
     b = (b or "").lower()
     return any(s in b for s in SCOPE_BASES)
 
+def pending():
+    done_h = load_done(RAW / "civitai_byhash.jsonl", "sha256")
+    h = [x for x in all_hashes() if x not in done_h]
+    ids = set()
+    for ln in (RAW / "civitai_byhash.jsonl").read_text().splitlines() if (RAW / "civitai_byhash.jsonl").exists() else []:
+        try:
+            r = json.loads(ln)
+        except Exception:
+            continue
+        if r.get("found") and r.get("modelId") and is_scope(r.get("baseModel")):
+            ids.add(r["modelId"])
+    done_m = load_done(RAW / "civitai_models.jsonl", "modelId")
+    return {"byhash_pending": len(h), "models_pending": len(ids - done_m)}
+
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
-    ap.add_argument("cmd", choices=["byhash", "models"])
+    ap.add_argument("cmd", choices=["byhash", "models", "pending"])
     ap.add_argument("--limit", type=int)
     ap.add_argument("--workers", type=int, default=5)
+    ap.add_argument("--deadline", type=float, default=0, help="epoch seconds after which no new requests start")
     a = ap.parse_args()
-    run_byhash(a.limit, a.workers) if a.cmd == "byhash" else run_models(a.workers)
+    DEADLINE = a.deadline
+    if a.cmd == "pending":
+        print(json.dumps(pending()))
+    else:
+        run_byhash(a.limit, a.workers) if a.cmd == "byhash" else run_models(a.workers)

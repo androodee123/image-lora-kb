@@ -168,7 +168,7 @@ def main():
           "Each recipe lists, per family, the 2 most-downloaded **verified Graydient** matches, then flagged HF-only matches, then up to 3 *Suggest ingest* lines. Deeper lists with source-stated example prompts: `guides/recipes-detailed.md`.", ""]
     S += recipe_block(RECIPES, pools, hfonly, sugg, 2, False)
     S += ["---", "", "## Andrew's proven stacks", "", "See `guides/andrew-proven-stacks.md` (detailed-krea2 identity/anatomy stack; kromoss benchmark stack).", "",
-          "## Keeping this current", "", "Weekly: `python3 scripts/check_new.py` (proposals only; writes `proposals/YYYY-MM-DD.md`). After Andrew ingests anything, rerun `scripts/list_graydient.py`, `scripts/civit_lookup.py byhash`, `scripts/build_kb.py`, `scripts/render_kb.py`.", ""]
+          "## Keeping this current", "", "Weekly: `bash scripts/update.sh` (see `UPDATING.md`): re-lists all Octavian123 HF repos, looks up new files on CivitAI, merges newly published LoRAs as candidates, rebuilds this skill and the catalogs, and pushes. Weights are never downloaded or ingested by it.", ""]
     (ROOT / "guides").mkdir(exist_ok=True)
     (ROOT / "SKILL.md").write_text("\n".join(S))
     D = ["# Detailed goal recipes (top 3 per family, with source-stated example prompts)", "",
@@ -207,11 +207,11 @@ Keep the identity LoRA highest; name condom details explicitly (transparent late
     # ---------------- README + accessibility report ----------------
     R = ["# image-lora-kb", "", "Private text-to-image LoRA knowledge base for Graydient: Illustrious/NoobAI, SDXL, Pony, Anima, Krea2, MOSS. Companion to `video-lora-kb`.", "",
          "- `SKILL.md` — goal chooser + recipes (load this).", "- `families/<family>/<category>.md` — complete tables.", "- `data/loras.jsonl`, `candidates.jsonl`, `excluded.jsonl`, `unclassified.jsonl`, `inventory_summary.md`, `accessibility_report.md`, `graydient_ingest_queue.md`.",
-         "- `scripts/` — `list_graydient.py` (HF listing), `civit_lookup.py` (hash/model lookup), `harvest.py` (candidates), `build_kb.py`, `render_kb.py`, `check_new.py` (weekly monitor), `export_pack.py`.", "",
+         "- `UPDATING.md`, `CHANGELOG.md` — how updates work; `scripts/update.sh` is the single entry point.", "- `scripts/` — `update.sh`/`update.py`, `list_graydient.py` (HF listing), `civit_lookup.py` (hash/model lookup), `harvest.py` (candidates), `build_kb.py`, `render_kb.py`, `check_new.py` (weekly monitor), `export_pack.py`.", "",
          "Metadata only: nothing here downloads weights; no tokens are stored.", "", "## Counts", "", "| family | on Graydient | HF only | candidates |", "|---|---:|---:|---:|"]
     for f in FAMILIES:
         R.append(f"| {f} | {counts[f][0]} | {counts[f][1]} | {counts[f][2]} |")
-    R += ["", "## Weekly routine", "", "```", "cd /workspace/image-lora-kb && python3 scripts/check_new.py", "```", "", "See `proposals/`."]
+    R += ["", "## Updating", "", "```", "cd /workspace/image-lora-kb && bash scripts/update.sh", "```", "", "Idempotent: rematches Graydient availability, pulls new CivitAI LoRAs, rebuilds the catalog, commits and pushes only if something changed. Flags, weekly routine and the proposed-vs-applied policy: [UPDATING.md](UPDATING.md). History: [CHANGELOG.md](CHANGELOG.md), `proposals/`."]
     (ROOT / "README.md").write_text("\n".join(R) + "\n")
     rel = Counter(l["reliability"] for l in loras)
     A = ["# Accessibility report", "", "Graydient availability = file in `Octavian123/civit`, `civit2` or `private` (identical sha counts). Other `Octavian123/*` repos = **HF only, needs adding to Graydient**.", "",
