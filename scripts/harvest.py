@@ -70,7 +70,7 @@ def slim(it, family):
 def merge_newest(pages: int, delay: float, deadline: float = 0):
     """Incremental: fetch the newest `pages` pages per baseModel and MERGE into civitai_candidates.jsonl."""
     models = {}
-    for ln in OUT.read_text().splitlines() if OUT.exists() else []:
+    for ln in OUT.read_text().split("\n") if OUT.exists() else []:
         try:
             r = json.loads(ln); models[r["id"]] = r
         except Exception:
@@ -119,7 +119,7 @@ def main():
     state = json.loads(STATE.read_text()) if STATE.exists() and not a.newest_only else {}
     models = {}
     if OUT.exists() and not a.newest_only:
-        for ln in OUT.read_text().splitlines():
+        for ln in OUT.read_text().split("\n"):
             r = json.loads(ln); models[r["id"]] = r
     for family, bases in PLAN.items():
         for bm, sorts in bases.items():

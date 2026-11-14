@@ -25,7 +25,7 @@ RAW, DATA, PROP = ROOT / "data" / "raw", ROOT / "data", ROOT / "proposals"
 def jl(p):
     out = []
     if p.exists():
-        for l in p.read_text().splitlines():
+        for l in p.read_text().split("\n"):
             try:
                 out.append(json.loads(l))
             except Exception:

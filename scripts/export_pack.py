@@ -10,7 +10,7 @@ ROOT = Path(__file__).resolve().parents[1]
 ZIP_DT = (2026, 11, 14, 0, 0, 0)
 
 def jl(p):
-    return [json.loads(l) for l in p.read_text().splitlines() if l.strip()]
+    return [json.loads(l) for l in p.read_text().split("\n") if l.strip()]
 
 def zipdir(zpath, items):
     with zipfile.ZipFile(zpath, "w", zipfile.ZIP_DEFLATED) as z:

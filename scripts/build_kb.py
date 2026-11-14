@@ -24,7 +24,7 @@ def jl(path):
     if not path.exists():
         return []
     out = []
-    for l in path.read_text().splitlines():
+    for l in path.read_text().split("\n"):
         if l.strip():
             try:
                 out.append(json.loads(l))
@@ -51,7 +51,7 @@ def load_inputs():
     legacy_rows = jl(RAW / "legacy_enriched.jsonl")
     if not legacy_rows and (DATA / "legacy_enriched.jsonl.gz").exists():
         import gzip
-        legacy_rows = [json.loads(l) for l in gzip.open(DATA / "legacy_enriched.jsonl.gz", "rt").read().splitlines() if l.strip()]
+        legacy_rows = [json.loads(l) for l in gzip.open(DATA / "legacy_enriched.jsonl.gz", "rt").read().split("\n") if l.strip()]
     for r in legacy_rows:
         legacy[r["slug"]] = r
         legacy.setdefault(norm(r["slug"]), r)

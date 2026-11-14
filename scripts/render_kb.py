@@ -16,7 +16,7 @@ ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data"
 
 def jl(p):
-    return [json.loads(l) for l in p.read_text().splitlines() if l.strip()] if p.exists() else []
+    return [json.loads(l) for l in p.read_text().split("\n") if l.strip()] if p.exists() else []
 
 def esc(s):
     return (s or "").replace("|", "/").replace("\n", " ").strip()

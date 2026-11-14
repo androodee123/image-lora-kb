@@ -29,7 +29,7 @@ EXPORT_DIR = "/workspace/share-image"
 def jl(p):
     out = []
     if p.exists():
-        for l in p.read_text().splitlines():
+        for l in p.read_text().split("\n"):
             if l.strip():
                 try:
                     out.append(json.loads(l))
@@ -123,7 +123,7 @@ def run(a, clock, summary, today):
             U.sh([PY, "scripts/civit_lookup.py", "byhash", "--workers", "6", "--deadline", str(clock.deadline - 900)], ROOT, check=False)
         with clock.step("civitai: model details for new in-scope models"):
             U.sh([PY, "scripts/civit_lookup.py", "models", "--workers", "6", "--deadline", str(clock.deadline - 600)], ROOT, check=False)
-        pend = json.loads(U.sh([PY, "scripts/civit_lookup.py", "pending"], ROOT).stdout.strip().splitlines()[-1])
+        pend = json.loads(U.sh([PY, "scripts/civit_lookup.py", "pending"], ROOT).stdout.strip().split("\n")[-1])
         summary["lookups_pending"] = pend
         if pend["byhash_pending"] or pend["models_pending"]:
             summary["warnings"].append("CivitAI lookups incomplete (time budget or API errors); nothing committed. Re-run to continue; caches keep progress.")
@@ -142,7 +142,7 @@ def run(a, clock, summary, today):
                 summary["full_harvest"] = True
             r = U.sh([PY, "scripts/harvest.py", "--merge-newest", str(a.pages), "--deadline", str(clock.deadline - 400)], ROOT, check=False)
             if r.returncode == 0 and r.stdout.strip():
-                j = json.loads(r.stdout.strip().splitlines()[-1])
+                j = json.loads(r.stdout.strip().split("\n")[-1])
                 summary["civitai_candidate_models_total"] = j["models_total"]; summary["civitai_new_models_seen"] = j["models_added"]
             else:
                 summary["warnings"].append("newest merge failed: " + (r.stderr or "")[-200:])
@@ -184,9 +184,9 @@ def run(a, clock, summary, today):
     changed = U.dirty(ROOT)
     if changed:
         write_reports(today, summary, moved_rows, added, removed, became, new_cand, new_files, gone_files)
-    summary["files_changed"] = len([l for l in changed.splitlines() if l.strip()])
+    summary["files_changed"] = len([l for l in changed.split("\n") if l.strip()])
     if a.dry_run:
-        summary["diffstat"] = U.sh(["git", "diff", "--stat", "--no-color"], ROOT).stdout.strip().splitlines()[-1:]
+        summary["diffstat"] = U.sh(["git", "diff", "--stat", "--no-color"], ROOT).stdout.strip().split("\n")[-1:]
         if summary["_clean_start"]:
             U.restore_tree(ROOT)
         summary["status"] = "dry-run-ok"

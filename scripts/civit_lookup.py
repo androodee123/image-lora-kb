@@ -63,7 +63,7 @@ def slim_version(d):
 def load_done(path, key):
     done = set()
     if path.exists():
-        for ln in path.read_text().splitlines():
+        for ln in path.read_text().split("\n"):
             if ln.strip():
                 try:
                     done.add(json.loads(ln)[key])
@@ -74,7 +74,7 @@ def load_done(path, key):
 def all_hashes():
     seen = {}
     for f in sorted((RAW / "hf").glob("*.jsonl")):
-        for ln in f.read_text().splitlines():
+        for ln in f.read_text().split("\n"):
             if not ln.strip():
                 continue
             r = json.loads(ln)
@@ -112,7 +112,7 @@ def run_models(workers=5):
     out = RAW / "civitai_models.jsonl"
     done = load_done(out, "modelId")
     ids = set()
-    for ln in (RAW / "civitai_byhash.jsonl").read_text().splitlines():
+    for ln in (RAW / "civitai_byhash.jsonl").read_text().split("\n"):
         try:
             r = json.loads(ln)
         except Exception:
@@ -159,7 +159,7 @@ def pending():
     done_h = load_done(RAW / "civitai_byhash.jsonl", "sha256")
     h = [x for x in all_hashes() if x not in done_h]
     ids = set()
-    for ln in (RAW / "civitai_byhash.jsonl").read_text().splitlines() if (RAW / "civitai_byhash.jsonl").exists() else []:
+    for ln in (RAW / "civitai_byhash.jsonl").read_text().split("\n") if (RAW / "civitai_byhash.jsonl").exists() else []:
         try:
             r = json.loads(ln)
         except Exception:
