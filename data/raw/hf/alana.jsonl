@@ -1,0 +1,4 @@
+{"repo": "Octavian123/alana", "repo_type": "model", "on_graydient": false, "path": ".gitattributes", "size": 1519, "sha256": null}
+{"repo": "Octavian123/alana", "repo_type": "model", "on_graydient": false, "path": "README.md", "size": 31, "sha256": null}
+{"repo": "Octavian123/alana", "repo_type": "model", "on_graydient": false, "path": "alanabackwards_epoch_10.safetensors", "size": 342483876, "sha256": "c3a428ae636cf2d1fff5c69869229bb4c43c43e26dc87d59faccf05ad61db25f"}
+{"repo": "Octavian123/alana", "repo_type": "model", "on_graydient": false, "path": "alanabackwards_epoch_15.safetensors", "size": 342485588, "sha256": "7db4aeb39da99ceb0c8eb43136054544608fa4e7373bfff0496e4e4a1f172d92"}

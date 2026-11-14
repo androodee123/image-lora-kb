@@ -1,0 +1,22 @@
+# MOSS (Moss Image / kromoss) — utility
+
+16 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+
+| slug | triggers | strength | dl | what | source |
+|---|---|---|---:|---|---|
+| `turbo-loras-moss` | not stated | not stated | 11500 | I'll be uploading different Moss Image Turbo LoRAs I use here and crediting the original creators. Included Lo | [link](https://civitai.com/models/3006599?modelVersionId=3414934) |
+| `pornmaster-moss-realism-slider-xl` | not stated | 2 | 5479 | 模型介紹為中英雙語，中文使用者可以關閉翻譯。 PornMaster 色情大師 Moss Lora權重: -2 to +4.5 使用正面lora權重時增加增真實感，使用負面lora權重時增加2d感。 LoRA Weight | [link](https://civitai.com/models/3010059?modelVersionId=3415845) |
+| `pornmaster-moss-detail-slider-xl` | not stated | not stated | 4239 | 模型介紹為中英雙語，中文使用者可以關閉翻譯。 PornMaster 色情大師 Moss Lora權重: -6 to +8 使用正面lora權重時增加增細節，使用負面lora權重時降低細節。 LoRA Weight: -6 | [link](https://civitai.com/models/3010274?modelVersionId=3416145) |
+| `weight-slider-moss` | not stated | 1.0 | 3869 | Weight Slider · MOSS Image A universal body-mass slider for MOSS Image: slide negative for a leaner build, pos | [link](https://civitai.com/models/3009566?modelVersionId=3415231) |
+| `bottom-slider-ass-hips-thighs-moss-xl` | not stated | 1 | 2520 | Model working strengths are from -2 to 4, beyond values do work, but you will loose on realism, prompt adheren | [link](https://civitai.com/models/3010764?modelVersionId=3416806) |
+| `hentai-studio-quality-illustriousxl-zimage-moss` | hentai_studio_quality, shiny skin, | 0.8 | 2393 | Moss version: weight between [0.8,1], best at 1 prompt : hentai_studio_quality, shiny skin Krea 2 version: wei | [link](https://civitai.com/models/1459030?modelVersionId=3420914) |
+| `waist-slider-moss-xl` | not stated | 1 | 2153 | MOSS Model working strengths are from -3 to 3, beyond values do work, but you will loose on realism, prompt ad | [link](https://civitai.com/models/2777139?modelVersionId=3415839) |
+| `amateur-slider-moss` | not stated | not stated | 1958 | Amateur Slider shifts the image quality and photographic style between clean, professional photography and the | [link](https://civitai.com/models/3039742?modelVersionId=3454778) |
+| `photo-quality-slider-moss` | not stated | 2 to 2 | 1473 | A slider LoRA that controls the overall photo quality of your generations, made for Moss Image. Trained with F | [link](https://civitai.com/models/3021900?modelVersionId=3431350) |
+| `pornmaster-cum-slider-moss` | cum, semen. | not stated | 1442 | 模型介紹為中英雙語，中文使用者可以關閉翻譯。 PornMaster 色情大師 Moss LORA權重最高建議使用到+4，超過+4對構圖影響很大。 The recommended maximum LORA weight i | [link](https://civitai.com/models/3020205?modelVersionId=3429108) |
+| `breast-slider-moss` | not stated | not stated | 1077 | See the examples to understand the effects, all images have WF embedded.  In my opinion, V2 is a clear improve | [link](https://civitai.com/models/3042936?modelVersionId=3463103) |
+| `beauty-filter-slider-moss` | not stated | not stated | 994 | Beauty Filter Slider – Moss Image A slider LoRA that controls how "filtered" and glamorous women look in your  | [link](https://civitai.com/models/3021908?modelVersionId=3431367) |
+| `brightness-slider-moss` | not stated | not stated | 478 | MOSS V1 Recommended range -3 to 3 | [link](https://civitai.com/models/3016826?modelVersionId=3424762) |
+| `slider-age-moss` | not stated | not stated | 404 | Dataset is composed of 71 photograph of both men and women. Usage: - Positive: makes the subjects older. - Neg | [link](https://civitai.com/models/3025154?modelVersionId=3435576) |
+| `pastel-pinup-palooza-r7-moss` | kkpinup | not stated | 233 | Pastel Pinup Palooza r7 Trigger word: kkpinup Rank / Alpha: 32 Training steps: 3,000 License: Non-commercial O | [link](https://civitai.com/models/3023306?modelVersionId=3433174) |
+| `realistic-hyper-muscular-arms-flux-moss` | not stated | not stated | 90 | Oversized/Hyper muscular arms. Use trigger words: "hyper muscular arms" The model will create massively oversi | [link](https://civitai.com/models/1101505?modelVersionId=3455054) |

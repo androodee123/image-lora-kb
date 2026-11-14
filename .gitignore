@@ -1,0 +1,16 @@
+# Never commit weights
+*.safetensors
+*.pt
+*.bin
+*.ckpt
+.DS_Store
+__pycache__/
+*.pyc
+.env
+# Large raw metadata caches (rebuild with scripts/list_graydient.py, civit_lookup.py, harvest.py)
+data/raw/*
+!data/raw/hf/
+!data/raw/README.md
+data/inventory.jsonl
+# Generated share pack (rebuild with python3 scripts/export_pack.py)
+dist/

@@ -1,0 +1,7 @@
+{"repo": "Octavian123/pixai", "repo_type": "model", "on_graydient": false, "path": ".gitattributes", "size": 1519, "sha256": null}
+{"repo": "Octavian123/pixai", "repo_type": "model", "on_graydient": false, "path": "README.md", "size": 28, "sha256": null}
+{"repo": "Octavian123/pixai", "repo_type": "model", "on_graydient": false, "path": "checkpoint-e18_s306.safetensors", "size": 256056360, "sha256": "3e0d183b8c0a07f0478710a667beeab8b554eafc6d1d5b46adae228f21557d3e"}
+{"repo": "Octavian123/pixai", "repo_type": "model", "on_graydient": false, "path": "checkpoint-e18_s414.safetensors", "size": 256056360, "sha256": "2b4e8a3f037e71e7019e2b4e9dc79a35bdf95518020c2319521f893b4460c95e"}
+{"repo": "Octavian123/pixai", "repo_type": "model", "on_graydient": false, "path": "checkpoint-e22_s572.safetensors", "size": 256056360, "sha256": "37b10c9e49539371147419f2914673ec14b3f478d1e5e13b992765debc611dec"}
+{"repo": "Octavian123/pixai", "repo_type": "model", "on_graydient": false, "path": "checkpoint-e43_s1419.safetensors", "size": 256056360, "sha256": "69eb0a1c93883705d23525ca37db6407c0ac673c9b875e4c84729cf4a0af7362"}
+{"repo": "Octavian123/pixai", "repo_type": "model", "on_graydient": false, "path": "checkpoint-e64_s1344.safetensors", "size": 256056360, "sha256": "3c5d468f435fb57ef1e2f61f82540855941d5ab46263dfafda7a020782626999"}

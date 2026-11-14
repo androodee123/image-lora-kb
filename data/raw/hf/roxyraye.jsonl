@@ -1,0 +1,4 @@
+{"repo": "Octavian123/roxyraye", "repo_type": "model", "on_graydient": false, "path": ".gitattributes", "size": 1519, "sha256": null}
+{"repo": "Octavian123/roxyraye", "repo_type": "model", "on_graydient": false, "path": "README.md", "size": 29, "sha256": null}
+{"repo": "Octavian123/roxyraye", "repo_type": "model", "on_graydient": false, "path": "RoxyRaye_epoch_12.safetensors", "size": 228466620, "sha256": "37e4278c24665b6dc4ad4f525b26942b31f53e71f1edb719b396c3ae1bde5454"}
+{"repo": "Octavian123/roxyraye", "repo_type": "model", "on_graydient": false, "path": "RoxyRaye_epoch_15.safetensors", "size": 228466620, "sha256": "dfc5ff49f2c819ec35d969bf5bde6997dc113eba90c1b4987fc2dafe119d6a9f"}

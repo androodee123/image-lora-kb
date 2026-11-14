@@ -1,0 +1,4 @@
+{"repo": "Octavian123/gillianscully", "repo_type": "model", "on_graydient": false, "path": ".gitattributes", "size": 1519, "sha256": null}
+{"repo": "Octavian123/gillianscully", "repo_type": "model", "on_graydient": false, "path": "README.md", "size": 31, "sha256": null}
+{"repo": "Octavian123/gillianscully", "repo_type": "model", "on_graydient": false, "path": "gillian_epoch_15.safetensors", "size": 228466620, "sha256": "ee6f32372d9a6a9fb0d391d90812f4c8c79e6f24cb51aba7c0a8727b3b00c1a0"}
+{"repo": "Octavian123/gillianscully", "repo_type": "model", "on_graydient": false, "path": "gilliana_person_epoch_15.safetensors", "size": 228466652, "sha256": "b74f62ce57ff3a6a23abaaa30c3209dda35e6e071036c52bb9305946a1c3787b"}

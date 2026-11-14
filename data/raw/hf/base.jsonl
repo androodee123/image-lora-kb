@@ -1,0 +1,5 @@
+{"repo": "Octavian123/base", "repo_type": "model", "on_graydient": false, "path": ".gitattributes", "size": 1519, "sha256": null}
+{"repo": "Octavian123/base", "repo_type": "model", "on_graydient": false, "path": "ComfyUI-test1_00002_.safetensors", "size": 6938043530, "sha256": "2783516100c25f3ee038deac5db32ea60c8f9f3b78dd6eefa9f56de8d375495f"}
+{"repo": "Octavian123/base", "repo_type": "model", "on_graydient": false, "path": "divingIllustriousSemi_v10.safetensors", "size": 6938046114, "sha256": "d64c08ec071c1d5344fed3d36f0ee667923084f094da346cc3861f3b12fdc217"}
+{"repo": "Octavian123/base", "repo_type": "model", "on_graydient": false, "path": "realIllustrious_test.safetensors", "size": 7140419154, "sha256": "0a2e7c760dfa050d5b50741273d38d29d55d7c74bedee71421808f0199052ef5"}
+{"repo": "Octavian123/base", "repo_type": "model", "on_graydient": false, "path": "realPony_illustriousPony.safetensors", "size": 6938066256, "sha256": "0b74d2a7f0c4a75c451f9a9370e425a22594b4577594e91253c9939158cb1163"}

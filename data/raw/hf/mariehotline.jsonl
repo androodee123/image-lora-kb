@@ -1,0 +1,4 @@
+{"repo": "Octavian123/mariehotline", "repo_type": "model", "on_graydient": false, "path": ".gitattributes", "size": 1519, "sha256": null}
+{"repo": "Octavian123/mariehotline", "repo_type": "model", "on_graydient": false, "path": "MCB Hotline_epoch_10.safetensors", "size": 228465476, "sha256": "c56b0566f48840855f99a79055477ea4e8d687fd8f2248b0e8f67de13474636f"}
+{"repo": "Octavian123/mariehotline", "repo_type": "model", "on_graydient": false, "path": "MCB Love Hotel_epoch_10.safetensors", "size": 228465476, "sha256": "558d25e589bd2f7a225f0aed734062613440addf26b22e60f3d32e509800ddb8"}
+{"repo": "Octavian123/mariehotline", "repo_type": "model", "on_graydient": false, "path": "MarieHotline_epoch_20.safetensors", "size": 114437164, "sha256": "013bb179cbc2e54c2ec4b0cef6fe72a9a94a48eae076e8aad70ac812302e4711"}
