@@ -1,6 +1,6 @@
 # Krea2 (detailed-krea2) — pose-composition
 
-102 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+103 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -108,6 +108,7 @@
 | `graphic-portrait-krea2` | GP_K, Colored cheeks, illustration | not stated | 99 | • GᖇᗩᑭᕼIᑕ ᑭOᖇTᖇᗩIT • This template creates artistic portraits with an eye-catching graphic style. It is a mix  | [link](https://civitai.com/models/170039?modelVersionId=3465400) |
 | `asuka-langley-neon-genesis-evangelion-krea2` | asuka | 0.8-1.0 | 78 | 明日香·兰格雷 / Asuka Langley (Krea 2 LoRA) 触发词 / Trigger word：asuka 中文说明 角色 《新世纪福音战士》的明日香·兰格雷·惣流。本 LoRA 以 cosplay 实 | [link](https://civitai.com/models/3043231?modelVersionId=3459298) |
 | `add-intricate-composition-krea2` | endlesspossibilities | not stated | 66 | this lora is meant to bring a lot of details and complexity. some use cases: from shield and weapon details, l | [link](https://civitai.com/models/739343?modelVersionId=3407505) |
+| `snofs-nsfw-lower-rank-krea2` | not stated | not stated | 42 | all credits go to SNOFS https://civitai.red/models/1972981/snofs-sex-nudes-other-fun-stuff @ https://civitai.r | [link](https://civitai.com/models/3052077?modelVersionId=3471000) |
 | `kreaclassicframing` | not stated | not stated | 9 | Unlock 3 premium checkpoints + the entire LoRA Lab with the Event Horizon Pass — just $20/month, and everythin | [link](https://civitai.com/models/2958510?modelVersionId=3354171) |
 | `endoscopicview-krea2-v1-e10` | not stated | not stated |  |  |  |
 | `toilet-hidden-camera-krea2` | cepai | not stated |  | Download 厕拍-Toilet Hidden camera-Lora v1.0, a LORA for Krea 2. 1 file: krea2_cepai_lora.safetensors (448 MB).  | [link](https://civitai.com/models/2919523?modelVersionId=3303124) |

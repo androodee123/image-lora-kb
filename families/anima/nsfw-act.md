@@ -1,6 +1,6 @@
 # Anima — nsfw-act
 
-192 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+195 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -145,6 +145,7 @@
 | `hidden-bottom-sex-toy-anima` | idden Bottom Sex Toy, lower body focus, spread legs, sex toy, under table, penet | not stated | 387 | concept | [link](https://civitai.com/models/3017922?modelVersionId=3426190) |
 | `straddling-handjob-caressing-testicles-anima` | straddlinghj, penis grab, handjob, straddling, erection, girl on top, cowgirl po | 0.7 - 1.0 | 380 | ☀️ Straddling Handjob Caressing Testicles 🎨 Want custom images or your own LoRAs? → Commissions open on Fiverr | [link](https://civitai.com/models/3026147?modelVersionId=3436845) |
 | `footjob-male-pov-anima` | footjob, male pov | not stated | 373 | Footjobs! Love them or hate them, you can make them with this model. I highly recommend adding embedding that  | [link](https://civitai.com/models/1607171?modelVersionId=3273646) |
+| `futa-glory-hole-anima` | glory hole, penis through wall, photo \(object\) on wall, picture frame, portrai | 0.6-1 | 372 | weight: 0.6-1 | [link](https://civitai.com/models/2769205?modelVersionId=3117432) |
 | `oblivious-sexualization-dumb-gullible-fema-anima` | not stated | not stated | 370 | Oblivious sexualization - dumb - gullible | [link](https://civitai.com/models/2989136?modelVersionId=3389309) |
 | `mounting-cowgirl-full-body-no-pov-anima` | 1girl, standing, 1boy, male on back,, hetero,  completely nude, penis, simple ba | not stated | 363 | Concept idea Watch your favorite waifu as she is ready to ride. The idea behind this Lora is a moment before t | [link](https://civitai.com/models/2965992?modelVersionId=3360641) |
 | `mutual-handjob-anima` | mutual handjob, jack off buddy, hand on another's penis, | not stated | 351 | This is a video of Lora and her partner giving each other handjobs. 相互に手コキをするloraになります。 | [link](https://civitai.com/models/2940034?modelVersionId=3328485) |
@@ -161,6 +162,7 @@
 | `armpit-sex-anima` | not stated | not stated | 270 | This LoRA was created because the base Anima model struggled to properly generate armpit sex scenes. It often  | [link](https://civitai.com/models/3011637?modelVersionId=3417958) |
 | `multiple-vaginal-anal-anima` | double vaginal, double anal, triple anal, solo focus, disembodied penis, multipl | not stated | 270 | Multiple Vaginal/Anal concept for Anima. I wrote the tags on details bar. Originally planned to make double, b | [link](https://civitai.com/models/3023648?modelVersionId=3433610) |
 | `cervix-prolapse-fuck-anima` | gtrcp cervix prolapse fuck | not stated | 268 | Cervix prolapse is being penetrated Style influence is heavy as usual | [link](https://civitai.com/models/3040017?modelVersionId=3455189) |
+| `hhorgy-a-anima` | HHOrgy-A | not stated | 267 | A few months ago, I came across a LoRA that delivered excellent pose consistency. Unfortunately, the creator d | [link](https://civitai.com/models/3050471?modelVersionId=3468953) |
 | `harem-threesome-ffm-3p-21-anima` | not stated | not stated | 265 | 1.guided breast grab. 832×1200 <lora:Harem_Threesome:0.7> 2girls, pov hands, (guided breast grab), 1boy, worri | [link](https://civitai.com/models/3050680?modelVersionId=3469233) |
 | `on-back-dildo-masturbation-anima` | dildo onslaught, fake testicles, on back, holding sex toy, suction sex toy, open | not stated | 261 | Concept | [link](https://civitai.com/models/2996561?modelVersionId=3398616) |
 | `shower-masturbation-anima` | shower, masturbation, water, wet skin | not stated | 256 | In need of "clean" images? Start here! Trained on images of men/women/futa in the shower. | [link](https://civitai.com/models/1837562?modelVersionId=3262145) |
@@ -189,6 +191,7 @@
 | `anal-cum-expulsion-male-focus-anima` | anal cum fountain, an4l-c0m-f0unt41n,, projectile cum, p40j3ct1l3-cum ,, cum poo | not stated | 118 | Updating my most popular models for Anima. activation tag: c0m-3xuls10n tags included:  anal cum fountain, an4 | [link](https://civitai.com/models/2971984?modelVersionId=3367981) |
 | `floppy-sex-anima` | bent penis | not stated | 110 | Floppy Sex Curvy floppy dick /Bent penis | [link](https://civitai.com/models/2996857?modelVersionId=3398994) |
 | `maleverse-aio-anima` | bt_male_aio | 0.8 | 108 | MaleVerse AIO — Anima this lora took me some time but i am still not that experienced in making extremely deta | [link](https://civitai.com/models/2966679?modelVersionId=3361476) |
+| `yuu-mikihara-bondage-game-anima` | <lora:MikiharaYuuws:1>, mikiharayuuws, red hair, long hair, green eyes, huge bre | 0.8 | 102 | Settings: Strength: 0.8 Steps: 2 Sampling Steps: 20-30 CFG Scale: 4 Anima Turbo: Sampling Steps: 8-12 CFG Scal | [link](https://civitai.com/models/3050120?modelVersionId=3468495) |
 | `teela-alx-fuckit-style-masters-of-the-univ-anima` | teelaalx, orange hair, blue eyes, long hair, updo, diadem, yellow collared vest, | not stated | 70 | Teela from Masters of the Universe in alx/fuckit's style Main Tag: teelaalx Appearance Tags: orange hair, blue | [link](https://civitai.com/models/2973077?modelVersionId=3369337) |
 | `sarah-lixdix-meet-and-fuck-games-nutbuster-anima` | slixdix (mnf), 1girl, medium hair, breasts, brown hair, gloves, elbow gloves, bl | not stated | 48 | no regularization. tagged with vit3 trained on base-1 and illustrious-v2 | [link](https://civitai.com/models/2874757?modelVersionId=3248437) |
 | `pegging-anima` | pegging | not stated | 41 | p | [link](https://civitai.com/models/3029320?modelVersionId=3440997) |

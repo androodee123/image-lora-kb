@@ -1,6 +1,6 @@
 # MOSS (Moss Image / kromoss) — lighting
 
-9 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+10 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -13,6 +13,7 @@
 | `rooms-onsen-moss` | z1os | 1 | 143 | Finding all my models or profile elsewhere than Civitai is without my consent ! Please don't repost my files.  | [link](https://civitai.com/models/3025069?modelVersionId=3435474) |
 | `space-worlds-planets-moss` | z1os | 1 | 136 | Finding all my models or profile elsewhere than Civitai is without my consent ! Please don't repost my files.  | [link](https://civitai.com/models/3024931?modelVersionId=3435301) |
 | `y2k-neon-moss` | not stated | not stated | 103 | A dreamy millennium neon palette: purple and pink skies, glowing city skylines and reflections on the water, o | [link](https://civitai.com/models/3049556?modelVersionId=3467759) |
+| `dizzle-s-neon-pop-photography-moss` | dz_photopop | 0.9 to 1.0 | 81 | Hyper-saturated, glossy, and gloriously unhinged. This renders your scene as surreal neon photography, candy-b | [link](https://civitai.com/models/3049956?modelVersionId=3468282) |
 | `city-worlds-districkt-93-moss` | z1os | 1 | 64 | Finding all my models or profile elsewhere than Civitai is without my consent ! Please don't repost my files.  | [link](https://civitai.com/models/3015720?modelVersionId=3423252) |
 | `fleshlight` | not stated | not stated |  |  |  |
 | `golden-hour-moss` | not stated | not stated |  |  |  |

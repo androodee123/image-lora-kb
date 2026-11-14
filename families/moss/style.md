@@ -1,6 +1,6 @@
 # MOSS (Moss Image / kromoss) — style
 
-225 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+229 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -181,6 +181,8 @@
 | `joker-style-olive-cinema-grade-olive-gray-moss` | not stated | 0.5 | 157 | A film color grade: everything pushed to olive gray and dark green, pale sodium and fluorescent lamps, shadows | [link](https://civitai.com/models/3034837?modelVersionId=3448264) |
 | `okayokayokok-style-edition-moss` | comic artwork | not stated | 157 | So this was my first attempt to train with MOSS to see if it was any good. And it's certainly different. So, f | [link](https://civitai.com/models/3018501?modelVersionId=3426932) |
 | `style-moss` | Yasuomi Umetsu, retro anime, 80s anime aesthetic, ova style, cel shading, bold l | not stated | 157 | ⚠️ 非商用声明 / Non-Commercial Notice: 本模型仅供个人学习、交流与兴趣爱好者测试使用，严禁任何形式的商业用途。 未经授权，亦不可使用本模型生成商业化图片或进行二次售卖。 | [link](https://civitai.com/models/3003315?modelVersionId=3454304) |
+| `null-3d-style-nullus02-1-8-moss` | nullus02 | 0.9 - 1.0 | 156 | 🎨 Style LoRA Weight : 0.9 - 1.0 Trigger : @nullus02 ⚠️ Support the original artist / Removal on request. https | [link](https://civitai.com/models/3047104?modelVersionId=3468323) |
+| `1987-mosspop-moss` | mosspop, a late 80s magazine, low contrast, faded colors and film grain, magazin | not stated | 153 | Late 80s era european adult magazine Look. Works great with Base Model. Images were created using the “SolordZ | [link](https://civitai.com/models/3050381?modelVersionId=3468854) |
 | `drunkoak-xl` | @drunkoak | 1 | 152 | trigger：@drunkoak  weight：1~0.7 | [link](https://civitai.com/models/3010814?modelVersionId=3416876) |
 | `magical-destroyers-style-moss` | destroyersM0style, illustration | not stated | 150 |  | [link](https://civitai.com/models/3015065?modelVersionId=3422372) |
 | `s007-moss` | brushwork, chromatic aberration, greyscale, sepia | not stated | 148 | for moss 在moss base bf16上训练,标记时挪用了部分概念,使用时建议以brushwork, chromatic aberration,greyscale,sepia为关键字编写一两句描述性自然语言来使 | [link](https://civitai.com/models/2512107?modelVersionId=3428373) |
@@ -199,7 +201,9 @@
 | `cyber-punk-line-art-base-image-moss` | not stated | not stated | 113 | Robots, cyborgs, ganic choombatta's, It'll draw em all. | [link](https://civitai.com/models/3024336?modelVersionId=3434502) |
 | `boris-vallejo-fantasy-art-style-zit-f1d-gm-moss` | boris vallejo | not stated | 112 | This is the Boris Vallejo art style Flux D Lora, he is one of my favorite fantasy artist along with his wife J | [link](https://civitai.com/models/679007?modelVersionId=3458536) |
 | `dark-supernatural-comic-book-style-by-astr-moss` | not stated | not stated | 112 | Dark Supernatural Comic-Book Style  Welcome to ABUnholyComicV01K2, an experimental comic-book style LoRA train | [link](https://civitai.com/models/2809765?modelVersionId=3418883) |
+| `ireading-style-moss` | not stated | 0.8 - 1 | 112 | MOSS V1.0 Trained on 4350 steps with 86 images. Epoch 8 - 10 available. 8 the style is slightly weaker, 10 is  | [link](https://civitai.com/models/2695531?modelVersionId=3465659) |
 | `pc-98-xl` | pixel style, fepas style, | not stated | 112 | PC-98風のアレです。 Moss.ver1.1 最初の2枚の画像は自分で使用しているワークフローでのもの。次の2枚の画像はcomfyuiのmossのテンプレワークフローに当loraを追加しただけのもの The firs | [link](https://civitai.com/models/1257292?modelVersionId=3418265) |
+| `lucy-lucyna-kushinada-cyberpunk-edgerunner-moss` | lucyna, a girl with short pastel rainbow bob with one long front lock, red eye m | 0.8-1.3 | 110 | Trained on MOSS Best result with weight between : 0.8-1.3 Base prompts : lucyna, a girl with short pastel rain | [link](https://civitai.com/models/3050370?modelVersionId=3468834) |
 | `kira-defenestration-style-moss` | not stated | not stated | 109 | Trained on images of Kira from the adult game Defenestration by Fresh Mulan. If you like the style, consider t | [link](https://civitai.com/models/662087?modelVersionId=3428952) |
 | `pink-infrared-film-magenta-foliage-deep-bl-moss` | not stated | not stated | 107 | The false color of color infrared film: trees and grass turn magenta, sky and water deep blue, and skin stays  | [link](https://civitai.com/models/3039903?modelVersionId=3455021) |
 | `south-asian-building-by-sarcastic-tofu-moss` | not stated | not stated | 106 | This LORA can generate South Asian style building design (Interior and Exterior) for your AI artwork and inspi | [link](https://civitai.com/models/3015284?modelVersionId=3422696) |

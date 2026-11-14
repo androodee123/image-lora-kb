@@ -1,6 +1,6 @@
 # Anima — style
 
-1333 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+1347 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -343,6 +343,7 @@
 | `style-mix-slider-for-anima` | style mix slider for anima | not stated | 314 | Concept slider LoRA for Anima This model is designed to apply LoRA to a base model in order to produce a consi | [link](https://civitai.com/models/2860423?modelVersionId=3248603) |
 | `mistress-kanan-is-devilishly-easy-anime-st-anima` | not stated | 0.8 | 313 | Mistress Kanan is Devilishly Easy Weight: 0.8 Trigger word: anime coloring Recommended Checkpoint: Anima | [link](https://civitai.com/models/2993142?modelVersionId=3394290) |
 | `spammayo-style-anima` | SpamMayo | not stated | 313 | SpamMayo さんのスタイルLORAです。 https://x.com/spmy0495 ローカルや、CIVITAI以外での利用はしないで下さい。 削除の申し入れや、問題があれば削除します。 | [link](https://civitai.com/models/2996100?modelVersionId=3398009) |
+| `uno-makoto-style-anima` | not stated | not stated | 313 | Please Read To help keep this project organized and up to date, please do not reupload this model to other pla | [link](https://civitai.com/models/1732595?modelVersionId=3412187) |
 | `GokanAI Style - Anima - GokanAI_Anima_epoch_10` | not stated | not stated | 312 | Lora for GokanAI style from pixiv | [link](https://civitai.com/models/2522495?modelVersionId=3265158) |
 | `cervina7-style-anima` | @cervani | not stated | 310 | Credit to the artist! DM For Removal Enjoy and share results! Follow me on twitter because why not | [link](https://civitai.com/models/1369692?modelVersionId=3379295) |
 | `opgnpls-artist-style-anima` | not stated | not stated | 310 | 自己炼的风格，比较好的衣服/丝袜质感。 触发词：@opgnpls | [link](https://civitai.com/models/2963322?modelVersionId=3357347) |
@@ -401,6 +402,7 @@
 | `ozone-marumiya-uno-makoto-k2style-anima` | malebolgia, Marumiya | 1 | 279 | The model I think is fairly self explanatory. Am I missing something with the new Supergirl movie, and 'male'  | [link](https://civitai.com/models/2669860?modelVersionId=2997900) |
 | `diathorn-style-anima` | diathornstyle,medium breast | 1 | 278 | For exclusive models, follow me on https://x.com/MarthirM12799 If you like my work, you can buy me a coffee. h | [link](https://civitai.com/models/2995700?modelVersionId=3397518) |
 | `rusalka-style-anima` | @ Rusalka | not stated | 277 | based on Rusalka (NAI 5.0 VER) style: https://www.pixiv.net/users/4181025 Trained with Anima Base V1 | [link](https://civitai.com/models/3015036?modelVersionId=3422339) |
+| `commission-fa-style-anima` | FA style, 请为我的作品点赞👍,谢谢/Please give my Lora  a thumbs up 👍,Thank you. | not stated | 276 | 我需要buzz!这可以让我更卖力的创作！✊ I need buzz！It can make me more creative！✊ 如果需要委托定制，请添加本人联系账号： 微信：xb176022 QQ：2849928775 | [link](https://civitai.com/models/3049940?modelVersionId=3468266) |
 | `nyantcha-thiccwithaq-2024-and-before-style-anima` | not stated | not stated | 276 | Nyantcha (ThiccwithaQ) 2024 and before style | [link](https://civitai.com/models/2595469?modelVersionId=3346338) |
 | `elijahzx-bobtheneeet-style-anima` | not stated | not stated | 274 | Please Read To help keep this project organized and up to date, please do not reupload this model to other pla | [link](https://civitai.com/models/2238141?modelVersionId=3388298) |
 | `taira-tsukune-style-anima` | not stated | not stated | 274 | ANI ver. | [link](https://civitai.com/models/3034234?modelVersionId=3447541) |
@@ -680,6 +682,7 @@
 | `ootori-mahiro-style-anima` | not stated | not stated | 169 | ANI ver. | [link](https://civitai.com/models/3025641?modelVersionId=3436206) |
 | `ouma-tokiichi-artist-style-anima` | Malebolgia, Ouma Tokiichi | 1 | 169 | The model I think is fairly self explanatory. https://vocaroo.com/1dCKgpymuk1M Back to my devilish tricks. Wor | [link](https://civitai.com/models/2949972?modelVersionId=3340912) |
 | `femboy-link-anima` | malebolgia, cstmgbr | 1 | 168 | The model I think is fairly self explanatory. Sort of wanted this for personal use, mostly for the style, but  | [link](https://civitai.com/models/2699729?modelVersionId=3031714) |
+| `horny-capybara-futa-fucks-femboys-leia-cha-anima` | Malebolgia, fufufe, Leiafff, Malebolgia, fufufe, Leiafff, 1girl, large breasts,  | 1 | 168 | The model I think is fairly self explanatory. https://vocaroo.com/1dCKgpymuk1M Back to my devilish tricks. Wor | [link](https://civitai.com/models/2803285?modelVersionId=3160509) |
 | `incase-puazi-doujin-style-anima` | malebolgia | 1 | 168 | The model I think is fairly self explanatory. Victory is not given. It begins when the enemy learns that you c | [link](https://civitai.com/models/2985059?modelVersionId=3384262) |
 | `zerogura-style-anima` | @zeroani | not stated | 168 | Credit to the artist! DM For Removal Enjoy and share results! My guide to on-site LoRa training! 🗃️ Suggestion | [link](https://civitai.com/models/2896342?modelVersionId=3274408) |
 | `avatariense-yoruichi-shihouin-silver-eveni-anima` | malebolgia | 1 | 167 | The model I think is fairly self explanatory. So I checked the model where I was called a centrist, and it's a | [link](https://civitai.com/models/3008742?modelVersionId=3414114) |
@@ -738,6 +741,7 @@
 | `style-illustration-style-for-anima` | Y_Style_1 | not stated | 157 | This illustration-style LoRA softens linework and coloring, adding a watercolor-like texture. It helps reduce  | [link](https://civitai.com/models/2987149?modelVersionId=3386785) |
 | `style-personal-hand-drawn-style-for-anima` | PR_Style_line_1，sketch, traditional media, | not stated | 157 | This LoRA gives images a hand-drawn look, with sharper linework and coloring that resembles traditional painti | [link](https://civitai.com/models/2987124?modelVersionId=3386745) |
 | `Clouder` | @Clouder | not stated | 156 | Wild West styled lora with intricate clouds | [link](https://civitai.com/models/2765211?modelVersionId=3112415) |
+| `bonten-style-v2-anima` | @B0nt3n, | not stated | 156 | 梵典さんの絵柄を学習させたものになります。 ※V2での修正点、学習画像を新たに増やし、既存のキャプションの修正。女性の陰毛の有無を詳しくキャプションに追加。 問題が有れば消します。 | [link](https://civitai.com/models/2926116?modelVersionId=3468115) |
 | `roborobocap-style-anima` | Robocap | not stated | 156 | Roborobocap style | [link](https://civitai.com/models/2989393?modelVersionId=3389626) |
 | `swirlinghawk-artist-style-il-anima` | Sw1rl1ngH4wk | not stated | 156 | This lora recreates the style of an artist called SwirlingHawk, who likes to make Naruto R34 it seems... Sligh | [link](https://civitai.com/models/2654120?modelVersionId=3391480) |
 | `yuni-0205-style-anima` | yuni 0205 style anima | not stated | 156 | 这个模型不需要触发词 This model doesn't need a trigger word | [link](https://civitai.com/models/2874609?modelVersionId=3248211) |
@@ -891,6 +895,7 @@
 | `hizzacked-artstyle-public-commission-anima` | h1zz-style | not stated | 127 | ANIMA - V1 Keyword: h1zz-style REAL Artist: Hizzacked ENJOY! | [link](https://civitai.com/models/3042531?modelVersionId=3458444) |
 | `mikeypieart-2023-2026-imageset-style-anima` | malebolgia | 1 | 127 | The model I think is fairly self explanatory. https://vocaroo.com/1dCKgpymuk1M Back to my devilish tricks. Wor | [link](https://civitai.com/models/3019046?modelVersionId=3427627) |
 | `pachae-caffeine-style-anima` | pachaeFG | not stated | 127 |  | [link](https://civitai.com/models/2694767?modelVersionId=3443162) |
+| `shamsiel-kyonyuu-fantasy-anima` | shamkyouu, shamsiel slingshot leotard, bridal gauntlets, purple knee boots, | not stated | 127 | Works on: ANIMA This is a new model made for two reasons: simplify prompting; generate closer results to origi | [link](https://civitai.com/models/3049782?modelVersionId=3468052) |
 | `shioya-coluli-style-anima` | not stated | not stated | 127 | ANIMA ver. | [link](https://civitai.com/models/3017871?modelVersionId=3426121) |
 | `crepe-saikyou-onna-kishi-o-ijou-kairakuzuk-anima` | malebolgia | 1 | 126 | The model I think is fairly self explanatory. Just thought I'd leave this here, as a record, because I do know | [link](https://civitai.com/models/3002284?modelVersionId=3405829) |
 | `jeremy-anninos-anima` | jeremy anninos anima | not stated | 126 | A style LoRA trained on images of the artist jeremy anninos | [link](https://civitai.com/models/867277?modelVersionId=3237607) |
@@ -937,7 +942,10 @@
 | `touhoku-kiriko-style-anima` | not stated | not stated | 120 | 東北切子 さんのスタイルLORAです。 https://x.com/igaitaitan ローカルや、CIVITAI以外での利用はしないで下さい。 削除の申し入れや、問題があれば削除します。 | [link](https://civitai.com/models/2991330?modelVersionId=3392080) |
 | `unknown-various-malevola-dispatch-imageset-anima` | malebolgia | 1 | 120 | The model I think is fairly self explanatory. Yes I know this description will get flagged by the new automate | [link](https://civitai.com/models/3002366?modelVersionId=3405937) |
 | `NF4 yukaitakeshi style - V1 - nf4` | @nf4 | not stated | 119 | V1 is made using a uncleaned dataset, causing watermarks to appear often along side dialogue boxes. I am tryin | [link](https://civitai.com/models/2875656?modelVersionId=3249555) |
+| `doplino-style-anima` | @d0plin0 | not stated | 119 | A lora of doplino's style. Enjoy! | [link](https://civitai.com/models/3050019?modelVersionId=3468362) |
 | `goldcan-style-anima` | g0ldxi | 0.8-1 | 119 | Trigger word: g0ldxi Suggested strength: 0.8-1 | [link](https://civitai.com/models/3012471?modelVersionId=3419015) |
+| `movie-theater-anima` | m0v13, movie theater, popcorn, red chairs | not stated | 119 | Creates a Movie Theater background Trigger: m0v13 Additional: sitting, popcorn, red chair, movie theater | [link](https://civitai.com/models/2850034?modelVersionId=3467477) |
+| `oyari-ashito-artstyle-anima` | not stated | 0.6 to 1.2 | 119 | Trained on Anima_BaseV10. Strength will vary, 0.6 to 1.2 range (usually 1.0 is fine for most of my models). Da | [link](https://civitai.com/models/2931700?modelVersionId=3318073) |
 | `ratratmix-anima` | Ratratmix | not stated | 119 | A style lora that is great for some yummy colors when mixed with artist tags I use 1.4 strength, but can be me | [link](https://civitai.com/models/3024992?modelVersionId=3435384) |
 | `taishou-romanesque-toono-suika-i-m-a-bad-g-anima` | malebolgia | 1 | 119 | The model I think is fairly self explanatory. Well, the Partie Quebecois won a minority government, but they d | [link](https://civitai.com/models/2989275?modelVersionId=3389481) |
 | `tamagoro-doutei-danshi-kousei-iinkai-manga-anima` | malebolgia | 1 | 119 | The model I think is fairly self explanatory. https://vocaroo.com/1dCKgpymuk1M Back to my devilish tricks. Wor | [link](https://civitai.com/models/3029194?modelVersionId=3440821) |
@@ -945,6 +953,7 @@
 | `yu-yu-tei-minakami-rinka-ojisan-no-risou-n-anima` | malebolgia | 1 | 119 | The model I think is fairly self explanatory. "Our text scan said: The title explicitly names 'Ojisan no Risou | [link](https://civitai.com/models/3001090?modelVersionId=3404287) |
 | `heavenly-butts-style-anima` | heavenlybutts | not stated | 118 | Style of Heavenly Butts/OFF | [link](https://civitai.com/models/3003962?modelVersionId=3407997) |
 | `hoshoku-shoujo-karasu-chan-watashi-ni-konn-anima` | malebolgia | 1 | 118 | The model I think is fairly self explanatory. More on my Mechwarrior Headcanon, because I genuinely don't know | [link](https://civitai.com/models/2989130?modelVersionId=3389305) |
+| `narazu89-style-anima` | @n4r4zu, | not stated | 118 | This is a LoRA for Narazu ならず(@narazu89)'s style. I will remove this if requested by the original artist. Info | [link](https://civitai.com/models/3049949?modelVersionId=3468274) |
 | `slugbox-anima` | @slugbox | not stated | 118 | A model trained on some images of the artist slugbox | [link](https://civitai.com/models/1706549?modelVersionId=3424397) |
 | `takama-ai-ttt-style-anima` | not stated | not stated | 118 | Based on Anima (base v1.0). Trigger word: @TAKAMA This is a LoRA for style of the artist: takama_ai_ttt. I wil | [link](https://civitai.com/models/3048501?modelVersionId=3466371) |
 | `yuji-fantasia-artist-style-for-moss` | not stated | not stated | 118 | 你知道的，我一直是铁血星级厨 | [link](https://civitai.com/models/3019846?modelVersionId=3428653) |
@@ -973,6 +982,7 @@
 | `akitokage-artstyle-anima` | not stated | 0.6 to 1.2 | 115 | Trained on Anima_BaseV10. Strength will vary, 0.6 to 1.2 range (usually 1.0 is fine for most of my models). Da | [link](https://civitai.com/models/2931692?modelVersionId=3318065) |
 | `appetite-mama-no-okugai-shuuchi-lesson-gam-anima` | malebolgia | not stated | 115 | The model I think is fairly self explanatory. So like, I've commented here and there about Tom MacDonald befor | [link](https://civitai.com/models/3003808?modelVersionId=3407803) |
 | `backgroundretro-pink-kitchen-anima` | retropinkkitchen, table, vase, shelf, indoors, window, chair, cabinet, curtains, | not stated | 115 | TAGS: retropinkkitchen, table, vase, shelf, indoors, window, chair, cabinet, curtains, flower pot, kitchen, wo | [link](https://civitai.com/models/2968416?modelVersionId=3363586) |
+| `banzaiproject-futa-fight-fuck-gamecg-style-anima` | Malebolgia, bnziprjct | 1 | 115 | The model I think is fairly self explanatory. https://vocaroo.com/1dCKgpymuk1M Back to my devilish tricks. Wor | [link](https://civitai.com/models/2948293?modelVersionId=3338835) |
 | `firestar-classic-marvel-comics-anima` | firestarc, long hair, red hair, green eyes, bodysuit, collarbone, mask, gloves | not stated | 115 | Angelica Jones aka Firestar in her classic costume. Triggers: firestarc, long hair, red hair, green eyes, body | [link](https://civitai.com/models/2987214?modelVersionId=3386865) |
 | `kanrakutei-ak-occult-nanka-ja-nain-dakara-anima` | malebolgia | 1 | 115 | The model I think is fairly self explanatory. It is peculiar to me, that people say how Patrick Stewart is irr | [link](https://civitai.com/models/3032563?modelVersionId=3445374) |
 | `kikaider-reijhiro-haishin-construction-kyo-anima` | malebolgia | 1 | 115 | The model I think is fairly self explanatory. https://vocaroo.com/1dCKgpymuk1M Back to my devilish tricks. Wor | [link](https://civitai.com/models/3039168?modelVersionId=3453953) |
@@ -1202,6 +1212,7 @@
 | `kamisato-sora-ortlinde-hildr-thrud-2026-10-anima` | malebolgia | 1 | 86 | The model I think is fairly self explanatory. https://vocaroo.com/1dCKgpymuk1M Back to my devilish tricks. Wor | [link](https://civitai.com/models/3002156?modelVersionId=3405661) |
 | `krystopher-decker-artist-style-anima` | @krystopher_decker | 0.6-0.8 | 86 | Trigger words makes lora much stronger. Recommended settings for Anima: Sampler: er_sde / euler / dpmpp_sde_gp | [link](https://civitai.com/models/3042093?modelVersionId=3457880) |
 | `seki-sabato-tsukuru-seki-sabato-no-soku-me-anima` | malebolgia | 1 | 86 | The model I think is fairly self explanatory. This'll probably be the last one I plug in for a bit, going to g | [link](https://civitai.com/models/3034333?modelVersionId=3447657) |
+| `iron-grimoire-sakula-nightmare-spell-neon-anima` | malebolgia | 1 | 85 | The model I think is fairly self explanatory. https://vocaroo.com/1dCKgpymuk1M Back to my devilish tricks. Wor | [link](https://civitai.com/models/3050547?modelVersionId=3469058) |
 | `maddogai-anima` | @maddogai | 0.8-1.3 | 85 | Attempt to recreate MadDogAi artstyle. Recommended Settings: Strength: 0.8-1.3 CFG: 4-5 (Non-Turbo recommended | [link](https://civitai.com/models/2369248?modelVersionId=3463163) |
 | `musabetsubakugeki-artstyle-anima` | not stated | not stated | 85 | MusabetsuBakugeki(無差別爆撃) artstyle. | [link](https://civitai.com/models/3039524?modelVersionId=3454469) |
 | `skywardfoundry-style-anima` | skywardfoundry | not stated | 85 | Style LoRA in the style of skywardfoundry, trained on Anima. It gives vibrant flat-color art with bold lineart | [link](https://civitai.com/models/3034642?modelVersionId=3448029) |
@@ -1263,6 +1274,7 @@
 | `zanaou-art-style-anima` | not stated | not stated | 70 | ANIMA - And here we go—I think I’m finally getting the hang of how to train with ANIMA (had to invest a bit in | [link](https://civitai.com/models/745760?modelVersionId=3428995) |
 | `harrisartz-noodle-compilation-imageset-sty-anima` | malebolgia | 1 | 69 | The model I think is fairly self explanatory. It is kind of goofy, when I think about how like, several of the | [link](https://civitai.com/models/3041343?modelVersionId=3456922) |
 | `pinup-style-anima` | pinup style anima | not stated | 69 | testing style. experimenting with one shot loras so these will be very hit or miss | [link](https://civitai.com/models/2896921?modelVersionId=3275186) |
+| `ultrabinou-allegedly-non-futa-non-furry-im-anima` | malebolgia | not stated | 69 | The model I think is fairly self explanatory. Okay, a note of this ones semi-political descript, against my pu | [link](https://civitai.com/models/3043436?modelVersionId=3459563) |
 | `doloyume-artist-style-anima` | @doloyume | 0.6-0.8 | 68 | Trigger words makes lora much stronger. Recommended settings for Anima: Sampler: er_sde / euler / dpmpp_sde_gp | [link](https://civitai.com/models/2976859?modelVersionId=3374015) |
 | `l-axe-3011686-artist-style-anima` | malebolgia | 1 | 68 | The model I think is fairly self explanatory. https://vocaroo.com/1dCKgpymuk1M Back to my devilish tricks. Wor | [link](https://civitai.com/models/3049055?modelVersionId=3467110) |
 | `kuusou-gokinjyo-chitai-manga-style-anima` | malebolgia | 1 | 67 | The model I think is fairly self explanatory. https://vocaroo.com/1E0fN73AsWTj https://vocaroo.com/1dCKgpymuk1 | [link](https://civitai.com/models/3046466?modelVersionId=3463496) |
@@ -1307,6 +1319,7 @@
 | `artist-kamidan-anima` | Artist_Kamidan | not stated | 53 | Artist Kamidan Artstyle | [link](https://civitai.com/models/2236260?modelVersionId=3445850) |
 | `circle-kuusou-zikken-munehito-kuusou-zikke-anima-3` | malebolgia | 1 | 53 | The model I think is fairly self explanatory. Don't worry about the lack of descriptions, still kind of groggy | [link](https://civitai.com/models/3049208?modelVersionId=3467320) |
 | `skullbound-gothic-anima` | G0th_0utf1t featuring a deep burgundy velvet hooded top adorned with intricate s | not stated | 53 | My first outfit lora. I found this outfit on a Temu ad and wanted to train lora with it. The trigger word is:  | [link](https://civitai.com/models/3039917?modelVersionId=3455058) |
+| `chu-practice-anima` | @prac4 | not stated | 52 | 9060xt8g显卡直出，第一次制作 | [link](https://civitai.com/models/3050031?modelVersionId=3468389) |
 | `circle-kuusou-zikken-munehito-kuusou-zikke-anima-2` | malebolgia | 1 | 51 | The model I think is fairly self explanatory. https://vocaroo.com/1dCKgpymuk1M Back to my devilish tricks. Wor | [link](https://civitai.com/models/3049265?modelVersionId=3467398) |
 | `soft-touch-tamra-s-styles-v0-2-anima` | not stated | not stated | 50 | This is a mix of multiple Lora that i use -- one of them being the Legendary Silvana x Tamra Mix Style Lora fr | [link](https://civitai.com/models/3010270?modelVersionId=3435192) |
 | `tuppenjskewer-artstyle-anima` | @tuppenstyle | not stated | 50 | can do non vore stuff burping - basically probably forces the ones where characters burp theres that bigass te | [link](https://civitai.com/models/2402334?modelVersionId=3389980) |
@@ -1317,6 +1330,7 @@
 | `the-emotes-anima` | the_emotes | not stated | 43 | I found this emote/sticker online and decided to create a lora based on it.  Trigger word: the_emotes Steps: 3 | [link](https://civitai.com/models/2992797?modelVersionId=3445118) |
 | `ANIMA_TG_girls_Anime_V2` | Shemale, Newhalf, Tgirl | not stated | 42 | Update for Illus V2, WAI Illus and Mature WAI work the best so far, using "Shemale" and "Newhalf" as the keywo | [link](https://civitai.com/models/2755543?modelVersionId=3217791) |
 | `wow-glasses-style-anima` | glasses wow effect, 1girl, solo, close-up,monochrome, bangs, eyelashes, parted l | not stated | 39 | Review: “Wow glasses effect” ⭐⭐⭐⭐½ Finally, an honest LoRA: the title says “wow” and the image keeps the promi | [link](https://civitai.com/models/3035238?modelVersionId=3448793) |
+| `pyris-style-vascular-men-anima` | not stated | 0.5-1.0 | 37 | This Model is Inspired and Trained by the awesome work of @Pyris please go check him out. It generates muscula | [link](https://civitai.com/models/3044155?modelVersionId=3469071) |
 | `mad-cave-studios-francesco-scimonelli-mari-anima` | malebolgia | 1 | 36 | The model I think is fairly self explanatory. https://vocaroo.com/1dCKgpymuk1M Back to my devilish tricks. Wor | [link](https://civitai.com/models/3049373?modelVersionId=3467533) |
 | `kubobw-style-v2-anima` | not stated | not stated | 32 | BLEACH 黑白漫畫畫風 LoRA，供個人研究使用。觸發詞：kubobw。搭配 Anima 系列底模，建議 LoRA 強度 0.8–1.0。目標是將黑白線條、留白及網點的畫風運用於原創角色。可在負向提示加入 color | [link](https://civitai.com/models/3024036?modelVersionId=3434123) |
 | `hanagoori-style-2-styles-anima` | @Hanagoori nm | not stated | 25 | Hanagoori Style lora You can get my early access models on my Patreon! https://www.patreon.com/c/fr0p644 Illus | [link](https://civitai.com/models/2991966?modelVersionId=3392870) |

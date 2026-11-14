@@ -1,6 +1,6 @@
 # Krea2 (detailed-krea2) — character
 
-972 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+981 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -467,6 +467,7 @@
 | `cos-genshin-impact-cosplay-collection-krea2` | Y_cos, solo cosplayer  long blonde hair, bangs, white flower, blue ribbon, white | not stated | 171 | 此Lora合集的Lora都是以Krea-2-Raw为底膜，使用AI-ToolKit进行训练，可适用于krea2_turbo_bf16，krea2_turbo_fp8_scaled.safetensors等模型进行生图 更 | [link](https://civitai.com/models/2949425?modelVersionId=3343059) |
 | `silicone-valley-gracie-krea2` | svgracie | not stated | 171 | Silicone Valley was founded as a safe haven for busty internet models, away from the prying eyes of uncouth in | [link](https://civitai.com/models/1622301?modelVersionId=3446727) |
 | `alice-ash-holiday-island-krea2` | not stated | not stated | 170 | The first model in my Holiday Island series. If you like the models, check out the game's Patreon. Alice is fr | [link](https://civitai.com/models/2337326?modelVersionId=3456559) |
+| `barbara-a-90s-inspired-college-girl-krea2` | Barbara361 | not stated | 170 | This is a Krea-2 LoRA that reminds me of the pretty college girls in the 90s. The activation word is Barbara36 | [link](https://civitai.com/models/3050162?modelVersionId=3468560) |
 | `clea-from-clair-obscur-expedition-33-krea2` | Clea | not stated | 170 | Trigger: clea | [link](https://civitai.com/models/2946707?modelVersionId=3336829) |
 | `kacey-whitemoon-krea2` | not stated | not stated | 170 | This LoRA does not depict a real person; it is a fictional creation. Kacey WhiteMoon is a waitress in the stea | [link](https://civitai.com/models/2618516?modelVersionId=3372531) |
 | `princess-daisy-mario-krea2` | Princess Daisy, a girl with flipped shoulder-length brown hair, blue eyes, small | 0.8-1.3 | 170 | Trained on Krea2 Best result with weight between : 0.8-1.3 Basic prompts : Princess Daisy, a girl with flipped | [link](https://civitai.com/models/3030181?modelVersionId=3442203) |
@@ -476,6 +477,7 @@
 | `v67-angels-and-demons-krea2` | (Angels and demons:1.1), (juxtaposition:1.3), 22-30 years, angel_twin, demon_twi | not stated | 170 | Model Description: V67 Angels and Demons LoRA (Good vs. Evil Juxtaposition) Flux 2, Krea 2 and Z Image Turbo.  | [link](https://civitai.com/models/2476940?modelVersionId=3248573) |
 | `chloe-ai-girlfriend-klein-9b-flux-zit-krea2` | not stated | .4 - .9 | 169 | Another new character. As usual, dataset was captioned to not lock in hair color, eye color, makeup, or hairst | [link](https://civitai.com/models/2701847?modelVersionId=3373317) |
 | `kathryn-a-90s-inspired-college-girl-krea2` | Kathryn361 | not stated | 169 | This is a Krea-2 LORA that reminds me of the pretty college girls in the 90s. The activation word is Kathryn36 | [link](https://civitai.com/models/3026301?modelVersionId=3437056) |
+| `naughty-girl-not-real-krea2` | a wonderful young woman in her early 20s, with blonde hair. she has a slim, sexy | not stated | 169 | Naughty Girl - (Not Real) Hot Chick, Baddie improvement. The results can vary significantly depending on the c | [link](https://civitai.com/models/3039409?modelVersionId=3454293) |
 | `abby01-krea2` | Abby01 | not stated | 168 | Character LoRA | [link](https://civitai.com/models/2963694?modelVersionId=3357811) |
 | `grandma-s-house-riona-krea2` | not stated | not stated | 168 | Creates Riona from Grandma's House, workflow and prompts in the image. | [link](https://civitai.com/models/3029310?modelVersionId=3440986) |
 | `oc-fantasma-krea2` | fantasma | not stated | 167 | Another member of our beloved Starward Vanguard. Today I present Fantasma, an ebony beauty and expert in netwo | [link](https://civitai.com/models/2732286?modelVersionId=3445602) |
@@ -532,6 +534,7 @@
 | `ivy-valentine-krea2` | IvyValentine, chainsword, captainivy, scarletivy | not stated | 152 | Krea2 Character LoRA for Ivy Valentine. Includes her alt costumes from Soul Calibur 2. Triggerwords: IvyValent | [link](https://civitai.com/models/3033960?modelVersionId=3447194) |
 | `madie-fictional-character-krea2` | MadieV1 | not stated | 152 | Enjoying my character LoRAs? Support new releases through my $5/month Ko-fi membership, follow my Civitai rele | [link](https://civitai.com/models/3025694?modelVersionId=3436281) |
 | `model-krea2-4` | jiziyue2, 1girl, solo, blue dress, jewelry,  earrings, long hair, hair ornament, | not stated | 152 | 重置版。 QQ群770020 交流 | [link](https://civitai.com/models/2529657?modelVersionId=3356598) |
+| `nuport-farrah-krea2` | nufarrah | not stated | 152 | Time seems to stand still in the sleepy fishing village of Nuport, until you talk with the residents. Like Far | [link](https://civitai.com/models/2261522?modelVersionId=3468568) |
 | `oc-cenit-krea2` | cenit | not stated | 152 | Good morning everyone!!! Today I'm introducing you to Cenit, one of the latest girls I added to the Starward V | [link](https://civitai.com/models/2721755?modelVersionId=3448039) |
 | `sick-dolls-pharah-overwatch-krea2` | pharah, wearing armor | 1 | 152 | ✨Sup✨ yo, take the survey and let me know what you want - https://tally.so/r/9NN6EX this was a request submitt | [link](https://civitai.com/models/3050591?modelVersionId=3469123) |
 | `azure-bay-lacey-krea2` | not stated | not stated | 151 | When Lacey isn't ordering Horchata Frappuccinos, she's often found in the university's PolySci building where  | [link](https://civitai.com/models/2732657?modelVersionId=3332871) |
@@ -607,6 +610,7 @@
 | `sable-krea2` | not stated | not stated | 132 | A character LoRA of Sable, a woman with long wavy brown hair, fair skin, and brown eyes. | [link](https://civitai.com/models/2971832?modelVersionId=3367781) |
 | `zabri-krea2` | not stated | 0.7 – 1.0 | 132 | Female model I trained from two old SD.1.5 faces | [link](https://civitai.com/models/3034233?modelVersionId=3447552) |
 | `leyla-demir-realistic-character-for-krea2` | Leyla Demir | 0.80–1.00 | 131 | 🔗 Quick Links 🌸 Browse the FREE LoRA Collection 🤖 Try the Free Telegram AI Generator — free generations are av | [link](https://civitai.com/models/2968767?modelVersionId=3363974) |
+| `mimi-a-90s-inspired-college-girl-krea2` | Mimi361 | not stated | 131 | This is a Krea-2 LoRA that reminds me of the pretty college girls in the 90s. The activation word is Mimi361 P | [link](https://civitai.com/models/3050385?modelVersionId=3468855) |
 | `takagaki-kaede-idolmaster-krea2` | takagaki kaede, Kaede has short but voluminous, muted olive green hair that curv | not stated | 131 | Kaede Takagaki (高垣楓, Takagaki Kaede) is an idol in the Cool category in iDOLM@STER: Cinderella Girls. She enjo | [link](https://civitai.com/models/2965685?modelVersionId=3360285) |
 | `unrealvision-girls-ultimate-character-seri-krea2` | uvg3 | 0.35 - 0.45 | 131 | UnrealVision Girls • Ultimate Character Series  Welcome to UnrealVision Girls — a premium, highly versatile ch | [link](https://civitai.com/models/3030244?modelVersionId=3454479) |
 | `zenless-zone-zero-vivian-banshee-belle-dua-krea2` | Vivian Banshee has long, flowing lavender hair and striking red eyes. She has po | not stated | 131 | Description / 描述 This LoRA is designed for generating Vivian Banshee and Belle from Zenless Zone Zero. It full | [link](https://civitai.com/models/2946418?modelVersionId=3336419) |
@@ -725,6 +729,7 @@
 | `sudaji-krea2` | sudaji,1girl,blue eyes,mole under eye,black hair,long hair,fox ears,earrings,hai | not stated | 103 |  | [link](https://civitai.com/models/2979262?modelVersionId=3377076) |
 | `youqinxuanya-krea2` | youqinxuanya,1girl,brown eyes,facial mark,black hair,long hair,hair ornament,dre | not stated | 103 |  | [link](https://civitai.com/models/2979307?modelVersionId=3377131) |
 | `c666d-character-natasha-kotova-krea2-2` | a 18 year old russian girl, cute,, a 30 year old russian woman, mature and adult | not stated | 102 | C666D NATASHA KOTOVA Krea2. Tasha: Hi, I’m… ugh, whatever 🙄, you’ll figure me out eventually. As I’m still fig | [link](https://civitai.com/models/2929499?modelVersionId=3315386) |
+| `cassie-cage-mortal-kombat-11-krea2` | C4ss13MK | not stated | 102 | Cassie Cage. The first one of many MK characters to come! Trigger word: C4ss13MK Let me know I you want any sp | [link](https://civitai.com/models/3050177?modelVersionId=3468577) |
 | `suliban-male-1-character-krea2` | slbnml1 | 0.7 | 102 | Premium character LoRAs Original synthetic characters, bundles and AI tools are in my shop: https://rkrra.com/ | [link](https://civitai.com/models/2948568?modelVersionId=3339200) |
 | `vorta-male-1-character-krea2` | vrtml1 | 0.7 | 102 | Premium character LoRAs Original synthetic characters, bundles and AI tools are in my shop: https://rkrra.com/ | [link](https://civitai.com/models/2948545?modelVersionId=3339176) |
 | `zhishagongzhu-krea2` | zhishagongzhu,1girl,blindfold,black hair,long hair,earrings,hair ornament, hanfu | not stated | 102 |  | [link](https://civitai.com/models/2979773?modelVersionId=3377700) |
@@ -767,6 +772,7 @@
 | `vulcan-beheneko-the-elf-girl-s-cat-is-secr-krea2` | BVulcan, dark-skinned female, blonde hair, short hair, animal ears, green eyes,  | 0.8 - 1 | 93 | Trained entirely on screencaps Works with other lora Recommended weight = 0.8 - 1 The Showcase images use weig | [link](https://civitai.com/models/2969982?modelVersionId=3365499) |
 | `cfm-krea2-2` | caiwenzhao,1girl,blue hair,hair ornament, dress,blue dress,ascot,gloves,pantyhos | not stated | 92 |  | [link](https://civitai.com/models/2744337?modelVersionId=3369386) |
 | `goldie-v2-krea2` | not stated | not stated | 92 | Lora model of a fictional woman. | [link](https://civitai.com/models/2991233?modelVersionId=3391961) |
+| `stacy-a-90s-inspired-college-girl-krea2` | Stacy361 | not stated | 92 | This is a Krea-2 LoRA that reminds me of the pretty college girls in the 90s. The activation word is Stacy361  | [link](https://civitai.com/models/3050508?modelVersionId=3469007) |
 | `taira-akiba-maid-war-akiba-meido-sensou-krea2` | AMWTaira, short hair, green hair, brown eyes, earrings, lipstick, necklace, hoop | 0.8 - 1 | 92 | Trained entirely on screencaps Works with other lora Recommended weight = 0.8 - 1 The Showcase images use weig | [link](https://civitai.com/models/2944246?modelVersionId=3333706) |
 | `3-in-1-character-this-monster-wants-to-eat-krea2` | an anime character named shiori oumi , she has extremely long, straight dark blu | 0.7 - 0.9 | 91 | English Overview This is a 3-in-1 Character LoRA for "This Monster Wants to Eat Me" (私を喰べたい、ひとでなし / 对我垂涎欲滴的非人少 | [link](https://civitai.com/models/2687264?modelVersionId=3362373) |
 | `cfm-krea2` | diaochan,1girl,blue eyes,grey hair,hair ornament, animal,weapon,dress,bodysuit,c | not stated | 91 |  | [link](https://civitai.com/models/2744428?modelVersionId=3369509) |
@@ -864,6 +870,7 @@
 | `kristie-a-90s-inspired-college-girl-krea2` | Kristie361 | not stated | 72 | This is a Krea-2 LoRA that reminds me of the pretty college girls in the 90s. The activation word is Kristie36 | [link](https://civitai.com/models/3047662?modelVersionId=3465195) |
 | `lux-krea2` | L/x | not stated | 72 | Lux in Krea2 | [link](https://civitai.com/models/3049574?modelVersionId=3467781) |
 | `noa-bratty-oc-krea2` | n0a. | 0.7–0.9 | 72 | Noa 😏 21 years old. Petite. Perpetually unbothered. Chronically that girl. Noa is an expat living her best lif | [link](https://civitai.com/models/2553963?modelVersionId=3361219) |
+| `oboro-taimanin-krea2` | not stated | not stated | 72 | 🌸 OBORO — THE TRAITOR TAIMANIN 🌸 KREA 2 CHARACTER LoRA / ANIME • REALISTIC • COSPLAY • ADULT ART Oboro — Taima | [link](https://civitai.com/models/3049929?modelVersionId=3468244) |
 | `original-characters-v3944-krea2` | not stated | not stated | 71 | 写在前面：我不希望我的OC角色被用于R18G/侮辱性的内容，但我无力监督，只希望各位能手下留情。感谢各位的支持与配合。 然后人物设定我会近期在那篇Artical补齐，各位可以去读那篇设定文 | [link](https://civitai.com/models/3007823?modelVersionId=3453944) |
 | `raven-krea2` | Raven | not stated | 71 | a lora of a woman called Raven | [link](https://civitai.com/models/2933965?modelVersionId=3320900) |
 | `genshin-impact-collection-krea2-2` | Vesna,   1girl, solo  long flowing golden‑blonde hair, high ponytail, braided ha | not stated | 70 | 此Lora合集是以Krea-2-Raw为底膜，使用AI-ToolKit进行训练，训练素材全部来源于游戏截图 更多lora看主页网盘，懒得上传了~~ | [link](https://civitai.com/models/2887348?modelVersionId=3374978) |
@@ -918,6 +925,7 @@
 | `kaia99x-krea2` | kaia99x | not stated | 58 | Test character consistency | [link](https://civitai.com/models/3031060?modelVersionId=3443378) |
 | `vindicta-deadlock-krea2` | not stated | not stated | 57 | V1 has certain issue with her braid, which is one of her most charming feature, so I fixed that in V2 with mor | [link](https://civitai.com/models/2967597?modelVersionId=3362523) |
 | `holly-chan-krea2` | holly chan, 1girl, holly chan, pumpkin head, jack-o'-lantern, object head, glowi | not stated | 56 | A collab with @Engelstein to bring a little holiday joy. 1girl, holly chan, pumpkin head, jack-o'-lantern, obj | [link](https://civitai.com/models/2945895?modelVersionId=3335756) |
+| `allura-demoness-krea2` | A11ura | not stated | 54 | A flexible, character-focused LoRA of a classic succubus. Core identity is a red-skinned demoness with large b | [link](https://civitai.com/models/3050617?modelVersionId=3469148) |
 | `gouhin-beastars-krea2` | Gouhin,panda boy, | not stated | 54 | Gouhin from Beastars made with krea 2 | [link](https://civitai.com/models/2966663?modelVersionId=3361458) |
 | `toshinden-zola-krea2` | Toshinden Zola | 1.0 | 54 | Zola, the opera singer and secret assassin from Battle Arena Toshinden 3 (PlayStation, 1996), as a character L | [link](https://civitai.com/models/3023893?modelVersionId=3433931) |
 | `galen-n3-ninety-nine-nights-ii-krea2` | galenn,, a stern man with swept-back silver-white hair,, sharp blue eyes, strong | 0.8 - 1.0 | 53 | This LoRA is designed to generate Galen, the protagonist from the videogame Ninety-Nine Nights II. I am still  | [link](https://civitai.com/models/2949940?modelVersionId=3341842) |
@@ -933,6 +941,7 @@
 | `huyoulan-krea2` | HuYoulan | not stated | 47 | A character from my book. | [link](https://civitai.com/models/2946956?modelVersionId=3337162) |
 | `adriana-krea2` | not stated | 0.8 – 1 | 46 | Numerous errors were discovered, requiring a complete reprocessing of the dataset. The model was created entir | [link](https://civitai.com/models/2967422?modelVersionId=3362312) |
 | `elsbeth-the-lustful-krea2` | 3lsbeth | not stated | 46 | Elsbeth, an ancient demonic presence, lust is her favorite though by no means only vice. A succubus bringing b | [link](https://civitai.com/models/3051118?modelVersionId=3469777) |
+| `red-head-mom-krea2` | Red head mom | not stated | 46 | Red head mom in green dress | [link](https://civitai.com/models/3049926?modelVersionId=3468239) |
 | `melee-falco-krea2` | MeleeFalco, reflectorshine, firebird, lasergun, dairspike, taunt, crouch pose | not stated | 45 | Krea2 Turbo character Lora for Falco Lombardi trained on screenshots of his model from Super Smash Bros Melee. | [link](https://civitai.com/models/2943709?modelVersionId=3333067) |
 | `vesper-krea2` | Vesper | not stated | 45 | These are LoRAs of my OC, Vesper Keth’val, an anthropomorphic fox from a sci-fi story I’m developing. It's ver | [link](https://civitai.com/models/2966566?modelVersionId=3361340) |
 | `han-soo-young-krea2` | Han Soo Young, black shoulder lenght hair | not stated | 44 | Han Soo Young lora i made cuz she is my fav female cahracter. | [link](https://civitai.com/models/2952032?modelVersionId=3343517) |

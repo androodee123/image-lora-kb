@@ -1,6 +1,6 @@
 # Krea2 (detailed-krea2) — quality-detail
 
-134 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+136 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 | slug | triggers | strength | dl | what | source |
 |---|---|---|---:|---|---|
@@ -82,6 +82,7 @@
 | `soul-realism-everyday-phone-photo-krea2` | not stated | 1.0 | 429 | Please read first I made this for fun. There is nothing to sell you, and I'm not saying it's the best LoRA out | [link](https://civitai.com/models/3031498?modelVersionId=3443934) |
 | `gg-mia-krea2` | not stated | not stated | 417 | Mia - #1 in the GGG Collection I wanted to get this out, but there are already improvements I want to work on  | [link](https://civitai.com/models/3003425?modelVersionId=3407318) |
 | `detailed-woman-genitals-for-krea2` | detailed woman genitals for krea2 | not stated | 408 | Trained from my existing dataset using quality photorealistic images. Not enough information? I’m kinda lazy,  | [link](https://civitai.com/models/2911674?modelVersionId=3293571) |
+| `realistic-photo-by-studio-atelier-krea2` | not stated | not stated | 393 | A professional studio look: grey, taupe or blue-grey seamless paper, soft directional light, and portraits (he | [link](https://civitai.com/models/3048437?modelVersionId=3468256) |
 | `nKrea - Krea2 LoRA experiment - Initial Commit - nKrea_pruned` | not stated | not stated | 390 | New Update! I have re-tested this LoRA on-site and now, it works (with no action on my side). Welp, in any cas | [link](https://civitai.com/models/2878520?modelVersionId=3253140) |
 | `dinah-black-canary-realistic-oc-krea2` | dinah | not stated | 329 | About Black Canary realistic model, basically a hot blonde girl. trigger: dinah | [link](https://civitai.com/models/3028720?modelVersionId=3440171) |
 | `38th-parallel-krea2` | kodachrome,, Vintage photo, capturing the texture of color reversal film | not stated | 324 | My father was a U.S. military officer stationed on the Korean Peninsula during the 1950s and 1960s. He took ma | [link](https://civitai.com/models/2959304?modelVersionId=3352431) |
@@ -129,6 +130,7 @@
 | `hover-cars-krea2` | not stated | not stated | 72 | Hovercars Finally, Flying Cars Without the Wheels! Ever lost your mind trying to generate a flying car, only f | [link](https://civitai.com/models/2992395?modelVersionId=3393398) |
 | `schmusrealism-german-beer-krea2` | not stated | 1.0 | 66 | SchmusRealism: German Beer German swing-top beer bottles with labels you make up. Brown glass, white ceramic s | [link](https://civitai.com/models/3045470?modelVersionId=3462176) |
 | `junkerqueen-zeus-skin-overwatch-2-mrjohn-krea2` | JunkerQueenZeus_ByMrJohn, a very muscular, athletic dark-skinned woman with broa | not stated | 47 | Un saludo a Dreamerland | [link](https://civitai.com/models/2971342?modelVersionId=3367186) |
+| `girlskiss-krea2` | girlskiss | not stated | 13 | NSFW, hi quality | [link](https://civitai.com/models/2966468?modelVersionId=3471032) |
 | `girls-with-iphones-krea2` | iPhoneSelfieRK | 1 | 5 | Premium character LoRAs Original synthetic characters, bundles and AI tools are in my shop: https://rkrra.com/ | [link](https://civitai.com/models/3033761?modelVersionId=3446944) |
 | `cosmo2-0-krea2` | Cosmo2 | not stated |  | Cosmo is a character-identity LoRA designed to reproduce a consistent, photorealistic appearance of a fictiona | [link](https://civitai.com/models/3007267?modelVersionId=3412265) |
 | `andrd_peekaboostring-krea2-000010.TA_trained` | not stated | not stated |  |  |  |

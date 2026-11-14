@@ -1,6 +1,6 @@
 # Pony (Pony Diffusion XL) — character
 
-20 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+22 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -11,7 +11,9 @@
 | slug | triggers | strength | dl | what | source |
 |---|---|---|---:|---|---|
 | `taimanin-rpgx-character-collection-concept-pony` | taimanincc, 1 girl, Solo Focus, character profile title text, Simple background, | not stated | 2837 | --SAMPLE <LORA>->Base->CommonWard->Character-- --------------------------------------  <lora:TaimaninCC_IL_V2: | [link](https://civitai.com/models/556011?modelVersionId=618819) |
+| `beautiful-older-trans-girl-pony` | trans, TS, transgender, futa, shemale, beautiful, big tits, big fake tits, older | not stated | 859 |  | [link](https://civitai.com/models/1509053?modelVersionId=1706989) |
 | `kirill-from-shounen-ga-otona-ni-natta-nats-pony` | 1girl, solo, breasts, red hair, long hair, large breasts, huge breasts | not stated | 412 | Standard Pony | [link](https://civitai.com/models/823310?modelVersionId=920656) |
+| `guy-rides-trans-girl-pony` | grtg, guy rides trans, futa on male, anal sex, | not stated | 198 |  | [link](https://civitai.com/models/2026207?modelVersionId=2293183) |
 | `kaneda-maiko-hentai-discipline-record-of-a-pony` | Kaneda Maiko, 1girl, brown hair, red eyes, hairclip, glasses, purple school unif | not stated | 160 | Kaneda Maiko from Discipline: Record of a Crusade is on ANIMA / NoobAI-XL V-pred / Epsilon / IL / Pony and SD1 | [link](https://civitai.com/models/1852388?modelVersionId=2096360) |
 | `Futa World - Nami - v1.0 - Futa World - Nami` | Face: Nami, pale skin, long eyelashes, light brown eyebrows, pink lips., Hair: A | not stated | 106 |  | [link](https://civitai.com/models/2875160?modelVersionId=3248907) |
 | `flaccid-futa-personalami-style-pony` | not stated | not stated | 86 |  | [link](https://civitai.com/models/2966772?modelVersionId=3361585) |

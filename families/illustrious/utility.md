@@ -1,6 +1,6 @@
 # Illustrious / NoobAI (Illustrious-XL based) — utility
 
-20 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+21 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -25,6 +25,7 @@
 | `anal-gape-slider-ill` | anus | 0 to 2 | 768 | Recommended negative prompt: lowres, bad quality, worst quality, bad anatomy, jpeg artifacts, signature, water | [link](https://civitai.com/models/2757745?modelVersionId=3131888) |
 | `shine-intensity-slider-ill` | not stated | 0 to 1 | 587 | A simple concept LoRA slider designed to make image generation easier and more controllable. Recommended weigh | [link](https://civitai.com/models/2826114?modelVersionId=3286954) |
 | `pussy-size-slider-ill` | not stated | not stated | 454 | This slider does one thing well which is making all of the female genitalia visible in a given image (clitoris | [link](https://civitai.com/models/3022751?modelVersionId=3432465) |
+| `hyper-horse-c-and-b-futa-limited-ill` | Futa, Hyper Breasts, Huge thighs, Hyper Horse Cock, Hyper Horse Balls, Thick Med | not stated | 289 | Unlike the other Hyper Horse Cock And Balls Loras this was (more trained towards Futa/Futanari) then just a bl | [link](https://civitai.com/models/2511166?modelVersionId=2822612) |
 | `bubbly-slider-ill` | not stated | not stated | 282 |  | [link](https://civitai.com/models/2893721?modelVersionId=3382044) |
 | `shading-slider-bridge-tools-v1-0-ill` | not stated | not stated | 215 | My account got deleted and Civit won't restore it. Goodbye 100k buzz. Increase or decrease the shading of your | [link](https://civitai.com/models/3001662?modelVersionId=3405018) |
 | `penis-size-slider-ill` | not stated | not stated | 146 | This is HUGE….and also tiny…depending on if you slide up (Big Cock) or down (little cock). By purposely (😂) no | [link](https://civitai.com/models/3018960?modelVersionId=3427586) |

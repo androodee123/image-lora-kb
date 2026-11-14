@@ -1,6 +1,6 @@
 # Illustrious / NoobAI (Illustrious-XL based) — pose-composition
 
-78 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+81 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -32,6 +32,7 @@
 | `it-will-never-fit-impossible-fit-ill` | Never Fit, Solo focus, imminent sex, Spead legs,lying on ground, One leg up | not stated | 1058 | Pose Model: It Will Never Fit Core Prompt Elements Never Fit Optional Prompt Elements Surprised expression One | [link](https://civitai.com/models/1721627?modelVersionId=1948304) |
 | `civitai-nsfw-pov-nsfw-pov-ass-focus-doggys-ill` | all fours, anus, ass, ass grab, looking back, back backboob clothed female nude  | 0.8 | 948 | ある意味、先のLoRAの逆向き視点となる男性側POV視点 以下を強調 強調箇所 ・女性側が中腰でかなり強調的、急角度にお尻を上げているポージング 　これに伴いお尻描写領域を広めにとっている ・上強調するに辺り、女性側の足 | [link](https://civitai.com/models/2971344?modelVersionId=3367188) |
 | `civitai-nsfw-il-nsfw-upper-body-slightly-a-ill` | breast sucking,, 1boy, black hair, faceless male, hetero,, looking down, eye con | 0.5 | 935 | 乳首吸い - breast sucking の補助型LoRA 元々出るやつの補助型表現 IL版の方が性能高いというか描写がかなり別物になってしまっている 学習元特徴 ・視点やや斜め向き（高強度適用時） ・乳吸いしてる男性 | [link](https://civitai.com/models/2900343?modelVersionId=3279557) |
+| `futa-from-below-ill` | testicles, solo, from below, navel, erect penis, anus, arms behind back | not stated | 928 | below futa | [link](https://civitai.com/models/2090350?modelVersionId=2365071) |
 | `Male_Bottom_Pov_refined` | maledom,, 2boy, pov, duo, male focus,, anal, sex,, doggystyle,, prone bone,, mis | not stated | 925 | ⚠️ PLEASE READ THIS BEFORE YOU GET HORNY ☠️ Feel tired that your male character always being bottom? Wanna swi | [link](https://civitai.com/models/1713008?modelVersionId=2477567) |
 | `SmotherBox Facesitting BDSM Femdom Illustrious Pony - Illustrious - smother_box_illustrious` | smother box, facesitting, male bdsm, 1girl, 1boy,, male handcuffs,, male leg res | not stated | 885 | Facesitting in Smother Box | [link](https://civitai.com/models/970486?modelVersionId=2178939) |
 | `civitai-nsfw-pov-il-nsfw-pov-after-sex-und-ill` | after sex,  anus, ass,  blush,  clitoris,  close-up,  hetero,  closed mouth,  cu | 0.5 | 866 | 性行為後の女性器を自分で広げてる姿 通常、上側から手を伸ばすのがタグで出るが下側から手を伸ばす形となっている 軽めの補正誘導型LoRA 最近暑くてやる気が無く細々としたものばかり出してた Anima側だと少しタグつめれば | [link](https://civitai.com/models/2843538?modelVersionId=3210251) |
@@ -82,9 +83,11 @@
 | `suckpose-ill` | suckpose | not stated | 105 | suckpose | [link](https://civitai.com/models/3014035?modelVersionId=3421065) |
 | `angle-and-companions-space-adventure-cobra-ill` | brown hair, short hair,tinted eyewear,   red lips,retro artstyle,  red bodysuit  | not stated | 100 | Angle and Companions- Space Adventure Cobra (ILXL) Lora model made by Busterkun from Civitai Plz upload the im | [link](https://civitai.com/models/2903032?modelVersionId=3282756) |
 | `standing-over-defeated-foe-ill` | not stated | not stated | 98 | Standing over defeated foe | [link](https://civitai.com/models/2990984?modelVersionId=3391643) |
+| `blonde-milkmaid-sex-poses-pov-missionary-c-ill` | untoldsex | 0.7-0.9 | 87 | POV sex LoRA from my adult visual novel UNTOLD: The Legend of Sleepy Hollow, trained on the blonde milkmaid ch | [link](https://civitai.com/models/3050484?modelVersionId=3468972) |
 | `duet-art-pose-ill` | DUET POSE | not stated | 76 | Artistic pose of models | [link](https://civitai.com/models/2896607?modelVersionId=3274756) |
 | `AA_ILU_Basic_Poses - V1 - V1` | aa_basic_hand_placements | not stated | 72 | This is a Basic Hand Placement LoRA. This Covers some basic hand placements like: Hands on chest Hands on shou | [link](https://civitai.com/models/2858368?modelVersionId=3228567) |
 | `headscissor-pose-commissioned-ill` | headscissor1x, headscissor2x | not stated | 67 | 【Headscissor Pose - Illustrious】Just started sharing my works here! I need a little buzz to keep training new  | [link](https://civitai.com/models/3016601?modelVersionId=3424426) |
+| `soryu-asuka-langley-neon-genesis-evangelio-ill` | asuka_a_il, souryuu asuka langley, long hair, bangs, blue eyes, brown hair, hair | not stated | 62 | Base model: Hoshino v2.0 (PixAI original model / based on Illustrious) Training environment: pixai.art LoRA le | [link](https://civitai.com/models/3049982?modelVersionId=3468314) |
 | `poison-streetfighter-ill` | PoisonSF, pink hat, black visor, skull-ornament hat, bronze-ornament hat, pink h | not stated | 47 | PoisonSF, pink hat, black visor, skull-ornament hat, bronze-ornament hat, pink hair, spiked hair, black choker | [link](https://civitai.com/models/2997098?modelVersionId=3399283) |
 | `Forbidden_Care` | Forbidden_CareV1. | not stated |  | Download Forbidden Care 禁断介護 / elderly care 老人介護 (COMMISSION) oldman sex V1, a LORA for Illustrious. 1 file: F | [link](https://civitai.com/models/2606225?modelVersionId=2926429) |
 | `pose-dodging-from-behind-ill` | not stated | not stated |  |  |  |

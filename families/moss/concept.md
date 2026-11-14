@@ -1,6 +1,6 @@
 # MOSS (Moss Image / kromoss) — concept
 
-104 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+106 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 | slug | triggers | strength | dl | what | source |
 |---|---|---|---:|---|---|
@@ -52,6 +52,7 @@
 | `male-milking-lora-lora-krea2` | Male Milking LoRA / 男性榨精 LoRA | 0.55–0.75 | 221 | Heads-up: Neither the LoRA training set nor the output set contains real people; this is intended solely for t | [link](https://civitai.com/models/2880597?modelVersionId=3419287) |
 | `construction-site-scaffolding-rebar-hard-h-moss` | not stated | not stated | 199 | Puts a scene on an ordinary construction site: scaffolding, exposed rebar, concrete, a tower crane, hard hats  | [link](https://civitai.com/models/3035037?modelVersionId=3448521) |
 | `more-real-mosaics-moss` | not stated | not stated | 197 | An ordinary casual phone snapshot with one coarse pixelated mosaic patch (or a black bar) slapped on top, like | [link](https://civitai.com/models/3017679?modelVersionId=3425878) |
+| `vr180sbs-moss` | vr180_sbs | not stated | 194 | Hey! New here to Civitai, just trying to learn all i can and found an area that doesn't really exist yet, if y | [link](https://civitai.com/models/3047430?modelVersionId=3468820) |
 | `base-nipslip-moss` | n1p5l1p, her {breast/nipple} is glimpsed | not stated | 193 | try: n1p5l1p  her {breast/nipple} is glimpsed Yes, I know, it's frustrating seeing a lora on early access. Jus | [link](https://civitai.com/models/3045815?modelVersionId=3462634) |
 | `clothes-explosion-for-zib-f1-moss` | 她的身体爆发出强大的气流冲击波将全身衣服（肩、袖、裙）炸成碎片出了很多口子，飘扬衣服变得非常残破出了很多口子碎片，冲击波如飓风掀起了衣服，使头发迎风飘扬，大量衣 | not stated | 189 | Please leave a review if you like this lora！ 既不美，又何用？你炸了她的一切，她的宇宙彻底毁了！ If beauty it doth lack, what purpose do | [link](https://civitai.com/models/1661706?modelVersionId=3440459) |
 | `quad-amputee-moss` | not stated | not stated | 188 | woman with quadruple amputations | [link](https://civitai.com/models/2194147?modelVersionId=3432485) |
@@ -68,6 +69,7 @@
 | `concept-koubi-meme-moss` | Above her head is large white handwritten-style Japanese text reading “あ”ー” with | not stated | 116 | Q. Pon-chan, does this mean that-- They were mating? A. Wha-- (startled) | [link](https://civitai.com/models/2880613?modelVersionId=3426970) |
 | `dormitory-wall-poster-pin-up-posters-of-me-moss` | not stated | not stated | 109 | A vertical paper poster taped or pinned to a wall: male basketball, football, tennis and boxing players, guita | [link](https://civitai.com/models/3049323?modelVersionId=3467470) |
 | `scale-for-lamia-mermaid-moss` | scales, lamia, mermaid, thighhighs | 1 | 98 | Improve scale expression for lamia or mermaid Print out pictures on the Anima Base using Forge - Neo See examp | [link](https://civitai.com/models/2691559?modelVersionId=3434334) |
+| `queen-of-heart-symbol-moss` | She have a soft Queen of heart symbol tattoo, wich is a heart with a "Q" written | not stated | 71 | Genereate the Queen of heart symbol on tattoo, cloth or other. I didn't put excessie tattoos or straight up ne | [link](https://civitai.com/models/2712608?modelVersionId=3468655) |
 | `just-a-ra-men-noukou-kotteri-moss` | ramen | not stated | 66 | noukou kotteri ramen trigger words ramen | [link](https://civitai.com/models/3021863?modelVersionId=3431303) |
 | `dizzle-s-midnight-oil-moss` | dz_night | 0.9 to 1.0 | 59 | Deep midnight nocturnes rendered in luminous oil. This bathes your subject in rich inky navy and black, lit by | [link](https://civitai.com/models/3047472?modelVersionId=3464794) |
 | `andrdpna_moss_v1` | not stated | not stated |  |  |  |

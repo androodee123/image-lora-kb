@@ -1,6 +1,6 @@
 # Anima — quality-detail
 
-43 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+44 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -48,6 +48,7 @@
 | `enhanced-environment-restaurant-ee-12-anima` | intricate environment | not stated | 150 | Tag: intricate environment This LORA is for enhancing the environment in a genetated image | [link](https://civitai.com/models/3037055?modelVersionId=3451190) |
 | `zamorian-dancer-conan-exiles-enhanced-anima` | 1girl, solo, zamorian_dancer_cl, large breasts, gold choker, maroon wrap crop to | 0.8 | 148 | Information A Clothing LoRA from Conan Exiles Enhanced. The outfit is called Zamorian Dancer. It's part of the | [link](https://civitai.com/models/2950374?modelVersionId=3341398) |
 | `enhanced-environment-office-ee-24-anima` | intricate environment | not stated | 132 | Tag: intricate environment This LORA is for enhancing the environment in a genetated image | [link](https://civitai.com/models/3041686?modelVersionId=3457368) |
+| `enhanced-environment-gym-ee-30-anima` | intricate environment | not stated | 130 | Tag: intricate environment This LORA is for enhancing the environment in a genetated image | [link](https://civitai.com/models/3043890?modelVersionId=3460131) |
 | `enhanced-environment-cave-ee-20-anima` | intricate environment | not stated | 117 | Tag: intricate environment This LORA is for enhancing the environment in a genetated image | [link](https://civitai.com/models/3040334?modelVersionId=3455686) |
 | `sakura-reverie-realistic-edition-anima` | z1os | 1 | 108 | Finding all my models or profile elsewhere than Civitai is without my consent ! Please don't repost my files.  | [link](https://civitai.com/models/2986906?modelVersionId=3386491) |
 | `mrw-glossy-skin-anima` | mrw_style | not stated | 105 | trigger word: mrw_style | [link](https://civitai.com/models/3039264?modelVersionId=3454083) |

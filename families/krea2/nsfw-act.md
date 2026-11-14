@@ -1,6 +1,6 @@
 # Krea2 (detailed-krea2) — nsfw-act
 
-262 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+264 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 | slug | triggers | strength | dl | what | source |
 |---|---|---|---:|---|---|
@@ -210,6 +210,7 @@
 | `gay-orgy-krea2` | not stated | not stated | 322 | This lora creates images of gay orgies/group sex scenes. | [link](https://civitai.com/models/2962058?modelVersionId=3355802) |
 | `Concept Glory Hole - Krea 2 Pruned - Concept Glory Hole Krea2` | Glory_Hole, (Glory_Hole, hole, glory hole, penis in hole, penis, erection, surpr | not stated | 313 | Glory Hole Concept Recommended Tags: (Glory_Hole, hole, penis in hole, penis, erection, surprised female, !?), | [link](https://civitai.com/models/1813250?modelVersionId=3267574) |
 | `fucksaw-power-tool-equipped-with-a-dildo-krea2` | not stated | not stated | 308 | Share Your Creations! I’d love to see your images in the gallery below. Please feel free to post your work! It | [link](https://civitai.com/models/3020002?modelVersionId=3428854) |
+| `ek-s-stomach-bulge-v2-krea2` | stomach bulge, check description!!!! | not stated | 304 | This is a stomach bulge lora EDIT V2 I did extend the dataset and re-caption the images. the dataset is now 67 | [link](https://civitai.com/models/2944164?modelVersionId=3468606) |
 | `anal-destruction-huge-insertion-gaping-ana-krea2` | anal prolapse, puffy anus, short anal prolapse, long anal prolapse, gaping anus | not stated | 303 | work-in-progress lora for male anal destruction. Based off https://civitai.red/models/2977962/male-prolapse-an | [link](https://civitai.com/models/3031863?modelVersionId=3444440) |
 | `bondage-krea2` | bondage krea2 | not stated | 299 | Trained on 140 images of diverse bondage positions and perspectives. | [link](https://civitai.com/models/661243?modelVersionId=3293024) |
 | `rimjob-japan-girls-stck-krea2` | not stated | not stated | 299 | RIMJOB JAPAN GIRLS STCK posemodel for rimjobs by japanese girls trained on comfyUi generated images with high  | [link](https://civitai.com/models/2873433?modelVersionId=3417630) |
@@ -219,6 +220,7 @@
 | `large-orgy-krea2` | not stated | not stated | 252 | This lora helps in creating orgy scenes. | [link](https://civitai.com/models/2959828?modelVersionId=3353052) |
 | `Male Stuck in Wall 男性壁尻 - v1.0 - Stuck in wall V1` | not stated | 0.85–1.0 | 233 | # Malestuckinwall / 男体卡墙 LoRA Civitai title (EN): Malestuckinwall / Male Stuck in Wall / Kabe-shiri (Krea2)  C | [link](https://civitai.com/models/2887531?modelVersionId=3264236) |
 | `self-suck-autofellatio-krea2` | selfsuck | not stated | 217 | Krea 2 v1: I remember when I could do this when I was a limber teen - ahh, the memories! Now I'm liable to bre | [link](https://civitai.com/models/3045512?modelVersionId=3462221) |
+| `magiccat-bondage-krea2` | MC_BONDAGE | 0.8 | 178 | A concept LoRA for rope bondage and restraint play: neat jute shibari harnesses, chest and hip ties, hogties,  | [link](https://civitai.com/models/3050330?modelVersionId=3468781) |
 | `silver-raw-gay-nsfw-krea2` | d4d1lf | not stated | 165 | Silver RAW a raw, explicit male-focused NSFW LoRA Silver Raw is an NSFW-focused LoRA built upon my original Si | [link](https://civitai.com/models/3006086?modelVersionId=3410723) |
 | `female-private-parts-world-morph-flux1-flu-krea2` | made out of female private parts, multi-toned | not stated | 163 | Female Private Parts — World Morph Welcome to World Morph V2.0! First, an apology: V1.0 was garbage. 😅 It was  | [link](https://civitai.com/models/672874?modelVersionId=3440774) |
 | `rimjob-krea2` | rimming | 1.2 | 144 | Pose LoRA for rimming on Krea 2. Trigger: rimming. Use strength 1.2. | [link](https://civitai.com/models/2979408?modelVersionId=3377242) |

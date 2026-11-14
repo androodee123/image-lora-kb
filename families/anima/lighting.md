@@ -1,6 +1,6 @@
 # Anima — lighting
 
-37 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+38 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 | slug | triggers | strength | dl | what | source |
 |---|---|---|---:|---|---|
@@ -25,6 +25,7 @@
 | `shops-sakura-stop-anima` | z1os | 1 | 136 | Finding all my models or profile elsewhere than Civitai is without my consent ! Please don't repost my files.  | [link](https://civitai.com/models/2950258?modelVersionId=3341259) |
 | `rooms-onsen-anima` | z1os, animation style, ultra detailed, | 1 | 116 | Finding all my models or profile elsewhere than Civitai is without my consent ! Please don't repost my files.  | [link](https://civitai.com/models/2800138?modelVersionId=3246405) |
 | `private-sanctum-anima` | private sanctum | not stated | 112 | Test | [link](https://civitai.com/models/2981185?modelVersionId=3379438) |
+| `arcade-anima` | 4rc4d3, indoors, arcade machines, arcade, neon lights, carpet, joystick, stool | not stated | 108 | Creates an Arcade interior background Trigger: 4rc4d3 Additional: arcade, indoors, arcade machines, neon light | [link](https://civitai.com/models/2850019?modelVersionId=3467655) |
 | `SW Poetic 5 Minis 1 - Anima - Minis 1 - SW_PoeticV5_Minis1_Anima` | z1os. | 1 | 107 | Finding all my models or profile elsewhere than Civitai is without my consent ! Please don't repost my files.  | [link](https://civitai.com/models/2869844?modelVersionId=3242401) |
 | `aquarium-anima` | 4qu4r1um, aquarium, fish, water, tropical fish, indoors, tunnel | not stated | 101 | Creates an Aquarium background Trigger: 4qu4r1um Additional: aquarium, fish, water, tropical fish, indoors, tu | [link](https://civitai.com/models/3044885?modelVersionId=3461429) |
 | `ultra-luxurious-swimming-pool-anima` | not stated | not stated | 100 | Hi everyone! This LoRA was created to enhance your images with these premium features. Who wouldn't want a rea | [link](https://civitai.com/models/2960380?modelVersionId=3353736) |

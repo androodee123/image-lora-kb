@@ -1,12 +1,12 @@
 # Illustrious / NoobAI (Illustrious-XL based) — concept
 
-178 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+180 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
 - Suggest ingest: [Ohogao SDXL LoRA [illustrious, Pony]](https://civitai.com/models/322121) (illustrious, 54,336 dl) — `ohogao,  puckered lips, trembling, tearing up,  v-shaped eyebrows, rol`, `tongue out, tongue up` · strength not stated — **downloads 54336 >= 2x best available (5848) in same family+category**
 - Suggest ingest: [MGE Monster Girls](https://civitai.com/models/556479) (illustrious, 36,393 dl) — trigger not stated · strength not stated — **downloads 36393 >= 2x best available (5848) in same family+category**
-- Suggest ingest: [Cumflood](https://civitai.com/models/18665) (illustrious, 36,268 dl) — `cumallover`, `cumflooding`, `fillingpool`, `hyperejaculation` · strength not stated — **downloads 36268 >= 2x best available (5848) in same family+category**
+- Suggest ingest: [Cumflood](https://civitai.com/models/18665) (illustrious, 36,273 dl) — `cumallover`, `cumflooding`, `fillingpool`, `hyperejaculation` · strength not stated — **downloads 36273 >= 2x best available (5848) in same family+category**
 
 | slug | triggers | strength | dl | what | source |
 |---|---|---|---:|---|---|
@@ -15,6 +15,7 @@
 | `shibari-sd-xl-ill` | shibari | not stated | 4160 | The strength of Lora is recommended to be around 0.4. | [link](https://civitai.com/models/591433?modelVersionId=2708601) |
 | `enema-ill` | enema, object insertion, anal | 0.8 | 4013 | The strength of Lora is recommended to be 0.8〜1.2. I moved here. https://civitai.com/models/512353/enema | [link](https://civitai.com/models/469659?modelVersionId=1140490) |
 | `extreme-size-difference-ill` | Height_difference, Dominat tall, Submissive short | not stated | 3793 | Extreme size difference.  Triggers words : giant | [link](https://civitai.com/models/1591074?modelVersionId=2470667) |
+| `mini-giantess-xl` | size difference, gdfuth, , 1boy, 1girl,, muscular female, , futanari, futa with  | not stated | 3602 | As requested, here's the LoRA. Comment or message me to let me know what to create next. I make whatever is mo | [link](https://civitai.com/models/1434351?modelVersionId=1621364) |
 | `pet-play-xl-ill` | not stated | not stated | 3406 | The strength of Lora is recommended to be around 1.0. The chain is not stable, so please try many times. | [link](https://civitai.com/models/470923?modelVersionId=2661354) |
 | `Pearly_brutal_toys_illustrious_` | pearlybt | not stated | 3292 | Pearly brutal toys / illustrious A lora that helps you get the bigger sizes for your scenes, perfectly suited  | [link](https://civitai.com/models/1968047?modelVersionId=2227589) |
 | `multiple insertion_illustrious_V1.1` | multiple insertion, sex toy, vaginal object insertion, anal object insertion | 1.0 | 3280 | A strength of around 1.0 is recommended for Lola. It is unstable. | [link](https://civitai.com/models/1368757?modelVersionId=1546401) |
@@ -48,6 +49,7 @@
 | `Restricted transmission-IL_NAI_PY` | on back, lying, stuck neck, flat screen tv, panties aside, g'string, pussy, stuc | not stated | 862 | Ohayo, my hot and kinky people 🔥😈!, I find myself needing to use this intro from now on for my original models | [link](https://civitai.com/models/2571592?modelVersionId=2889440) |
 | `lust_train` | lu5t_tra1n | not stated | 847 | Welcome to the Lust Train! 　Please note that this is a vehicle exclusively for homosexual men. 　 When riding,  | [link](https://civitai.com/models/1224260?modelVersionId=1379381) |
 | `5PB9XTMWNBDFZBN46K1S4JGXF0` | public indecency | not stated | 842 | Almost caught | [link](https://civitai.com/models/2593826?modelVersionId=2913755) |
+| `shigmix-v2-transformation-helper-ill` | black tongue, blue penis, blue pussy, blue tongue, bulge, comic strip, corruptio | 0.3-0.7 | 834 | This LoRA is great in small doses!  The dataset has a strong lean toward the following: Symbiotes, demon girls | [link](https://civitai.com/models/1502032?modelVersionId=1699148) |
 | `OTK dildo insertion femdom - V1 - OTK_dildo_insertion_femdom-000008` | OTK_dildo_insertion, 1 girl, 1 boy, hetero, Over the knee, 1girl insersting dild | not stated | 822 | test | [link](https://civitai.com/models/2165595?modelVersionId=2438697) |
 | `action-figure-pack-flux-ill` | actionfigureXXpackQuiron, actionfigureXpackQuiron, actionfigurepackQuiron | 0.7 - 1.3 | 820 | 👑 Action Figure Pack - Illustrious - LORA 👑 ⚙️🔧Model base: Illustrious Based on Illustrious this LORA suits bo | [link](https://civitai.com/models/766257?modelVersionId=1812156) |
 | `xl-round-object-insertion-ill` | not stated | not stated | 803 | Just for testing, not finished yet. | [link](https://civitai.com/models/2311758?modelVersionId=2600898) |

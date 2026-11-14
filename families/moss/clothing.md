@@ -1,6 +1,6 @@
 # MOSS (Moss Image / kromoss) — clothing
 
-43 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+44 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 | slug | triggers | strength | dl | what | source |
 |---|---|---|---:|---|---|
@@ -32,6 +32,7 @@
 | `base-getting-undressed-pulling-top-off-moss` | g3tt1ng-undr3553d	she is getting undressed, pulling her top off | not stated | 113 | generates a mid-action undressing top removal action. try: g3tt1ng-undr3553d she is getting undressed, pulling | [link](https://civitai.com/models/3045861?modelVersionId=3462695) |
 | `mari-makinami-dxcosplay-moss` | not stated | not stated | 113 | Help fuel my passion! Even $1 makes a difference. ☕ https://ko-fi.com/flyx3 让我保持创作热情，付费款/隐藏款模型可以在 爱发电 获取~ (202 | [link](https://civitai.com/models/3043088?modelVersionId=3459121) |
 | `marpat-woodland-camouflage-u-s-marines-moss` | MARPAT woodland camouflage | not stated | 96 | This model generates realistic MARPAT Woodland Camouflage uniforms, as typically worn by the United States Mar | [link](https://civitai.com/models/3015097?modelVersionId=3422418) |
+| `prismcoat-moss` | @prismcoat | not stated | 78 | 琉光厚彩 / Prismcoat 🔑 触发词 / Trigger word @prismcoat 📝 示例提示词 / Example prompt @prismcoat illustration. One woman r | [link](https://civitai.com/models/3049833?modelVersionId=3468118) |
 | `clear-vinyl-pvc-boots-multi-length-moss` | cptb0, clear closed pointed toe [ankle/mid-calf/thigh-high] boots, transparent P | 1.2 | 74 | The Anima version's training results are average, and since the Anima model's knowledge is limited, you may ne | [link](https://civitai.com/models/3009615?modelVersionId=3467144) |
 | `il-fourth-armor-x-megaman-x4-x4-rockmanx4-moss` | Fourth Armor X, RockmanX4 | not stated | 62 | Help fuel my passion! Even $1 makes a difference. ☕ https://ko-fi.com/flyx3 让我保持创作热情，付费款/隐藏款模型可以在 爱发电 获取~ (202 | [link](https://civitai.com/models/1952504?modelVersionId=3451857) |
 | `catherine-fire-emblem-three-houses-and-fir-anima` | cthrn, dark-skinned female, blue eyes, blonde hair, low ponytail, hair ribbon, c | not stated | 47 | MOSS Image LoRA featuring Catherine from Fire Emblem: Three Houses plus her summer swimsuit outfit from Fire E | [link](https://civitai.com/models/3047383?modelVersionId=3464674) |

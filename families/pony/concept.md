@@ -1,6 +1,6 @@
 # Pony (Pony Diffusion XL) — concept
 
-103 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+105 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -28,6 +28,7 @@
 | `yaoi-medical-exam-pony` | examination table, leg holders, on an examination table, thermometer, thermomete | not stated | 890 | It should work but let me know if it doesn't work properly | [link](https://civitai.com/models/859717?modelVersionId=961876) |
 | `medical-clinic-pony` | cl1n1c, indoors, bed, curtain, computer, medical | not stated | 883 |  | [link](https://civitai.com/models/901579?modelVersionId=1008846) |
 | `crotch-rocket-motorcycle-pony` | cr0tchr0ck3t, motorcycle, ground vehicle, motorcycle, | not stated | 859 |  | [link](https://civitai.com/models/629184?modelVersionId=703441) |
+| `bat-bunny-and-blade-bunny-from-pure-onyx-s-pony` | batbunny, club (weapon), holding weapon, bladebunny, dual wield, holding sword,  | not stated | 777 |  | [link](https://civitai.com/models/290309?modelVersionId=486599) |
 | `Humping Leg Femdom Concept LoRA - v1.0 - Humping_Leg_Femdom_Concept_LoRA_v1` | Leg between thighs, Leg Humping, Grinding on leg, ((female standing)), male knee | not stated | 760 |  | [link](https://civitai.com/models/1134610?modelVersionId=1275647) |
 | `figures-and-busts-xl-pony` | XFigureX , Xbustx, xcaricaturex, articulated, middlebody, blister, inmyhand, ful | not stated | 709 |  | [link](https://civitai.com/models/437240?modelVersionId=487059) |
 | `Pegged - v1.0 - Pegged` | 1boy,1girl,strap-on,all fours,fat older woman,pegged,pegging,anal object inserti | not stated | 603 |  | [link](https://civitai.com/models/965396?modelVersionId=1080882) |
@@ -56,6 +57,7 @@
 | `QJHAB60XDXXJAN9WZ49FSNBCH0` | TallerWomen | not stated | 81 | All the AIs make women too small and petite and it's a shame because really tall womens is hot. | [link](https://civitai.com/models/2655223?modelVersionId=2981489) |
 | `bulge-mania-2-pony` | Bulgemania | not stated | 81 |  | [link](https://civitai.com/models/2994654?modelVersionId=3396186) |
 | `flesh-wall-embedding-pony` | internal, inside_organism, ribbed_flesh_wall, narrow_gap, deep_crevice, sandwich | not stated | 75 |  | [link](https://civitai.com/models/2965206?modelVersionId=3359695) |
+| `jane-insane-pony` | Jane Insane, Futa, Blue hair, Pale skin, Naughty, blue eyes | not stated | 65 |  | [link](https://civitai.com/models/1792075?modelVersionId=2028041) |
 | `shirokuma-ill` | not stated | not stated | 59 | Trigger words:shirokuma | [link](https://civitai.com/models/1058480?modelVersionId=1187765) |
 | `reiko-kirishima-shounen-ga-otona-ni-natta-pony` | not stated | not stated | 58 |  | [link](https://civitai.com/models/2647024?modelVersionId=2972217) |
 | `usagi-tsukishita-keijo-pony` | Usagi Tsukishita, tsukishita, pink hair, twintails, long hair, very long hair, p | not stated | 52 |  | [link](https://civitai.com/models/2971802?modelVersionId=3367749) |
@@ -96,7 +98,6 @@
 | `marie-untold-sleepy-hollow-pony` | untold_marie | not stated | 17 |  | [link](https://civitai.com/models/3045714?modelVersionId=3462488) |
 | `lexi-pony` | not stated | not stated | 15 |  | [link](https://civitai.com/models/3047950?modelVersionId=3465622) |
 | `my-oc-agatha-the-milf-demon-pony` | AgathaMILFDemonOC, gilf, bimbo, futanari, demon girl, white hair, long hair, asy | not stated | 14 |  | [link](https://civitai.com/models/3049051?modelVersionId=3467106) |
-| `LoRA Giving-Recieving Pony - v1.0 - Giving-RecievingV1` | not stated | not stated |  |  |  |
 | `belle-delphine-for-ponyxlish-pony` | not stated | not stated |  |  |  |
 | `belle-delphine-pony` | not stated | not stated |  |  |  |
 | `black3ring-pony-16` | not stated | not stated |  |  |  |
@@ -104,6 +105,7 @@
 | `extreame-size-difference-pony` | not stated | not stated |  |  |  |
 | `flaccid-pony` | not stated | not stated |  |  |  |
 | `gillian-anderson-pony` | not stated | not stated |  |  |  |
+| `giving-recieving-pony` | not stated | not stated |  |  |  |
 | `kali-pony` | not stated | not stated |  |  |  |
 | `mildred-plush-pony` | not stated | not stated |  |  |  |
 | `penile-oviposition-pony` | not stated | not stated |  |  |  |

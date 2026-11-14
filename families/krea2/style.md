@@ -1,6 +1,6 @@
 # Krea2 (detailed-krea2) — style
 
-1069 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+1073 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -739,6 +739,7 @@
 | `old-school-graffiti-new-york-1981-krea2` | 8L0CK8UST3R | 0.8 to 1.0 | 163 | "OLD SCHOOL GRAFFITI New York 1981" Inside the subway cars of the great metropolises of the early 1980s. 🧠 Mod | [link](https://civitai.com/models/1895285?modelVersionId=3382998) |
 | `purplecharm-krea2` | not stated | not stated | 163 | 订阅了这个作者，但他的速度实在太慢了，所以训练了一个模型。 第一次在Krea2上训练，还不太会调参数，老实说有点过拟合了。 所以有两个检查点，早期那个更多的保留了原生效果，后期那个是全权做画风迁移了。 在1272*176 | [link](https://civitai.com/models/2985550?modelVersionId=3384831) |
 | `EXPERIMENT_BY_STX_V3` | not stated | not stated | 162 | EXPERIMENT BY STX model for high realism details on krea2 0.8-1.2 STXai | [link](https://civitai.com/models/2818224?modelVersionId=3205543) |
+| `avant-garde-eroticism-v1-krea2` | not stated | 0.75–1.00 | 162 | Versatile NSFW Style LoRA / Pinup • Softcore • Hardcore From classic glamour and realistic erotic photography  | [link](https://civitai.com/models/3050126?modelVersionId=3468505) |
 | `azzie-s-cinematic-manhwa-style-krea2` | azziemanhwa, digital illustration, polished semi realistic style, skin is smooth | 0.8-1.4 | 162 | It doesn't particularly need bypass lora or/and any other bypass lora can be used. I also recommend mixing it  | [link](https://civitai.com/models/2963848?modelVersionId=3357997) |
 | `df-fluffy-backlight-style-krea2` | df5tyle | not stated | 162 | trigger "df5tyle" I used imges from the past from Illu and made this. It does everything kinda has it own styl | [link](https://civitai.com/models/2950183?modelVersionId=3341176) |
 | `mitchelf-artist-style-krea2` | Dark gothic fantasy style, rough black outlines, textured shading, dramatic shad | 1 | 162 | KREA 2 info Better work with weight: 1 Use these triggers for style: Dark gothic fantasy style, rough black ou | [link](https://civitai.com/models/1874015?modelVersionId=3423152) |
@@ -822,6 +823,7 @@
 | `night-tale-style-krea2` | toopantarne, paint style, | not stated | 137 | Hi everyone :D This is Night Tale Style Well))) Welcome, this is a new style))) Huge thanks to the wonderful @ | [link](https://civitai.com/models/3025064?modelVersionId=3435469) |
 | `decaying-brutalism-buildings-ad-krea2` | BruDec, architecture, decayed buildings | 0.8 to 1.25 | 135 | This is a Krea2 lora for Decaying Brutalism style architecture style. A weight of 0.8 to 1.25 works well with  | [link](https://civitai.com/models/3030909?modelVersionId=3443127) |
 | `animal-kingdom-style-krea2` | rkwildlens | 1.0 | 134 | Premium character LoRAs Original synthetic characters, bundles and AI tools are in my shop: https://rkrra.com/ | [link](https://civitai.com/models/3008017?modelVersionId=3413200) |
+| `anime-x-krea2` | not stated | 1.0 | 134 | Krea Anime Explicit What it does Explicit anime sex on Krea 2: uncensored, clean genitals and the positions yo | [link](https://civitai.com/models/3050362?modelVersionId=3468824) |
 | `art-by-soul-krea2` | artbysoul | not stated | 134 | f | [link](https://civitai.com/models/1943018?modelVersionId=3369210) |
 | `hasselblad-colors-krea2` | not stated | not stated | 134 | Emulates photos shot by hassleblad cameras | [link](https://civitai.com/models/2986924?modelVersionId=3386507) |
 | `retro-hong-kong-men-vintage-street-portrai-krea2` | not stated | not stated | 133 | # 中文描述 以不同面孔与体型的成年东亚男性为主体，呈现怀旧港风的街头与日常摄影氛围。白色背心、条纹上衣、花衬衫、牛仔夹克和高腰褶裤，搭配旧店铺、楼梯间、茶餐厅、住宅走廊、屋顶与海边栏杆。 画面涵盖柔和日光、温暖的低角度 | [link](https://civitai.com/models/2985406?modelVersionId=3384672) |
@@ -889,8 +891,10 @@
 | `anim-cg-style-krea2` | not stated | not stated | 114 | v1 already outdated... I know the files are larger right now, I don't have much time off work to test differen | [link](https://civitai.com/models/3031312?modelVersionId=3445026) |
 | `graphic-ocean-girls-krea2` | OceanGirlRK | 1 | 114 | Premium character LoRAs Original synthetic characters, bundles and AI tools are in my shop: https://rkrra.com/ | [link](https://civitai.com/models/3034785?modelVersionId=3448203) |
 | `miyuki-ruria-style-krea2` | miyukiruriastyle, miyukiruriastyle anime illustration | not stated | 114 | Miyuki Ruria is a Light Novel Illustrator.  https://x.com/miyukiruria https://danbooru.donmai.us/posts?tags=mi | [link](https://civitai.com/models/2976738?modelVersionId=3373865) |
+| `nicole-a-90s-inspired-soccer-mom-in-her-30-krea2` | Nicole361 | not stated | 113 | This is a Krea-2 LoRA that reminds me of the pretty women in the 90s. The activation word is Nicole361 Please  | [link](https://civitai.com/models/3050215?modelVersionId=3468621) |
 | `wolfwalkers-2020-movie-style-krea2` | wmkrs | 1 | 113 | Premium character LoRAs Original synthetic characters, bundles and AI tools are in my shop: https://rkrra.com/ | [link](https://civitai.com/models/2880523?modelVersionId=3255631) |
 | `dall-e-3-anime-style-krea2` | dall e 3 anime style krea2 | not stated | 112 | Dall-E 3 anime style [KREA] | [link](https://civitai.com/models/2872358?modelVersionId=3245422) |
+| `gil-elvgren-style-xl-il-krea2` | GElvgrn | 0.8 | 111 | Gil Elvgren 1914-1980 This is a LoRA dedicated to the style of American Pin-up artist, Gil Elvgren. You can le | [link](https://civitai.com/models/2088007?modelVersionId=3468141) |
 | `mixa-krea2` | doskey | 1 | 111 | Mixa Krea2 LoRA is a LoRA that covers a wide range of creative and technical tasks. Think of it more as a sand | [link](https://civitai.com/models/3015277?modelVersionId=3422683) |
 | `gothic-whimsy-characters-krea2` | GothicWhimsyRK | 1 | 110 | Premium character LoRAs Original synthetic characters, bundles and AI tools are in my shop: https://rkrra.com/ | [link](https://civitai.com/models/3033875?modelVersionId=3447089) |
 | `penelope7-style-krea2` | Penelope7_style | not stated | 110 | krea2 | [link](https://civitai.com/models/3025565?modelVersionId=3436112) |

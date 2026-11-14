@@ -1,10 +1,10 @@
 # Anima — concept
 
-274 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+275 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
-- Suggest ingest: [ロ○巨乳/Bust Size (Big)(XL,ill,pony)](https://civitai.com/models/458386) (anima, 11,432 dl) — `lkp` · strength `1.0` (stated) — **downloads 11432 >= 2x best available (3187) in same family+category**
+- Suggest ingest: [ロ○巨乳/Bust Size (Big)(XL,ill,pony)](https://civitai.com/models/458386) (anima, 11,439 dl) — `lkp` · strength `1.0` (stated) — **downloads 11439 >= 2x best available (3187) in same family+category**
 - Suggest ingest: [Mechanism concept](https://civitai.com/models/539249) (anima, 9,528 dl) — `mcnm` · strength `0.75-1` (stated) — **downloads 9528 >= 2x best available (3187) in same family+category**
 - Suggest ingest: [Spiderwebbed (Krea, Anima, ILXL, Pony)](https://civitai.com/models/384304) (anima, 7,562 dl) — `spiderwebbed` · strength not stated — **downloads 7562 >= 2x best available (3187) in same family+category**
 
@@ -202,6 +202,7 @@
 | `z-tech-zko-mind-control-helmet-anima` | z-tech,long pink bunny ears,glowing pink smiley display, | not stated | 109 | The helmet used for mental control girls in the zko portfolio. 推荐权重1.0 1.1版本，优化了触发词，现在只需要Z-tech即可召唤洗脑头盔 | [link](https://civitai.com/models/2989641?modelVersionId=3389959) |
 | `mega-liminal-anima` | liminal, mega liminal | not stated | 106 | This is an iteration of Mega Liminal trained on my custom multi-gpu anima trainer, more details present on the | [link](https://civitai.com/models/2964891?modelVersionId=3359309) |
 | `piranha-plant-monstergirl-corruption-seque-anima` | PiranhaPlant_MST, 1,PiranhaPlant_MST,green tentacles,tentacle restrain,spoken qu | 0.6-0.8 | 104 | Use this LoRA to inject mysterious green slime into your waifu's body via plant tentacles, transforming her in | [link](https://civitai.com/models/2991180?modelVersionId=3431329) |
+| `pitcher-plant-alraune-demonization-tf-sequ-anima` | AlraunePitcher_MST, 1,AlraunePitcher_MST,large bud,flower bud,arms up,red tentac | 0.6 | 103 | 🌺Your waifu has been captured by a pitcher plant monster! Use this Lora to envelop her lower body in a bud and | [link](https://civitai.com/models/2745382?modelVersionId=3434853) |
 | `darkfire-two-panel-perversion-v3255-anima` | on the left is a woman, on the right the same woman has turned into a curvy cow  | not stated | 102 | Simple setup for side by side of girls turning into assorted perverts. Expand the notes for version specifics  | [link](https://civitai.com/models/2504302?modelVersionId=3463255) |
 | `bounty-exotic-d-cks-for-2nd-place-anima` | [color] ali3n penis with tendrils, animal penis | 0.5 | 100 | This was an entry for exotic cocks bounty. I attempted to make an sea anemone looking alien appendage. Lacking | [link](https://civitai.com/models/3039686?modelVersionId=3454730) |
 | `giantess-dildo-ride-anima` | not stated | not stated | 100 | Depicts a giantess using a dildo with a tiny person attached. | [link](https://civitai.com/models/2948301?modelVersionId=3338845) |

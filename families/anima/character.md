@@ -1,6 +1,6 @@
 # Anima — character
 
-740 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+742 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -474,6 +474,7 @@
 | `sailor-pluto-sailor-moon-anima` | sailorpluto_pb82,, green hair, long hair, bangs, single hair bun, dark red eyes, | 1.0 | 92 | Sailor Pluto is a main character in the Japanese series Sailor Moon. Her real name is Setsuna Meioh. Duty: to  | [link](https://civitai.com/models/2323851?modelVersionId=3463051) |
 | `elimi-aotsuki-sakuya-chupet-atelier-kaguya-anima` | Aotsuki-Sakuya, long hair, yellow eyes, braid hair, red small hair ribbon, hair  | 0.7 | 91 | ⚠️ Unauthorized Reproduction Notice I only publish my content on Civitai. Any content found elsewhere was not  | [link](https://civitai.com/models/1372460?modelVersionId=3389759) |
 | `lola-by-bureaucracy-anima` | xl0l4x, 1girl, solo, blue eyes, nose, blonde hair, blunt bangs, black-framed eye | not stated | 91 | Attempt at making a Lora of Bureaucracy's character Lola.  Seems to behave/output decent so thought I'd upload | [link](https://civitai.com/models/2747001?modelVersionId=3407177) |
+| `miroku-kunoichi-la-blue-girl-anima` | miroku mob kunoichi, 1girl, hair ornament, hair bobbles, wavy hair, long hair, o | 0.8 | 91 | Trigger : miroku mob kunoichi, 1girl, hair ornament, hair bobbles, wavy hair, long hair, one side up, brown ha | [link](https://civitai.com/models/3049969?modelVersionId=3468299) |
 | `civchan-unoffical-anima` | civchan | not stated | 90 | I wanted to train a lora of her for some time now, so yeah CivChan is kinda like a test subject to me, I use h | [link](https://civitai.com/models/2768290?modelVersionId=3261941) |
 | `faerie-court-fiora-league-of-legends-anima` | faerie_court_fiora, adult woman with pale skin, blue eyes, short blonde hair, an | not stated | 90 | Faerie Court Fiora faerie_court_fiora, adult woman with pale skin, blue eyes, short blonde hair, and pointed e | [link](https://civitai.com/models/3022298?modelVersionId=3431896) |
 | `kida-anima` | ATLNTS_Kda, dark-skinned female, blue eyes, white hair, long hair, earrings, fac | not stated | 90 | Wasn't satisfied with the known ckpt knowledge of Kida, from Atlantis, so i made my own lora of her. Negatives | [link](https://civitai.com/models/2966384?modelVersionId=3361128) |
@@ -523,6 +524,7 @@
 | `komiya-yuriya-muttsuri-dosukebe-anima` | komiyaxyuriya, miruufu body, grey hair, long hair, blue eyes, tzuxmax outfit, sw | not stated | 80 | Komiya Yuriya from Muttsuri Dosukebe. Recommended weights are: 0.7 ~ 0.9 | [link](https://civitai.com/models/3048200?modelVersionId=3465979) |
 | `russelior-von-diamante-anima` | not stated | not stated | 80 | ANIMA ver. | [link](https://civitai.com/models/3011396?modelVersionId=3417649) |
 | `shahrazad-big-dog-ink-l-anima` | shahrazaddg, long hair, black hair, blue eyes, armor, bikini armor, pelvic curta | 0.8 | 80 | ⚔️ Shahrazad 💠 Big Dog Ink ⚔️ (Anima) Fantasy take on the Thousand and One Nights storyteller, and the armor d | [link](https://civitai.com/models/3045923?modelVersionId=3462775) |
+| `princess-kida-from-atlantis-the-lost-empir-anima` | kida, dark-skinned female, blue eyes, white hair, long hair, facial tattoo,, ear | not stated | 79 | Princess Kida from Atlantis: The Lost Empire | [link](https://civitai.com/models/3049958?modelVersionId=3468285) |
 | `christie-dead-or-alive-bob-hairstyle-anima` | Christie from dead or alive,Sleek silver-white bob cut hairstyle, straight chin- | not stated | 78 | My Character LoRA Gallery (1000+ Downloadable Character LoRAs & 500+ Runnable Online) Moss Image / Anima: Step | [link](https://civitai.com/models/1781192?modelVersionId=3461654) |
 | `clmanima-anima` | 1girl,solo, purple hair, very long hair, twintails, braid, bangs, heterochromia, | not stated | 78 | clm安琪拉库洛米之心anima 1girl,solo, purple hair, very long hair, twintails, braid, bangs, heterochromia, purple eyes, | [link](https://civitai.com/models/3021837?modelVersionId=3431276) |
 | `jubilee-vampy-jammies-marvel-rivals-anima` | jvb1l3ej4mm, yellow eyes, slit pupils, black hair, short hair, hair between eyes | not stated | 78 | Appearance: jvb1l3ej4mm, yellow eyes, slit pupils, black hair, short hair, hair between eyes, blue nails, fang | [link](https://civitai.com/models/3000193?modelVersionId=3403151) |

@@ -1,6 +1,6 @@
 # SDXL — concept
 
-52 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+53 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -36,6 +36,7 @@
 | `sakura-haruno-nsfw-ultimate-ripped-clothes-xl` | sakura haruno, ripped cloths, clothing rip | not stated | 41 |  | [link](https://civitai.com/models/2999876?modelVersionId=3402731) |
 | `tsuuki-xl` | Tsuuki | not stated | 40 |  | [link](https://civitai.com/models/2986878?modelVersionId=3386445) |
 | `atomicpunk-buildings-ad-xl` | Atompunk, buildings | not stated | 39 |  | [link](https://civitai.com/models/2949952?modelVersionId=3340893) |
+| `evie-von-vergin-xl` | not stated | not stated | 39 |  | [link](https://civitai.com/models/2786256?modelVersionId=3468416) |
 | `lenceria-de-lujo-en-maniquies-sin-cabeza-xl` | luxheadlingerie | not stated | 39 |  | [link](https://civitai.com/models/3023735?modelVersionId=3433732) |
 | `yord-xl` | not stated | not stated | 36 |  | [link](https://civitai.com/models/2999455?modelVersionId=3402214) |
 | `slutty-necromancer-xl` | ncr_ | not stated | 33 |  | [link](https://civitai.com/models/3049379?modelVersionId=3467537) |

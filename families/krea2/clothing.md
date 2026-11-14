@@ -1,6 +1,6 @@
 # Krea2 (detailed-krea2) — clothing
 
-396 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+401 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -171,6 +171,7 @@
 | `fluo-fashion-krea2` | Fashion_Fluo | not stated | 362 | Lora to generate a person wearing bold and bright Fluorescent color clothing. I have included both 2500 and 30 | [link](https://civitai.com/models/3012751?modelVersionId=3419404) |
 | `st3ph4n13 Adult Cosplay Stephanie LazyTown - Krea2 - st3ph4n13-k` | st3ph4n13 | not stated | 360 | LoRA st3ph4n13 — version adulte de Stephanie (LazyTown), pensée comme une femme adulte en cosplay, pas comme l | [link](https://civitai.com/models/2878282?modelVersionId=3252831) |
 | `slingshot-swimsuit-krea2` | not stated | not stated | 359 | Put a slingshot swimsuit (sling bikini) on your model. | [link](https://civitai.com/models/3039377?modelVersionId=3454247) |
+| `futanari-condom-filling-10-krea2` | not stated | not stated | 352 | used condom, condom, breasts, futanari, solo, sneakers, testicles, blonde hair, long hair, intricate_details_x | [link](https://civitai.com/models/2956637?modelVersionId=3349177) |
 | `chastity-cage-krea2` | Chastity-CC | not stated | 351 | Chastity cage Krea | [link](https://civitai.com/models/2957493?modelVersionId=3351858) |
 | `2026-rave-outfit-krea2` | rnbwravefit, rainbow animal-print rave outfit with fluffy white rainbow leg warm | not stated | 349 | A colorful rave outfit | [link](https://civitai.com/models/2976740?modelVersionId=3373859) |
 | `pov-discharge-stains-in-panties-krea2` | female viewer's pov view of her hand lifting stretchy waistband of panties is re | not stated | 348 | basic prompt: female viewer's pov view of her hand lifting stretchy waistband of panties is revealing pussy.   | [link](https://civitai.com/models/3013716?modelVersionId=3420645) |
@@ -236,6 +237,7 @@
 | `french-cut-wetsuit-wetsuitals-krea2` | wetsuitALS | not stated | 220 | Use westuitALS for triggering As usual CivitAI rates the images as R when they should be PG13 at most, so I wo | [link](https://civitai.com/models/1084159?modelVersionId=3338549) |
 | `glinda-wicked-krea2` | Gl1nd4,, tutu, pink dress, bare shoulders, crown, pink fishnet pantyhose, frills | not stated | 216 | Triggers; Gl1nd4, tutu, pink dress, bare shoulders, crown, pink fishnet pantyhose, frills, pink leotard, off s | [link](https://civitai.com/models/3025352?modelVersionId=3435813) |
 | `gothic-vampire-krea2` | G07hV4mp,, black thighhighs, red miniskirt, garter straps, lace trim, necklace,  | not stated | 213 | Triggers; G07hV4mp, black thighhighs, red miniskirt, garter straps, lace trim, necklace, high red collar, blac | [link](https://civitai.com/models/3025315?modelVersionId=3435768) |
+| `magiccat-stockings-krea2` | MC_STOCKINGS | 0.8 | 213 | A concept LoRA for hosiery in every form: sheer black pantyhose, white lace-top thigh highs, fishnets, garter  | [link](https://civitai.com/models/3050310?modelVersionId=3468756) |
 | `authentiq-onesie-jigglypuff-krea2` | AuthentiQ Jigglypuff onesie | not stated | 209 | --- If you feel like sending ⚡buzz, showing 👍like, or some ❤️ love, awesome. A huge thank you ❤️ to all for ke | [link](https://civitai.com/models/3028863?modelVersionId=3440369) |
 | `pauline-boneparte-costume-austerlitz-krea2` | wearing an elegant, vintage-style pink satin dress with a full skirt, white puff | not stated | 208 | GPT SEZ: Pauline Bonaparte was famously known for wearing daring and elegant gowns that emphasized her slender | [link](https://civitai.com/models/2961324?modelVersionId=3354881) |
 | `russian-ministry-of-justice-mvd-parade-stu-krea2` | not stated | not stated | 208 | Justice Dress v2 — Ministry of Internal Affairs Uniform (Mix & Customization) A Krea 2 LoRA trained to reprodu | [link](https://civitai.com/models/2975615?modelVersionId=3372515) |
@@ -253,6 +255,9 @@
 | `authentiq-onesie-pikachu-krea2` | AuthentiQ Pikachu onesie | not stated | 188 | --- If you feel like sending ⚡buzz, showing 👍like, or some ❤️ love, awesome. A huge thank you ❤️ to all for ke | [link](https://civitai.com/models/3014787?modelVersionId=3422143) |
 | `crossdresser-krea2` | not stated | not stated | 187 | Krea2 I've updated this shit Lora, for the 4/5 people who might be interested in it. Trained on a new dataset. | [link](https://civitai.com/models/2646399?modelVersionId=3414558) |
 | `orange-vinyl-jumpsuit-krea2` | 0range_vinyl_jumpsuit | not stated | 185 | Trigger: 0range_vinyl_jumpsuit Example prompt: A highly detailed realistic picture of a brunette photo model w | [link](https://civitai.com/models/3003719?modelVersionId=3407682) |
+| `swept-away-lingerie-ver-2-krea2` | Sw3p74w4y,, lingerie, bra, black panties, garter belt, corset, | not stated | 185 | Triggers; Sw3p74w4y, lingerie, bra, black panties, garter belt, corset, | [link](https://civitai.com/models/3050024?modelVersionId=3468369) |
+| `cute-bp-01-05-pastel-heart-pattern-bra-pan-krea2` | K2cutebp015_pastelheart | 0.7–0.9 | 181 | [CUTE-BP 01-5] Pastel Heart Pattern Bra & Panties Set V2 / Concept LoRA  New Krea2 version released!  💗 Overvi | [link](https://civitai.com/models/3050267?modelVersionId=3468690) |
+| `cute-bp-02-04-strawberry-check-pattern-bra-krea2` | K2cutebp02_04 | not stated | 181 | New Krea2 version released! 💗 Overview[CUTE-BP 02-4] Strawberry Check Pattern Bra & Panties Set / Concept LoRA | [link](https://civitai.com/models/3050252?modelVersionId=3468673) |
 | `txflandscapes-krea2` | TFXlandscape | not stated | 181 | High quality landscape LORA that gives Krea2 the foundation & guidance to correctly lay down landscapes. Mount | [link](https://civitai.com/models/2922287?modelVersionId=3306437) |
 | `magiccat-latex-krea2` | MC_LATEX | 0.8 | 172 | A concept LoRA for Krea 2 that teaches one thing: real latex. Mirror-like specular highlights, a skin-tight se | [link](https://civitai.com/models/3049633?modelVersionId=3467865) |
 | `porsche-911-targa-1970s-krea2` | 911T4rga | not stated | 167 | The Porsche 911 Targa in the 1970s: A Decade of Evolution and Enduring Appeal The Porsche 911 Targa, introduce | [link](https://civitai.com/models/1446901?modelVersionId=3068370) |

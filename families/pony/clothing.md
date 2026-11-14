@@ -1,6 +1,6 @@
 # Pony (Pony Diffusion XL) — clothing
 
-21 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+22 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -14,6 +14,7 @@
 | `clitoris-jewelry-xl-ill-pony` | clitoris jewelry | not stated | 2800 | The strength of Lora is recommended to be around 0.8. | [link](https://civitai.com/models/576831?modelVersionId=643187) |
 | `cat-lingerie-pony` | cat lingerie,bra,panties,neck bell | 0.7 | 1658 | The recommended strength of lora is around 0.7. | [link](https://civitai.com/models/1284777?modelVersionId=1740093) |
 | `Femdom POV - V1 - Upskirt_pov` | Upskirt_POV_ | not stated | 1024 |  | [link](https://civitai.com/models/1692530?modelVersionId=1915493) |
+| `futa-presenting-in-pantyhose-pony` | not stated | not stated | 813 |  | [link](https://civitai.com/models/1098370?modelVersionId=1233809) |
 | `clitoris-piercing-xl-pony-2` | clitoris piercing, clitoris ring | not stated | 782 | Removed some images that were messy. Added more images. This one feels more consistent. | [link](https://civitai.com/models/337473?modelVersionId=380331) |
 | `80s-aerobics-high-leg-leotard-pony` | Thong_leotard, skintight, leg warmers | not stated | 731 |  | [link](https://civitai.com/models/964808?modelVersionId=1080241) |
 | `clitoris-piercing-xl-pony` | Clitoris piercing, clitoris ring | not stated | 470 | .1 Initial test, figuring out this whole process | [link](https://civitai.com/models/337473?modelVersionId=377865) |

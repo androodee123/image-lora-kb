@@ -1,6 +1,6 @@
 # MOSS (Moss Image / kromoss) — anatomy
 
-56 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+59 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 | slug | triggers | strength | dl | what | source |
 |---|---|---|---:|---|---|
@@ -25,12 +25,15 @@
 | `chinese-dorm-university-loft-bed-room-cctv-moss` | not stated | 0.6 | 487 | A realistic Chinese university four-person dorm with the classic loft-bed-over-desk layout: - Metal raised bed | [link](https://civitai.com/models/3022703?modelVersionId=3432390) |
 | `perfect-pussy-moss` | perfect pussy | 0.6 - 0.8 | 477 | Perfect Pussy Perfect Pussy is a Concept LORA (creates an open, delicious Pussy). The results can vary signifi | [link](https://civitai.com/models/3047093?modelVersionId=3464280) |
 | `convenience-store-24-hour-shop-at-night-cc-moss` | not stated | 0.6 | 445 | Description A realistic late-night convenience store: the checkout counter, register and lit hot-food cabinet  | [link](https://civitai.com/models/3022889?modelVersionId=3432626) |
+| `futanari-large-erect-bulge-kr2-moss` | not stated | not stated | 441 | Trained from my existing dataset using quality photorealistic images. Not enough information? I’m kinda lazy,  | [link](https://civitai.com/models/2911599?modelVersionId=3432364) |
 | `nipple-moss` | nipples | 0.6–0.8 | 438 | [MOSS] The usage is the same as Anima. Forge Neo: The effect of Adetailer is a bit weak. Turbo: It might be be | [link](https://civitai.com/models/2385403?modelVersionId=3464799) |
 | `knots-vaginal-knotting-moss` | not stated | not stated | 431 | This lora is designed to produce a vaginal knotting effect. It was trained on the same dataset as my Krea mode | [link](https://civitai.com/models/3048886?modelVersionId=3466860) |
+| `brkn-inny-pussy-moss` | not stated | 0.3–0.8 | 364 | BRKN MOSS INNY-PUSSY This LoRA was trained on 50 images over 4,000 steps. It performs well across most checkpo | [link](https://civitai.com/models/3049920?modelVersionId=3468232) |
 | `detailed-horse-penis-moss` | horse penis with medial-ring and testicles, horse sheath and testicles | not stated | 343 | It's meant to improve equine penis anatomy Please guys, tag the LoRA when you post images made with it. Will h | [link](https://civitai.com/models/3025554?modelVersionId=3436102) |
 | `round-breasts-moss` | Round Breasts | not stated | 328 | Trigger:  round breasts | [link](https://civitai.com/models/3023341?modelVersionId=3433219) |
 | `hand-milking-moss` | hand_milking | not stated | 327 | MOSS Imageでも試してみました。 TEがよくなっているだけに教師画像のパターン不足がより気になります。 搾乳機が出やすいのが気になったので少々長くトレーニングしたものを選んでいます。 strengthで調整してく | [link](https://civitai.com/models/2823068?modelVersionId=3433125) |
 | `futanari-helper-moss` | not stated | not stated | 317 | A Futanari Helper for MOSS Image, hopefully, 1st Lora, 10 Epochs, 123 images, start with weights of 0.3 | [link](https://civitai.com/models/2985765?modelVersionId=3385078) |
+| `futanari-penis-bulge-kr2-moss` | not stated | not stated | 311 | V2: Dataset made of reworked typical anime futanari bulge for hyper realistic results, yet keeping the anime f | [link](https://civitai.com/models/2911656?modelVersionId=3437314) |
 | `wide-hips-thigh-gap-moss` | wide pelvis, thigh gap | not stated | 309 | Prompt "wide hips" has become conjoined with concepts like big ass and thick thighs. This is an attempt to fix | [link](https://civitai.com/models/3041324?modelVersionId=3456891) |
 | `breast-implanter-moss` | not stated | 0.7-0.85 | 308 | Probably the most temperamental image model I've used in a while. I feel like outputs are either the worst I'v | [link](https://civitai.com/models/3036871?modelVersionId=3450966) |
 | `bal-breast-moss` | bal_breast | not stated | 288 | This is a LoRA for generating breasts like those in the reference image.Trigger word: bal_breast. | [link](https://civitai.com/models/3018817?modelVersionId=3427333) |

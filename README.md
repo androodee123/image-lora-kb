@@ -14,12 +14,12 @@ Metadata only: nothing here downloads weights; no tokens are stored.
 
 | family | on Graydient | HF only | candidates |
 |---|---:|---:|---:|
-| illustrious | 2426 | 14 | 4451 |
-| sdxl | 102 | 0 | 1584 |
-| pony | 248 | 7 | 1282 |
-| anima | 3427 | 0 | 1518 |
-| krea2 | 3782 | 3 | 1895 |
-| moss | 594 | 0 | 756 |
+| illustrious | 2542 | 14 | 4558 |
+| sdxl | 110 | 0 | 1587 |
+| pony | 289 | 7 | 1288 |
+| anima | 3469 | 0 | 1583 |
+| krea2 | 3810 | 3 | 1929 |
+| moss | 614 | 0 | 759 |
 
 ## Updating
 

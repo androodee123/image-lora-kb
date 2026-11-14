@@ -1,18 +1,18 @@
 # Pony (Pony Diffusion XL) — text-to-image LoRAs
 
-On Graydient: **248** distinct LoRAs · HF repo only (needs adding to Graydient): **7** · ingest candidates: **1282**
+On Graydient: **289** distinct LoRAs · HF repo only (needs adding to Graydient): **7** · ingest candidates: **1288**
 
 Per-category pages (sorted: Graydient first, then by CivitAI downloads). Complete data: `data/loras.jsonl` (filter `family == pony`).
 
 | category | on Graydient | HF only | page |
 |---|---:|---:|---|
-| character | 20 | 0 | [character.md](character.md) |
+| character | 22 | 0 | [character.md](character.md) |
 | style | 26 | 0 | [style.md](style.md) |
-| anatomy | 36 | 3 | [anatomy.md](anatomy.md) |
-| clothing | 21 | 0 | [clothing.md](clothing.md) |
+| anatomy | 65 | 3 | [anatomy.md](anatomy.md) |
+| clothing | 22 | 0 | [clothing.md](clothing.md) |
 | pose-composition | 3 | 0 | [pose-composition.md](pose-composition.md) |
-| nsfw-act | 40 | 0 | [nsfw-act.md](nsfw-act.md) |
-| concept | 99 | 4 | [concept.md](concept.md) |
+| nsfw-act | 47 | 0 | [nsfw-act.md](nsfw-act.md) |
+| concept | 101 | 4 | [concept.md](concept.md) |
 | utility | 3 | 0 | [utility.md](utility.md) |
 
 ## In another HF repo, not on Graydient (flag: needs adding)

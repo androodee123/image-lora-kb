@@ -1,6 +1,6 @@
 # Krea2 (detailed-krea2) — concept
 
-391 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+392 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 | slug | triggers | strength | dl | what | source |
 |---|---|---|---:|---|---|
@@ -96,6 +96,7 @@
 | `st-kreal-femboy-s-26-krea2` | st kreal femboy s 26 krea2 | not stated | 627 | Here is my first LoRA model, trained using the ST-REAL-FEMBOY'S ONLY (SDXL) model as a reference. Recommended  | [link](https://civitai.com/models/2890749?modelVersionId=3268142) |
 | `luminnude-nsfw-ce-v02-krea2` | lmndeCE_style | not stated | 618 | A LoRA to improve the appearance of nipples, though you may like it for the tendency to produce smaller breast | [link](https://civitai.com/models/1657256?modelVersionId=3239781) |
 | `hijab-krea2` | h1j4b, hijab, layered hijab with folds in fabric on top, voluminous layered hija | not stated | 616 | multiple styles: hijab layered hijab with folds in fabric on top/voluminous layered hijab with pouffy folds in | [link](https://civitai.com/models/2869027?modelVersionId=3241390) |
+| `blowbang-but-for-free-krea2` | bl0wb4ng, blowbang, multiple penises, 6+ penises,, cum, facial, bukkake, | 0.5-0.9 | 609 | Join my Discord:https://discord.gg/tMbPUdkP27 No Early Access. It is so sad that I need to write in the title  | [link](https://civitai.com/models/3050315?modelVersionId=3468762) |
 | `dog-z-krea2` | not stated | not stated | 602 | 🐶 New LoRA Model: Dogs Hey everyone! 🐾 I’m excited to share my new LoRA model, Dogs, built on Krea 2 and Zeta  | [link](https://civitai.com/models/2961815?modelVersionId=3355599) |
 | `evasive-posture-krea2` | her posture is evasive, on one knee, shown mid-action scrambling dashing away, o | not stated | 602 | evasive posture, escaping, scrambling away, in a bit of a panic etc. try: her posture is evasive on one knee s | [link](https://civitai.com/models/2975739?modelVersionId=3372666) |
 | `stepping-into-clothing-krea2` | st3pp1ng-1nt0, she is reaching down and one-leg stepping into and pulling up her | not stated | 599 | generates a 'steping into' mid-action motion when pulling up underwear/leggings/pants. use with https://civita | [link](https://civitai.com/models/2984933?modelVersionId=3384093) |
