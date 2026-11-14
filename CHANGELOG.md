@@ -4,6 +4,10 @@ Automatic entries from `scripts/update.py` (newest first). Catalog/SKILL updates
 
 ## 2026-11-14
 
+Moved candidate→available 0, added 0, became on Graydient 0, removed 0, new candidates 0; HF files +0/-0.
+
+## 2026-11-14
+
 Moved candidate→available 37, added 15, became on Graydient 0, removed 0, new candidates 223; HF files +54/-0.
 
 Candidates now on Graydient (moved to available):
