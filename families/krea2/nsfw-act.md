@@ -1,6 +1,6 @@
 # Krea2 (detailed-krea2) — nsfw-act
 
-261 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+262 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 | slug | triggers | strength | dl | what | source |
 |---|---|---|---:|---|---|
@@ -223,6 +223,7 @@
 | `female-private-parts-world-morph-flux1-flu-krea2` | made out of female private parts, multi-toned | not stated | 163 | Female Private Parts — World Morph Welcome to World Morph V2.0! First, an apology: V1.0 was garbage. 😅 It was  | [link](https://civitai.com/models/672874?modelVersionId=3440774) |
 | `rimjob-krea2` | rimming | 1.2 | 144 | Pose LoRA for rimming on Krea 2. Trigger: rimming. Use strength 1.2. | [link](https://civitai.com/models/2979408?modelVersionId=3377242) |
 | `magiccat-footjob-v2-krea2` | mc_footjob | 0.8 | 122 | Footjob V2 — retrained on a curated 21-image dataset (four generation waves, hand-picked frame by frame). Same | [link](https://civitai.com/models/3047676?modelVersionId=3465219) |
+| `mutual-69-krea2` | mutual_69 | 1.0 | 103 | Krea 2 almost never draws a real 69: one side always gives up and it collapses into one-way oral. This LoRA fi | [link](https://civitai.com/models/3050735?modelVersionId=3469292) |
 | `holden-monaro-1969-krea2` | HoldenMonaro1969 | not stated | 84 | Muscle, Myth, and Motorsport: How the 1969–1971 Holden Monaro Forged an Australian Automotive Legend Between 1 | [link](https://civitai.com/models/2659751?modelVersionId=3333373) |
 | `squirting-krea2` | SquirtingRK | 1 | 29 | Premium character LoRAs Original synthetic characters, bundles and AI tools are in my shop: https://rkrra.com/ | [link](https://civitai.com/models/3021399?modelVersionId=3430692) |
 | `sex-machines-krea2` | FuckingMachineRK | 1 | 25 | Premium character LoRAs Original synthetic characters, bundles and AI tools are in my shop: https://rkrra.com/ | [link](https://civitai.com/models/3015268?modelVersionId=3422671) |

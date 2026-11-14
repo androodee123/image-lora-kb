@@ -1,19 +1,19 @@
 # Illustrious / NoobAI (Illustrious-XL based) — text-to-image LoRAs
 
-On Graydient: **2412** distinct LoRAs · HF repo only (needs adding to Graydient): **14** · ingest candidates: **4373**
+On Graydient: **2426** distinct LoRAs · HF repo only (needs adding to Graydient): **14** · ingest candidates: **4451**
 
 Per-category pages (sorted: Graydient first, then by CivitAI downloads). Complete data: `data/loras.jsonl` (filter `family == illustrious`).
 
 | category | on Graydient | HF only | page |
 |---|---:|---:|---|
-| character | 1076 | 1 | [character.md](character.md) |
-| style | 412 | 0 | [style.md](style.md) |
-| anatomy | 185 | 3 | [anatomy.md](anatomy.md) |
+| character | 1083 | 1 | [character.md](character.md) |
+| style | 414 | 0 | [style.md](style.md) |
+| anatomy | 184 | 3 | [anatomy.md](anatomy.md) |
 | clothing | 254 | 0 | [clothing.md](clothing.md) |
-| pose-composition | 73 | 0 | [pose-composition.md](pose-composition.md) |
+| pose-composition | 78 | 0 | [pose-composition.md](pose-composition.md) |
 | lighting | 14 | 0 | [lighting.md](lighting.md) |
 | quality-detail | 16 | 0 | [quality-detail.md](quality-detail.md) |
-| nsfw-act | 194 | 0 | [nsfw-act.md](nsfw-act.md) |
+| nsfw-act | 195 | 0 | [nsfw-act.md](nsfw-act.md) |
 | concept | 168 | 10 | [concept.md](concept.md) |
 | utility | 20 | 0 | [utility.md](utility.md) |
 

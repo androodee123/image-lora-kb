@@ -1,6 +1,6 @@
 # MOSS (Moss Image / kromoss) — utility
 
-16 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+17 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 | slug | triggers | strength | dl | what | source |
 |---|---|---|---:|---|---|
@@ -19,4 +19,5 @@
 | `brightness-slider-moss` | not stated | not stated | 478 | MOSS V1 Recommended range -3 to 3 | [link](https://civitai.com/models/3016826?modelVersionId=3424762) |
 | `slider-age-moss` | not stated | not stated | 404 | Dataset is composed of 71 photograph of both men and women. Usage: - Positive: makes the subjects older. - Neg | [link](https://civitai.com/models/3025154?modelVersionId=3435576) |
 | `pastel-pinup-palooza-r7-moss` | kkpinup | not stated | 233 | Pastel Pinup Palooza r7 Trigger word: kkpinup Rank / Alpha: 32 Training steps: 3,000 License: Non-commercial O | [link](https://civitai.com/models/3023306?modelVersionId=3433174) |
+| `abs-slider-moss` | not stated | 0 to 2 | 167 | Recommended negative prompt: lowres, bad quality, worst quality, bad anatomy, jpeg artifacts, signature, water | [link](https://civitai.com/models/2513137?modelVersionId=3438321) |
 | `realistic-hyper-muscular-arms-flux-moss` | not stated | not stated | 90 | Oversized/Hyper muscular arms. Use trigger words: "hyper muscular arms" The model will create massively oversi | [link](https://civitai.com/models/1101505?modelVersionId=3455054) |

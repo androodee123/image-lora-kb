@@ -1,6 +1,6 @@
 # MOSS (Moss Image / kromoss) — anatomy
 
-54 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+56 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 | slug | triggers | strength | dl | what | source |
 |---|---|---|---:|---|---|
@@ -43,7 +43,9 @@
 | `base-gapteeth-moss` | g4pt33th she has gapteeth | not stated | 212 | try: g4pt33th  she has gapteeth the effect is sometimes weak. if so, roll again on the seed. | [link](https://civitai.com/models/3038495?modelVersionId=3453066) |
 | `fakest-breasts-cheap-ultra-round-fake-tits-moss` | not stated | not stated | 201 | This model does the fakest breasts ever in my opinion, spherical shape, very wide set and bulging look.  Most  | [link](https://civitai.com/models/740249?modelVersionId=3457957) |
 | `whip-moss` | Whip, leather whip with splayed string cracker on tapered end | not stated | 191 | "leather whip with splayed string cracker on tapered end" Is a good phrase to use. | [link](https://civitai.com/models/3022662?modelVersionId=3432346) |
+| `extend-into-pussy-v2-moss` | not stated | not stated | 186 | Even though Version 2.0 still requires gacha pulls, the success rate seems to have improved. The 0.7 strength  | [link](https://civitai.com/models/3049222?modelVersionId=3469627) |
 | `licking-nipple-moss` | This is a scene in which a woman is licking a man's nipple. | not stated | 171 | This LoRA model has been trained on image of a Licking the nipple. Trigger MOSS This is a scene in which a wom | [link](https://civitai.com/models/2822616?modelVersionId=3466540) |
+| `puffy-nipples-v9683-moss` | not stated | not stated | 169 | Puffy Nipples | [link](https://civitai.com/models/3035492?modelVersionId=3469683) |
 | `base-candid-hair-action-moss` | h41r-4ct10n | not stated | 168 | generates mid-action shots of a woman interacting with their hair in various ways try: h41r-4ct10n she is {bru | [link](https://civitai.com/models/3049165?modelVersionId=3467255) |
 | `jitome-eyes-jitome-moss` | jitome | not stated | 148 | jitome（ジト目）concept trigger words jitome | [link](https://civitai.com/models/3025020?modelVersionId=3435417) |
 | `artificial-girl-model-the-body-for-moss` | 浑圆坚挺上翘不下垂的超级巨大巨乳,健美的平胸小乳房,锥形丰满下垂至肚脐的超级巨大巨乳,自然的有些下垂的中等大小乳房 | not stated | 123 | Please leave a review if you like this lora！ 既不美，又何用？The body！ If beauty it doth lack, what purpose doth it se | [link](https://civitai.com/models/3040046?modelVersionId=3455231) |

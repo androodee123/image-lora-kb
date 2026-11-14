@@ -14,12 +14,12 @@ Snapshot 2026-11-14. Adults-only (18+) concepts; describe NSFW factually. No min
 
 | family | on Graydient | HF repo only (needs adding) | ingest candidates |
 |---|---:|---:|---:|
-| Illustrious / NoobAI (Illustrious-XL based) | 2412 | 14 | 4373 |
-| SDXL | 102 | 0 | 1582 |
-| Pony (Pony Diffusion XL) | 248 | 7 | 1279 |
-| Anima | 3413 | 0 | 1436 |
-| Krea2 (detailed-krea2) | 3768 | 3 | 1883 |
-| MOSS (Moss Image / kromoss) | 585 | 0 | 746 |
+| Illustrious / NoobAI (Illustrious-XL based) | 2426 | 14 | 4451 |
+| SDXL | 102 | 0 | 1584 |
+| Pony (Pony Diffusion XL) | 248 | 7 | 1282 |
+| Anima | 3427 | 0 | 1517 |
+| Krea2 (detailed-krea2) | 3782 | 3 | 1895 |
+| MOSS (Moss Image / kromoss) | 594 | 0 | 756 |
 
 **Recommend only LoRAs registered on Graydient** (files in HF `Octavian123/civit`, `civit2`, `private`). LoRAs found only in other Octavian123 HF repos are listed *flagged* as needing to be added to Graydient. Candidates (CivitAI/HF, not available) appear only as capped *Suggest ingest* lines.
 
@@ -30,6 +30,48 @@ Snapshot 2026-11-14. Adults-only (18+) concepts; describe NSFW factually. No min
 1. **Gap fill:** the family+category has no Graydient LoRA and the candidate has ≥ 2,000 downloads.
 2. **High-value upgrade:** candidate has ≥ 2,000 downloads and ≥ 2× the downloads of the best available LoRA in the same family+category; or it is an official utility pack (turbo/lightning/distill/hyper) with no available equivalent.
 3. **Cap:** at most 3 suggestions per recipe, each with link + any source-stated trigger/strength. Nothing auto-downloads or auto-ingests; ingest runs only when Andrew asks (civit-to-graydient pipeline).
+
+<!-- AUTO-UPDATE:START -->
+## Live inventory (auto-updated by `scripts/update.py`, 2026-11-14)
+
+On Graydient: illustrious **2426** · sdxl **102** · pony **248** · anima **3427** · krea2 **3782** · moss **594**. Ingest candidates: illustrious 4451 · sdxl 1584 · pony 1282 · anima 1517 · krea2 1895 · moss 756.
+
+**Recently available (newest first, max 20):**
+
+- 2026-11-14 `nagiriin-ryou-taimanin-rpgx-rpgx-illustrio-anima` (anima/character) — nagiriin_ryou-taimarpgx, 1girl, solo, pink hair, long hair, very long hair, bangs, pink eyes, large breasts, baseoutfit, ninja, leotard, highleg, covered navel, bare shoulders, elbow gloves, gloves, fishnets, thighhighs, ponytail,, demonform, dark sclera, horns, mask, mouth mask, ninja mask, — https://civitai.com/models/2290746?modelVersionId=3438497
+- 2026-11-14 `shakira-warlord-1976-l-anima` (anima/character) — shakiradg, long hair, black hair, green eyes, necklace, fur bikini — https://civitai.com/models/3050409?modelVersionId=3468881
+- 2026-11-14 `dark-queen-battletoads-ponyxl-anima` (anima/character) — darkqueendg, long hair, black hair, eyeshadow, blue eyes, hair over eye, lipstick, black gloves, black latex leotard, cape, high collar — https://civitai.com/models/735539?modelVersionId=3469653
+- 2026-11-14 `concept-ohogao-anima` (anima/concept) — ohogao, open mouth, rolling eyes, v-shaped eyebrows, puckered lips, tongue out, trembling, tearing up — https://civitai.com/models/3050755?modelVersionId=3469316
+- 2026-11-14 `bite-me-umbrium-regional-mouths-anima` (anima/concept) — mouthstyle arm, mouthstyle back, mouthstyle chest, mouthstyle face — https://civitai.com/models/3050863?modelVersionId=3469520
+- 2026-11-14 `zh-group-grab-sex-anima` (anima/nsfw-act) — ZH_Gr0upGrab, group sex, gangbang, grabbing, nipple tweak, breast grab, multiple penises — https://civitai.com/models/1205870?modelVersionId=3450050
+- 2026-11-14 `harem-threesome-ffm-3p-21-anima` (anima/nsfw-act) — trigger not stated — https://civitai.com/models/3050680?modelVersionId=3469233
+- 2026-11-14 `poseidon-no3-usagi-gari-gamecg-style-anima` (anima/style) — malebolgia — https://civitai.com/models/3050678?modelVersionId=3469230
+- 2026-11-14 `horori-sigrid-belle-remielle-doujin-style-anima` (anima/style) — malebolgia — https://civitai.com/models/3050958?modelVersionId=3469569
+- 2026-11-14 `jenny-dolittle-bodacious-space-pirates-in-ill` (illustrious/character) — sdxl-jenny-dolittle — https://civitai.com/models/3050640?modelVersionId=3469178
+- 2026-11-14 `project-tokyo-dolls-e-in-numbers-ill` (illustrious/character) — sdxl-ptd-tria — https://civitai.com/models/3050803?modelVersionId=3469375
+- 2026-11-14 `project-tokyo-dolls-in-numbers-ill` (illustrious/character) — sdxl-ptd-mia — https://civitai.com/models/3050779?modelVersionId=3469345
+- 2026-11-14 `lynn-lambretta-bodacious-space-pirates-in-ill` (illustrious/character) — sdxl-lynn-lambretta — https://civitai.com/models/3050668?modelVersionId=3469219
+- 2026-11-14 `olive-laurentia-norman-maggot-maggot666-xl-ill` (illustrious/character) — olive laurentia, 1girl, short hair, large breasts,, olive laurentia, 1girl, short hair, brown hair, red eyes, large breasts,, olive laurentia, 1girl, short hair, black hair, black eyes, large breasts,, olive laurentia, 1girl, short hair, black hair, black eyes, large breasts, hair over one eye, — https://civitai.com/models/3050648?modelVersionId=3469187
+- 2026-11-14 `zh-group-grab-sex-ill` (illustrious/nsfw-act) — ZH_Gr0upGrab, group sex, gangbang, grabbing, nipple tweak, breast grab, multiple penises — https://civitai.com/models/1205870?modelVersionId=3465442
+- 2026-11-14 `pov-sex-poses-8-positions-in-one-any-chara-ill` (illustrious/pose-composition) — pov_sexposes_nh — https://civitai.com/models/3050683?modelVersionId=3469236
+- 2026-11-14 `pov-cowgirl-girl-on-top-any-character-wai-ill` (illustrious/pose-composition) — pov_cowgirl_nh — https://civitai.com/models/3050664?modelVersionId=3469212
+- 2026-11-14 `pov-doggystyle-sex-from-behind-any-charact-ill` (illustrious/pose-composition) — pov_doggy_nh — https://civitai.com/models/3050658?modelVersionId=3469205
+- 2026-11-14 `pov-blowjob-fellatio-looking-up-any-charac-ill` (illustrious/pose-composition) — pov_blowjob_nh — https://civitai.com/models/3050672?modelVersionId=3469225
+- 2026-11-14 `prvpns-realistic-penis-vaginal-penetration-krea2` (krea2/anatomy) — prvpns, prvpene — https://civitai.com/models/2807106?modelVersionId=3469915
+
+**Newest ingest candidates from the weekly update (proposals only; max 10):**
+
+- 2026-11-14 Multiple Girls Group - Milk Factory / みるくふぁくとりー Style (Anima/illustrio (illustrious/style) — group_mf — https://civitai.com/models/228093
+- 2026-11-14 Eldreda Sunbringer エルダ・サンブリンガー, 2 Outfits — Zenless Zone Zero ゼンレスゾーンゼ (illustrious/clothing) — eldreda sunbringer \(zenless zone zero\), eldreda sunbringer \(moonlit\) \(zenless zone zero\) — https://civitai.com/models/2921324
+- 2026-11-14 [尘白禁区 Snowbreak] 芙提雅-驰掣 毛绒派对 Turbo Hare Plush Party illnai3-XL-lora (illustrious/utility) — fritia_ignis,  fritia_ignis-Turbo Hare_(Plush Party) — https://civitai.com/models/938960
+- 2026-11-14 Princess Bodysuit (illustrious/clothing) — Pr1nc3ss_Su17, blue bodysuit, — https://civitai.com/models/2971296
+- 2026-11-14 Marguerite_Pistail/マルグリット・ピステール(Super Robot Wars) Anima_Illustrious (illustrious/character) — marguerite_pistail\(srw\),blue eyes, blonde hair, long hair,braid,drill hair, drill sidelocks,ringlets,, black pantyhose, high heels, white tailcoat, — https://civitai.com/models/1557510
+- 2026-11-14 Nursing Handjob / 授乳手コキ – Milk Factory Style (Anima/Illustrious ) (illustrious/style) — junyuu_mf — https://civitai.com/models/2898841
+- 2026-11-14 Kizuki_Rei Style (illustrious/style) — K1zuk1_R3i, — https://civitai.com/models/1448540
+- 2026-11-14 Female Endministrator 管理人 — Arknights: Endfield アークナイツ：エンドフィールド [Anima (illustrious/character) — female endministrator \(arknights: endfield\) — https://civitai.com/models/2999716
+- 2026-11-14 Lyra Flux (krea2/character) — trigger not stated — https://civitai.com/models/2284720
+- 2026-11-14 [ANIMA/ILXL] Satowa Houzuki 鳳月さとわ | Kono Oto Tomare! この音とまれ！ Sounds of (illustrious/character) — <lora:satowa_houzuki-kono_oto_tomare_s2-v2-ixl-anime-soralz:1>, satowa houzuki (kono oto tomare), long hair, black hair, straight hair, hair between eyes, brown eyes, sidelocks, school uniform, blue blazer, white collared shirt, striped bowtie, school emblem, breast pocket, long sleeves, plaid skirt, pleated skirt, kneehighs, loafers, school uniform, blue serafuku, sailor collar, red neckerchief, long sleeves, pleated skirt, kneehighs, black loafers, yellow pajamas, print pajamas, cat print, paw print, long sleeves, long pants — https://civitai.com/models/2748041
+<!-- AUTO-UPDATE:END -->
 
 ## How to look up any LoRA
 
@@ -682,7 +724,7 @@ Use an anatomy LoRA only if the base model draws the area poorly.
 - `4472-swimsuit-party-xl` — `@ruanyi4472,areola slip,long sleeves,o-ring,revealing clothes,purple d` · strength not stated · 281 dl · Hello everyone! Whenever a new model is released, I just have to try training it and really put it t · [source](https://civitai.com/models/3010194?modelVersionId=3416032)
 
 - Suggest ingest: [Slingshot swimsuit [SD1.5/Pony/Illustrious/Anima]](https://civitai.com/models/7957) (illustrious, 133,438 dl) — `slingshot swimsuit` · strength not stated — **downloads 133438 >= 2x best available (6777) in same family+category**
-- Suggest ingest: [Cumflood](https://civitai.com/models/18665) (illustrious, 36,267 dl) — `cumallover`, `cumflooding`, `fillingpool`, `hyperejaculation` · strength not stated — **downloads 36267 >= 2x best available (5848) in same family+category**
+- Suggest ingest: [Cumflood](https://civitai.com/models/18665) (illustrious, 36,268 dl) — `cumallover`, `cumflooding`, `fillingpool`, `hyperejaculation` · strength not stated — **downloads 36268 >= 2x best available (5848) in same family+category**
 - Suggest ingest: [SDXL_Sexy underwear](https://civitai.com/models/124782) (sdxl, 10,105 dl) — `bikini`, `underwear`, `Lace` · strength `0.6-1.5` (stated) — **downloads 10105 >= 2x best available (479) in same family+category**
 
 ### 23. Costumes, uniforms and cosplay (adult characters)
@@ -741,7 +783,7 @@ All characters must be adults.
 - `deep-throat-dildo-gag-moss` — `deep throating deepdilgag`, `dildo gag strapped into throat`, `bulging throat` · strength not stated · 642 dl · Generates big, thick cock gags in the subject's throat. Currently only trained on a pool of female i · [source](https://civitai.com/models/2383141?modelVersionId=3425010)
 - `barbell-nipple-piercings-ultra-hd-moss` — `nipple piercings` · strength not stated · 532 dl · Barbell Nipple Piercings Trained with at 1024x1024 with hand cropped patches from 20MP images High d · [source](https://civitai.com/models/2357066?modelVersionId=3451406)
 
-- Suggest ingest: [Cumflood](https://civitai.com/models/18665) (illustrious, 36,267 dl) — `cumallover`, `cumflooding`, `fillingpool`, `hyperejaculation` · strength not stated — **downloads 36267 >= 2x best available (5848) in same family+category**
+- Suggest ingest: [Cumflood](https://civitai.com/models/18665) (illustrious, 36,268 dl) — `cumallover`, `cumflooding`, `fillingpool`, `hyperejaculation` · strength not stated — **downloads 36268 >= 2x best available (5848) in same family+category**
 - Suggest ingest: [乳首責め/nipple pull](https://civitai.com/models/627113) (illustrious, 33,549 dl) — `nipple pull,holding,1girl,nipples,1boy,nipple piercing,chain,` · strength not stated — **downloads 33549 >= 2x best available (10931) in same family+category**
 - Suggest ingest: [Milking Machines](https://civitai.com/models/419704) (pony, 16,179 dl) — `milking machine,suction device,milk machine,harness,object insertion,s` · strength not stated — **downloads 16179 >= 2x best available (7814) in same family+category**
 
@@ -954,7 +996,7 @@ Consensual adult scenes only.
 - `deep-throat-dildo-gag-moss` — `deep throating deepdilgag`, `dildo gag strapped into throat`, `bulging throat` · strength not stated · 642 dl · Generates big, thick cock gags in the subject's throat. Currently only trained on a pool of female i · [source](https://civitai.com/models/2383141?modelVersionId=3425010)
 
 - Suggest ingest: [Bondage Suspension](https://civitai.com/models/8762) (illustrious, 92,975 dl) — `suspension` · strength not stated — **downloads 92975 >= 2x best available (11673) in same family+category**
-- Suggest ingest: [bondage 来吧 go BDSM, lora for Moss Qwen21 ZiB F1 & XL](https://civitai.com/models/136849) (moss, 34,212 dl) — `bondage`, `shibari`, `ropes`, `1990年代风格` · strength not stated — **downloads 34212 >= 2x best available (13485) in same family+category**
+- Suggest ingest: [bondage 来吧 go BDSM, lora for Moss Qwen21 ZiB F1 & XL](https://civitai.com/models/136849) (moss, 34,221 dl) — `bondage`, `shibari`, `ropes`, `1990年代风格` · strength not stated — **downloads 34221 >= 2x best available (13485) in same family+category**
 - Suggest ingest: [[Flux/SDXL/Pony] Device Bondage](https://civitai.com/models/528877) (sdxl, 24,957 dl) — `device bondage`, `naked woman`, `dark wood background`, `wrist cuffs` · strength not stated — **downloads 24957 >= 2x best available (4139) in same family+category**
 
 ### 32. Multiple partners, gangbang, threesome
@@ -1039,4 +1081,4 @@ See `guides/andrew-proven-stacks.md` (detailed-krea2 identity/anatomy stack; kro
 
 ## Keeping this current
 
-Weekly: `python3 scripts/check_new.py` (proposals only; writes `proposals/YYYY-MM-DD.md`). After Andrew ingests anything, rerun `scripts/list_graydient.py`, `scripts/civit_lookup.py byhash`, `scripts/build_kb.py`, `scripts/render_kb.py`.
+Weekly: `bash scripts/update.sh` (see `UPDATING.md`): re-lists all Octavian123 HF repos, looks up new files on CivitAI, merges newly published LoRAs as candidates, rebuilds this skill and the catalogs, and pushes. Weights are never downloaded or ingested by it.

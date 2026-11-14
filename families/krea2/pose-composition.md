@@ -1,6 +1,6 @@
 # Krea2 (detailed-krea2) — pose-composition
 
-101 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+102 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -104,6 +104,7 @@
 | `pov-human-ashtray-smoking-from-below-krea2` | pvsmk7 smoking POV | 0.8–1.0 | 140 | A human ashtray POV for smoking fetish fans: you're the ashtray. The camera sits just below her chest and look | [link](https://civitai.com/models/3039314?modelVersionId=3454159) |
 | `albino-glow-portraits-krea2` | AlbinoGlowRK | 1 | 132 | Premium character LoRAs Original synthetic characters, bundles and AI tools are in my shop: https://rkrra.com/ | [link](https://civitai.com/models/3036437?modelVersionId=3450390) |
 | `v67-floral-composition-krea2` | (Floral composition:1.1), ikebana, kadō, bouquet, floral still life, flower arra | 1.1 | 122 | V67 Floral Composition LoRA for Z Image Turbo and Krea 2 – Timeless Floral Art from Classical Bouquets to Japa | [link](https://civitai.com/models/2541590?modelVersionId=3310196) |
+| `2010-cybercam-selfies-krea2` | not stated | 1.5 | 104 | Selfiez gives casual indoor selfies an early-2010s compact digital camera look. It works well with a visible h | [link](https://civitai.com/models/3050965?modelVersionId=3469578) |
 | `graphic-portrait-krea2` | GP_K, Colored cheeks, illustration | not stated | 99 | • GᖇᗩᑭᕼIᑕ ᑭOᖇTᖇᗩIT • This template creates artistic portraits with an eye-catching graphic style. It is a mix  | [link](https://civitai.com/models/170039?modelVersionId=3465400) |
 | `asuka-langley-neon-genesis-evangelion-krea2` | asuka | 0.8-1.0 | 78 | 明日香·兰格雷 / Asuka Langley (Krea 2 LoRA) 触发词 / Trigger word：asuka 中文说明 角色 《新世纪福音战士》的明日香·兰格雷·惣流。本 LoRA 以 cosplay 实 | [link](https://civitai.com/models/3043231?modelVersionId=3459298) |
 | `add-intricate-composition-krea2` | endlesspossibilities | not stated | 66 | this lora is meant to bring a lot of details and complexity. some use cases: from shield and weapon details, l | [link](https://civitai.com/models/739343?modelVersionId=3407505) |

@@ -1,6 +1,6 @@
 # Pony (Pony Diffusion XL) — text-to-image LoRAs
 
-On Graydient: **248** distinct LoRAs · HF repo only (needs adding to Graydient): **7** · ingest candidates: **1279**
+On Graydient: **248** distinct LoRAs · HF repo only (needs adding to Graydient): **7** · ingest candidates: **1282**
 
 Per-category pages (sorted: Graydient first, then by CivitAI downloads). Complete data: `data/loras.jsonl` (filter `family == pony`).
 

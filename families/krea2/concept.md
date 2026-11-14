@@ -1,6 +1,6 @@
 # Krea2 (detailed-krea2) — concept
 
-387 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+391 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 | slug | triggers | strength | dl | what | source |
 |---|---|---|---:|---|---|
@@ -227,6 +227,7 @@
 | `bmw-m3-gtr-from-need-for-speed-most-wanted-krea2` | m3 | not stated | 126 | Trigger:M3 | [link](https://civitai.com/models/2949990?modelVersionId=3340936) |
 | `kaijurion-krea2` | kaijurion | not stated | 123 | KAIJURION — The Art of Impossible Monsters Unleash colossal beasts, bizarre biological mutations, surreal anim | [link](https://civitai.com/models/3005194?modelVersionId=3409603) |
 | `engine bay - KREA2 v1.0 - Engine bay KREA2` | engine | not stated | 119 | A lora for engine bays | [link](https://civitai.com/models/2882991?modelVersionId=3258683) |
+| `magiccat-toys-krea2` | MC_TOYS | 0.8 | 117 | MagicCat Toys — a Krea 2 concept LoRA for adult toys in use: vibrators, dildos, plugs, wands and couples' toys | [link](https://civitai.com/models/3050449?modelVersionId=3468928) |
 | `grokbot-krea2` | A minimalist flat vector illustration, cute chibi style, simple black pill-shape | not stated | 116 | Stumbled across a post on xiaohongshu (Rednote, in english (not a direct translation)) and I figured, sure, I' | [link](https://civitai.com/models/2962231?modelVersionId=3356007) |
 | `kr2-gameboy-screenshot-krea2` | gbscr, a photo of the viewer's hands with a portable console, a gameboy, a retro | not stated | 115 | Keyword is gbscr | [link](https://civitai.com/models/3039187?modelVersionId=3453984) |
 | `chola-clown-krea2` | not stated | not stated | 110 | Un LoRA inspirado en la auténtica cultura chicana y chola de la Costa Oeste de Estados Unidos, que captura el  | [link](https://civitai.com/models/3024162?modelVersionId=3434289) |
@@ -241,7 +242,10 @@
 | `mechanized-muse-krea2` | not stated | not stated | 89 | This LoRA specializes in futuristic female robots with elegant, intricately designed upper bodies mounted onto | [link](https://civitai.com/models/3014092?modelVersionId=3421137) |
 | `twingo-1-car-krea2` | tw1car | 0.8 to 1.0 | 87 | The first Renault Twingo, and still the best one. Short nose, round headlights, tall roof, three doors, and th | [link](https://civitai.com/models/2977564?modelVersionId=3374946) |
 | `ttrpg-token-rings-for-krea2` | A thin token ring styled like,, white background,, Illustrated concept art style | not stated | 81 | This lora guides the model to create token rings. With a little editing, you can cut them out to use a TTRPG t | [link](https://civitai.com/models/3045972?modelVersionId=3462843) |
+| `magiccat-machine-krea2` | MC_MACHINE | 0.8 | 78 | MagicCat Machine — a Krea 2 concept LoRA for sex machines: saddle machines, thrusting machines, robotic arms a | [link](https://civitai.com/models/3050828?modelVersionId=3469409) |
 | `1970s-soapstar-dropout-krea2` | not stated | not stated | 76 | A fictional nostalgic look at 1970 bad TV - The studio lights flicker, the tea urn wheezes, and the budget is  | [link](https://civitai.com/models/2973382?modelVersionId=3443769) |
+| `rural-wall-print-krea2` | not stated | not stated | 71 | A printed picture fastened to a flaking plaster wall in a rural Chinese home: pine mountains with waterfalls a | [link](https://civitai.com/models/3047717?modelVersionId=3469575) |
+| `magiccat-sm-krea2` | MC_SM | 0.8 | 69 | MagicCat SM — a Krea 2 concept LoRA for power-exchange scenes: collars and leashes, crops and floggers, gags,  | [link](https://civitai.com/models/3050450?modelVersionId=3468929) |
 | `femboys-krea2` | FemBoysRK | 1 | 44 | Premium character LoRAs Original synthetic characters, bundles and AI tools are in my shop: https://rkrra.com/ | [link](https://civitai.com/models/3011350?modelVersionId=3417590) |
 | `funsized-krea2` | FunsizedRK | 1 | 27 | Premium character LoRAs Original synthetic characters, bundles and AI tools are in my shop: https://rkrra.com/ | [link](https://civitai.com/models/3027644?modelVersionId=3438765) |
 | `puffies-krea2` | PuffiesRK | 1 | 26 | Premium character LoRAs Original synthetic characters, bundles and AI tools are in my shop: https://rkrra.com/ | [link](https://civitai.com/models/3011693?modelVersionId=3418038) |

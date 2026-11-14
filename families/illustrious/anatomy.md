@@ -1,6 +1,6 @@
 # Illustrious / NoobAI (Illustrious-XL based) — anatomy
 
-188 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+187 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -48,7 +48,7 @@
 | `TesticleClenchIllustV1` | testicle_clench | not stated | 1917 | Someone asked for a testicle clench LoRA. There is some style impact as can be seen in the grids. That being s | [link](https://civitai.com/models/1014319?modelVersionId=1141318) |
 | `FutaPenisChartIllustV1` | penis_chart | 0.25 | 1814 | Alright so this one is a pain if you don't really understand how to use Latent Couple or Regional Prompter.(I  | [link](https://civitai.com/models/1228559?modelVersionId=1384298) |
 | `Retrousse_Breasts_Concept_Illustrious` | retrousse breasts, pointy breasts, angular breasts, breasts pointing upwards, | 0.8-1.0 | 1765 | Prompts: retrousse breasts, pointy breasts, angular breasts, breasts pointing upwards, Strength: 0.8-1.0 I lov | [link](https://civitai.com/models/1868559?modelVersionId=2114980) |
-| `Detailed Nipples and Areolas - ILLUSTRIOUS V3 - VIA_DetailedNipples_V3` | not stated | 0.7 to 1.1 | 1717 | The goal of this LoRA is to enhance the detail of nipples and areolas. Additionally, it can slightly improve t | [link](https://civitai.com/models/2684875?modelVersionId=3215996) |
+| `detailed-nipples-and-areolas-ill` | not stated | 0.7 to 1.1 | 1717 | The goal of this LoRA is to enhance the detail of nipples and areolas. Additionally, it can slightly improve t | [link](https://civitai.com/models/2684875?modelVersionId=3215996) |
 | `foreskin_penis` | not stated | not stated | 1629 | good at small, flaccid and foreskin penis, perfect for tgirls | [link](https://civitai.com/models/2595872?modelVersionId=2916039) |
 | `nippledome` | nippledome, nipple attachment,cable,nipples,motion lines | not stated | 1498 | 乳首を刺激する電動のセックストイの「ニップルドーム」、かなり有名なグッズなのでプロンプトで出るか、既存のLoraがあるかと思ったらなさそうだったので、loraを学習で作ってみました。あと「milking machine」 | [link](https://civitai.com/models/2380750?modelVersionId=2677212) |
 | `meaty-pussy-ilu-v7-ill` | meatypussy, clitoris, labia, vulva, pussy lips | 0.8 – 1.0 | 1487 | 📸 Share Your Creations I’d love to see what you make! ✨ Post your results in the Gallery — your work can inspi | [link](https://civitai.com/models/2560248?modelVersionId=2175305) |
@@ -187,7 +187,6 @@
 | `bug-eye-ill` | Bug3y31nv, bug3y31nv, helmet, superhero costume, bodysuit, insect wings, boots, | not stated | 26 | Bug-Eye from Invincible | [link](https://civitai.com/models/2996146?modelVersionId=3398077) |
 | `joshua-return-of-the-apocalypse-class-deat-ill` | Joshua,black hair,long side bangs,messy hair,red eyes,heavy black eyeliner,dark  | not stated | 22 | Unfortunately, Joshua is a secondary character in the manhwa’s story; he is a villain who appears during one a | [link](https://civitai.com/models/3040787?modelVersionId=3456232) |
 | `curvy-cute-elf-beauty-clean-anime-western-ill` | em_g1rl | not stated | 18 | Produces a female elf/human character in the ElfAbsorbed style: idiosyncractic features such as rounded upper  | [link](https://civitai.com/models/3047291?modelVersionId=3464540) |
-| `boy-licking-girls-ass-from-behind-lying-on-ill` | not stated | not stated |  |  |  |
 | `bumpy-penis-ill` | not stated | not stated |  |  |  |
 | `clitoromegaly_epoch_10-ill` | not stated | not stated |  |  |  |
 | `clrscantchair-ill` | not stated | not stated |  |  |  |

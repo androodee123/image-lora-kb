@@ -1,6 +1,6 @@
 # SDXL — text-to-image LoRAs
 
-On Graydient: **102** distinct LoRAs · HF repo only (needs adding to Graydient): **0** · ingest candidates: **1582**
+On Graydient: **102** distinct LoRAs · HF repo only (needs adding to Graydient): **0** · ingest candidates: **1584**
 
 Per-category pages (sorted: Graydient first, then by CivitAI downloads). Complete data: `data/loras.jsonl` (filter `family == sdxl`).
 

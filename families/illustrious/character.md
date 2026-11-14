@@ -1,6 +1,6 @@
 # Illustrious / NoobAI (Illustrious-XL based) — character
 
-1077 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+1084 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -887,15 +887,18 @@
 | `sexy-blonde-bugs-looney-tunes-ill` | sxyblnde, rabbit male, solo, girly,, rabbit female, solo, curvy,, gray fur with  | not stated | 72 | Bug's sexy blonde disguise from the short "Pest Coaster" | [link](https://civitai.com/models/2984741?modelVersionId=3383872) |
 | `skeleton-knight-in-another-world-ill` | eringkt,1girl,blond hair,center parted hair,long hair,long sidelocks,gold hair t | not stated | 72 | エリン ルクスリア from 骸骨騎士様、只今異世界へお出掛け中 Trigger Words: hunman form: eringkt,1girl,‌blond hair,center parted hair,long | [link](https://civitai.com/models/3048254?modelVersionId=3466057) |
 | `crimson-viper-street-fighter-il-ill` | CrimsonViper, 1girl, solo, mature female, dark-skinned female, large breasts, re | 1 | 71 | Weight : 1 Trigger Word : CrimsonViper | [link](https://civitai.com/models/3039341?modelVersionId=3454196) |
+| `jenny-dolittle-bodacious-space-pirates-in-ill` | sdxl-jenny-dolittle | not stated | 71 | Appearance: sdxl-jenny-dolittle, blonde hair, green eyes, chocker, long hair, ponytail, red ribbon, hair ornam | [link](https://civitai.com/models/3050640?modelVersionId=3469178) |
 | `mikko-girls-und-panzer-ill` | mikko \(girls und panzer\), | not stated | 71 | V2.0 | [link](https://civitai.com/models/2929902?modelVersionId=3315859) |
 | `quorra-tron-uprising-ill` | qu0rr4tr0n, qu0rr4tr0n, 1girl, solo, blue eyes, short hair, black hair, bob cut, | not stated | 71 | Quorra from TRON: Uprising No images of real people were used to train this LoRA | [link](https://civitai.com/models/3015272?modelVersionId=3422676) |
 | `alex-totally-spies-ill` | alxts, female, solo, curvy, dark skin, hazel eyes, short black bob hair, light p | not stated | 70 | Alex from Totally Spies -Model is trained from the first few seasons and focuses on her Whooop Catsuit | [link](https://civitai.com/models/3047926?modelVersionId=3465592) |
+| `project-tokyo-dolls-e-in-numbers-ill` | sdxl-ptd-tria | not stated | 70 | Appearance: sdxl-ptd-tria, purple hair, mole, hairband, horns, mole under mouth, blue eyes, fake horns, long h | [link](https://civitai.com/models/3050803?modelVersionId=3469375) |
 | `psylocke-marvel-ill` | psylocke | not stated | 70 | Auto-generated on Akilora! Trigger word: psylocke General tips If the character is not showing up, start descr | [link](https://civitai.com/models/3004076?modelVersionId=3408145) |
 | `remedios-custodio-overlord-ill` | 1girl,black hair,brown hair,short hair,bangs,brown eyes,black eyes, hairband,whi | not stated | 70 | Remedios Custodio (レメディオス・カストディオ) from Overlord Appearance: 1girl,black hair,brown hair,short hair,bangs,brown | [link](https://civitai.com/models/2736842?modelVersionId=3077455) |
 | `il-queen-of-blades-starcraft-sungmo-kim-co-ill` | masterpiece, best quality, highly detailed, intricate details, sharp focus, prof | not stated | 69 | [IL] Queen of Blades (칼날의 여왕) - Starcraft (Sungmo Kim) [Commission] LoRa commissioned by Foundry@JACK Born fro | [link](https://civitai.com/models/2997369?modelVersionId=3399641) |
 | `kaku-seiga-touhou-ill` | kaku_seiga | not stated | 69 | Auto-generated on Akilora! Trigger word: kaku_seiga General tips If the character is not showing up, start des | [link](https://civitai.com/models/3001990?modelVersionId=3405455) |
 | `kusui-aruta-real-akiko-ill` | Kusui Aruta style, monochrome, greyscale, comic, AkikoKsArt, ponytail, large bre | not stated | 69 | This model is a character from 《リアル》 of artist 久水あるた/Kusui Aruta. If you like this model, please support the a | [link](https://civitai.com/models/3020526?modelVersionId=3429535) |
 | `princess-rosalina-super-mario-galaxy-ill` | pr0s4l1n4, pr0s4l1n4, 1girl, solo, blonde hair, bangs, hair over one eye, long h | not stated | 69 | Princess Rosalina from Super Mario Galaxy | [link](https://civitai.com/models/3027599?modelVersionId=3438713) |
+| `project-tokyo-dolls-in-numbers-ill` | sdxl-ptd-mia | not stated | 69 | Appearance: sdxl-ptd-mia, multicolored hair, piercing, jewelry, red hair, hair ornament, ear piercing, black h | [link](https://civitai.com/models/3050779?modelVersionId=3469345) |
 | `character-xl-2-0-elaine-erein-the-seven-de-ill` | 3L41N3, (The Seven Deadly Sins Style), masterpiece, best quality, absurdres, hig | not stated | 68 | LORA of the character Elaine of "The Seven Deadly Sins Series", created with HD screenshots taken from all vid | [link](https://civitai.com/models/3014117?modelVersionId=3421173) |
 | `dahlia-clean-line-ill` | Dahlia | not stated | 68 | A magnetic character blending softness with real edge. | [link](https://civitai.com/models/2944141?modelVersionId=3458354) |
 | `dodo-mouse-tom-and-jerry-tales-ill` | DodoMouseTnJ | not stated | 68 | Who doesn't love a robotic remote-controlled mouse?  Trigger Word: DodoMouseTnJ anthropomorphic female mouse,  | [link](https://civitai.com/models/2937009?modelVersionId=3324754) |
@@ -962,6 +965,7 @@
 | `incubus-silent-hill-1999-ill` | incubsh | not stated | 53 | The Incubus from the video game Silent Hill (1999). Recommended Tags: incubsh, monster, goat boy, light brown  | [link](https://civitai.com/models/2967089?modelVersionId=3361910) |
 | `ivy-valentine-soulcalibur-ill` | ivy valentine \(soulcalibur\), silver hair, short hair, hair over one eye, blue  | not stated | 53 | Ivy Valentine is a character in Soulcalibur. | [link](https://civitai.com/models/3048913?modelVersionId=3466894) |
 | `kaguya-oc-ill` | kaguya | not stated | 53 | bnha oc :) | [link](https://civitai.com/models/2969603?modelVersionId=3365038) |
+| `lynn-lambretta-bodacious-space-pirates-in-ill` | sdxl-lynn-lambretta | not stated | 53 | Appearance: sdxl-lynn-lambretta, brown hair, short hair, blue eyes, messy hair, small breasts, eyelashes Outfi | [link](https://civitai.com/models/3050668?modelVersionId=3469219) |
 | `Michelle DeLa Farge - v1.0 - Michelle_de_La_Fargeミシェルドゥラファージュ炎の孕ませおっぱい乳同級生` | not stated | not stated | 52 | Creates an image for an erogame character | [link](https://civitai.com/models/2887511?modelVersionId=3264211) |
 | `Zoe adult - V2 - V2` | Zoe, heterochromia, orange hair, jewelry, multicolored hair, striped scarf, crop | not stated | 52 | V2 | [link](https://civitai.com/models/2883888?modelVersionId=3259773) |
 | `akiyama-rinko-action-taimanin-ill` | akyatai2body , 1girl , blue hair ,  high-ponytail , bangs , hair between eyes ,  | not stated | 52 | Tips please | [link](https://civitai.com/models/3043076?modelVersionId=3459103) |
@@ -1027,6 +1031,7 @@
 | `annette-summer-ill` | annette | not stated | 35 | annette, an action drawing of a sexy character in colorful swimsuit, 1girl, braid, glasses, long hair, swimsui | [link](https://civitai.com/models/3011325?modelVersionId=3417549) |
 | `kira-bastionkira-bastion-ill` | kira_bastion | 0.7–0.9 | 35 | Kira from "The Last Bastion" — original adult character (27 y.o.). White hair with pink gradient tips, high po | [link](https://civitai.com/models/3022685?modelVersionId=3432373) |
 | `motoko-kusanagi-the-ghost-in-the-shell-202-ill` | vzqx, blue hair, bob cut, red eyes | 1.0 | 35 | Motoko Kusanagi as redesigned for the 2026 anime The Ghost in the Shell (Science SARU): bright blue bob, red-v | [link](https://civitai.com/models/3034738?modelVersionId=3448146) |
+| `olive-laurentia-norman-maggot-maggot666-xl-ill` | olive laurentia, 1girl, short hair, large breasts,, olive laurentia, 1girl, shor | not stated | 35 | Base1 : olive laurentia, 1girl, short hair, brown hair, red eyes, large breasts, Base2 : olive laurentia, 1gir | [link](https://civitai.com/models/3050648?modelVersionId=3469187) |
 | `tanktop-girl-character-ill` | Tanktop | not stated | 35 | ❤️ Original Character LoRA: [Tanktop Girl] This LoRA creates my original anime character. 🎁 Join my Patreon fo | [link](https://civitai.com/models/3001640?modelVersionId=3404989) |
 | `arkomi-arkomikitty-ill` | not stated | not stated | 34 | please support the original artist https://www.instagram.com/arkomikitty | [link](https://civitai.com/models/2126220?modelVersionId=3393130) |
 | `hanniya-the-oni-girl-humanpath-ill` | hanniyaoni | not stated | 34 | OFFICIAL TRAILER: BIO: Hanniya is the Anti-Heroine of a anime OVA series called "HUMANPATH". Hanniya is a male | [link](https://civitai.com/models/2826260?modelVersionId=3403479) |
@@ -1069,6 +1074,7 @@
 | `mouscedes-monster-high-boo-york-ill` | mouscedes, mouse female, solo, curvy, light gray fur, long pink hair with dark p | not stated | 24 | Mouscedes from the Monster High: Boo York special | [link](https://civitai.com/models/3012664?modelVersionId=3419282) |
 | `the-worst-style-character-ill` | not stated | not stated | 24 | test | [link](https://civitai.com/models/3010363?modelVersionId=3416253) |
 | `violetta-ill` | not stated | not stated | 24 | hair lora, black voluminius curls for character | [link](https://civitai.com/models/2983152?modelVersionId=3381914) |
+| `arima-shiori4-heartful-maman-ill` | arima_shiori4, red hair, long hair, straight hair, parted bangs, blue eyes, thic | not stated | 23 | Just checking if not too rusty | [link](https://civitai.com/models/3051238?modelVersionId=3469932) |
 | `batman-tas-plantpod-ill` | not stated | not stated | 23 | plant pod test | [link](https://civitai.com/models/1819715?modelVersionId=3464124) |
 | `belzed-and-thonolan-kick-master-ill` | Belzed: Female, mature face, Long red hair, lipstick, earrings, eyeshadow, long  | not stated | 23 | Belzed, the final boss, and Thonolan, the main hero, from the hidden gem late lifecycle NES platformer Kick Ma | [link](https://civitai.com/models/3046142?modelVersionId=3463073) |
 | `bendzz-blonde-cow-half-transformed-2-0-ill` | bendzzhalfcow | not stated | 23 | Attempt at an improved version of the cow from Milked when she's not fully transformed | [link](https://civitai.com/models/3047378?modelVersionId=3464666) |
@@ -1076,6 +1082,7 @@
 | `Otoko - v1.0 - V1` | not stated | not stated | 22 | Original adult male character LoRA for Illustrious. | [link](https://civitai.com/models/2871443?modelVersionId=3244322) |
 | `bulma-briefs-pinkpawg-ill` | not stated | not stated | 22 | created off pinkpawg | [link](https://civitai.com/models/2982955?modelVersionId=3381664) |
 | `nya-ninjago-ill` | n1nj4g0-ny4,, yellow skin, black eyes, no sclera, no nose, orange lips, mole und | not stated | 20 | Post-movie Nya trained on mostly with her Sons of Garmadon outfit. For Ninja Outfit: n1nj4g0-ny4, yellow skin, | [link](https://civitai.com/models/3013700?modelVersionId=3420623) |
+| `2b-nier-automata-xl-sfw-nsfw-ill` | not stated | 0.7–0.8 | 17 | 2B — NieR / Illustrious XL Bring 2B (YoRHa No. 2 Type B) from NieR into your own creations! This character LoR | [link](https://civitai.com/models/3051210?modelVersionId=3469897) |
 | `incubai-don-ill` | D0n, h0rns, jagged ears, collar, sleeved_harness, winged_hips, demon tail | not stated | 14 | Beta version of my OC. Still under LOTS of testing, this is my very first character Lora but I do like it for  | [link](https://civitai.com/models/3012709?modelVersionId=3420691) |
 | `maeve-fellatrix-ill` | maeve_(fellatrix), purple hair, green eyes, black dolphin shorts, tank top, larg | not stated | 14 | Character is a 1st version of Maeve from Fellatrix | [link](https://civitai.com/models/3019969?modelVersionId=3428807) |
 | `rea-ill` | not stated | not stated | 12 | OC request, tags pending | [link](https://civitai.com/models/3047869?modelVersionId=3465522) |

@@ -6,7 +6,7 @@
 
 - Suggest ingest: [Ohogao SDXL LoRA [illustrious, Pony]](https://civitai.com/models/322121) (illustrious, 54,336 dl) — `ohogao,  puckered lips, trembling, tearing up,  v-shaped eyebrows, rol`, `tongue out, tongue up` · strength not stated — **downloads 54336 >= 2x best available (5848) in same family+category**
 - Suggest ingest: [MGE Monster Girls](https://civitai.com/models/556479) (illustrious, 36,393 dl) — trigger not stated · strength not stated — **downloads 36393 >= 2x best available (5848) in same family+category**
-- Suggest ingest: [Cumflood](https://civitai.com/models/18665) (illustrious, 36,267 dl) — `cumallover`, `cumflooding`, `fillingpool`, `hyperejaculation` · strength not stated — **downloads 36267 >= 2x best available (5848) in same family+category**
+- Suggest ingest: [Cumflood](https://civitai.com/models/18665) (illustrious, 36,268 dl) — `cumallover`, `cumflooding`, `fillingpool`, `hyperejaculation` · strength not stated — **downloads 36268 >= 2x best available (5848) in same family+category**
 
 | slug | triggers | strength | dl | what | source |
 |---|---|---|---:|---|---|

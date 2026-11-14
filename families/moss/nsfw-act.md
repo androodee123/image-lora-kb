@@ -4,7 +4,7 @@
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
-- Suggest ingest: [bondage 来吧 go BDSM, lora for Moss Qwen21 ZiB F1 & XL](https://civitai.com/models/136849) (moss, 34,212 dl) — `bondage`, `shibari`, `ropes`, `1990年代风格` · strength not stated — **downloads 34212 >= 2x best available (13485) in same family+category**
+- Suggest ingest: [bondage 来吧 go BDSM, lora for Moss Qwen21 ZiB F1 & XL](https://civitai.com/models/136849) (moss, 34,221 dl) — `bondage`, `shibari`, `ropes`, `1990年代风格` · strength not stated — **downloads 34221 >= 2x best available (13485) in same family+category**
 
 | slug | triggers | strength | dl | what | source |
 |---|---|---|---:|---|---|

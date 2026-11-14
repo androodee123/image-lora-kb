@@ -1,11 +1,11 @@
 # Illustrious / NoobAI (Illustrious-XL based) — style
 
-412 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+414 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
 - Suggest ingest: [Velvet's Mythic Fantasy Styles / Flux + Pony + illustrious + ZiT + Ani](https://civitai.com/models/599757) (illustrious, 250,565 dl) — `C0lorL1nes` · strength not stated — **downloads 250565 >= 2x best available (23879) in same family+category**
-- Suggest ingest: [Aesthetic Quality Modifiers - Masterpiece](https://civitai.com/models/929497) (illustrious, 184,083 dl) — `masterpiece, best quality, very aesthetic` · strength not stated — **downloads 184083 >= 2x best available (23879) in same family+category**
+- Suggest ingest: [Aesthetic Quality Modifiers - Masterpiece](https://civitai.com/models/929497) (illustrious, 184,258 dl) — `masterpiece, best quality, very aesthetic` · strength not stated — **downloads 184258 >= 2x best available (23879) in same family+category**
 - Suggest ingest: [Illustrious Style Pack](https://civitai.com/models/1060551) (illustrious, 121,760 dl) — trigger not stated · strength not stated — **downloads 121760 >= 2x best available (23879) in same family+category**
 
 | slug | triggers | strength | dl | what | source |
@@ -51,6 +51,7 @@
 | `[Style] Fellatrix [Illustrious-XL]` | F3LL4TR1X | 0.7-1.0 | 920 | Trained on Anima-Illustrious XL Anima trigger:@fellatrix Advised strength:0.7-1.0 Illustrious Trigger:F3LL4TR1 | [link](https://civitai.com/models/1903810?modelVersionId=2154919) |
 | `Otochichi 2011-2018 - Femdom Style Eas Character Illustrious - Illustrious - Otochichi_2011-2018_-_Femdom_Style_Eas_Character` | Otochichi_(classic), eas, 1girl, solo, silver hair, black headband, red eyes, bl | not stated | 904 | Trained on the work of Japanese hentai artist Otochichi between approximately 2011-2018. Otochichi has been pr | [link](https://civitai.com/models/1672711?modelVersionId=1893274) |
 | `Bernin - Femdom Style - Illustrious - Bernin_-_Femdom_Style` | bernin | not stated | 902 | Trained on the work of Bernin, a NSFW/hentai artist, by request. Support their original content: https://berni | [link](https://civitai.com/models/1720596?modelVersionId=1947135) |
+| `pvc-figure-style-for-asanagi-s-work-for-xl-ill` | asanagi-figure, cum on figure | 1.1 | 887 | 2024/12/25 update: use highfix or ADetailer if character's face get blurry or twisted. Recommand Weight: 1.1 ~ | [link](https://civitai.com/models/869628?modelVersionId=2387479) |
 | `Tokimachi Eisei - Femdom Style - Illustrious - Tokimachi_Eisei_-_Femdom_Style` | tokimachi_eisei | not stated | 841 | Trained on the work of Tokimachi Eisei, a NSFW/hentai artist. This work is titled as "Femdom Style" because th | [link](https://civitai.com/models/1789129?modelVersionId=2024693) |
 | `Herencia - Femdom Style - Illustrious - Herencia_-_Femdom_Style` | herencia | not stated | 838 | Trained on the illustrations of the Japanese hentai circle "Herencia," well known for their femdom-focused 'Pr | [link](https://civitai.com/models/1610383?modelVersionId=1822429) |
 | `Bonten v.2` | B0nt3nsknsfw | not stated | 780 | Please Read To help keep this project organized and up to date, please do not reupload this model to other pla | [link](https://civitai.com/models/1773300?modelVersionId=3012214) |
@@ -395,8 +396,10 @@
 | `lily-ghost-style-ill` | Lily_ghost | not stated | 30 | Lily_ghost, | [link](https://civitai.com/models/3024013?modelVersionId=3434089) |
 | `many-faces-ill` | not stated | not stated | 29 | Another model | [link](https://civitai.com/models/3040985?modelVersionId=3456465) |
 | `ks-iso-gameart-ill` | ks_iso_gameart | not stated | 28 | ks_iso_gameart, game asset, isometric, no humans, small castle tower, stone walls, flag, tiled roof, simple ba | [link](https://civitai.com/models/3016320?modelVersionId=3424023) |
+| `motsu-doujin-style-circle-motsu-ryouri-v2-ill` | m0tsury0rid0uj1nv2 | not stated | 28 | remake | [link](https://civitai.com/models/3050968?modelVersionId=3469581) |
 | `hanaarts-ill` | not stated | not stated | 27 | An Artstyle replicating the artist "HanaArts" Will take down if asked. Follow the artist: https://x.com/HanaAr | [link](https://civitai.com/models/3047929?modelVersionId=3465595) |
 | `ai-style-madame-godiva-style-ill` | Madam_Godiva, grok_style, classical_oil, painterly, old_master, soft_lighting, 1 | not stated | 25 | 【活動場所はCivitaiのみ。他サイトの掲載物は無断転載です。】 【権利侵害を目的としていません。権利者から削除要請があれば速やかに削除します。】 【画像が見えない人は、表示設定のX、XXXフィルターを外してみてくださ | [link](https://civitai.com/models/3043426?modelVersionId=3468074) |
+| `style-priestofart-ill` | Style Priestofart ILL | not stated | 25 | a watercolor lore with the ill version, | [link](https://civitai.com/models/3050984?modelVersionId=3469596) |
 | `bara-anime-ill` | not stated | not stated | 23 | New bara | [link](https://civitai.com/models/2986527?modelVersionId=3386014) |
 | `ookm-xl` | ookm style, | not stated | 23 | ookm | [link](https://civitai.com/models/2980295?modelVersionId=3389337) |
 | `anti-venom-ver-1-marvel-comics-90s-classic-ill` | anti venom 90s, symbiote, white bodysuit, bodysuit, 1boy, solo, monster boy, mal | not stated | 22 | This model is based on the early appearances of the Anti-Venom symbiote in comics, spanning from the beginning | [link](https://civitai.com/models/3015925?modelVersionId=3423519) |
@@ -418,7 +421,6 @@
 | `mrsadbat-style-ill` | not stated | not stated |  |  |  |
 | `norman-rockwell-style-xl` | not stated | not stated |  |  |  |
 | `owasobi-style-ill` | not stated | not stated |  |  |  |
-| `pvc-figure-style-for-asanagi-s-work-for-xl-ill` | not stated | not stated |  |  |  |
 | `scorpion-sara-xl` | 1girl, solo, looking at viewer, blue eyes, blonde hair, jewelry, jacket, earring | not stated |  | Story https://www.kickstarter.com/projects/267062333/glorybound-erotic-dating-sim-visual-novel-18 Glorybound — | [link](https://civitai.com/models/1820948) |
 | `style-yakiyama-line-ill` | not stated | not stated |  |  |  |
 | `wyerframez-artstyle-ill` | WyerframeZ by | not stated |  | Artstyle 3D BLENDER V1 WyerframeZ | [link](https://civitai.com/models/2907016?modelVersionId=3287675) |

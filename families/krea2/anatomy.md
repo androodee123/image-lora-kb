@@ -1,6 +1,6 @@
 # Krea2 (detailed-krea2) — anatomy
 
-301 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+302 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -259,6 +259,7 @@
 | `polydactyly-six-fingers-krea2` | polydactyl hand | not stated | 111 | Hands the way our AI overlords always intended. | [link](https://civitai.com/models/2974968?modelVersionId=3371666) |
 | `Men with Female Breasts - Concept Krea 2 - v1.0 - ManWithFemaleBreasts_Concept_Krea2_R8_v1` | MFBRSTCPT | 1.0 | 104 | Men with Female Breasts - Concept / Krea 2 Men with Female Breasts is a Krea 2 concept LoRA for male subjects  | [link](https://civitai.com/models/2863832?modelVersionId=3235244) |
 | `regional-eyes-umrbium-krea2` | eyestyle hand, eyestyle foot, eyestyle arm, eyestyle back, eyestyle chest, eyest | 1.0 | 104 | Add extra eyes to selected areas of a character’s body, from a single forehead eye to elaborate arrangements a | [link](https://civitai.com/models/3021407?modelVersionId=3437081) |
+| `prvpns-realistic-penis-vaginal-penetration-krea2` | prvpns, prvpene | 0.55 | 83 | 🔥 START HERE — REAL TRAINING GALLERY 👉 Training gallery (93 frames · open before download): OPEN V6 TRAINING D | [link](https://civitai.com/models/2807106?modelVersionId=3469915) |
 | `melona-handhair-version-krea2` | not stated | not stated | 72 | This is a Krea version of the Melona character lora. The focus of that lora was the hands on breasts concept f | [link](https://civitai.com/models/2994786?modelVersionId=3396351) |
 | `claude-claude-chan-krea2` | 年轻Claude娘 | not stated | 59 | 通过 gpt image 2.5 修改产出，最终训练得到了这个 lora This LoRA was trained using outputs modified via GPT Image 2.5. Anima版本我在 | [link](https://civitai.com/models/3029351?modelVersionId=3446612) |
 | `balls-krea2` | BallsRK | 1 | 30 | Premium character LoRAs Original synthetic characters, bundles and AI tools are in my shop: https://rkrra.com/ | [link](https://civitai.com/models/3016369?modelVersionId=3424090) |

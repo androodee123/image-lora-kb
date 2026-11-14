@@ -1,6 +1,6 @@
 # Krea2 (detailed-krea2) — character
 
-968 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+972 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -533,6 +533,7 @@
 | `madie-fictional-character-krea2` | MadieV1 | not stated | 152 | Enjoying my character LoRAs? Support new releases through my $5/month Ko-fi membership, follow my Civitai rele | [link](https://civitai.com/models/3025694?modelVersionId=3436281) |
 | `model-krea2-4` | jiziyue2, 1girl, solo, blue dress, jewelry,  earrings, long hair, hair ornament, | not stated | 152 | 重置版。 QQ群770020 交流 | [link](https://civitai.com/models/2529657?modelVersionId=3356598) |
 | `oc-cenit-krea2` | cenit | not stated | 152 | Good morning everyone!!! Today I'm introducing you to Cenit, one of the latest girls I added to the Starward V | [link](https://civitai.com/models/2721755?modelVersionId=3448039) |
+| `sick-dolls-pharah-overwatch-krea2` | pharah, wearing armor | 1 | 152 | ✨Sup✨ yo, take the survey and let me know what you want - https://tally.so/r/9NN6EX this was a request submitt | [link](https://civitai.com/models/3050591?modelVersionId=3469123) |
 | `azure-bay-lacey-krea2` | not stated | not stated | 151 | When Lacey isn't ordering Horchata Frappuccinos, she's often found in the university's PolySci building where  | [link](https://civitai.com/models/2732657?modelVersionId=3332871) |
 | `genshin-scene-style-krea2` | not stated | not stated | 151 | LoRA for Genshin-inspired fantasy game environments and scenery. Trained for the Krea2 base model. Use it to e | [link](https://civitai.com/models/2983360?modelVersionId=3382189) |
 | `lulu01-krea2` | lulu | 0.8 - 1.0 | 151 | This is a photorealistic character LoRA of Lulu02, trained on the Z-Image base model. It perfectly captures he | [link](https://civitai.com/models/2770706?modelVersionId=3313957) |
@@ -832,6 +833,7 @@
 | `chenxi-krea2` | chenxi,1girl,brown eyes,black hair,braid,twin braids,hair over shoulder,hair orn | not stated | 79 |  | [link](https://civitai.com/models/2959272?modelVersionId=3352389) |
 | `fili-the-satyr-women-oc-krea2` | Fili | not stated | 79 | Hello! \(>.<) This is a character Lora I made for my DND character Fili. The training is very limited, running | [link](https://civitai.com/models/2947782?modelVersionId=3338191) |
 | `mr-wolf-and-diane-foxington-krea2` | mr wolf and diane foxington krea2 | not stated | 79 | At a subscriber’s request, I made a new model in which both of these characters retain their distinctive featu | [link](https://civitai.com/models/2874523?modelVersionId=3248092) |
+| `tyra-a-90s-inspired-college-girl-krea2` | Tyra361 | not stated | 79 | This is a Krea-2 LoRA that reminds me of the pretty college girls in the 90s. The activation word is Tyra361 P | [link](https://civitai.com/models/3050810?modelVersionId=3469382) |
 | `who-s-that-girl-krea2` | who s that girl krea2 | not stated | 79 | Who's That Girl? characters. Krea_WTG_v1 is the only usable checkpoint of failed copy of anima WTG(https://civ | [link](https://civitai.com/models/2874625?modelVersionId=3248232) |
 | `bonnie-rabbit-krea2-2` | bonnielora | not stated | 78 | Bonnie Rabbit is a rabbit girl from rural New Zealand with a calm demeanor, a sharp practical mind, and the ki | [link](https://civitai.com/models/2451356?modelVersionId=3454237) |
 | `haru-berserk-of-gluttony-boushoku-no-berse-krea2` | BNBHaru, brown hair, hair bun, short hair, glasses, braid, semi-rimless eyewear, | 0.8 - 1 | 78 | Trained entirely on screencaps Works with other lora Recommended weight = 0.8 - 1 The Showcase images use weig | [link](https://civitai.com/models/2973617?modelVersionId=3370028) |
@@ -930,6 +932,7 @@
 | `mooshie-krea2` | mooshielora | not stated | 48 | Mooshie is a mushroom woman who lives in a small cottage near the edge of the forest, surrounded by the damp s | [link](https://civitai.com/models/2743112?modelVersionId=3455167) |
 | `huyoulan-krea2` | HuYoulan | not stated | 47 | A character from my book. | [link](https://civitai.com/models/2946956?modelVersionId=3337162) |
 | `adriana-krea2` | not stated | 0.8 – 1 | 46 | Numerous errors were discovered, requiring a complete reprocessing of the dataset. The model was created entir | [link](https://civitai.com/models/2967422?modelVersionId=3362312) |
+| `elsbeth-the-lustful-krea2` | 3lsbeth | not stated | 46 | Elsbeth, an ancient demonic presence, lust is her favorite though by no means only vice. A succubus bringing b | [link](https://civitai.com/models/3051118?modelVersionId=3469777) |
 | `melee-falco-krea2` | MeleeFalco, reflectorshine, firebird, lasergun, dairspike, taunt, crouch pose | not stated | 45 | Krea2 Turbo character Lora for Falco Lombardi trained on screenshots of his model from Super Smash Bros Melee. | [link](https://civitai.com/models/2943709?modelVersionId=3333067) |
 | `vesper-krea2` | Vesper | not stated | 45 | These are LoRAs of my OC, Vesper Keth’val, an anthropomorphic fox from a sci-fi story I’m developing. It's ver | [link](https://civitai.com/models/2966566?modelVersionId=3361340) |
 | `han-soo-young-krea2` | Han Soo Young, black shoulder lenght hair | not stated | 44 | Han Soo Young lora i made cuz she is my fav female cahracter. | [link](https://civitai.com/models/2952032?modelVersionId=3343517) |
@@ -941,6 +944,7 @@
 | `oc-vexelia-krea2` | vexelia | not stated | 39 | New girl from the Starward Vanguard universe, another of its arch-enemies, the spectacular VEXELIA VEXELIA: Th | [link](https://civitai.com/models/2898101?modelVersionId=3454142) |
 | `luciano-krea2` | Luciano | not stated | 38 | This is the KREA2 version of the original character "Luciano." | [link](https://civitai.com/models/2923204?modelVersionId=3307573) |
 | `mary-once-upon-a-witch-s-death-aru-majo-ga-krea2` | AMGMary, brown hair, braid, long hair, single braid, brown eyes, hair over shoul | 0.8 - 1 | 38 | Trained entirely on screencaps Works with other lora Recommended weight = 0.8 - 1 The Showcase images use weig | [link](https://civitai.com/models/2962115?modelVersionId=3355880) |
+| `amino-san-boku-ni-haishin-bare-shita-u-cup-krea2` | aminosan | not stated | 37 | Amino-san from Boku ni Haishin Bare shita U-Cup Chinkobi Joshi Amino-san | [link](https://civitai.com/models/1981985?modelVersionId=3469828) |
 | `willowasperleaf-krea2` | willowasperleaf | not stated | 37 | Willow Asperleaf is the queen of what remains of Botannica. She mitigates the horrors of Hain the Heartless, w | [link](https://civitai.com/models/3045309?modelVersionId=3461936) |
 | `orin-the-red-baldur-s-gate-3-krea2-2` | not stated | not stated | 34 | This version has some issue with nude, I initially thought 5 nude reference would be enough in the total datas | [link](https://civitai.com/models/2977230?modelVersionId=3374504) |
 | `jubilost-pathfinder-kingmaker-krea2` | jubilost_pfkm | not stated | 31 | This LORA is intended to create one of the characters of the RPG game "Pathfinder: Kingmaker" | [link](https://civitai.com/models/2874466?modelVersionId=3248018) |

@@ -1,10 +1,10 @@
 # Anima — concept
 
-271 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+274 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
-- Suggest ingest: [ロ○巨乳/Bust Size (Big)(XL,ill,pony)](https://civitai.com/models/458386) (anima, 11,421 dl) — `lkp` · strength `1.0` (stated) — **downloads 11421 >= 2x best available (3187) in same family+category**
+- Suggest ingest: [ロ○巨乳/Bust Size (Big)(XL,ill,pony)](https://civitai.com/models/458386) (anima, 11,431 dl) — `lkp` · strength `1.0` (stated) — **downloads 11431 >= 2x best available (3187) in same family+category**
 - Suggest ingest: [Mechanism concept](https://civitai.com/models/539249) (anima, 9,528 dl) — `mcnm` · strength `0.75-1` (stated) — **downloads 9528 >= 2x best available (3187) in same family+category**
 - Suggest ingest: [Spiderwebbed (Krea, Anima, ILXL, Pony)](https://civitai.com/models/384304) (anima, 7,562 dl) — `spiderwebbed` · strength not stated — **downloads 7562 >= 2x best available (3187) in same family+category**
 
@@ -156,6 +156,7 @@
 | `tan-tattoo-anima` | tan tattoo [motif], tan tattoo "[caption]" text | 0.8-1.0 | 233 | Recommended Conditions Trigger: tan tattoo [motif], tan tattoo "[caption]" text Support Tag: dark skin Negativ | [link](https://civitai.com/models/2897988?modelVersionId=3276493) |
 | `Venomized Concept - Anima - v1.0 - venomized_anima_philon_v10` | v3n0miz3d,, symbiote, possessed, black slime \(substance\), black goo, tendrils, | not stated | 231 | A bit different LoRa this time. It's meant to be combined with a character that you want to get venomized. Res | [link](https://civitai.com/models/2877848?modelVersionId=3252298) |
 | `cervix-prolapse-fisting-anima` | gtrcp cervix prolapse fisting | not stated | 227 | Cervix prolapse is being fisted/anlly fisted while cervix is prolapsed Style influence is heavy as usual, try  | [link](https://civitai.com/models/3040019?modelVersionId=3455193) |
+| `concept-ohogao-anima` | ohogao, open mouth, rolling eyes, v-shaped eyebrows, puckered lips, tongue out,  | 0.8 – 1.0 | 226 | I'm focusing on porting LoRAs from the Illustrious and Pony models to Anima.  When NoobAI 2 and Moss Anime are | [link](https://civitai.com/models/3050755?modelVersionId=3469316) |
 | `minigirl-inside-goblet-anima` | not stated | not stated | 217 | Idea from fishine. Dataset generated with controlnet | [link](https://civitai.com/models/2998319?modelVersionId=3400825) |
 | `giantess-gts-anima` | not stated | not stated | 211 | 1.giantess, city-scale woman, stepping over buildings, 800X1200 <lora:giantess:0.7>, 1girl,standing on one leg | [link](https://civitai.com/models/3037142?modelVersionId=3451298) |
 | `Armbar Concept Wrestling Hold - pony Illustrious - 2 Views - v1.0 Anima - armbar_animaaaa_epoch_9 1` | armbar, leglock, submission hold, woman holding the man arm, girl grabbing boy's | not stated | 208 | ANIMA VERS ( STill in progress ) ⚠️ Important: Your prompts must follow Anima's specific structure for best re | [link](https://civitai.com/models/792762?modelVersionId=3245504) |
@@ -228,6 +229,8 @@
 | `bestiary-werewolves-anima` | wrwlf | not stated | 47 | Usually generates aiming for realism. Do whatever you want with this idc | [link](https://civitai.com/models/3049178?modelVersionId=3467273) |
 | `Breeding mount_ANIMA` | solo focus, farm interior, shoes, cum in anus, sex, anal, from side, completely  | not stated | 45 | Ohayo, my hot and kinky people 🔥😈!, I find myself needing to use this intro from now on for my original models | [link](https://civitai.com/models/2020010?modelVersionId=3183528) |
 | `gawktoonanima-further-anima` | not stated | not stated | 44 | Blowjobs, with full bodies in frame, in different positions. Use example images for prompts. | [link](https://civitai.com/models/3007330?modelVersionId=3412336) |
+| `tentacles-from-book-anm-il-anima` | tentacles from book, floating book, holding book, book on ground | not stated | 44 | LoRA for tentacles coming out of a book.  Anm_a1: Same dataset as IL_a1, just on Anima now. Works decently wel | [link](https://civitai.com/models/3010998?modelVersionId=3469767) |
+| `bite-me-umbrium-regional-mouths-anima` | mouthstyle arm, mouthstyle back, mouthstyle chest, mouthstyle face, mouthstyle f | 1.0 | 14 | Regional Mouths adds extra mouths to your character’s body, with separate triggers for nine regions. It is des | [link](https://civitai.com/models/3050863?modelVersionId=3469520) |
 | `Bowsette Fan-Art Super Mario - LoRA Anima NSFW Support - v1.0 - Bowsette_ANIMA_v1` | not stated | not stated |  |  |  |
 | `Catwoman DC Showcase Catwoman - LoRA Anima NSFW Support - v1.0 - DCShowcaseCatwoman_ANIMA_v1` | not stated | not stated |  |  |  |
 | `Double Dildo (Aug 10 Lora 9, Anima)` | not stated | not stated |  |  |  |

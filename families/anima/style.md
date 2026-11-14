@@ -1,6 +1,6 @@
 # Anima — style
 
-1329 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+1333 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -487,6 +487,7 @@
 | `renbocloud-style-anima` | Renbocloud_Style | not stated | 228 | This LoRA was essentially what first got me interested in AI. I was immediately struck by the character's look | [link](https://civitai.com/models/2994780?modelVersionId=3396342) |
 | `V1` | @Serpieri, Hatching (Texture), Linear hatching (Texture) | not stated | 227 | I've been messing too much with my training parameters I no longer know what I am doing xD hopefully this lora | [link](https://civitai.com/models/2778013?modelVersionId=3128354) |
 | `[MOGUDAN] Artist Style Anima` | malebolgia, mogudan | 1 | 227 | The model I think is fairly self explanatory. https://vocaroo.com/1dCKgpymuk1M Back to my devilish tricks. Wor | [link](https://civitai.com/models/2801947?modelVersionId=3158856) |
+| `niku-ringo-artist-style-anima` | nikur1ng0 | 2 | 226 | requested lora use "(monochrome, greyscale:2)" in the negative if you want color | [link](https://civitai.com/models/3012175?modelVersionId=3418651) |
 | `p1eroanima` | p1ero, monochrome | not stated | 226 | for v2.0 trained with color and greyscale, cleaned some panels to avoid speech bubbles, trained with more clot | [link](https://civitai.com/models/2802642?modelVersionId=3159705) |
 | `wanaca-style-sakura-dungeon-anima` | Wanaca-Style | 0.8 | 226 | This a style LoRA inspired by the artist Wanaca, mainly based on the artwork from the game Sakura Dungeon. The | [link](https://civitai.com/models/3041500?modelVersionId=3457130) |
 | `[MAJENTA ROSE] SUCCUBUS T G D GameCG Style Anima` | Malebolgia, mgntars | 1 | 225 | The model I think is fairly self explanatory. https://vocaroo.com/1dCKgpymuk1M Back to my devilish tricks. Wor | [link](https://civitai.com/models/2806171?modelVersionId=3164106) |
@@ -1207,6 +1208,7 @@
 | `carmin-roux-han-juri-futa-street-fighter-i-anima` | malebolgia | 1 | 84 | The model I think is fairly self explanatory. https://vocaroo.com/1dCKgpymuk1M Back to my devilish tricks. Wor | [link](https://civitai.com/models/3022458?modelVersionId=3432089) |
 | `jonghaelee-eureka-brider-artist-style-anima` | malebolgia | 1 | 84 | The model I think is fairly self explanatory. https://vocaroo.com/1dCKgpymuk1M Back to my devilish tricks. Wor | [link](https://civitai.com/models/2982268?modelVersionId=3380781) |
 | `kaguyuzu-style-anima` | not stated | not stated | 84 | ANIMA ver. | [link](https://civitai.com/models/3019147?modelVersionId=3427757) |
+| `poseidon-no3-usagi-gari-gamecg-style-anima` | malebolgia | 1 | 84 | The model I think is fairly self explanatory. https://vocaroo.com/1dCKgpymuk1M Back to my devilish tricks. Wor | [link](https://civitai.com/models/3050678?modelVersionId=3469230) |
 | `bebora-tsunade-naruto-ai-generated-unknown-anima` | malebolgia | 1 | 83 | The model I think is fairly self explanatory. https://vocaroo.com/1dCKgpymuk1M Back to my devilish tricks. Wor | [link](https://civitai.com/models/3027879?modelVersionId=3439063) |
 | `dr-seuss-the-cat-in-the-hat-book-style-anima` | malebolgia | 1 | 83 | The model I think is fairly self explanatory. My ancestors are smiling at me imperial, can you say the same? h | [link](https://civitai.com/models/3039278?modelVersionId=3454103) |
 | `reign-of-nightfall-style-anima` | ymzx__style | not stated | 83 | Commissions are now open. https://www.fiverr.com/s/L3dBgdj https://ko-fi.com/asuka41/commissions QQ群： 10585172 | [link](https://civitai.com/models/3022258?modelVersionId=3431854) |
@@ -1292,6 +1294,7 @@
 | `indfald-style-anima` | 1ndf4ld | not stated | 61 | Style lora of the artist: Indfald, Trigger: 1ndf4ld, Works around 1.0 str And as always I appreciate any and a | [link](https://civitai.com/models/3033615?modelVersionId=3446748) |
 | `wayne-reynolds-anima` | @waynereynolds | not stated | 61 | Testing training | [link](https://civitai.com/models/3031807?modelVersionId=3444360) |
 | `vespa-by-ikarirh-anima` | V3sp4RH, piaggio_vespa, scooter | not stated | 60 | another vehicle experiment, after some test seems quite good, but i try more and maybe do a retrain with more  | [link](https://civitai.com/models/2188225?modelVersionId=3415954) |
+| `horori-sigrid-belle-remielle-doujin-style-anima` | malebolgia | 1 | 59 | The model I think is fairly self explanatory. https://vocaroo.com/1dCKgpymuk1M Back to my devilish tricks. Wor | [link](https://civitai.com/models/3050958?modelVersionId=3469569) |
 | `tarot-card-frame-anima` | tarot card frame | 0.7-1.0 | 58 | Turns any Anima image into a tarot card: an ornate gold frame, a numeral at the top and a title banner at the  | [link](https://civitai.com/models/3044762?modelVersionId=3461265) |
 | `azushiostyle-anima` | @azushio | not stated | 57 | A Azushio Style Since it was deleted, I’m readjusting the screenshot and posting it again. | [link](https://civitai.com/models/2998039?modelVersionId=3400483) |
 | `circle-kuusou-zikken-munehito-kuusou-zikke-anima` | malebolgia | 1 | 57 | The model I think is fairly self explanatory. https://vocaroo.com/1dCKgpymuk1M Back to my devilish tricks. Wor | [link](https://civitai.com/models/3049272?modelVersionId=3467406) |
@@ -1318,6 +1321,7 @@
 | `kubobw-style-v2-anima` | not stated | not stated | 32 | BLEACH 黑白漫畫畫風 LoRA，供個人研究使用。觸發詞：kubobw。搭配 Anima 系列底模，建議 LoRA 強度 0.8–1.0。目標是將黑白線條、留白及網點的畫風運用於原創角色。可在負向提示加入 color | [link](https://civitai.com/models/3024036?modelVersionId=3434123) |
 | `hanagoori-style-2-styles-anima` | @Hanagoori nm | not stated | 25 | Hanagoori Style lora You can get my early access models on my Patreon! https://www.patreon.com/c/fr0p644 Illus | [link](https://civitai.com/models/2991966?modelVersionId=3392870) |
 | `teal-orange-cinematic-h3` | not stated | not stated | 20 | Teal Orange Cinematic – Cinematic Teal & Orange Color Grading This LoRA is designed to create the iconic Teal  | [link](https://civitai.com/models/3034801?modelVersionId=3448220) |
+| `style-lapis002-anima` | @Lapis002 | 1.0 | 19 | Recommended Weight: 1.0 | [link](https://civitai.com/models/3051354?modelVersionId=3470068) |
 | `park-ah-yeon-i-like-sports-girls-gamang-ar-anima` | yeon, long hair, blonde hair, ponytail, brown eyes, large breasts | not stated |  | Ohayo, my hot and kinky people 🔥😈!, I find myself needing to use this intro from now on for my original models | [link](https://civitai.com/models/2931595?modelVersionId=3318107) |
 | `niji-listic-semi-realistic-niji-style-zit-anima` | niji-listic | 0.8-1 | 2777 | Trained on some choice Niji v6 gens. My attempt at the semi-realistic style we all know and love, but for Z-im | [link](https://civitai.com/models/2565651?modelVersionId=2946218) |
 | `2-anima` | 2 anima | not stated |  | Download 2 Anima 1.0, a LORA for Anima. 1 file: V1.safetensors (132 MB). Published Sep 1, 2026. No live mirror | [link](https://civitai.com/models/2902923?modelVersionId=3282621) |

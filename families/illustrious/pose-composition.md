@@ -1,6 +1,6 @@
 # Illustrious / NoobAI (Illustrious-XL based) — pose-composition
 
-73 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+78 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -64,14 +64,19 @@
 | `Spread legs with lift hips and arms support - v1.0 - MGACB` | MGACB, spread legs, arms support, | 0.8-0.9 | 238 | This is a specific pose for "Spread legs with lift hips and arms support". Lora strength : 0.8-0.9 You can use | [link](https://civitai.com/models/2835187?modelVersionId=3199687) |
 | `upside-down-hang-ill` | upside down hang ill | not stated | 224 | So for anyone wanting to give their lover a great time or break a stubborn slave I present - Upside down hang! | [link](https://civitai.com/models/2913138?modelVersionId=3295417) |
 | `over-the-shoulder-shot-ilxl-ots-ill` | not stated | not stated | 191 | 這個 lora 是用來測試 過肩視角 over-the-shoulder shot, 因為wai v17 測不出來動畫中我想要的視角 於是抓了幾張動畫截圖訓練 在這裡 赤裸男子為 shirtless male, nude | [link](https://civitai.com/models/2973847?modelVersionId=3370308) |
+| `boy-licking-girls-ass-from-behind-lying-on-ill` | BOY_LICKS_BOOTY, 1boy, 1girl, boy licking girl's pussy from behind, cunnilingus, | not stated | 180 | An idea for an erotic pose | [link](https://civitai.com/models/2539012?modelVersionId=2853469) |
 | `reverse-warrior-pose-yoga-concept-ill` | solo, closed eyes, detailed hands,, reversewarriorpose, looking up, deep lunge,  | 0.5 - 0.75 | 157 | Did you like it? You can support me here: https://ko-fi.com/vdyzn RECOMMENDED STRENGTH: 0.5 - 0.75 - The eyes  | [link](https://civitai.com/models/2904523?modelVersionId=3284600) |
 | `step-sis-riding-dildo-simulator-xl-ill` | not stated | 0.75 | 151 | STEP-SIS RIDING DILDO SIMULATOR XL SDXL + Illustrious XL + Realistic Pony XL / Front & Back View A specialized | [link](https://civitai.com/models/3017064?modelVersionId=3433188) |
 | `step-sis-ass-spread-simulator-ill` | ass_spread | 0.80–0.95 | 143 | High-fidelity interaction & pose LoRA for SDXL and Illustrious XL. Trained using a precise UNet-only method in | [link](https://civitai.com/models/3012318?modelVersionId=3434927) |
 | `contorted-pose-ill` | Contorted Pose | not stated | 141 | Meant for bondage. Sweet spot is 0.50-0.30. The training data has no restraints except the gag so should work  | [link](https://civitai.com/models/3043186?modelVersionId=3459240) |
+| `pov-sex-poses-8-positions-in-one-any-chara-ill` | pov_sexposes_nh | 0.7-0.9 | 141 | POV multi-position sex LoRA, trained for my adult visual novel UNTOLD: The Legend of Sleepy Hollow. One trigge | [link](https://civitai.com/models/3050683?modelVersionId=3469236) |
 | `standing behind sword - v0.8 - standing_behind_sword_epoch_10` | STDBHDSWD, two-handed, front view, huge weapon | not stated | 134 | inspired by this https://civitai.red/images/138899698 | [link](https://civitai.com/models/2857121?modelVersionId=3227067) |
 | `standing behind sword - v0.9 - standing_behind_sword_0_9_epoch_10` | STDBHDSWD, holding sword, crossguard, two-handed, huge sword | not stated | 122 | inspired by this https://civitai.red/images/138899698 | [link](https://civitai.com/models/2857121?modelVersionId=3231001) |
+| `pov-cowgirl-girl-on-top-any-character-wai-ill` | pov_cowgirl_nh | 0.7-0.9 | 118 | POV cowgirl LoRA, trained for my adult visual novel UNTOLD: The Legend of Sleepy Hollow. It only does the pose | [link](https://civitai.com/models/3050664?modelVersionId=3469212) |
+| `pov-doggystyle-sex-from-behind-any-charact-ill` | pov_doggy_nh | 0.7-0.9 | 117 | POV doggystyle LoRA, trained for my adult visual novel UNTOLD: The Legend of Sleepy Hollow. It only does the p | [link](https://civitai.com/models/3050658?modelVersionId=3469205) |
 | `yogabowpose-ill` | yogabowpose | not stated | 117 | The keyword for this model is "yogabowpose" You can change the outfit, background, hair color, accessories. Th | [link](https://civitai.com/models/2987547?modelVersionId=3387272) |
 | `lying-down-showing-her-backside-pose-ill` | lying-down pose showing off her backside ill, | not stated | 115 | lying-down pose showing off her backside ill, | [link](https://civitai.com/models/2993873?modelVersionId=3395243) |
+| `pov-blowjob-fellatio-looking-up-any-charac-ill` | pov_blowjob_nh | 0.7-0.9 | 112 | POV blowjob LoRA, trained for my adult visual novel UNTOLD: The Legend of Sleepy Hollow. It only does the pose | [link](https://civitai.com/models/3050672?modelVersionId=3469225) |
 | `yoke-and-spreader-bar-ill` | Yoke, Spreader Bar, Wrist Shackles, Ankle Shackles, Iron Collar, Iron Harness | not stated | 107 | Weights: 0.50-0.30 | [link](https://civitai.com/models/3046993?modelVersionId=3464146) |
 | `femdom pose - V1 - pose` | not stated | not stated | 105 | // | [link](https://civitai.com/models/2175156?modelVersionId=2449473) |
 | `suckpose-ill` | suckpose | not stated | 105 | suckpose | [link](https://civitai.com/models/3014035?modelVersionId=3421065) |

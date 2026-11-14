@@ -1,6 +1,6 @@
 # MOSS (Moss Image / kromoss) — style
 
-221 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+225 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -219,12 +219,16 @@
 | `goldcan-style-moss` | not stated | not stated | 80 | Artstyle similar to Goldcan's, now for Krea 2 Style description: Best quality illustration by Goldcan | [link](https://civitai.com/models/2993898?modelVersionId=3457819) |
 | `miro3d-style-characters-g4e-bloodlust-cere-moss` | taram3, platinum blonde ponytail, side-swept bangs, light eye makeup, gigantic b | not stated | 80 | This is a model replicating the old 3D art style of the artist Miro3D The MOSS Image versions V0.5 are current | [link](https://civitai.com/models/2848146?modelVersionId=3444205) |
 | `themyscira-priestess-dc-comics-amazons-moss` | DC_Comics_Themyscira_Priestess | not stated | 80 | The Themysciran priestesses emerged as the spiritual intermediaries between the Amazons and the Olympian godde | [link](https://civitai.com/models/3034840?modelVersionId=3448269) |
+| `vintage-crt-television-moss` | not stated | not stated | 80 | An old tube television on a wooden table or cabinet: black plastic, beige-grey or woodgrain cabinets with dial | [link](https://civitai.com/models/3051096?modelVersionId=3469743) |
 | `psychedelic-poster-moss` | not stated | not stated | 69 |  | [link](https://civitai.com/models/124612?modelVersionId=3465650) |
 | `miro3d-style-characters-g4e-bloodlust-cere-v0-2-moss` | sofim3, brunette updo, silver forehead jewelry, dark eye makeup, gigantic breast | not stated | 68 | This is a model replicating the old 3D art style of the artist Miro3D The MOSS Image versions V0.5 are current | [link](https://civitai.com/models/2848146?modelVersionId=3444223) |
 | `sidney-sime-moss` | not stated | not stated | 67 | Sidney Sime style. Atmospheric, chaotic, sometimes funny. Always start your prompt with a medium, eg. Illustra | [link](https://civitai.com/models/2986328?modelVersionId=3455373) |
 | `5b-modern-tv-anime-screencap-sakuga-broadc-moss` | in sakuga_screencap style | 0.80 | 64 | [MOSS-5B] Modern TV Anime Screencap / Sakuga Broadcast (in sakuga_screencap style) Mainstream Showcase Edition | [link](https://civitai.com/models/3048631?modelVersionId=3466521) |
 | `miro3d-style-characters-g4e-bloodlust-cere-v0-moss` | ernm3 futanari, short platinum blonde hair, side-swept hair, jeweled headband, d | not stated | 63 | This is a model replicating the old 3D art style of the artist Miro3D The MOSS Image versions V0.5 are current | [link](https://civitai.com/models/2848146?modelVersionId=3444209) |
+| `retro-quiet-cream-walls-and-deep-blue-skie-moss` | not stated | not stated | 53 | A calm, clean look: low cream and off-white buildings, stone tables and woven chairs, grassy slopes and coastl | [link](https://civitai.com/models/3050834?modelVersionId=3469416) |
 | `lvlv-style-moss` | not stated | not stated | 46 | Commercial use is prohibited! Due to CivitAI's review mechanism, I always don't know why some NSFW images are  | [link](https://civitai.com/models/3049510?modelVersionId=3467698) |
+| `ag-camio-wild-brush-fantasy-moss` | @C4M10V01C | 0.6-0.8 | 43 | Ars Goetia is series of loras made on a whim, on variety of images, made from mix of Midjourney, Tumblr, NijiJ | [link](https://civitai.com/models/3015225?modelVersionId=3453591) |
+| `painterly-concept-art-style-for-moss` | traditional oil painting style, semi-realism, | not stated | 41 | This is an experimental style lora intended to produce a semi-realistic digital concept art style. It is train | [link](https://civitai.com/models/3051322?modelVersionId=3470027) |
 | `andr01d-style` | not stated | not stated |  |  |  |
 | `artist-kanzarin-moss` | not stated | not stated |  |  |  |
 | `hana-kazari-artist-styles-moss` | not stated | not stated |  |  |  |

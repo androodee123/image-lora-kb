@@ -1,6 +1,6 @@
 # MOSS (Moss Image / kromoss) — character
 
-63 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+65 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 | slug | triggers | strength | dl | what | source |
 |---|---|---|---:|---|---|
@@ -63,7 +63,9 @@
 | `claude-moss` | not stated | not stated | 61 | Claude娘，提示词 claude,hair flower, orange flower,orange hair, black hair bow, earrings, black ascot, brooch, jabo | [link](https://civitai.com/models/3020493?modelVersionId=3429494) |
 | `lux-moss` | L/x | not stated | 58 | Lux- now in MOSS. | [link](https://civitai.com/models/3049210?modelVersionId=3467321) |
 | `ruku-orcus-iku-iku-succubus-saikyouiku-moss` | not stated | not stated | 48 | Roku Orcus a character from the hentai anime Iku Iku Succubus Saikyouiku If you want to support this model wit | [link](https://civitai.com/models/3045782?modelVersionId=3462588) |
+| `misao-takamine-from-saimin-seishidou-moss` | #SaiminSeishidou#-Misao-Takamine, black hair, grey pleated skirt, large breasts, | not stated | 44 | Misao Takamine from Saimin Seishidou https://www.animecharactersdatabase.com/characters.php?id=114120 caution  | [link](https://civitai.com/models/3051214?modelVersionId=3469904) |
 | `jane-moss` | jane, dress, open clothes, bow, blue dress,, underwear, bra, panties, cleavage,  | not stated | 41 | jane moss prototype | [link](https://civitai.com/models/3049276?modelVersionId=3467411) |
 | `lady-eva-blackhaired-moss` | PrincessEva | not stated | 41 | A woman from Eastern Europe, in her early 30s, loves swimming, the gym, and dancing. Sometimes she’s a little  | [link](https://civitai.com/models/3038562?modelVersionId=3453147) |
 | `gojo-satoru-jujutsu-kaisen-moss` | not stated | not stated | 35 | A LoRA trained on 600 pieces of material can better restore the character image in specific scenarios (the off | [link](https://civitai.com/models/3045646?modelVersionId=3462406) |
+| `deepseek-whale-girl-moss` | dafeiyu | not stated | 33 | **DeepSeek 娘「大肥鱼」/ 鲸鱼娘 —— 穿女仆装、长着兽耳和鲸鱼尾巴的少女** 基于 [MOSS-Image](https://huggingface.co/OpenMOSS-Team/MOSS-Image- | [link](https://civitai.com/models/3050927?modelVersionId=3469543) |
 | `mcbcore-moss` | mcbcore | 0.8 |  | Andrew's private LoRA (identity/style/anatomy helper). |  |

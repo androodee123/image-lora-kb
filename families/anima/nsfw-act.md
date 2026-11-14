@@ -1,6 +1,6 @@
 # Anima — nsfw-act
 
-190 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+192 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -148,6 +148,7 @@
 | `oblivious-sexualization-dumb-gullible-fema-anima` | not stated | not stated | 370 | Oblivious sexualization - dumb - gullible | [link](https://civitai.com/models/2989136?modelVersionId=3389309) |
 | `mounting-cowgirl-full-body-no-pov-anima` | 1girl, standing, 1boy, male on back,, hetero,  completely nude, penis, simple ba | not stated | 363 | Concept idea Watch your favorite waifu as she is ready to ride. The idea behind this Lora is a moment before t | [link](https://civitai.com/models/2965992?modelVersionId=3360641) |
 | `mutual-handjob-anima` | mutual handjob, jack off buddy, hand on another's penis, | not stated | 351 | This is a video of Lora and her partner giving each other handjobs. 相互に手コキをするloraになります。 | [link](https://civitai.com/models/2940034?modelVersionId=3328485) |
+| `zh-group-grab-sex-anima` | ZH_Gr0upGrab, group sex, gangbang, grabbing, nipple tweak, breast grab, multiple | not stated | 350 | UPDATE: Anima, Illustrious v2 models added! Q : Why early access? A: I do this for fun & make no money from th | [link](https://civitai.com/models/1205870?modelVersionId=3450050) |
 | `implied-sex-anima` | implied sex, out of frame, legs, lower body focus | not stated | 329 | concept | [link](https://civitai.com/models/3025293?modelVersionId=3435745) |
 | `extreme-spread-nipple-nipple-sex-anime-hen-anima` | @nipplefuck, Nipples like vagina, Nipples like pussy,, spread a nipple, close up | not stated | 317 | Anima provides a reasonable level of support for "nipple-fucking." This LoRA offers stable support for even mo | [link](https://civitai.com/models/3040076?modelVersionId=3455289) |
 | `kneeling-fellatio-48-anima` | not stated | not stated | 315 | 1.Kneeling Fellatio, <lora:Kneeling_FellatioV2:0.7>, 1girl,hetero, 1boy,closed eyes, (lying on back male:1.4), | [link](https://civitai.com/models/3048755?modelVersionId=3466673) |
@@ -160,6 +161,7 @@
 | `armpit-sex-anima` | not stated | not stated | 270 | This LoRA was created because the base Anima model struggled to properly generate armpit sex scenes. It often  | [link](https://civitai.com/models/3011637?modelVersionId=3417958) |
 | `multiple-vaginal-anal-anima` | double vaginal, double anal, triple anal, solo focus, disembodied penis, multipl | not stated | 270 | Multiple Vaginal/Anal concept for Anima. I wrote the tags on details bar. Originally planned to make double, b | [link](https://civitai.com/models/3023648?modelVersionId=3433610) |
 | `cervix-prolapse-fuck-anima` | gtrcp cervix prolapse fuck | not stated | 268 | Cervix prolapse is being penetrated Style influence is heavy as usual | [link](https://civitai.com/models/3040017?modelVersionId=3455189) |
+| `harem-threesome-ffm-3p-21-anima` | not stated | not stated | 265 | 1.guided breast grab. 832×1200 <lora:Harem_Threesome:0.7> 2girls, pov hands, (guided breast grab), 1boy, worri | [link](https://civitai.com/models/3050680?modelVersionId=3469233) |
 | `on-back-dildo-masturbation-anima` | dildo onslaught, fake testicles, on back, holding sex toy, suction sex toy, open | not stated | 261 | Concept | [link](https://civitai.com/models/2996561?modelVersionId=3398616) |
 | `shower-masturbation-anima` | shower, masturbation, water, wet skin | not stated | 256 | In need of "clean" images? Start here! Trained on images of men/women/futa in the shower. | [link](https://civitai.com/models/1837562?modelVersionId=3262145) |
 | `69-anima` | This is a digital anime-style illustration depicting a sexual scene between a yo | not stated | 255 | Attempt at the 69 position, viewed from the side and from above | [link](https://civitai.com/models/3018872?modelVersionId=3427406) |

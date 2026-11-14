@@ -1,6 +1,6 @@
 # Illustrious / NoobAI (Illustrious-XL based) — nsfw-act
 
-194 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+195 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -177,6 +177,7 @@
 | `suspension-bondage-ill` | Suspension Bondage | not stated | 197 | Weights: 0.50-0.30 | [link](https://civitai.com/models/3047116?modelVersionId=3464299) |
 | `motorcycle-footjob-ill` | MBJob, MBJob, sitting on motorcycle, nude, man laying down,  footjob, penis ejac | not stated | 189 | Trigger word: MBJob white background, sitting on motorcycle, nude, man laying down, footjob, penis ejaculation | [link](https://civitai.com/models/2149692?modelVersionId=2431412) |
 | `Fleshlight Sex toy - gay nsfw - V1 - V1` | Fl3sh_light, male sex toy, artificial vagina, penetrable sex toy, fleshlight mas | not stated | 179 | IIt works well in both 3D and 2D styles. | [link](https://civitai.com/models/2886156?modelVersionId=3262540) |
+| `zh-group-grab-sex-ill` | ZH_Gr0upGrab, group sex, gangbang, grabbing, nipple tweak, breast grab, multiple | not stated | 170 | UPDATE: Anima, Illustrious v2 models added! Q : Why early access? A: I do this for fun & make no money from th | [link](https://civitai.com/models/1205870?modelVersionId=3465442) |
 | `male-anal-cross-section-ill` | mp-analcross, internal view, cum inside | 0.6-0.7 | 169 | I present my attempt to make a male-focused anal cross-section model (since base models are too cervix-focused | [link](https://civitai.com/models/2818111?modelVersionId=3178671) |
 | `sex-doll-box-from-dolls-by-fan-no-hitori-ill` | <lora:CHARACTER_LORA:0.8>, <lora:BOXCONCEPT_LORA:0.7>, CHARACTER_TRIGGER, adult  | not stated | 160 | You very own human sex doll in a box  a work in proogress | [link](https://civitai.com/models/851505?modelVersionId=3225324) |
 | `metal-bondage-frame-ill` | Metal Bondage Frame | not stated | 151 | A metal restrictive bondage frame | [link](https://civitai.com/models/3049461?modelVersionId=3467638) |

@@ -1,6 +1,6 @@
 # Krea2 (detailed-krea2) — style
 
-1066 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+1069 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -870,6 +870,7 @@
 | `bluefantasy-krea2` | not stated | not stated | 122 | This lora is trained on fantasy artwork which has a cool tone, and a traditional fantasy feel. No special prom | [link](https://civitai.com/models/2976011?modelVersionId=3372986) |
 | `chromie-creuse-krea2` | vtxchromiecreuse | 1.0 | 122 | If you enjoy my work, I’d love for you to follow me, leave a comment and share the images you create! If you’d | [link](https://civitai.com/models/3024074?modelVersionId=3434173) |
 | `futurama-season-1-tv-series-style-krea2` | ftrmssn1 | 1 | 122 | Premium character LoRAs Original synthetic characters, bundles and AI tools are in my shop: https://rkrra.com/ | [link](https://civitai.com/models/2968642?modelVersionId=3363800) |
+| `retro-sweetie-krea2` | retro sweetie | not stated | 121 | This LoRA was trained on American models and actors from the 1960s. It can reproduce the statistical average o | [link](https://civitai.com/models/3050902?modelVersionId=3469495) |
 | `macdougall-krea2` | macdougall krea2 | not stated | 120 | . | [link](https://civitai.com/models/2874632?modelVersionId=3248240) |
 | `bursting-by-fos-blue-buzz-access-krea2` | Bur57, a burst of, expanding out, expanding up, bursting out, exploding | 0.7 | 119 | https://civitai.red/user/FrogOnStilts/shop Krea 2 Bursting LoRA 🪵🐸🪵 Trained on hand-picked 4K/2K images, it's  | [link](https://civitai.com/models/2962396?modelVersionId=3356210) |
 | `vintagelight-2-krea2` | Vintagelight | not stated | 119 | A nostalgic touch for male depictions. That model is inspired by professional erotic photographs from around 1 | [link](https://civitai.com/models/3018852?modelVersionId=3427388) |
@@ -991,6 +992,7 @@
 | `al-guang-style-krea2` | not stated | not stated | 78 | 在魔塔上的训练 α和β采用两种不同的打标提示词 | [link](https://civitai.com/models/3001856?modelVersionId=3408341) |
 | `judge-dredd-1995-movie-style-krea2` | jddd | 1 | 78 | Premium character LoRAs Original synthetic characters, bundles and AI tools are in my shop: https://rkrra.com/ | [link](https://civitai.com/models/2883153?modelVersionId=3258897) |
 | `neon-genesis-evangelion-the-end-of-evangel-krea2` | ngevgln | 1 | 78 | Premium character LoRAs Original synthetic characters, bundles and AI tools are in my shop: https://rkrra.com/ | [link](https://civitai.com/models/2882878?modelVersionId=3258526) |
+| `nv3d-style-krea2` | not stated | not stated | 78 | Lora Based on the 3dcg works of Nv3d Any and all support is appreciated so i can get to making more loras! tem | [link](https://civitai.com/models/3046415?modelVersionId=3463433) |
 | `essence-of-aqua-krea2` | grazing, accenting, melding, seeping, reserving, blending | not stated | 77 | A watercolor technique lora. The dataset contained no subjects at all: no portraits, people, animals or object | [link](https://civitai.com/models/3045139?modelVersionId=3461734) |
 | `taa1hafumaix-krea2` | taa1hafumaix. | 0.6 - 1.0 | 76 | You can use strength 0.6 - 1.0 The rest is up to you, just adjust accordingly. If you have any questions, just | [link](https://civitai.com/models/2944478?modelVersionId=3333976) |
 | `cassetterecorder-artist-style-krea2` | KR2_Cassetterecorder, Digital Painting | not stated | 74 | Based On:https://www.furaffinity.net/user/cassetterecorder/ Want to support me without Tipping? Here's how: Li | [link](https://civitai.com/models/2633476?modelVersionId=3248288) |
@@ -1055,6 +1057,7 @@
 | `nimona-2023-movie-style-krea2` | nmn | 1 | 38 | Premium character LoRAs Original synthetic characters, bundles and AI tools are in my shop: https://rkrra.com/ | [link](https://civitai.com/models/2883025?modelVersionId=3258726) |
 | `silly-pencil-cats-krea2` | A pencil caricature | not stated | 37 | Raw Cfg 4 | [link](https://civitai.com/models/3045831?modelVersionId=3462661) |
 | `bloodknoot-krea2` | bl00dkn0t | not stated | 36 | bloodknot colective model for krea | [link](https://civitai.com/models/2982584?modelVersionId=3381194) |
+| `in-the-style-of-fudou58-hyperrealistic-and-krea2` | In the style of Fudou58, hyperrealistic and detailed anime style | not stated | 32 | latex | [link](https://civitai.com/models/3051018?modelVersionId=3469639) |
 | `rise-of-the-guardians-2012-movie-style-krea2` | rtg | 1 | 31 | Premium character LoRAs Original synthetic characters, bundles and AI tools are in my shop: https://rkrra.com/ | [link](https://civitai.com/models/2883952?modelVersionId=3259855) |
 | `krea80s` | not stated | not stated | 30 | Unlock 3 premium checkpoints + the entire LoRA Lab with the Event Horizon Pass — just $20/month, and everythin | [link](https://civitai.com/models/2958510?modelVersionId=3354039) |
 | `fantasy-toys-krea2` | BadDragonRK | 1 | 29 | Premium character LoRAs Original synthetic characters, bundles and AI tools are in my shop: https://rkrra.com/ | [link](https://civitai.com/models/3015091?modelVersionId=3422412) |

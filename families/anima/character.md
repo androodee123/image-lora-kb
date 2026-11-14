@@ -1,6 +1,6 @@
 # Anima — character
 
-735 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+740 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -614,6 +614,7 @@
 | `toy-chica-disembowell-fnaf-anima` | 1girl, big breasts, pink eyeshadow, makeup, eyeliner, mascara, eyelashes, colore | not stated | 62 | Toy Chica Disembowell is the name of a fan-made modification, custom design project based on the popular chara | [link](https://civitai.com/models/3026325?modelVersionId=3437091) |
 | `champagne-azur-lane-anima` | not stated | not stated | 61 | For the oath wedding skin of Champagne in Azur Lane 用于碧蓝航线香槟誓约婚礼皮肤 用anima 2.9b 训练/base anima 2.9b 不确定2b能不能用 新手 | [link](https://civitai.com/models/3032949?modelVersionId=3445881) |
 | `lina-anima` | lina, red hair, long hair, twin braids, green eyes | 0.8 | 61 | Lina — an original adult character: long deep crimson wine-red hair in two long loose braids with loose wavy s | [link](https://civitai.com/models/2992306?modelVersionId=3398471) |
+| `nagiriin-ryou-taimanin-rpgx-rpgx-illustrio-anima` | nagiriin_ryou-taimarpgx, 1girl, solo, pink hair, long hair, very long hair, bang | 0.7 to 1 | 61 | Use strength between 0.7 to 1. ADetailer is a must for this model. Reduce strength if you wanna use with other | [link](https://civitai.com/models/2290746?modelVersionId=3438497) |
 | `nasara-taimanin-anima` | Nasara | 0.8 | 61 | Nasara (ナーサラ) - Taimanin / Anima LoRA Title alternatives: Nasara / ナーサラ [Anima] v1 / ナーサラ Nasara - Taimanin (対 | [link](https://civitai.com/models/3048467?modelVersionId=3466333) |
 | `saeko-oc-anima` | not stated | not stated | 61 | Anima | [link](https://civitai.com/models/3042008?modelVersionId=3457772) |
 | `tinx-oc-wolfpack-anima` | TinX_GV, 24 years old, green eyes, two toned hair, blonde hair, aqua hair, (long | not stated | 61 | TinX: The Graveyard Pixie A WolfPack original character. "Tinker-Belle. Someone said it once and it stuck. I f | [link](https://civitai.com/models/3032413?modelVersionId=3445185) |
@@ -655,10 +656,12 @@
 | `persephone-smite-anima` | Persmi, red hair, long hair, hair ornament, hair flower, green eyes, makeup, lip | not stated | 53 | Persephone from the game Smite. Hopefully, when she releases in Smite 2, I can update this.  Might have to low | [link](https://civitai.com/models/1892291?modelVersionId=3442585) |
 | `pewpew-girl-anima` | not stated | not stated | 53 | Pewpew Girl -- well, that's what I named her. Not sure if she's based on a real character or not. I just loved | [link](https://civitai.com/models/2982142?modelVersionId=3380620) |
 | `winnie-pig-oc-anima` | pigqneez, pig girl, furry female | not stated | 53 | Pig Girl! V1.5: Tried improving to give slightly less smudgy results. V2.0: Retrained again so it matches up w | [link](https://civitai.com/models/2392242?modelVersionId=3413982) |
+| `shakira-warlord-1976-l-anima` | shakiradg, long hair, black hair, green eyes, necklace, fur bikini | 0.8 | 52 | 🪓 Shakira 🐆 Warlord 🪓 (Anima) DC’s Warlord from 1976, Mike Grell era sword and sorcery, and Shakira is one of  | [link](https://civitai.com/models/3050409?modelVersionId=3468881) |
 | `soul-fighter-samira-anima` | soul_fighter_samira, adult woman with tan skin and a long red orange braid. She  | not stated | 52 | soul_fighter_samira, adult woman with tan skin and a long red orange braid. She wears her original black eyepa | [link](https://civitai.com/models/3044496?modelVersionId=3460893) |
 | `vtuber-motherv3-anima` | VTuber_MOTHERv3, (VTuber_MOTHERv3, short hair, grey hair, bangs, horns, tail, pu | not stated | 52 | VTuber MOTHERv3 Recommended Tags: (VTuber_MOTHERv3, short hair, grey hair, bangs, horns, tail, purple eyes, de | [link](https://civitai.com/models/1555124?modelVersionId=3445804) |
 | `webtoon-character-jeon-ji-yeon-dream-shari-anima` | JnJynd, orange hair, curly hair, green eyes, facial mark, yellow fairy wings, re | 0.8 | 52 | Anima가 베이스가 되는 모델은 아무거나 사용하셔도 됩니다. You can use any model as the base for Anima. Anima English This is the outf | [link](https://civitai.com/models/2992298?modelVersionId=3393277) |
 | `20261028-tinanimagirllora-kiana-kaslana-anima` | not stated | not stated | 51 | kiana kaslana, kiana kaslana\(honkai impact\), kiana kaslana\(honkai impact 3rd\), | [link](https://civitai.com/models/3024037?modelVersionId=3434124) |
+| `dark-queen-battletoads-ponyxl-anima` | darkqueendg, long hair, black hair, eyeshadow, blue eyes, hair over eye, lipstic | 0.8 | 51 | 👑 Dark Queen 🖤 Battletoads 👑 (Anima) V2, retrained and looking the part. 👑 One of the all time great villain d | [link](https://civitai.com/models/735539?modelVersionId=3469653) |
 | `alex-edge-of-desire-anima` | not stated | not stated | 50 | Alex - Edge of Desire | [link](https://civitai.com/models/3004209?modelVersionId=3408322) |
 | `cookie-animal-crossing-il-anima` | C00kieAC, furry female, {plaid dress, tartan dress, blue dress, white stripe dre | not stated | 50 | "Don't lose sight of what you're really after." Generates a personal favorite villager of mine, Cookie! 🐶Main  | [link](https://civitai.com/models/2067386?modelVersionId=3408192) |
 | `galadgilf-an-oc-pdxl-il-anima` | galadgilf | not stated | 49 | An OC based on some old generations of mine. Should produce a lady somewhat resembling Galadriel from Lord of  | [link](https://civitai.com/models/708814?modelVersionId=3387368) |
@@ -722,6 +725,8 @@
 | `stefan-anima` | stefan | not stated | 24 | Stefan character | [link](https://civitai.com/models/3045380?modelVersionId=3462042) |
 | `shoten-anima` | sh0t3n, mature male,  Main outfit: cape, wrestling belt, mask, elephant trunk, r | not stated | 22 | Shoten from Cho Aniki Trigger words: sh0t3n, mature male, Main outfit: cape, wrestling belt, mask, elephant tr | [link](https://civitai.com/models/1547553?modelVersionId=3390327) |
 | `yanluoshi-miraculous-world-ad-anima` | Yanluoshi, armor | 0.5 to 1.15 | 21 | This is an Anima lora for the character Yanluoshi from the Miraculous World cartoon. The character is based of | [link](https://civitai.com/models/3047575?modelVersionId=3465089) |
+| `allura-succubus-anima` | a11ura | not stated | 14 | A flexible, character-focused LoRA of a classic succubus. Core identity is a red-skinned demoness with large b | [link](https://civitai.com/models/3051209?modelVersionId=3469896) |
+| `roxy-rm-og-v2-anima` | not stated | not stated | 10 | Roxy | [link](https://civitai.com/models/2830536?modelVersionId=3470034) |
 | `Ass to mouth_ANIMA` | kneeling, 2girls, lying, cleaning fellatio, 1boy, group sex, anus, after anal, c | not stated |  | Ohayo, my hot and kinky people 🔥😈!, I find myself needing to use this intro from now on for my original models | [link](https://civitai.com/models/2803728?modelVersionId=3161138) |
 | `Humiliated Waifu_ANIMA` | large breasts, restrained, spread anus, big belly, inflation, through wall, stuc | not stated |  | Ohayo, my hot and kinky people 🔥😈!, I find myself needing to use this intro from now on for my original models | [link](https://civitai.com/models/2803729?modelVersionId=3161139) |
 | `muti-l-further-anima` | not stated | not stated |  |  | [link](https://civitai.com/models/3002645?modelVersionId=3406273) |
