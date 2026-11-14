@@ -575,6 +575,19 @@
   {
    "date": "2026-11-14",
    "event": "candidate",
+   "family": "anima",
+   "slug": "Nanami (ななみ) - Magical Explorer (マジカル★エクスプローラー　エロゲの友人キャラに転生したけど、ゲーム知識使って自由に生きる)",
+   "category": "character",
+   "triggers": [
+    "<lora:Nanamiws:0.8>, nanamiws, short hair with long locks, hair over one eye, white hair, heterochromia, pink eyes, purple eyes, large breasts,",
+    "maid, maid headdress, red neck ribbon, black dress, cleavage cutout, white chest bow, puffy short sleeves, white gloves, maid apron, frilled apron, waist apron, pleated dress, short dress, black thighhighs, black high heels,",
+    "gym uniform, maid headdress, bare legs, buruma, name tag, gym shirt, short sleeves, red buruma,"
+   ],
+   "url": "https://civitai.com/models/3051562"
+  },
+  {
+   "date": "2026-11-14",
+   "event": "candidate",
    "family": "illustrious",
    "slug": "Multiple Girls Group - Milk Factory / みるくふぁくとりー Style (Anima/illustrious)",
    "category": "style",

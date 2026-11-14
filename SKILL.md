@@ -17,7 +17,7 @@ Snapshot 2026-11-14. Adults-only (18+) concepts; describe NSFW factually. No min
 | Illustrious / NoobAI (Illustrious-XL based) | 2426 | 14 | 4451 |
 | SDXL | 102 | 0 | 1584 |
 | Pony (Pony Diffusion XL) | 248 | 7 | 1282 |
-| Anima | 3427 | 0 | 1517 |
+| Anima | 3427 | 0 | 1518 |
 | Krea2 (detailed-krea2) | 3782 | 3 | 1895 |
 | MOSS (Moss Image / kromoss) | 594 | 0 | 756 |
 
@@ -34,7 +34,7 @@ Snapshot 2026-11-14. Adults-only (18+) concepts; describe NSFW factually. No min
 <!-- AUTO-UPDATE:START -->
 ## Live inventory (auto-updated by `scripts/update.py`, 2026-11-14)
 
-On Graydient: illustrious **2426** · sdxl **102** · pony **248** · anima **3427** · krea2 **3782** · moss **594**. Ingest candidates: illustrious 4451 · sdxl 1584 · pony 1282 · anima 1517 · krea2 1895 · moss 756.
+On Graydient: illustrious **2426** · sdxl **102** · pony **248** · anima **3427** · krea2 **3782** · moss **594**. Ingest candidates: illustrious 4451 · sdxl 1584 · pony 1282 · anima 1518 · krea2 1895 · moss 756.
 
 **Recently available (newest first, max 20):**
 
@@ -61,6 +61,7 @@ On Graydient: illustrious **2426** · sdxl **102** · pony **248** · anima **34
 
 **Newest ingest candidates from the weekly update (proposals only; max 10):**
 
+- 2026-11-14 Nanami (ななみ) - Magical Explorer (マジカル★エクスプローラー　エロゲの友人キャラに転生したけど、ゲーム知識使 (anima/character) — <lora:Nanamiws:0.8>, nanamiws, short hair with long locks, hair over one eye, white hair, heterochromia, pink eyes, purple eyes, large breasts,, maid, maid headdress, red neck ribbon, black dress, cleavage cutout, white chest bow, puffy short sleeves, white gloves, maid apron, frilled apron, waist apron, pleated dress, short dress, black thighhighs, black high heels,, gym uniform, maid headdress, bare legs, buruma, name tag, gym shirt, short sleeves, red buruma, — https://civitai.com/models/3051562
 - 2026-11-14 Multiple Girls Group - Milk Factory / みるくふぁくとりー Style (Anima/illustrio (illustrious/style) — group_mf — https://civitai.com/models/228093
 - 2026-11-14 Eldreda Sunbringer エルダ・サンブリンガー, 2 Outfits — Zenless Zone Zero ゼンレスゾーンゼ (illustrious/clothing) — eldreda sunbringer \(zenless zone zero\), eldreda sunbringer \(moonlit\) \(zenless zone zero\) — https://civitai.com/models/2921324
 - 2026-11-14 [尘白禁区 Snowbreak] 芙提雅-驰掣 毛绒派对 Turbo Hare Plush Party illnai3-XL-lora (illustrious/utility) — fritia_ignis,  fritia_ignis-Turbo Hare_(Plush Party) — https://civitai.com/models/938960
@@ -70,7 +71,6 @@ On Graydient: illustrious **2426** · sdxl **102** · pony **248** · anima **34
 - 2026-11-14 Kizuki_Rei Style (illustrious/style) — K1zuk1_R3i, — https://civitai.com/models/1448540
 - 2026-11-14 Female Endministrator 管理人 — Arknights: Endfield アークナイツ：エンドフィールド [Anima (illustrious/character) — female endministrator \(arknights: endfield\) — https://civitai.com/models/2999716
 - 2026-11-14 Lyra Flux (krea2/character) — trigger not stated — https://civitai.com/models/2284720
-- 2026-11-14 [ANIMA/ILXL] Satowa Houzuki 鳳月さとわ | Kono Oto Tomare! この音とまれ！ Sounds of (illustrious/character) — <lora:satowa_houzuki-kono_oto_tomare_s2-v2-ixl-anime-soralz:1>, satowa houzuki (kono oto tomare), long hair, black hair, straight hair, hair between eyes, brown eyes, sidelocks, school uniform, blue blazer, white collared shirt, striped bowtie, school emblem, breast pocket, long sleeves, plaid skirt, pleated skirt, kneehighs, loafers, school uniform, blue serafuku, sailor collar, red neckerchief, long sleeves, pleated skirt, kneehighs, black loafers, yellow pajamas, print pajamas, cat print, paw print, long sleeves, long pants — https://civitai.com/models/2748041
 <!-- AUTO-UPDATE:END -->
 
 ## How to look up any LoRA

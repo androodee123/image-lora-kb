@@ -5,7 +5,7 @@
 **Suggest ingest (max 3, nothing auto-downloads):**
 
 - Suggest ingest: [Velvet's Mythic Fantasy Styles / Flux + Pony + illustrious + ZiT + Ani](https://civitai.com/models/599757) (illustrious, 250,565 dl) — `C0lorL1nes` · strength not stated — **downloads 250565 >= 2x best available (23879) in same family+category**
-- Suggest ingest: [Aesthetic Quality Modifiers - Masterpiece](https://civitai.com/models/929497) (illustrious, 184,259 dl) — `masterpiece, best quality, very aesthetic` · strength not stated — **downloads 184259 >= 2x best available (23879) in same family+category**
+- Suggest ingest: [Aesthetic Quality Modifiers - Masterpiece](https://civitai.com/models/929497) (illustrious, 184,261 dl) — `masterpiece, best quality, very aesthetic` · strength not stated — **downloads 184261 >= 2x best available (23879) in same family+category**
 - Suggest ingest: [Illustrious Style Pack](https://civitai.com/models/1060551) (illustrious, 121,760 dl) — trigger not stated · strength not stated — **downloads 121760 >= 2x best available (23879) in same family+category**
 
 | slug | triggers | strength | dl | what | source |

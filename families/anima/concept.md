@@ -4,7 +4,7 @@
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
-- Suggest ingest: [ロ○巨乳/Bust Size (Big)(XL,ill,pony)](https://civitai.com/models/458386) (anima, 11,431 dl) — `lkp` · strength `1.0` (stated) — **downloads 11431 >= 2x best available (3187) in same family+category**
+- Suggest ingest: [ロ○巨乳/Bust Size (Big)(XL,ill,pony)](https://civitai.com/models/458386) (anima, 11,432 dl) — `lkp` · strength `1.0` (stated) — **downloads 11432 >= 2x best available (3187) in same family+category**
 - Suggest ingest: [Mechanism concept](https://civitai.com/models/539249) (anima, 9,528 dl) — `mcnm` · strength `0.75-1` (stated) — **downloads 9528 >= 2x best available (3187) in same family+category**
 - Suggest ingest: [Spiderwebbed (Krea, Anima, ILXL, Pony)](https://civitai.com/models/384304) (anima, 7,562 dl) — `spiderwebbed` · strength not stated — **downloads 7562 >= 2x best available (3187) in same family+category**
 

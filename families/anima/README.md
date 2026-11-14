@@ -1,6 +1,6 @@
 # Anima — text-to-image LoRAs
 
-On Graydient: **3427** distinct LoRAs · HF repo only (needs adding to Graydient): **0** · ingest candidates: **1517**
+On Graydient: **3427** distinct LoRAs · HF repo only (needs adding to Graydient): **0** · ingest candidates: **1518**
 
 Per-category pages (sorted: Graydient first, then by CivitAI downloads). Complete data: `data/loras.jsonl` (filter `family == anima`).
 
