@@ -182,6 +182,12 @@ def run(a, clock, summary, today):
     if reverted:
         U.log("reverted timestamp-only diffs:", reverted)
     changed = U.dirty(ROOT)
+    meaningful = any(summary["changes"].values()) or new_files or gone_files
+    if changed and not meaningful and summary["_clean_start"]:
+        U.log("only live download-count drift; not committing (stats refresh with the next real change)")
+        U.restore_tree(ROOT)
+        summary["warnings"].append("stats-only drift ignored")
+        changed = U.dirty(ROOT)
     if changed:
         write_reports(today, summary, moved_rows, added, removed, became, new_cand, new_files, gone_files)
     summary["files_changed"] = len([l for l in changed.split("\n") if l.strip()])
