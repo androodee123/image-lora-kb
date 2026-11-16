@@ -1,12 +1,12 @@
 # Illustrious / NoobAI (Illustrious-XL based) — concept
 
-180 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+184 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
 - Suggest ingest: [Ohogao SDXL LoRA [illustrious, Pony]](https://civitai.com/models/322121) (illustrious, 54,336 dl) — `ohogao,  puckered lips, trembling, tearing up,  v-shaped eyebrows, rol`, `tongue out, tongue up` · strength not stated — **downloads 54336 >= 2x best available (5848) in same family+category**
 - Suggest ingest: [MGE Monster Girls](https://civitai.com/models/556479) (illustrious, 36,393 dl) — trigger not stated · strength not stated — **downloads 36393 >= 2x best available (5848) in same family+category**
-- Suggest ingest: [Cumflood](https://civitai.com/models/18665) (illustrious, 36,273 dl) — `cumallover`, `cumflooding`, `fillingpool`, `hyperejaculation` · strength not stated — **downloads 36273 >= 2x best available (5848) in same family+category**
+- Suggest ingest: [Cumflood](https://civitai.com/models/18665) (illustrious, 36,289 dl) — `cumallover`, `cumflooding`, `fillingpool`, `hyperejaculation` · strength not stated — **downloads 36289 >= 2x best available (5848) in same family+category**
 
 | slug | triggers | strength | dl | what | source |
 |---|---|---|---:|---|---|
@@ -22,6 +22,7 @@
 | `Femdom drinking spit IL - IL - femdom_drinking_spit_IL` | fd_dk_spit, 1girl, spits on tongue, accepts spit, tongue out, assertive female,  | 1 | 2564 | Weight : 1 Trigger Word : fd_dk_spit | [link](https://civitai.com/models/1715670?modelVersionId=1941518) |
 | `chainshibariILL` | chain shibari | not stated | 2332 | made from my own concept art To the bearer of this delicate LoRA~ Tread softly through this twilight spell, an | [link](https://civitai.com/models/1930784?modelVersionId=2185303) |
 | `corruption-ill` | corruption,breasts,gloves,thighhighs,dark persona,pubic tattoo,covered nipples,c | not stated | 1986 | The strength of Lora is recommended to be around 1.0. The Flux version is a trial version. It has hardly been  | [link](https://civitai.com/models/1077106?modelVersionId=2745766) |
+| `conceptclothes-on-and-off-ill` | multiple views, clothes on and off, reference sheet | not stated | 1892 | TAGS: multiple views, clothes on and off, reference sheet Meant for reference sheets that show a character wit | [link](https://civitai.com/models/1565961?modelVersionId=1772087) |
 | `impossible-fit-il-2-0-ill` | xxl_penetration, one_arm_grab, pocket_girl, living_onahole, object insertion, te | not stated | 1824 | Helps with huge insertion concept. A bit different from the new versions of the old. It's stable up to 1.5 str | [link](https://civitai.com/models/2310716?modelVersionId=2762401) |
 | `akira-slide-meme-ill` | akira_slide, ground vehicle, motorcycle, on motorcycle, road, city, electricity, | not stated | 1605 | Please avoid using too many LoRA's as that can mess up your image! remember to leave hearts and reviews <3 ~ V | [link](https://civitai.com/models/883395?modelVersionId=1361295) |
 | `BBC_Interracial_V3_epoch_10` | bbc_int, dark-skinned male, interracial | not stated | 1564 | V1: A model to do dark skinned males with interracial. Also mimics the style of pafu (pafuunchained) which you | [link](https://civitai.com/models/2526457?modelVersionId=2954597) |
@@ -74,6 +75,7 @@
 | `femboy-pinups-ill` | femboy | not stated | 365 | Trained on a variety of poses, to create your own pinup images (with a little extra!) | [link](https://civitai.com/models/1606995?modelVersionId=1818552) |
 | `industrial-robot-arm-illustriousxl-ill` | Industrial robot arm | not stated | 365 | It's very unstable. Affects the shape of the mech. | [link](https://civitai.com/models/1052455?modelVersionId=1180949) |
 | `akira-motorcycle-ill` | @k1r@ | not stated | 343 | Akira, motorcycle, testing be back with more info soon. | [link](https://civitai.com/models/1603492?modelVersionId=1814601) |
+| `foodcustomizable-parfait-ill` | parfait, parfait_green, parfait_red, parfait_pink, parfait_aqua, parfait_blue, p | not stated | 339 | ‼️ ANIMA EDIT ‼️  honestly, this isn't the best, the toppings rarely work. perhaps I need to rework the tags?  | [link](https://civitai.com/models/1720441?modelVersionId=1946953) |
 | `egg-implantation-ill` | eggimplant,, tentacles,tentacle sex,pregnant,restrained,spread legs,vaginal,slim | 0.8 | 321 | weight：0.8～1.2 trigger：eggimplant, サンプル画像のタグや、下記の推奨プロンプトを参考にしてください。（please refer to the tags in the sample ima | [link](https://civitai.com/models/3036768?modelVersionId=3450835) |
 | `woodtrap-ill` | woodtrap | not stated | 302 | The key word for this model is "Woodtrap" You can change the clothes and background. There are side and above  | [link](https://civitai.com/models/2969869?modelVersionId=3365361) |
 | `drunk-girls-ill` | not stated | not stated | 298 | drunk girl | [link](https://civitai.com/models/2930081?modelVersionId=3316079) |
@@ -84,6 +86,7 @@
 | `restrained-on-bed-concept-rebake-ill` | rebake-strained, <lora:Rebake_concept_illustrious_3423689_epoch_12:1>, rebake-st | not stated | 232 | I liked this artist’s artwork and wanted to capture it in this form. Artist: Rebake Prompt: <lora:Rebake_conce | [link](https://civitai.com/models/3016068?modelVersionId=3423689) |
 | `tentacle-encasement-ill` | Tentacles | not stated | 230 | 0.30-0.50 is the sweet spot. Anything higher will be blurry. | [link](https://civitai.com/models/3046475?modelVersionId=3463504) |
 | `cumflation-x-ray-il-ill` | cum inflation, x-ray, uterus | not stated | 226 | Inspired and partially trained on the works of hayashi custom/はやしカスタム, this is a LoRA for producing x-rays of  | [link](https://civitai.com/models/3044696?modelVersionId=3461179) |
+| `conceptlamia-colorable-scales-ill` | lamia, (color) scales | not stated | 221 | TAGS: lamia, (color) scales This LoRA makes so you can control the color of the bottom half of the Lamia It wo | [link](https://civitai.com/models/1976803?modelVersionId=2237533) |
 | `Succubus Devil on Shoulder Seduction - Illustrious - v0 - Succubus__Devil_on_Shoulder__Seduction` | succubus, 1boy, 1girl, demon girl, fangs, wings, horns, pointy ears, red skin, t | not stated | 219 | BE WARNED For some reason the male focused character's clothes end up looking stained or almost translucent. A | [link](https://civitai.com/models/1707698?modelVersionId=1932512) |
 | `egg-laying-cross-section-ill` | eggsray,, x-ray,uterus,tentacles,cross-section,egg,restrained,vaginal, | 0.8 | 219 | weight：0.8～1.2 V2では、より生物的な卵が出やすいように調整しました。少なくとも食用の卵に見えることはなくなったと思います。"egg"タグを使う方が良いかもしれません。 In V2, I’ve adjust | [link](https://civitai.com/models/2985553?modelVersionId=3384836) |
 | `3p_and_Armlock` | 3p_and_Armlock, 3p_and_ArmlockHe's holding me in a headlock,anal fack,Licking th | not stated | 215 | LORA is designed to allow gay couples to pose in various ways.  I'll try to add more pose variations if I come | [link](https://civitai.com/models/2168663?modelVersionId=2605093) |
@@ -96,6 +99,7 @@
 | `Kiss on the shoulderr_epoch_10` | Kiss on the shoulderr,Hugging from behind, | not stated | 168 | LORA is designed to allow gay couples to pose in various ways.  I'll try to add more pose variations if I come | [link](https://civitai.com/models/2168663?modelVersionId=2770997) |
 | `tentacle-in-ears-anm-il-ill` | tentacles in both ears | not stated | 167 | LoRA for putting tentacles in characters' ears. Skipped straight to Anima because I was trying to take advanta | [link](https://civitai.com/models/3035647?modelVersionId=3451922) |
 | `shibari-ill` | Shibari, entire body tied up | not stated | 156 | Weights: 0.50-0.30 | [link](https://civitai.com/models/3047003?modelVersionId=3464157) |
+| `conceptitabag-ita-bag-ill` | itabag, (color) bag | not stated | 155 | TAGS: itabag, (color) bag ADDITIONAL TAGS: character doll, character badge itabags are bags covered with anime | [link](https://civitai.com/models/2310066?modelVersionId=2599029) |
 | `casting-couch-concept-ill` | c4st1ngc0uch | not stated | 151 | Casting Couch | [link](https://civitai.com/models/2965979?modelVersionId=3360632) |
 | `japanese-tattoo-ill` | japanese tattoo,irezumi,color tattoo,monochrome tattoo,soushinbori,(Arm tattoos, | not stated | 151 | A score of 0.5 or higher in this model will affect the overall style of the model; the higher the weight, the  | [link](https://civitai.com/models/2721380?modelVersionId=3068131) |
 | `hogtie-with-head-pull-stricter-ill` | hogtie with head-pull | not stated | 143 | The same as the Hogtie with Head-pull model but stricter. | [link](https://civitai.com/models/3043163?modelVersionId=3459214) |

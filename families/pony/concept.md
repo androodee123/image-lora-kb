@@ -1,6 +1,6 @@
 # Pony (Pony Diffusion XL) — concept
 
-105 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+109 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -35,6 +35,7 @@
 | `Femdom - pinned arms - Pony v1.0 - Femdom - pinned arms pony v1.0` | femdom, girl on top, pinned, holding arms, assertive female, sex, rough sex, | not stated | 575 |  | [link](https://civitai.com/models/1684954?modelVersionId=1907025) |
 | `marie-mamiya-starless-nymphomaniac-s-parad-pony` | Marie Mamiya, short hair, yellow eyes, purple hair, red hair, hair ornament, hai | not stated | 564 |  | [link](https://civitai.com/models/1134088?modelVersionId=1275053) |
 | `semen-on-figure-sof-pony` | semen on figure, figure | not stated | 442 |  | [link](https://civitai.com/models/824982?modelVersionId=922550) |
+| `hajime-sorayama-pony` | not stated | not stated | 418 |  | [link](https://civitai.com/models/554538?modelVersionId=617144) |
 | `kirill-reiko-kirishima-shounen-ga-otona-ni-pony` | Kirill, Reiko Kirishima, Main Outfit, shorts denim, belt, cleavage cutout, Teach | not stated | 389 |  | [link](https://civitai.com/models/874529?modelVersionId=978974) |
 | `human-motorcycle-living-bike-il-sd-pony` | Hum4n_m0t0rcycle, motorcycle, object transformation | not stated | 370 |  | [link](https://civitai.com/models/1484425?modelVersionId=1679133) |
 | `femdom-v2 - v2 - femdom-v2` | f3md0m | not stated | 357 | Weights: Down LR: 0,0,0,0,1,1,1,1,0 Mid LR: 1,1,0 Up LR: 0,0,0,0,0,0,1,1,0 Blocks: Dims: 8,8,16,32,12,12,8,8,2 | [link](https://civitai.com/models/1680944?modelVersionId=1902540) |
@@ -47,6 +48,7 @@
 | `pvc-pony` | PVC, FIGURE | not stated | 190 |  | [link](https://civitai.com/models/1639957?modelVersionId=1856267) |
 | `sara-scorpion-pirat-sala-uchuu-kaizoku-sar-pony` | Sara_Scorpion, blonde hair, blue eyes, long hair, side-swept bangs, earrings,, d | not stated | 180 | First version of the 50th Lora. | [link](https://civitai.com/models/2486705?modelVersionId=2795758) |
 | `shirobai-police-motorcycle-pony` | MotorcyclePolice, motor vehicle, police | not stated | 175 |  | [link](https://civitai.com/models/859799?modelVersionId=961966) |
+| `meryl-dmitrys-pony` | not stated | not stated | 163 |  | [link](https://civitai.com/models/1190139?modelVersionId=1339930) |
 | `honda-super-cub-delivery-specification-fro-pony` | HondaSuperCub_delivery, motor vehicle, scooter, motorcycle | not stated | 130 |  | [link](https://civitai.com/models/856268?modelVersionId=958055) |
 | `reiko-kirishima-shounen-ga-otona-ni-natta-pony-2` | Reiko Kirishima, Reiko Kirishima, 1girl, brown eyes, glasses, black-framed eyewe | not stated | 127 |  | [link](https://civitai.com/models/1460575?modelVersionId=1651699) |
 | `french-convent-cell-pony` | French convent c3ll | not stated | 118 |  | [link](https://civitai.com/models/2188989?modelVersionId=2464700) |
@@ -85,6 +87,7 @@
 | `prison-of-ashes-pony` | water_cell, steam, scorch mark, no humans, scenery, water, industrial pipe, chai | not stated | 27 |  | [link](https://civitai.com/models/2965680?modelVersionId=3360279) |
 | `robin-morningwood-adventure-pony` | not stated | not stated | 27 |  | [link](https://civitai.com/models/2973024?modelVersionId=3369272) |
 | `roman-futurism-buildings-ad-pony` | AncRomFut, buildings | not stated | 27 |  | [link](https://civitai.com/models/3001840?modelVersionId=3405250) |
+| `diya-von-vergin-pony` | not stated | not stated | 26 |  | [link](https://civitai.com/models/3015175?modelVersionId=3470749) |
 | `tempest-delta-force-game-pony` | not stated | not stated | 26 |  | [link](https://civitai.com/models/3022739?modelVersionId=3432437) |
 | `grietje-van-tassel-untold-sleepy-hollow-pony` | untold_gri | not stated | 25 |  | [link](https://civitai.com/models/3045679?modelVersionId=3462446) |
 | `oc-sandra-pony` | Sandr4, 1girl, light skinned girl, long hair, wavy hair, orange hair, eyebrow ro | not stated | 25 |  | [link](https://civitai.com/models/3009580?modelVersionId=3415251) |
@@ -98,6 +101,7 @@
 | `marie-untold-sleepy-hollow-pony` | untold_marie | not stated | 17 |  | [link](https://civitai.com/models/3045714?modelVersionId=3462488) |
 | `lexi-pony` | not stated | not stated | 15 |  | [link](https://civitai.com/models/3047950?modelVersionId=3465622) |
 | `my-oc-agatha-the-milf-demon-pony` | AgathaMILFDemonOC, gilf, bimbo, futanari, demon girl, white hair, long hair, asy | not stated | 14 |  | [link](https://civitai.com/models/3049051?modelVersionId=3467106) |
+| `eutimia-v1-pony` | not stated | not stated | 8 |  | [link](https://civitai.com/models/3052817?modelVersionId=3472049) |
 | `belle-delphine-for-ponyxlish-pony` | not stated | not stated |  |  |  |
 | `belle-delphine-pony` | not stated | not stated |  |  |  |
 | `black3ring-pony-16` | not stated | not stated |  |  |  |

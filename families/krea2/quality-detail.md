@@ -1,6 +1,6 @@
 # Krea2 (detailed-krea2) — quality-detail
 
-136 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+137 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 | slug | triggers | strength | dl | what | source |
 |---|---|---|---:|---|---|
@@ -114,6 +114,7 @@
 | `jay-sharp-edge-krea2` | Jay | not stated | 164 | Sexy, stylish, and unconventional, looks better with short and edgy hairstyles. | [link](https://civitai.com/models/2977759?modelVersionId=3375207) |
 | `rumi-kpop-demon-hunters-realistic-2-outfit-krea2` | rm_perso, rumi yellow outfit, rumi black outfit | 1.0 | 164 | Rumi from KPop Demon Hunters, photorealistic take with her two signature looks. This is a personal interpretat | [link](https://civitai.com/models/3039651?modelVersionId=3454681) |
 | `gradientlace-lucy-krea2` | lucygl | 0.80 | 163 | A 28-year-old blonde character for Krea 2. Trained on a canon-locked 26-image set at 1500 steps, so the face,  | [link](https://civitai.com/models/3030403?modelVersionId=3442493) |
+| `realism-krea2` | not stated | not stated | 152 | Add some chaotic realism to your generation! Trained on a large dataset of real life photos, riots and street  | [link](https://civitai.com/models/961407?modelVersionId=3472950) |
 | `beautiful-photorealistic-illustration-krea2` | photorealistic_illustration | not stated | 149 | A beautiful photorealistic illustration style. | [link](https://civitai.com/models/3018212?modelVersionId=3426572) |
 | `skin-textures-krea2` | texture, skin pattern, animal print | not stated | 142 | Give your image some animal like patterns and textures. Use this LoRA to add dimension to skin. Use the trigge | [link](https://civitai.com/models/3030771?modelVersionId=3442953) |
 | `breast-tattoo-krea2` | not stated | not stated | 134 | Now this is unique, breast tattoo's for Krea 2. For now this will be a random type of breast tattoo, I will ma | [link](https://civitai.com/models/3009453?modelVersionId=3419402) |

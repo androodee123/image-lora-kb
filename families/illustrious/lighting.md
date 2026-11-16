@@ -1,17 +1,27 @@
 # Illustrious / NoobAI (Illustrious-XL based) — lighting
 
-14 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+24 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
-- Suggest ingest: [S1 Dramatic Lighting](https://civitai.com/models/661736) (illustrious, 63,463 dl) — `s1_dram` · strength not stated — **downloads 63463 >= 2x best available (1130) in same family+category**
-- Suggest ingest: [Smooth Lighting Enhancer (NoobAI/Illustrious)](https://civitai.com/models/1204179) (illustrious, 24,842 dl) — trigger not stated · strength `0.5` (stated) — **downloads 24842 >= 2x best available (1130) in same family+category**
-- Suggest ingest: [lighting](https://civitai.com/models/1697073) (illustrious, 18,112 dl) — trigger not stated · strength not stated — **downloads 18112 >= 2x best available (1130) in same family+category**
+- Suggest ingest: [S1 Dramatic Lighting](https://civitai.com/models/661736) (illustrious, 63,463 dl) — `s1_dram` · strength not stated — **downloads 63463 >= 2x best available (3749) in same family+category**
+- Suggest ingest: [Smooth Lighting Enhancer (NoobAI/Illustrious)](https://civitai.com/models/1204179) (illustrious, 24,842 dl) — trigger not stated · strength `0.5` (stated) — **downloads 24842 >= 2x best available (3749) in same family+category**
+- Suggest ingest: [lighting](https://civitai.com/models/1697073) (illustrious, 18,112 dl) — trigger not stated · strength not stated — **downloads 18112 >= 2x best available (3749) in same family+category**
 
 | slug | triggers | strength | dl | what | source |
 |---|---|---|---:|---|---|
+| `backgroundpurple-nightclub-ill` | nightclub | not stated | 3749 | The 'nightclub' tag works in regular Illustrious, but I wanted something slightly more defined and purple for  | [link](https://civitai.com/models/1232013?modelVersionId=1388252) |
+| `backgroundchinese-interior-collection-ill` | chinese bedroom | not stated | 1379 | These LoRAs are not meant to replicate a specific design, but a general aesthetic! Is it obvious I started pla | [link](https://civitai.com/models/1585872?modelVersionId=1794609) |
+| `backgroundcolorful-bedroom-collection-ill` | black pink bedroom | not stated | 1213 | Filesize is ~200 MB. These were originally for personal use and I didn't care about making them smaller. I apo | [link](https://civitai.com/models/911052?modelVersionId=1019579) |
 | `digitaldelights-impossible-downward-dog-ill` | <Lora:DigitalDelights-impossible-downward-dog:1>, top-down bottom-up, spread leg | not stated | 1130 | Name is self explanatory it's a yoga pose named dog down taking it to the extreme XD | [link](https://civitai.com/models/2143059?modelVersionId=2423989) |
+| `backgroundcolorful-bedroom-collection-ill-6` | white bedroom | not stated | 542 | Filesize is ~200 MB. These were originally for personal use and I didn't care about making them smaller. I apo | [link](https://civitai.com/models/911052?modelVersionId=1019611) |
+| `backgroundchinese-interior-collection-ill-2` | chinese bathroom, bathtub | not stated | 364 | These LoRAs are not meant to replicate a specific design, but a general aesthetic! Is it obvious I started pla | [link](https://civitai.com/models/1585872?modelVersionId=1794605) |
+| `backgroundcolorful-bedroom-collection-ill-5` | teal white bedroom | not stated | 342 | Filesize is ~200 MB. These were originally for personal use and I didn't care about making them smaller. I apo | [link](https://civitai.com/models/911052?modelVersionId=1019608) |
+| `backgroundcolorful-bedroom-collection-ill-3` | purple bedroom | not stated | 327 | Filesize is ~200 MB. These were originally for personal use and I didn't care about making them smaller. I apo | [link](https://civitai.com/models/911052?modelVersionId=1019551) |
+| `backgroundcolorful-bedroom-collection-ill-2` | green bedroom | not stated | 320 | Filesize is ~200 MB. These were originally for personal use and I didn't care about making them smaller. I apo | [link](https://civitai.com/models/911052?modelVersionId=1019589) |
 | `french-convent-cell-illu-ill` | French convent c3ll | not stated | 290 | Tu veux savoir comment j’ai conçu mes LoRA et comment les utiliser correctement ? J’ai partagé toutes mes étap | [link](https://civitai.com/models/2188963?modelVersionId=2464671) |
+| `backgroundcolorful-bedroom-collection-ill-7` | yellow bedroom | not stated | 263 | Filesize is ~200 MB. These were originally for personal use and I didn't care about making them smaller. I apo | [link](https://civitai.com/models/911052?modelVersionId=1019616) |
+| `backgroundcolorful-bedroom-collection-ill-4` | rainbow bedroom | not stated | 260 | Filesize is ~200 MB. These were originally for personal use and I didn't care about making them smaller. I apo | [link](https://civitai.com/models/911052?modelVersionId=1019599) |
 | `nephis-shadow-slave-ill` | 1girl,grey eyes,brown eyes,black eyes,grey hair,white hair,long hair,bangs,hair  | not stated | 206 | Nephis from Shadow Slave Appearance: 1girl,grey eyes,brown eyes,black eyes,grey hair,white hair,long hair,bang | [link](https://civitai.com/models/2579289?modelVersionId=2897698) |
 | `convent-cell-illu-ill` | convent c3ll | not stated | 197 | Tu veux savoir comment j’ai conçu mes LoRA et comment les utiliser correctement ? J’ai partagé toutes mes étap | [link](https://civitai.com/models/2188892?modelVersionId=2464588) |
 | `jet-shadow-slave-ill` | 1girl,blue eyes,black hair,short hair,medium hair,bangs,hair between eyes, black | not stated | 162 | Jet from Shadow Slave Appearance: 1girl,blue eyes,black hair,short hair,medium hair,bangs,hair between eyes Ou | [link](https://civitai.com/models/2871206?modelVersionId=3244038) |

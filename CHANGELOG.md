@@ -2,6 +2,46 @@
 
 Automatic entries from `scripts/update.py` (newest first). Catalog/SKILL updates are applied automatically; adding weights to Graydient stays a manual, Andrew-requested step.
 
+## 2026-11-16
+
+Moved candidate→available 26, added 864, became on Graydient 0, removed 0, new candidates 777; HF files +921/-0.
+
+Candidates now on Graydient (moved to available):
+- `dt-killer-oiran-bunny-suit-knmp-057-24-oir-anima` (anima/clothing) — knmp057mikobunny — https://civitai.com/models/3010233?modelVersionId=3416082
+- `ass-ripple-fusion-anima` (anima/style) — trigger not stated — https://civitai.com/models/2984446?modelVersionId=3391258
+- `ass-ripple-classic-anima` (anima/style) — trigger not stated — https://civitai.com/models/2984446?modelVersionId=3385565
+- `ass-ripple-redi-anima` (anima/style) — trigger not stated — https://civitai.com/models/2984446?modelVersionId=3453897
+- `ass-ripple-marron-anima` (anima/style) — trigger not stated — https://civitai.com/models/2984446?modelVersionId=3452295
+- `ass-ripple-anime-anima` (anima/style) — trigger not stated — https://civitai.com/models/2984446?modelVersionId=3447861
+- `hips-slider-anima` (anima/utility) — trigger not stated — https://civitai.com/models/2546450?modelVersionId=3246403
+- `dt-killer-oiran-bunny-suit-knmp-057-24-oir-ill` (illustrious/clothing) — trigger not stated — https://civitai.com/models/3010233?modelVersionId=3416090
+- `backgroundpurple-nightclub-ill` (illustrious/lighting) — nightclub — https://civitai.com/models/1232013?modelVersionId=1388252
+- `conceptmultiple-views-ill` (illustrious/pose-composition) — multiple views — https://civitai.com/models/918034?modelVersionId=1027532
+- `hips-slider-ill` (illustrious/utility) — trigger not stated — https://civitai.com/models/2546450?modelVersionId=2861715
+- `body-scanner-what-the-airport-scanner-saw-krea2` (krea2/anatomy) — trigger not stated — https://civitai.com/models/3031073?modelVersionId=3472226
+- `underground-parking-krea2` (krea2/concept) — trigger not stated — https://civitai.com/models/3031038?modelVersionId=3472229
+- `pov-ball-licking-ball-sucking-krea2` (krea2/pose-composition) — blckng — https://civitai.com/models/3047952?modelVersionId=3465626
+- `body-scanner-what-the-airport-scanner-saw-moss` (moss/anatomy) — trigger not stated — https://civitai.com/models/3031073?modelVersionId=3443398
+- … and 11 more
+
+Newly available:
+- `ass-ripple-original-anima` (anima/anatomy) — trigger not stated — https://civitai.com/models/2880606?modelVersionId=3255745
+- `role-ref-kv-anima` (anima/anatomy) — trigger not stated — https://civitai.com/models/3021867?modelVersionId=3473000
+- `dolores-dick-jab-anima` (anima/anatomy) — D0L0R35 — https://civitai.com/models/1939123?modelVersionId=3472809
+- `fashionmagical-girl-anima` (anima/character) — magicalgirl, magicalgirl, chest bow, frilled dress, short dress, {short sleeves|puffy sleeves|sleeveless}, back bow, {short gloves|long gloves|wrist cuffs, fingernails}, hair ornament, (color) theme — https://civitai.com/models/2981740?modelVersionId=3380146
+- `hoshizuki-suzu-kaede-to-suzu-anima` (anima/character) — trigger not stated — https://civitai.com/models/3053417?modelVersionId=3472825
+- `tohsaka-rin-fate-stay-night-ill` (anima/character) — rinF8, blue eyes, dark brown hair, black hair, long hair, parted bangs, two side up, hair ribbon, red shirt, red sweater, long sleeves, black skirt, pleated skirt, miniskirt, black thighhighs, zettai ryouiki — https://civitai.com/models/3053552?modelVersionId=3473013
+- `medusa-fate-fate-stay-night-ill` (anima/character) — medusaF8, purple eyes, purple hair, very long hair, facial mark, forehead mark, collar, black short dress, strapless dress, bare shoulders, detached sleeves, black thighhighs, zettai ryouiki — https://civitai.com/models/3053559?modelVersionId=3473025
+- `angel-blade-the-student-being-chased-in-th-anima` (anima/character) — ab_mob1_anima — https://civitai.com/models/1639738?modelVersionId=3473165
+- `angel-blade-tenmyoin-seiru-student-council-anima` (anima/character) — ab_tenmyouins4a5i6l — https://civitai.com/models/1639713?modelVersionId=3472748
+- `meiko-shiraki-prison-school-il-anima` (anima/character) — Meiko Shiraki, Main Outfit — https://civitai.com/models/1571804?modelVersionId=3473016
+- `super-sonico-maid-version-anima` (anima/character) — maidSonico, 1girl, solo, long hair, breasts, looking at viewer, blush, open mouth, simple background, red eyes, thighhighs, white background, underwear, pink hair, ass, white panties, apron, maid, maid headdress, headphones, garter straps, garter belt, butt crack, wardrobe malfunction, super sonico, unfastened bra, maidSonico, 1girl, solo, long hair, breasts, looking at viewer, blush, red eyes, thighhighs, cleavage, underwear, pink hair, frills, white panties, apron, maid, maid headdress, underboob, headphones, garter straps, from below, single thighhigh, super sonico, maidSonico, 1girl, solo, long hair, breasts, looking at viewer, blush, bangs, red eyes, long sleeves, dress, bow, ribbon, cleavage, hair between eyes, closed mouth, standing, full body, pink hair, frills, shoes, indoors, bowtie, apron, red bow, maid, maid headdress, neck ribbon, detached collar, headphones, from above, chair, table, red footwear, red bowtie, pink dress, white apron, mary janes, maid apron, frilled apron, wooden floor, enmaided, pink footwear, bookshelf, super sonico — https://civitai.com/models/3052908?modelVersionId=3472159
+- `hayama-shizuka-daphne-in-the-brilliant-blu-anima` (anima/character) — trigger not stated — https://civitai.com/models/1231180?modelVersionId=3472462
+- `neo-monk-dungeon-fighter-online-anima` (anima/character) — neomonkdfo, solo, 1girl, black hair, white hair, multicolored hair, two-tone hair, purple eyes, cross earrings, fur-trimmed cape, sleeveless top, cleavage, midriff, gloves, belt, white pants, black footwear, sunglasses — https://civitai.com/models/3053516?modelVersionId=3472964
+- `lady-ouji-anima` (anima/character) — Lady_Ouji, ivory-toned pale skin, black hair, absurdly long hair, ((floor-lenght hair)), hair over one eye, light blue eyes, almond-shaped eyes, long eyelashes, long eyeliner, cat ears, black ears, red lips, monkey tail, red tail, ((massive breasts)), snatched waist, wide hips, thick thighs — https://civitai.com/models/3034544?modelVersionId=3449711
+- `jane-nesz-anima` (anima/character) — janenesz, black hair, pixie cut, freckles, glasses, blue tracksuit jacket, white tanktop, blue pants — https://civitai.com/models/885224?modelVersionId=3472778
+- … and 849 more
+
 ## 2026-11-14
 
 Moved candidate→available 77, added 212, became on Graydient 0, removed 0, new candidates 293; HF files +312/-0.

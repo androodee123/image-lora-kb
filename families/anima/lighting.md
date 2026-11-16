@@ -1,6 +1,6 @@
 # Anima — lighting
 
-38 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+39 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 | slug | triggers | strength | dl | what | source |
 |---|---|---|---:|---|---|
@@ -31,6 +31,7 @@
 | `ultra-luxurious-swimming-pool-anima` | not stated | not stated | 100 | Hi everyone! This LoRA was created to enhance your images with these premium features. Who wouldn't want a rea | [link](https://civitai.com/models/2960380?modelVersionId=3353736) |
 | `anime-sunset-background-ad-anima` | not stated | 0.5 to 1.15 | 94 | This is an Anima background lora for anime style sunsets. A weight of 0.5 to 1.15 works well with this with mo | [link](https://civitai.com/models/3038824?modelVersionId=3453485) |
 | `ROOMS Apartments 01 out - Anima - Gokudo Boss Outdoors - ROOMS_CW_Apt_001_GBoss_out_Anima` | z1os, ultra detailed. | 1 | 91 | Finding all my models or profile elsewhere than Civitai is without my consent ! Please don't repost my files.  | [link](https://civitai.com/models/2859033?modelVersionId=3229361) |
+| `limousine-interior-anima` | l1m0, limousine interior, couch | not stated | 87 | Creates a Limousine Interior background Trigger: l1m0 Additional: limousine interior, couch | [link](https://civitai.com/models/3053133?modelVersionId=3472428) |
 | `zankou-twilight-noir-anima` | zankou-twilight noir, 1girl, solo, grey hair, long hair, wavy hair, bangs, green | not stated | 84 | generate zankou-twilight noir | [link](https://civitai.com/models/3008686?modelVersionId=3414042) |
 | `shirley-from-lust-flight-by-awe-some-ryan-anima` | sh1rl3y,asian female,narrowed eyes,aegyo sal,brown eyes,dark brown hair,parted b | not stated | 81 | Shirley is a novice flight attendant who, on her very first flight, has the misfortune of becoming the target  | [link](https://civitai.com/models/2982058?modelVersionId=3380516) |
 | `neon-nights-kiki-anima` | nnkiki, pink fishnet bodysuit, off shoulder, see-through, nipples, pink high hee | not stated | 79 | Kiki works as an adult model online under the alias kittenkiki. Now, she's looking for a closer approach to he | [link](https://civitai.com/models/2996355?modelVersionId=3398347) |

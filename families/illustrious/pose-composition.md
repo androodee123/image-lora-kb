@@ -1,6 +1,6 @@
 # Illustrious / NoobAI (Illustrious-XL based) — pose-composition
 
-81 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+83 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -16,7 +16,9 @@
 | `leg-lock-ill` | leg lock | not stated | 4709 | The strength of Lora is recommended to be around 0.8. | [link](https://civitai.com/models/628775?modelVersionId=2733356) |
 | `pole-dancing-ill` | pole dancing,stripper pole,spread legs | not stated | 3942 | The strength of Lora is recommended to be around 1.0. | [link](https://civitai.com/models/623481?modelVersionId=2645700) |
 | `absurd-bulge-ill` | absurdbulge01,bulge,stomach deformation, cock shape bulge, extremely bulge, absu | not stated | 3911 | extremely bulging and stomach deformation | [link](https://civitai.com/models/1680071?modelVersionId=1901550) |
+| `conceptmultiple-views-ill` | multiple views | not stated | 3881 | TAGS: multiple views you can probably prompt this but I'm lazy | [link](https://civitai.com/models/918034?modelVersionId=1027532) |
 | `pose_femdom_pegging_nipple_tweak - v1.0 - pose_pegging_nipple_tweak` | pose_pegging_nipple_tweak, nipple stimulation, nipple tweak, 1girl, 1boy, hetero | not stated | 3470 | pose_pegging_nipple_tweak, nipple stimulation, nipple tweak, 1girl, 1boy, hetero, ejaculation, ejaculating whi | [link](https://civitai.com/models/1295786?modelVersionId=1462424) |
+| `posefemale-pov-between-thighs-ill` | povthighs, pov | not stated | 2820 | TAGS: povthighs, pov made using limited images, so it's not perfect! | [link](https://civitai.com/models/1334474?modelVersionId=1506855) |
 | `Humping Side Femdom Illustrious Experimental Draft - Illustrious Epoch 52 - Humping_Side_Femdom_Illustrious_Epoch` | 1girl, 1boy, standing female, leg wrap, hug from side, humping, penis against hi | not stated | 2627 | 1boy, standing female, leg wrap, hug from side, humping, penis against hip, | [link](https://civitai.com/models/1606353?modelVersionId=1818030) |
 | `Pov Urethral Insertion femdom 主観尿道責め 第一人称尿道责 - IL_V1_0 - pov_urethral_insertion` | pov urethral insertion, metal urethral plug, urethral beads, latex urethral plug | 0.8 | 2127 | Introduction This LoRA is primarily designed to depict first-person urethral stimulation (pov_urethral_inserti | [link](https://civitai.com/models/1662303?modelVersionId=1881475) |
 | `Amen_pose8` | Amposp,legs,praying hands,ass,bent over,blush,sweat,heart,standing,hands praying | not stated | 1855 | Test Lora: First attempt at creating a concept Lora. It might not work perfectly, but it has some decent resul | [link](https://civitai.com/models/2261838?modelVersionId=2546013) |

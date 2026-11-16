@@ -1,6 +1,6 @@
 # Krea2 (detailed-krea2) — anatomy
 
-306 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+308 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -240,6 +240,7 @@
 | `round-breasts-krea2` | round breasts | not stated | 223 | 10 epoch 989 images trigger: round breasts | [link](https://civitai.com/models/3023491?modelVersionId=3433408) |
 | `vore-belly-krea2` | Vore belly | not stated | 218 | A model for generating realistic vore bellies using Krea 2. It is highly recommended to use the positive and n | [link](https://civitai.com/models/2798444?modelVersionId=3380696) |
 | `eden-ship-krea2` | 3d3n sh1p | 0.8-1.0 | 211 | ENGLISH I created 3d3n sh1p as a photorealistic background LoRA depicting a human deep-space vessel in the spi | [link](https://civitai.com/models/2973209?modelVersionId=3369686) |
+| `pageboy-hair-and-hairbob-helper-krea2` | not stated | 0.6 | 208 | Try a strength between 0.6 and 1.5. It's a helper If you are using a character, it might be necessary to use a | [link](https://civitai.com/models/3052848?modelVersionId=3472082) |
 | `cuckold-hand-gesture-or-devil-horns-krea2` | cuck0ld-h4nd-g35tur3, She is making a {slanted/} {upwards/downwards/sideways/} c | not stated | 206 | basic prompt: cuck0ld-h4nd-g35tur3 She is making a {slanted/} {upwards/downwards/sideways/} cuckold hand-gestu | [link](https://civitai.com/models/3026698?modelVersionId=3437574) |
 | `timboris-hand-finished-matte-krea2` | not stated | 1.2 | 198 | Timboris This LoRa gives whatever you describe a hand-finished matte surface. Everything comes out slightly ch | [link](https://civitai.com/models/2965162?modelVersionId=3359643) |
 | `laetitia-nobody-nowhere-v1-krea2` | not stated | not stated | 195 | Laetita came joint-second in the public vote for my next release (and she was my personal favourite) so by pop | [link](https://civitai.com/models/2930003?modelVersionId=3315988) |
@@ -255,6 +256,7 @@
 | `vlada-nobody-from-nowhere-krea2` | not stated | not stated | 132 | This is Vlada she's a Nobody from Nowhere and a character from my Visual Novels. Krea2 version tested extensiv | [link](https://civitai.com/models/2984257?modelVersionId=3464754) |
 | `spooky-penis-krea2` | spookypenis, ghostmask penis | not stated | 130 | Krea 2 v1: Make your Cocktober spoogetacular with a ghost mask placed on your character's meat! This LoRA is f | [link](https://civitai.com/models/2997680?modelVersionId=3400041) |
 | `futanari-krea2` | futanari | not stated | 129 | First attempt for builing a model. | [link](https://civitai.com/models/3011670?modelVersionId=3418011) |
+| `body-scanner-what-the-airport-scanner-saw-krea2` | not stated | not stated | 128 | A realistic eye-level airport checkpoint photo: the tall rounded silver body scanner, a dark mat with yellow f | [link](https://civitai.com/models/3031073?modelVersionId=3472226) |
 | `penis-jousting-krea2` | Penis Jousting | not stated | 124 | Penis Jousting Krea 2 | [link](https://civitai.com/models/2995128?modelVersionId=3396798) |
 | `gorgon-medusa-hair-krea2` | gorgon, snake hair, | 0.8-1 | 121 | Prompts: snake hair, gorgon, Strength: 0.8-1 I love making these LoRAs for everyone. Please comment and like,  | [link](https://civitai.com/models/2026517?modelVersionId=3383584) |
 | `garma-nobody-nowhere-krea2` | not stated | not stated | 117 | This is Garma, she is a Nobody from Nowhere and a character from my Visual Novels. Krea2 version tested extens | [link](https://civitai.com/models/2813305?modelVersionId=3467165) |

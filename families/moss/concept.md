@@ -1,6 +1,6 @@
 # MOSS (Moss Image / kromoss) — concept
 
-106 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+111 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 | slug | triggers | strength | dl | what | source |
 |---|---|---|---:|---|---|
@@ -35,8 +35,10 @@
 | `spankingmachine-moss` | not stated | not stated | 336 | The Moss-Version of my SpankingMachine LoRA, working with natural language as long you use Spanking Machine in | [link](https://civitai.com/models/3012697?modelVersionId=3419320) |
 | `cane-marks-moss` | cane marks | not stated | 329 | BDSM stylle cane marks and rattan cane | [link](https://civitai.com/models/3022464?modelVersionId=3432097) |
 | `saggy-floppy-titties-xl` | not stated | not stated | 317 | Make em droopy V1_MOSS: Now trained on MOSS-Image. i've uploaded checkpoints 2000, 2500, and 3000. it was kind | [link](https://civitai.com/models/1219119?modelVersionId=3417495) |
+| `underground-parking-moss` | not stated | not stated | 317 | A level of an underground car park: rows of cars in white-lined bays, a broad driving lane with painted white  | [link](https://civitai.com/models/3031038?modelVersionId=3443343) |
 | `tentacle-breeding-facility-il-noob-moss` | tentacle breeding facility, embedded in a meatwall | not stated | 307 | The team of heroines has been defeated by the evil tentacle monster and fucked into submission! Now they're ca | [link](https://civitai.com/models/1901430?modelVersionId=3453921) |
 | `tit-crusher-moss` | Tit_Crusher | not stated | 304 | Squeezing breast clamps made of wood or metal. Squeezing breast between | [link](https://civitai.com/models/3022584?modelVersionId=3432245) |
+| `sloppy-faces-moss` | (sloppy face, thick strings of snot comming from her nose and connect to the pen | not stated | 296 | Full process by killedmyself : | [link](https://civitai.com/models/2226468?modelVersionId=3472881) |
 | `babel-gaping-moss` | babel-gaping | not stated | 285 | <lora:moss-babel-gaping:1> | [link](https://civitai.com/models/3023057?modelVersionId=3432840) |
 | `perky-tits-moss` | not stated | 0.7–1.3 | 282 | LoRA for a firmer / more pointed breast shape, strength 0.7–1.3 trigger: perkytits | [link](https://civitai.com/models/3045382?modelVersionId=3462046) |
 | `mossbg-moss` | onsen | not stated | 281 | mossBG　back-ground 集です、 onsen：温泉好きのために satoyama：日本の原風景的な里山 | [link](https://civitai.com/models/3020912?modelVersionId=3430070) |
@@ -44,6 +46,8 @@
 | `nose-hooked-base-moss` | Nose_hooked | not stated | 267 | Moss Image base Nose Hooked Lora | [link](https://civitai.com/models/3016029?modelVersionId=3423636) |
 | `cheap-ad-loud-low-budget-pop-up-advertisem-moss` | not stated | not stated | 257 | A full-canvas low-cost online ad: white-outlined real photo cutouts, a huge red-to-yellow outlined headline, s | [link](https://civitai.com/models/3019938?modelVersionId=3428772) |
 | `miniboner-k2-v1-moss` | miniboner | not stated | 256 | Moss-image Euler/Simple does the job. I use the 4 step Turbo Lora or the 8 step one for fast generations and t | [link](https://civitai.com/models/2820314?modelVersionId=3425579) |
+| `decensor-editing-moss` | decensor the image | not stated | 253 | Decensor/ uncensor LoRA for removing mosaic, blur or blank censor on genital area. Design and developed with i | [link](https://civitai.com/models/3053723?modelVersionId=3473242) |
+| `public-bathhouse-moss` | not stated | not stated | 250 | Public bathhouse scenes. Start with bathhouseconcept, and name showers, scrub tables, hot pools and steam so i | [link](https://civitai.com/models/3037917?modelVersionId=3452277) |
 | `tentacle-lactation-moss` | tentacles on breasts, forced lactation | 1.0 | 247 | For support that tentacle like object grabbing breasts and milking. Main tags: tentacles on breasts, forced la | [link](https://civitai.com/models/1615758?modelVersionId=3454438) |
 | `lock-screen-wallpaper-plus-the-three-worst-moss` | not stated | not stated | 245 | A vertical phone lock-screen screenshot: status bar, date, a huge clock, three frosted notification cards (app | [link](https://civitai.com/models/3018062?modelVersionId=3426375) |
 | `dating-card-the-bio-doesn-t-match-the-phot-moss` | not stated | not stated | 242 | A dating-app profile card screenshot: status bar, "Discover / Nearby / Likes" tabs (or the Chinese equivalents | [link](https://civitai.com/models/3017676?modelVersionId=3425869) |
@@ -52,6 +56,7 @@
 | `male-milking-lora-lora-krea2` | Male Milking LoRA / 男性榨精 LoRA | 0.55–0.75 | 221 | Heads-up: Neither the LoRA training set nor the output set contains real people; this is intended solely for t | [link](https://civitai.com/models/2880597?modelVersionId=3419287) |
 | `construction-site-scaffolding-rebar-hard-h-moss` | not stated | not stated | 199 | Puts a scene on an ordinary construction site: scaffolding, exposed rebar, concrete, a tower crane, hard hats  | [link](https://civitai.com/models/3035037?modelVersionId=3448521) |
 | `more-real-mosaics-moss` | not stated | not stated | 197 | An ordinary casual phone snapshot with one coarse pixelated mosaic patch (or a black bar) slapped on top, like | [link](https://civitai.com/models/3017679?modelVersionId=3425878) |
+| `under-desk-helper-moss` | She is sneakilly hidden under the desk | not stated | 197 | It's now more easy to generate girls under table, this wasn't done yet with Krea 2 so here it goes. | [link](https://civitai.com/models/3035974?modelVersionId=3472658) |
 | `vr180sbs-moss` | vr180_sbs | not stated | 194 | Hey! New here to Civitai, just trying to learn all i can and found an area that doesn't really exist yet, if y | [link](https://civitai.com/models/3047430?modelVersionId=3468820) |
 | `base-nipslip-moss` | n1p5l1p, her {breast/nipple} is glimpsed | not stated | 193 | try: n1p5l1p  her {breast/nipple} is glimpsed Yes, I know, it's frustrating seeing a lora on early access. Jus | [link](https://civitai.com/models/3045815?modelVersionId=3462634) |
 | `clothes-explosion-for-zib-f1-moss` | 她的身体爆发出强大的气流冲击波将全身衣服（肩、袖、裙）炸成碎片出了很多口子，飘扬衣服变得非常残破出了很多口子碎片，冲击波如飓风掀起了衣服，使头发迎风飘扬，大量衣 | not stated | 189 | Please leave a review if you like this lora！ 既不美，又何用？你炸了她的一切，她的宇宙彻底毁了！ If beauty it doth lack, what purpose do | [link](https://civitai.com/models/1661706?modelVersionId=3440459) |

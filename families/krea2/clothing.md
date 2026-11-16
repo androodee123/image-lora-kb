@@ -1,6 +1,6 @@
 # Krea2 (detailed-krea2) — clothing
 
-401 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+403 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -376,6 +376,8 @@
 | `hannya-mask-krea2` | hannya | not stated | 65 | A Hannya(般若 はんにゃ)mask is a famous Japanese Noh mask representing a woman's jealous rage. With its sharp horns  | [link](https://civitai.com/models/2424367?modelVersionId=3431550) |
 | `veganec-contact-director-props-that-stay-o-krea2` | veganec_contact_director | 1.0 | 55 | **Stop floating. Start touching.** VegaNec Contact Director is a positive-direction concept LoRA for Krea 2. I | [link](https://civitai.com/models/3047479?modelVersionId=3464805) |
 | `mafuyu-kimura-ameku-m-d-doctor-detective-a-krea2` | ATNMafuyu, purple eyes, short hair, bangs, purple hair, braid, eyebrows visible  | 0.8 - 1 | 51 | Trained entirely on screencaps Works with other lora Recommended weight = 0.8 - 1 The Showcase images use weig | [link](https://civitai.com/models/2949218?modelVersionId=3339996) |
+| `succubus-original-vindictus-krea2` | not stated | not stated | 39 | Succubus_Queen_Clothes - Vindictus | [link](https://civitai.com/models/3043049?modelVersionId=3471657) |
+| `succubus-special-boots-vindictus-krea2` | Succubus_Thighhigh_Boots | not stated | 33 | Succubus_Queen_Clothes - Vindictus | [link](https://civitai.com/models/3043049?modelVersionId=3471666) |
 | `cock-rings-krea2` | CockRingRK | 1 | 15 | Premium character LoRAs Original synthetic characters, bundles and AI tools are in my shop: https://rkrra.com/ | [link](https://civitai.com/models/3029441?modelVersionId=3441151) |
 | `high-heels-nsfw-krea2` | HighHeelsRK | 1 | 8 | Premium character LoRAs Original synthetic characters, bundles and AI tools are in my shop: https://rkrra.com/ | [link](https://civitai.com/models/3017683?modelVersionId=3425884) |
 | `Ankle socks Krea2 - AnkleSocksv1 - AnkleSocksv1` | not stated | not stated |  |  |  |

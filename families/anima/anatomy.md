@@ -1,6 +1,6 @@
 # Anima — anatomy
 
-267 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+270 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 | slug | triggers | strength | dl | what | source |
 |---|---|---|---:|---|---|
@@ -190,6 +190,7 @@
 | `realistic-face-helper-anima` | anime girl with realistic head | not stated | 231 | I haven't tested this much but it's seem not to be stable but some times it could get really cool results. Fir | [link](https://civitai.com/models/2892112?modelVersionId=3271209) |
 | `detached-peeled-foreskin-penis-illustrious-anima` | not stated | 1.1 to 1.1 | 226 | Detaches the foreskin and "peels (剝)" it back to about the middle of the penis Trigger word for prompt: detach | [link](https://civitai.com/models/1091515?modelVersionId=3456563) |
 | `Lube On Penis` | lube on penis, lube bottle in hand, pouring lube on penis, wet penis, lube penis | not stated | 223 | Lube On Penis | [link](https://civitai.com/models/2820810?modelVersionId=3181955) |
+| `ass-ripple-original-anima` | not stated | not stated | 223 | 好友ripple的画风，盒，我要狠狠的盒，后入姿势自带ass ripple效果。基于anima-base1.0训练，希望大家能喜欢，无触发词。 整了个催更群，群号：1042025215，本群面对的是碧蓝航线玩家的群，然后 | [link](https://civitai.com/models/2880606?modelVersionId=3255745) |
 | `all-the-way-through-penis-anima` | all the way through, penis out mouth, impaled by penis, | not stated | 221 | This is a type of Lora where a human penis penetrates the body, rather than one where tentacles do. In Version | [link](https://civitai.com/models/3040715?modelVersionId=3456135) |
 | `realistic-female-muscle-growth-transformat-anima` | fmgs | not stated | 220 | The goal of this model is to create slightly more "realistic" female growth sequences. This means that the siz | [link](https://civitai.com/models/2247388?modelVersionId=3043636) |
 | `anus-gripV1-3` | Anus grip | not stated | 213 | Anus grip | [link](https://civitai.com/models/2820947?modelVersionId=3182128) |
@@ -263,6 +264,8 @@
 | `stretch-marks-body-areas-anima` | belly stretch marks, breasts stretch marks, thighs stretch marks, hips stretch m | 1.0 | 49 | Anima This version of the LoRA is build for Anima. It allows you to precisely guide where stretch marks should | [link](https://civitai.com/models/2760948?modelVersionId=3466157) |
 | `head-swap-female-head-dark-skinned-female-anima` | SwA!pEDz, dark-skinned female, very dark skin, head swap, pale skinned face,, (l | not stated | 46 | Lora exclusively made to generate images of female to female head swaps, Focusing on a light skinned head and  | [link](https://civitai.com/models/2360842?modelVersionId=3452160) |
 | `janus-galaxygirl-anima` | janus | not stated | 46 | A lora of Janus, a GalaxyGirl Comic Character, made by the AI artist: Wizard of Ozymandiaz. This pictures of t | [link](https://civitai.com/models/2996994?modelVersionId=3399154) |
+| `role-ref-kv-anima` | not stated | not stated | 40 | Anima Role Ref KV · v3.0 Required downloads: anima-role-ref-kv-v3.0.safetensors AND anima-role-ref-kv-comfyui- | [link](https://civitai.com/models/3021867?modelVersionId=3473000) |
+| `dolores-dick-jab-anima` | D0L0R35 | not stated | 33 | Dolores from the comic series Dick by Jab Comix | [link](https://civitai.com/models/1939123?modelVersionId=3472809) |
 | `xsv-lust-trials-anima` | fbblegs | not stated | 31 | I was going to make a butt implant LoRA for Anima but I got carried away and just made something that is a mix | [link](https://civitai.com/models/3048891?modelVersionId=3466918) |
 | `andrd_clitpenis-v1-anima-000006.TA_trained` | not stated | not stated |  |  |  |
 | `ass-ripple-ai-pro-style-anima` | not stated | not stated |  |  |  |

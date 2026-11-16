@@ -1,6 +1,6 @@
 # MOSS (Moss Image / kromoss) — utility
 
-21 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+22 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 | slug | triggers | strength | dl | what | source |
 |---|---|---|---:|---|---|
@@ -18,6 +18,7 @@
 | `beauty-filter-slider-moss` | not stated | not stated | 994 | Beauty Filter Slider – Moss Image A slider LoRA that controls how "filtered" and glamorous women look in your  | [link](https://civitai.com/models/3021908?modelVersionId=3431367) |
 | `brightness-slider-moss` | not stated | not stated | 478 | MOSS V1 Recommended range -3 to 3 | [link](https://civitai.com/models/3016826?modelVersionId=3424762) |
 | `slider-age-moss` | not stated | not stated | 404 | Dataset is composed of 71 photograph of both men and women. Usage: - Positive: makes the subjects older. - Neg | [link](https://civitai.com/models/3025154?modelVersionId=3435576) |
+| `hips-slider-moss` | not stated | 0 to 2 | 296 | Recommended negative prompt: lowres, bad quality, worst quality, bad anatomy, jpeg artifacts, signature, water | [link](https://civitai.com/models/2546450?modelVersionId=3449997) |
 | `head-size-slider-moss` | not stated | not stated | 262 | 中文： 负值缩小头部，正值放大头部，可搭配动漫转真人 LoRA 使用。 英文： Negative values reduce head size, while positive values increase it. C | [link](https://civitai.com/models/3050174?modelVersionId=3468578) |
 | `pastel-pinup-palooza-r7-moss` | kkpinup | not stated | 233 | Pastel Pinup Palooza r7 Trigger word: kkpinup Rank / Alpha: 32 Training steps: 3,000 License: Non-commercial O | [link](https://civitai.com/models/3023306?modelVersionId=3433174) |
 | `abs-slider-moss` | not stated | 0 to 2 | 167 | Recommended negative prompt: lowres, bad quality, worst quality, bad anatomy, jpeg artifacts, signature, water | [link](https://civitai.com/models/2513137?modelVersionId=3438321) |

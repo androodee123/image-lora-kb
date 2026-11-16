@@ -1,6 +1,6 @@
 # Anima — nsfw-act
 
-195 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+200 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -163,6 +163,7 @@
 | `multiple-vaginal-anal-anima` | double vaginal, double anal, triple anal, solo focus, disembodied penis, multipl | not stated | 270 | Multiple Vaginal/Anal concept for Anima. I wrote the tags on details bar. Originally planned to make double, b | [link](https://civitai.com/models/3023648?modelVersionId=3433610) |
 | `cervix-prolapse-fuck-anima` | gtrcp cervix prolapse fuck | not stated | 268 | Cervix prolapse is being penetrated Style influence is heavy as usual | [link](https://civitai.com/models/3040017?modelVersionId=3455189) |
 | `hhorgy-a-anima` | HHOrgy-A | not stated | 267 | A few months ago, I came across a LoRA that delivered excellent pose consistency. Unfortunately, the creator d | [link](https://civitai.com/models/3050471?modelVersionId=3468953) |
+| `on-stomach-fellatio-anima` | not stated | not stated | 267 | 1.kneeling male, ands-free blowjob, <lora:onstomach_fellatio:1> 1girl, 1boy, penis, male pubic hair,  (on stom | [link](https://civitai.com/models/3053040?modelVersionId=3472313) |
 | `harem-threesome-ffm-3p-21-anima` | not stated | not stated | 265 | 1.guided breast grab. 832×1200 <lora:Harem_Threesome:0.7> 2girls, pov hands, (guided breast grab), 1boy, worri | [link](https://civitai.com/models/3050680?modelVersionId=3469233) |
 | `on-back-dildo-masturbation-anima` | dildo onslaught, fake testicles, on back, holding sex toy, suction sex toy, open | not stated | 261 | Concept | [link](https://civitai.com/models/2996561?modelVersionId=3398616) |
 | `shower-masturbation-anima` | shower, masturbation, water, wet skin | not stated | 256 | In need of "clean" images? Start here! Trained on images of men/women/futa in the shower. | [link](https://civitai.com/models/1837562?modelVersionId=3262145) |
@@ -176,6 +177,7 @@
 | `cum-on-objects-anima` | looking at object, cum on object,, figure bukkake, sof, cum on figure,, cum on f | not stated | 228 | Building on the "figure bukkake" concept, I've made it possible to ejaculate onto various objects. Basically,  | [link](https://civitai.com/models/3014564?modelVersionId=3421717) |
 | `RXSMH0SCVE9SBZ9NC26E911ZE0` | anal_through_clothes | not stated | 213 | Exactly what it says on the tin; a LoRa for anal through clothes. | [link](https://civitai.com/models/2722654?modelVersionId=3059856) |
 | `cum-party-concept-anima` | cumparty,Girl relaxing in a bathtub filled with cum, cum covered, holding a glas | not stated | 211 | Cum party - Concept | [link](https://civitai.com/models/2995417?modelVersionId=3427982) |
+| `yayoi-hibino-bondage-game-shinsou-no-reijo-anima` | hibinoyayoi, brown eyes, purple hair, long hair, purple lips, maid, black dress, | not stated | 198 | Meet Hibino Yayoi on NoobAI-XL HibinoYayoi, 1girl, long hair, purple hair, brown eyes, Maid: Maid, maid apron, | [link](https://civitai.com/models/1156253?modelVersionId=3107490) |
 | `anal-stretcher-anima` | ext-ana | not stated | 194 | This is test model.  Recommed tags: gaping anus, bdsm, bound, bondage, backless panties, upside-down | [link](https://civitai.com/models/3008147?modelVersionId=3413353) |
 | `anal-autograph-anima` | anal autograph, ass, anus, from behind, POV hand, holding paper | not stated | 190 | - | [link](https://civitai.com/models/2992048?modelVersionId=3392975) |
 | `Mutual penetration` | mutpen, futanari, mutual insertion, double penetration, double insertion | not stated | 185 | Mutual Penetration | [link](https://civitai.com/models/2333718?modelVersionId=3058548) |
@@ -188,14 +190,17 @@
 | `otk-spanking-bdsm-v1-anima` | otk spanking | 0.6 | 139 | Is with a great pleasure that i present this Lora. Change log Anima V1 Cleared motion lines, Made spanked butt | [link](https://civitai.com/models/979512?modelVersionId=3462991) |
 | `Implied sex Partial View - Epoch 5 - Implied_sex_from_behind_epoch_5` | not stated | not stated | 138 | First test on some implied sex positions. goal is a helper for hiding the woman's body, only showing arms or l | [link](https://civitai.com/models/2875733?modelVersionId=3249655) |
 | `Sex Doll Style - model - SexDoll` | Sex doll, silicon skin, plastic skin, vacant stare, open mouth, O-shaped open mo | not stated | 122 | Be a lonely boy no longer! Recommended Power: 0.5-0.8 If you enjoy this Lora, please give it a 👍 | [link](https://civitai.com/models/2883711?modelVersionId=3259557) |
+| `yuu-mikihara-bondage-game-shinsou-no-reijo-anima` | mikiharayuu, red hair, long hair, green eyes, maid, black dress, maid headdress, | 2 | 119 | Mikahara Yuu is on Vpred an SD 1.5 anime now! Vpred tags: mikaharayuu, 1girl, solo, red hair, green eyes, lips | [link](https://civitai.com/models/245415?modelVersionId=3229001) |
 | `anal-cum-expulsion-male-focus-anima` | anal cum fountain, an4l-c0m-f0unt41n,, projectile cum, p40j3ct1l3-cum ,, cum poo | not stated | 118 | Updating my most popular models for Anima. activation tag: c0m-3xuls10n tags included:  anal cum fountain, an4 | [link](https://civitai.com/models/2971984?modelVersionId=3367981) |
 | `floppy-sex-anima` | bent penis | not stated | 110 | Floppy Sex Curvy floppy dick /Bent penis | [link](https://civitai.com/models/2996857?modelVersionId=3398994) |
 | `maleverse-aio-anima` | bt_male_aio | 0.8 | 108 | MaleVerse AIO — Anima this lora took me some time but i am still not that experienced in making extremely deta | [link](https://civitai.com/models/2966679?modelVersionId=3361476) |
 | `yuu-mikihara-bondage-game-anima` | <lora:MikiharaYuuws:1>, mikiharayuuws, red hair, long hair, green eyes, huge bre | 0.8 | 102 | Settings: Strength: 0.8 Steps: 2 Sampling Steps: 20-30 CFG Scale: 4 Anima Turbo: Sampling Steps: 8-12 CFG Scal | [link](https://civitai.com/models/3050120?modelVersionId=3468495) |
+| `sachie-murata-bondage-game-shinsou-no-reij-anima` | muratasachie, blue hair, short hair, blue eyes, glasses, maid, black dress, maid | not stated | 84 | The third character from the hentai of the same name - Sachie Murata. Character tags: 1girl, sachiemurata, gla | [link](https://civitai.com/models/248932?modelVersionId=3236393) |
 | `teela-alx-fuckit-style-masters-of-the-univ-anima` | teelaalx, orange hair, blue eyes, long hair, updo, diadem, yellow collared vest, | not stated | 70 | Teela from Masters of the Universe in alx/fuckit's style Main Tag: teelaalx Appearance Tags: orange hair, blue | [link](https://civitai.com/models/2973077?modelVersionId=3369337) |
 | `sarah-lixdix-meet-and-fuck-games-nutbuster-anima` | slixdix (mnf), 1girl, medium hair, breasts, brown hair, gloves, elbow gloves, bl | not stated | 48 | no regularization. tagged with vit3 trained on base-1 and illustrious-v2 | [link](https://civitai.com/models/2874757?modelVersionId=3248437) |
 | `pegging-anima` | pegging | not stated | 41 | p | [link](https://civitai.com/models/3029320?modelVersionId=3440997) |
 | `sue-murphy-milftoon-f-is-for-fucking-8-out-anima` | MurphyFIFF, blonde hair, eyeshadow, lipstick, hoop earrings, painted nails, wedd | not stated | 37 | Sue Murphy from the Milftoon comic "F is for Fucking". Trained on all outfits she wore across all 5 issues. Th | [link](https://civitai.com/models/3032334?modelVersionId=3445073) |
+| `yuu-mikihara-bondage-game-shinsou-no-reijo-anima-2` | mikiharayuu,, red hair, long hair, green eyes, maid, black dress, maid headdress | 2 | 37 | Mikahara Yuu is on Vpred an SD 1.5 anime now! Vpred tags: mikaharayuu, 1girl, solo, red hair, green eyes, lips | [link](https://civitai.com/models/245415?modelVersionId=3231843) |
 | `Delivery_HealthANIMA` | deriheru_V2 | not stated |  | Download デリヘル / Delivery Health V2 (ANIMA) v1.0, a LORA for Anima. 1 file: Delivery_HealthANIMA.safetensors (1 | [link](https://civitai.com/models/2845017?modelVersionId=3212091) |
 | `andrd-hugeanal-anima-e16` | not stated | not stated |  |  |  |
 | `concept-deep-penetration-includes-ass-ripp-anima` | not stated | not stated |  |  |  |

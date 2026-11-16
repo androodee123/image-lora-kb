@@ -2,8 +2,8 @@
 
 Graydient availability = file in `Octavian123/civit`, `civit2` or `private` (identical sha counts). Other `Octavian123/*` repos = **HF only, needs adding to Graydient**.
 
-- Available rows: 11023 (Graydient 10999, HF-only 24)
-- Reliability: {'verified': 10412, 'epoch-only': 84, 'name-only': 478, 'family-guess': 25, 'manual-unverified': 24}
+- Available rows: 11913 (Graydient 11889, HF-only 24)
+- Reliability: {'verified': 11299, 'epoch-only': 84, 'name-only': 481, 'family-guess': 25, 'manual-unverified': 24}
 
 ## HF-only LoRAs (needs adding to Graydient)
 

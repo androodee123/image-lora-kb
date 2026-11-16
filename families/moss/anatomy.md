@@ -1,6 +1,6 @@
 # MOSS (Moss Image / kromoss) — anatomy
 
-59 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+62 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 | slug | triggers | strength | dl | what | source |
 |---|---|---|---:|---|---|
@@ -37,6 +37,7 @@
 | `wide-hips-thigh-gap-moss` | wide pelvis, thigh gap | not stated | 309 | Prompt "wide hips" has become conjoined with concepts like big ass and thick thighs. This is an attempt to fix | [link](https://civitai.com/models/3041324?modelVersionId=3456891) |
 | `breast-implanter-moss` | not stated | 0.7-0.85 | 308 | Probably the most temperamental image model I've used in a while. I feel like outputs are either the worst I'v | [link](https://civitai.com/models/3036871?modelVersionId=3450966) |
 | `bal-breast-moss` | bal_breast | not stated | 288 | This is a LoRA for generating breasts like those in the reference image.Trigger word: bal_breast. | [link](https://civitai.com/models/3018817?modelVersionId=3427333) |
+| `body-scanner-what-the-airport-scanner-saw-moss` | not stated | not stated | 287 | A realistic eye-level airport checkpoint photo: the tall rounded silver body scanner, a dark mat with yellow f | [link](https://civitai.com/models/3031073?modelVersionId=3443398) |
 | `prego-pregnant-body-for-moss` | not stated | .5-1.5 | 261 | Assists with pregnant tits, belly, and glowing skin. Use keyword pregnant. Use at strength .5-1.5. I find othe | [link](https://civitai.com/models/3045940?modelVersionId=3462803) |
 | `ovary-uterine-vaginal-prolapse-v2-moss` | vaginal prolapse, uterine prolapse, ovary prolapse, ovary, fallopian tubes | not stated | 256 | Ovary/Uterine/Vaginal Prolapse (Moss Version) training with danbooru tag prompt, the tags are: ovary prolapse, | [link](https://civitai.com/models/3021544?modelVersionId=3433970) |
 | `lomo-fisheye-film-circular-black-border-gi-moss` | not stated | not stated | 246 | A camera look you can put on anything: a round image inside a thick black circle, fisheye distortion that make | [link](https://civitai.com/models/3034831?modelVersionId=3448255) |
@@ -52,7 +53,9 @@
 | `base-candid-hair-action-moss` | h41r-4ct10n | not stated | 168 | generates mid-action shots of a woman interacting with their hair in various ways try: h41r-4ct10n she is {bru | [link](https://civitai.com/models/3049165?modelVersionId=3467255) |
 | `jitome-eyes-jitome-moss` | jitome | not stated | 148 | jitome（ジト目）concept trigger words jitome | [link](https://civitai.com/models/3025020?modelVersionId=3435417) |
 | `artificial-girl-model-the-body-for-moss` | 浑圆坚挺上翘不下垂的超级巨大巨乳,健美的平胸小乳房,锥形丰满下垂至肚脐的超级巨大巨乳,自然的有些下垂的中等大小乳房 | not stated | 123 | Please leave a review if you like this lora！ 既不美，又何用？The body！ If beauty it doth lack, what purpose doth it se | [link](https://civitai.com/models/3040046?modelVersionId=3455231) |
+| `white-eyes-moss` | White Sclera, White Sclera Eyes, White Eyes, | not stated | 116 | As asked heres my all white eyes lora best to use 95% (0.95), Enjoy | [link](https://civitai.com/models/3052841?modelVersionId=3472075) |
 | `tentacle-infested-breasts-womb-il-moss` | breast infested with tentacles, breast-x-ray, womb infested with tentacles, x-ra | 0.1-0.6 | 107 | This LoRA is for hentai-style tentacles filling a character's breasts and/or womb. Still 50% body horror and 5 | [link](https://civitai.com/models/3014736?modelVersionId=3467819) |
+| `base-loser-hand-gesture-moss` | l0s3r-h4nd-g35tur3	loser hand gesture using thumb and forefinger | not stated | 72 | try: l0s3r-h4nd-g35tur3 she/he is making loser hand gesture using thumb and forefinger making an L-shape you c | [link](https://civitai.com/models/3053756?modelVersionId=3473293) |
 | `andrdpna-moss` | not stated | 0.4 |  | Andrew's private LoRA (identity/style/anatomy helper). |  |
 | `breasts` | not stated | not stated |  |  |  |
 | `diffuseddamsel-s-puffy-nipples-moss-xl` | not stated | not stated |  |  |  |

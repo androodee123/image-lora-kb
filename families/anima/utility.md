@@ -1,6 +1,6 @@
 # Anima — utility
 
-47 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+48 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -18,6 +18,7 @@
 | `puffy-pussy-fat-mons-slider-anima` | pussy, covered pussy | 0 to 2 | 5555 | Recommended negative prompt: lowres, bad quality, worst quality, bad anatomy, jpeg artifacts, signature, water | [link](https://civitai.com/models/2536481?modelVersionId=3056382) |
 | `Nipple-size-slider4` | not stated | 2 to 2 | 5130 | Recommended negative prompt: lowres, bad quality, worst quality, bad anatomy, jpeg artifacts, signature, water | [link](https://civitai.com/models/2524347?modelVersionId=3053762) |
 | `large_areolae_addift_anima` | large areolae | not stated | 4543 | Areolae size slider | [link](https://civitai.com/models/1384966?modelVersionId=2964180) |
+| `hips-slider-anima` | not stated | 0 to 2 | 4402 | Recommended negative prompt: lowres, bad quality, worst quality, bad anatomy, jpeg artifacts, signature, water | [link](https://civitai.com/models/2546450?modelVersionId=3246403) |
 | `thighs-slider-anima` | not stated | 0 to 2 | 4207 | Recommended negative prompt: lowres, bad quality, worst quality, bad anatomy, jpeg artifacts, signature, water | [link](https://civitai.com/models/2535632?modelVersionId=3264980) |
 | `Curvy-body-sldier-Anima` | not stated | not stated | 4124 | Recommended negative prompt: lowres, bad quality, worst quality, bad anatomy, jpeg artifacts, signature, water | [link](https://civitai.com/models/2521165?modelVersionId=3046343) |
 | `Waist-slider-Anima4` | not stated | 0 to 2 | 4023 | Recommended negative prompt: lowres, bad quality, worst quality, bad anatomy, jpeg artifacts, signature, water | [link](https://civitai.com/models/2521578?modelVersionId=3036087) |

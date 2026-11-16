@@ -1,6 +1,661 @@
 {
  "available": [
   {
+   "date": "2026-11-16",
+   "event": "available",
+   "family": "anima",
+   "slug": "dt-killer-oiran-bunny-suit-knmp-057-24-oir-anima",
+   "category": "clothing",
+   "triggers": [
+    "knmp057mikobunny"
+   ],
+   "url": "https://civitai.com/models/3010233?modelVersionId=3416082"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "available",
+   "family": "anima",
+   "slug": "ass-ripple-fusion-anima",
+   "category": "style",
+   "triggers": [],
+   "url": "https://civitai.com/models/2984446?modelVersionId=3391258"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "available",
+   "family": "anima",
+   "slug": "ass-ripple-classic-anima",
+   "category": "style",
+   "triggers": [],
+   "url": "https://civitai.com/models/2984446?modelVersionId=3385565"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "available",
+   "family": "anima",
+   "slug": "ass-ripple-redi-anima",
+   "category": "style",
+   "triggers": [],
+   "url": "https://civitai.com/models/2984446?modelVersionId=3453897"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "available",
+   "family": "anima",
+   "slug": "ass-ripple-marron-anima",
+   "category": "style",
+   "triggers": [],
+   "url": "https://civitai.com/models/2984446?modelVersionId=3452295"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "available",
+   "family": "anima",
+   "slug": "ass-ripple-anime-anima",
+   "category": "style",
+   "triggers": [],
+   "url": "https://civitai.com/models/2984446?modelVersionId=3447861"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "available",
+   "family": "anima",
+   "slug": "hips-slider-anima",
+   "category": "utility",
+   "triggers": [],
+   "url": "https://civitai.com/models/2546450?modelVersionId=3246403"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "available",
+   "family": "illustrious",
+   "slug": "dt-killer-oiran-bunny-suit-knmp-057-24-oir-ill",
+   "category": "clothing",
+   "triggers": [],
+   "url": "https://civitai.com/models/3010233?modelVersionId=3416090"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "available",
+   "family": "illustrious",
+   "slug": "backgroundpurple-nightclub-ill",
+   "category": "lighting",
+   "triggers": [
+    "nightclub"
+   ],
+   "url": "https://civitai.com/models/1232013?modelVersionId=1388252"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "available",
+   "family": "illustrious",
+   "slug": "conceptmultiple-views-ill",
+   "category": "pose-composition",
+   "triggers": [
+    "multiple views"
+   ],
+   "url": "https://civitai.com/models/918034?modelVersionId=1027532"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "available",
+   "family": "illustrious",
+   "slug": "hips-slider-ill",
+   "category": "utility",
+   "triggers": [],
+   "url": "https://civitai.com/models/2546450?modelVersionId=2861715"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "available",
+   "family": "krea2",
+   "slug": "body-scanner-what-the-airport-scanner-saw-krea2",
+   "category": "anatomy",
+   "triggers": [],
+   "url": "https://civitai.com/models/3031073?modelVersionId=3472226"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "available",
+   "family": "krea2",
+   "slug": "underground-parking-krea2",
+   "category": "concept",
+   "triggers": [],
+   "url": "https://civitai.com/models/3031038?modelVersionId=3472229"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "available",
+   "family": "krea2",
+   "slug": "pov-ball-licking-ball-sucking-krea2",
+   "category": "pose-composition",
+   "triggers": [
+    "blckng"
+   ],
+   "url": "https://civitai.com/models/3047952?modelVersionId=3465626"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "available",
+   "family": "moss",
+   "slug": "body-scanner-what-the-airport-scanner-saw-moss",
+   "category": "anatomy",
+   "triggers": [],
+   "url": "https://civitai.com/models/3031073?modelVersionId=3443398"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "available",
+   "family": "moss",
+   "slug": "base-back-upskirt-view-moss",
+   "category": "clothing",
+   "triggers": [
+    "up5k1rt-b4ck\tupskirt view"
+   ],
+   "url": "https://civitai.com/models/3048345?modelVersionId=3466181"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "available",
+   "family": "moss",
+   "slug": "base-front-upskirt-view-moss",
+   "category": "clothing",
+   "triggers": [
+    "up5k1rt-fr0nt upskirt view"
+   ],
+   "url": "https://civitai.com/models/3048322?modelVersionId=3466150"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "available",
+   "family": "moss",
+   "slug": "base-getting-dressed-stepping-into-clothin-moss",
+   "category": "clothing",
+   "triggers": [
+    "st3pp1ng-1nt0 She is getting dressed stepping into her clothing"
+   ],
+   "url": "https://civitai.com/models/3048799?modelVersionId=3466739"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "available",
+   "family": "moss",
+   "slug": "underground-parking-moss",
+   "category": "concept",
+   "triggers": [],
+   "url": "https://civitai.com/models/3031038?modelVersionId=3443343"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "available",
+   "family": "moss",
+   "slug": "fishnet-shibari-moss",
+   "category": "nsfw-act",
+   "triggers": [
+    "fishnet_bondage ,绳子作为贴身内衣。",
+    "女性被精心编织细的绳索以传统日式束缚（shibari）方式缠绕全身",
+    "且(ropes_gag,gagged with rope)，",
+    "绳结呈密集的菱形网格状，就好像渔网，从肩部延伸至腰部和大腿，裆部也被绳子勒紧，形成对称而富有张力的图案。"
+   ],
+   "url": "https://civitai.com/models/136849?modelVersionId=3441312"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "available",
+   "family": "moss",
+   "slug": "bondage-go-bdsm-for-qwen21-zib-f1-xl-moss",
+   "category": "nsfw-act",
+   "triggers": [
+    "bondage",
+    "shibari",
+    "ropes",
+    "1990年代风格"
+   ],
+   "url": "https://civitai.com/models/136849?modelVersionId=3457797"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "available",
+   "family": "moss",
+   "slug": "shibari-hana-to-hebi-moss",
+   "category": "nsfw-act",
+   "triggers": [
+    "bondage",
+    "shibari",
+    "ropes",
+    "1990年代风格"
+   ],
+   "url": "https://civitai.com/models/136849?modelVersionId=3457797"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "available",
+   "family": "moss",
+   "slug": "hips-slider-moss",
+   "category": "utility",
+   "triggers": [],
+   "url": "https://civitai.com/models/2546450?modelVersionId=3449997"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "available",
+   "family": "pony",
+   "slug": "costumefishnet-bodysuit-request-pony",
+   "category": "clothing",
+   "triggers": [
+    "fishnet bodysuit"
+   ],
+   "url": "https://civitai.com/models/815349?modelVersionId=911750"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "available",
+   "family": "pony",
+   "slug": "diya-von-vergin-pony",
+   "category": "concept",
+   "triggers": [],
+   "url": "https://civitai.com/models/3015175?modelVersionId=3470749"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "available",
+   "family": "sdxl",
+   "slug": "bondage-bdsm-xl",
+   "category": "nsfw-act",
+   "triggers": [
+    "rope",
+    "black tape gag",
+    "bondage"
+   ],
+   "url": "https://civitai.com/models/136849?modelVersionId=150991"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "available",
+   "family": "anima",
+   "slug": "ass-ripple-original-anima",
+   "category": "anatomy",
+   "triggers": [],
+   "url": "https://civitai.com/models/2880606?modelVersionId=3255745"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "available",
+   "family": "anima",
+   "slug": "role-ref-kv-anima",
+   "category": "anatomy",
+   "triggers": [],
+   "url": "https://civitai.com/models/3021867?modelVersionId=3473000"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "available",
+   "family": "anima",
+   "slug": "dolores-dick-jab-anima",
+   "category": "anatomy",
+   "triggers": [
+    "D0L0R35"
+   ],
+   "url": "https://civitai.com/models/1939123?modelVersionId=3472809"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "available",
+   "family": "anima",
+   "slug": "fashionmagical-girl-anima",
+   "category": "character",
+   "triggers": [
+    "magicalgirl",
+    "magicalgirl, chest bow, frilled dress, short dress, {short sleeves|puffy sleeves|sleeveless}, back bow, {short gloves|long gloves|wrist cuffs, fingernails}, hair ornament, (color) theme"
+   ],
+   "url": "https://civitai.com/models/2981740?modelVersionId=3380146"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "available",
+   "family": "anima",
+   "slug": "hoshizuki-suzu-kaede-to-suzu-anima",
+   "category": "character",
+   "triggers": [],
+   "url": "https://civitai.com/models/3053417?modelVersionId=3472825"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "available",
+   "family": "anima",
+   "slug": "tohsaka-rin-fate-stay-night-ill",
+   "category": "character",
+   "triggers": [
+    "rinF8",
+    "blue eyes, dark brown hair, black hair, long hair, parted bangs, two side up, hair ribbon",
+    "red shirt, red sweater, long sleeves, black skirt, pleated skirt, miniskirt, black thighhighs, zettai ryouiki"
+   ],
+   "url": "https://civitai.com/models/3053552?modelVersionId=3473013"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "available",
+   "family": "anima",
+   "slug": "medusa-fate-fate-stay-night-ill",
+   "category": "character",
+   "triggers": [
+    "medusaF8",
+    "purple eyes, purple hair, very long hair, facial mark, forehead mark",
+    "collar, black short dress, strapless dress, bare shoulders, detached sleeves, black thighhighs, zettai ryouiki"
+   ],
+   "url": "https://civitai.com/models/3053559?modelVersionId=3473025"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "available",
+   "family": "anima",
+   "slug": "angel-blade-the-student-being-chased-in-th-anima",
+   "category": "character",
+   "triggers": [
+    "ab_mob1_anima"
+   ],
+   "url": "https://civitai.com/models/1639738?modelVersionId=3473165"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "available",
+   "family": "anima",
+   "slug": "angel-blade-tenmyoin-seiru-student-council-anima",
+   "category": "character",
+   "triggers": [
+    "ab_tenmyouins4a5i6l"
+   ],
+   "url": "https://civitai.com/models/1639713?modelVersionId=3472748"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "available",
+   "family": "anima",
+   "slug": "meiko-shiraki-prison-school-il-anima",
+   "category": "character",
+   "triggers": [
+    "Meiko Shiraki",
+    "Main Outfit"
+   ],
+   "url": "https://civitai.com/models/1571804?modelVersionId=3473016"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "available",
+   "family": "anima",
+   "slug": "super-sonico-maid-version-anima",
+   "category": "character",
+   "triggers": [
+    "maidSonico, 1girl, solo, long hair, breasts, looking at viewer, blush, open mouth, simple background, red eyes, thighhighs, white background, underwear, pink hair, ass, white panties, apron, maid, maid headdress, headphones, garter straps, garter belt, butt crack, wardrobe malfunction, super sonico, unfastened bra",
+    "maidSonico, 1girl, solo, long hair, breasts, looking at viewer, blush, red eyes, thighhighs, cleavage, underwear, pink hair, frills, white panties, apron, maid, maid headdress, underboob, headphones, garter straps, from below, single thighhigh, super sonico",
+    "maidSonico, 1girl, solo, long hair, breasts, looking at viewer, blush, bangs, red eyes, long sleeves, dress, bow, ribbon, cleavage, hair between eyes, closed mouth, standing, full body, pink hair, frills, shoes, indoors, bowtie, apron, red bow, maid, maid headdress, neck ribbon, detached collar, headphones, from above, chair, table, red footwear, red bowtie, pink dress, white apron, mary janes, maid apron, frilled apron, wooden floor, enmaided, pink footwear, bookshelf, super sonico"
+   ],
+   "url": "https://civitai.com/models/3052908?modelVersionId=3472159"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "available",
+   "family": "anima",
+   "slug": "hayama-shizuka-daphne-in-the-brilliant-blu-anima",
+   "category": "character",
+   "triggers": [],
+   "url": "https://civitai.com/models/1231180?modelVersionId=3472462"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "available",
+   "family": "anima",
+   "slug": "neo-monk-dungeon-fighter-online-anima",
+   "category": "character",
+   "triggers": [
+    "neomonkdfo, solo, 1girl, black hair, white hair, multicolored hair, two-tone hair, purple eyes, cross earrings, fur-trimmed cape, sleeveless top, cleavage, midriff, gloves, belt, white pants, black footwear",
+    "sunglasses"
+   ],
+   "url": "https://civitai.com/models/3053516?modelVersionId=3472964"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "available",
+   "family": "anima",
+   "slug": "lady-ouji-anima",
+   "category": "character",
+   "triggers": [
+    "Lady_Ouji",
+    "ivory-toned pale skin",
+    "black hair",
+    "absurdly long hair"
+   ],
+   "url": "https://civitai.com/models/3034544?modelVersionId=3449711"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "available",
+   "family": "anima",
+   "slug": "jane-nesz-anima",
+   "category": "character",
+   "triggers": [
+    "janenesz",
+    "black hair, pixie cut",
+    "freckles",
+    "glasses"
+   ],
+   "url": "https://civitai.com/models/885224?modelVersionId=3472778"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "available",
+   "family": "anima",
+   "slug": "lynda-jones-jab-comix-anima",
+   "category": "character",
+   "triggers": [
+    "LyndaJ_keep, medium hair, brown hair, medium hair with curled end, amber eyes, jewelry, hoop earrings, big breasts, mature breasts, petite body, wide hips, pubic hair,",
+    "headband,",
+    "open robe, short pink robe, fur trim robe,",
+    "blue garterbelt, blue thigh high stockings,"
+   ],
+   "url": "https://civitai.com/models/2612191?modelVersionId=3472497"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "available",
+   "family": "anima",
+   "slug": "nina-anima",
+   "category": "character",
+   "triggers": [],
+   "url": "https://civitai.com/models/3039285?modelVersionId=3454114"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "available",
+   "family": "anima",
+   "slug": "colombe-tiredaile-anima",
+   "category": "character",
+   "triggers": [
+    "colombe_anm",
+    "blonde hair, long hair, hair ornament, blue eyes, blue dress, short dress, medium breasts, lips"
+   ],
+   "url": "https://civitai.com/models/1854672?modelVersionId=3472737"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "available",
+   "family": "anima",
+   "slug": "ophelia-sarkissian-viper-madame-hydra-anima",
+   "category": "character",
+   "triggers": [
+    "madamehydra",
+    "open clothes, cropped jacket, boots"
+   ],
+   "url": "https://civitai.com/models/3052886?modelVersionId=3472127"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "available",
+   "family": "anima",
+   "slug": "miko-mido-la-blue-girl-manga-version-anima",
+   "category": "character",
+   "triggers": [
+    "1girl, miko manga, black hair, blue eyes, large breasts, ponytail, star pattern hair bow"
+   ],
+   "url": "https://civitai.com/models/3053389?modelVersionId=3472782"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "available",
+   "family": "anima",
+   "slug": "tara-glaxygirl-ani-anima",
+   "category": "character",
+   "triggers": [
+    "Tara, blonde hair, green eyes, large breasts, lips, long hair, thighs, muscular, mole, wavy hair, eyelashes"
+   ],
+   "url": "https://civitai.com/models/3005985?modelVersionId=3472976"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "available",
+   "family": "anima",
+   "slug": "solange-shutter-chance-mrjohn-anima",
+   "category": "character",
+   "triggers": [
+    "Solange_ByMrJohn, dark brown skin, very voluminous bright pink hair in two high twin ponytails, long curled ponytail lengths, curled face-framing strands, purple eyes, dark arched eyebrows, almond-shaped eyes, small nose, full lips, stylized curvy petite build with broad hips and strong thighs",
+    "wearing a white and teal sailor school uniform, short-sleeved white blouse with teal collar and sleeve trim, pink neckerchief bow, teal pleated miniskirt, white knee-high socks, dark brown shoes"
+   ],
+   "url": "https://civitai.com/models/3053762?modelVersionId=3473302"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "available",
+   "family": "anima",
+   "slug": "ninnin-la-blue-girl-anima",
+   "category": "character",
+   "triggers": [
+    "1other, solo, ninnin, void face, eyes in shadow, deformed, mini person, glowing oval eyes, yellowish green eyes",
+    "blue kimono, blue hood, blue scarf, fishnet top, grey gloves, fewer digits, blue pants, grey footwear"
+   ],
+   "url": "https://civitai.com/models/3053778?modelVersionId=3473325"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "available",
+   "family": "anima",
+   "slug": "andromeda-glaxygirl-ani-anima",
+   "category": "character",
+   "triggers": [
+    "Andromeda, white hair, breasts, long hair, lips, medium breasts, colored skin, purple eyes, thighs, collarbone, purple skin, eyelashes, blue eyes"
+   ],
+   "url": "https://civitai.com/models/3000989?modelVersionId=3472956"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "available",
+   "family": "anima",
+   "slug": "costumeopaque-pantyhose-commission-anima",
+   "category": "clothing",
+   "triggers": [
+    "pantyhose, (color) pantyhose"
+   ],
+   "url": "https://civitai.com/models/2730158?modelVersionId=3069195"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "available",
+   "family": "anima",
+   "slug": "costumesatin-lingerie-set-anima",
+   "category": "clothing",
+   "triggers": [
+    "satin bra, satin panties, lace trim, (color) bra, (color) panties"
+   ],
+   "url": "https://civitai.com/models/2600236?modelVersionId=2958997"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "available",
+   "family": "anima",
+   "slug": "costumeembroidered-thigh-highs-commission-anima",
+   "category": "clothing",
+   "triggers": [
+    "embroidered legwear, thighhighs, (color) thighhighs"
+   ],
+   "url": "https://civitai.com/models/2700511?modelVersionId=3032608"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "available",
+   "family": "anima",
+   "slug": "costumepleated-lace-babydoll-anima",
+   "category": "clothing",
+   "triggers": [
+    "see-through babydoll, lace, side slit, (color) babydoll"
+   ],
+   "url": "https://civitai.com/models/2601033?modelVersionId=2961951"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "available",
+   "family": "anima",
+   "slug": "costumeplunging-long-dress-anima",
+   "category": "clothing",
+   "triggers": [
+    "long dress, long sleeves, plunging neckline, (color) dress"
+   ],
+   "url": "https://civitai.com/models/2503274?modelVersionId=2963667"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "available",
+   "family": "anima",
+   "slug": "costumeknit-cross-laced-dress-anima",
+   "category": "clothing",
+   "triggers": [
+    "ribbed dress, cross-laced dress, green dress"
+   ],
+   "url": "https://civitai.com/models/1644666?modelVersionId=3078481"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "available",
+   "family": "anima",
+   "slug": "costumefrilly-cow-outfit-anima",
+   "category": "clothing",
+   "triggers": [
+    "frilled shrug, cow print bikini, black corset, garter straps, white thighhighs"
+   ],
+   "url": "https://civitai.com/models/2347498?modelVersionId=2963997"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "available",
+   "family": "anima",
+   "slug": "costumebandeau-maid-anima",
+   "category": "clothing",
+   "triggers": [
+    "maid, (color) bandeau, (color) skirt, underboob, waist apron"
+   ],
+   "url": "https://civitai.com/models/1050728?modelVersionId=3024063"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "available",
+   "family": "anima",
+   "slug": "costumebrown-dress-and-bolero-anima",
+   "category": "clothing",
+   "triggers": [
+    "brown dress, cropped jacket"
+   ],
+   "url": "https://civitai.com/models/1644584?modelVersionId=3068809"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "available",
+   "family": "anima",
+   "slug": "costumesheer-floral-embroidery-set-anima",
+   "category": "clothing",
+   "triggers": [
+    "see-through bra, see-through panties, frills, floral embroidery, covered nipples"
+   ],
+   "url": "https://civitai.com/models/2606181?modelVersionId=2962025"
+  },
+  {
    "date": "2026-11-14",
    "event": "available",
    "family": "anima",
@@ -1017,239 +1672,190 @@
    "category": "pose-composition",
    "triggers": [],
    "url": "https://civitai.com/models/3050965?modelVersionId=3469578"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "krea2",
-   "slug": "retro-sweetie-krea2",
-   "category": "style",
-   "triggers": [
-    "retro sweetie"
-   ],
-   "url": "https://civitai.com/models/3050902?modelVersionId=3469495"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "krea2",
-   "slug": "nv3d-style-krea2",
-   "category": "style",
-   "triggers": [],
-   "url": "https://civitai.com/models/3046415?modelVersionId=3463433"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "krea2",
-   "slug": "in-the-style-of-fudou58-hyperrealistic-and-krea2",
-   "category": "style",
-   "triggers": [
-    "In the style of Fudou58, hyperrealistic and detailed anime style"
-   ],
-   "url": "https://civitai.com/models/3051018?modelVersionId=3469639"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "moss",
-   "slug": "deepseek-whale-girl-moss",
-   "category": "character",
-   "triggers": [
-    "dafeiyu"
-   ],
-   "url": "https://civitai.com/models/3050927?modelVersionId=3469543"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "moss",
-   "slug": "vintage-crt-television-moss",
-   "category": "style",
-   "triggers": [],
-   "url": "https://civitai.com/models/3051096?modelVersionId=3469743"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "moss",
-   "slug": "retro-quiet-cream-walls-and-deep-blue-skie-moss",
-   "category": "style",
-   "triggers": [],
-   "url": "https://civitai.com/models/3050834?modelVersionId=3469416"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "moss",
-   "slug": "ag-camio-wild-brush-fantasy-moss",
-   "category": "style",
-   "triggers": [
-    "@C4M10V01C"
-   ],
-   "url": "https://civitai.com/models/3015225?modelVersionId=3453591"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "anima",
-   "slug": "allura-succubus-anima",
-   "category": "character",
-   "triggers": [
-    "a11ura"
-   ],
-   "url": "https://civitai.com/models/3051209?modelVersionId=3469896"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "anima",
-   "slug": "roxy-rm-og-v2-anima",
-   "category": "character",
-   "triggers": [],
-   "url": "https://civitai.com/models/2830536?modelVersionId=3470034"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "anima",
-   "slug": "tentacles-from-book-anm-il-anima",
-   "category": "concept",
-   "triggers": [
-    "tentacles from book",
-    "floating book",
-    "holding book",
-    "book on ground"
-   ],
-   "url": "https://civitai.com/models/3010998?modelVersionId=3469767"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "anima",
-   "slug": "niku-ringo-artist-style-anima",
-   "category": "style",
-   "triggers": [
-    "nikur1ng0"
-   ],
-   "url": "https://civitai.com/models/3012175?modelVersionId=3418651"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "anima",
-   "slug": "style-lapis002-anima",
-   "category": "style",
-   "triggers": [
-    "@Lapis002"
-   ],
-   "url": "https://civitai.com/models/3051354?modelVersionId=3470068"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "illustrious",
-   "slug": "detailed-nipples-and-areolas-ill",
-   "category": "anatomy",
-   "triggers": [],
-   "url": "https://civitai.com/models/2684875?modelVersionId=3215996"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "illustrious",
-   "slug": "arima-shiori4-heartful-maman-ill",
-   "category": "character",
-   "triggers": [
-    "arima_shiori4, red hair, long hair, straight hair, parted bangs, blue eyes, thick lips, red lipstick"
-   ],
-   "url": "https://civitai.com/models/3051238?modelVersionId=3469932"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "illustrious",
-   "slug": "2b-nier-automata-xl-sfw-nsfw-ill",
-   "category": "character",
-   "triggers": [],
-   "url": "https://civitai.com/models/3051210?modelVersionId=3469897"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "illustrious",
-   "slug": "motsu-doujin-style-circle-motsu-ryouri-v2-ill",
-   "category": "style",
-   "triggers": [
-    "m0tsury0rid0uj1nv2"
-   ],
-   "url": "https://civitai.com/models/3050968?modelVersionId=3469581"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "illustrious",
-   "slug": "style-priestofart-ill",
-   "category": "style",
-   "triggers": [
-    "Style Priestofart ILL"
-   ],
-   "url": "https://civitai.com/models/3050984?modelVersionId=3469596"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "moss",
-   "slug": "extend-into-pussy-v2-moss",
-   "category": "anatomy",
-   "triggers": [],
-   "url": "https://civitai.com/models/3049222?modelVersionId=3469627"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "moss",
-   "slug": "puffy-nipples-v9683-moss",
-   "category": "anatomy",
-   "triggers": [],
-   "url": "https://civitai.com/models/3035492?modelVersionId=3469683"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "moss",
-   "slug": "misao-takamine-from-saimin-seishidou-moss",
-   "category": "character",
-   "triggers": [
-    "#SaiminSeishidou#-Misao-Takamine",
-    "black hair",
-    "grey pleated skirt",
-    "large breasts"
-   ],
-   "url": "https://civitai.com/models/3051214?modelVersionId=3469904"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "moss",
-   "slug": "painterly-concept-art-style-for-moss",
-   "category": "style",
-   "triggers": [
-    "traditional oil painting style, semi-realism,"
-   ],
-   "url": "https://civitai.com/models/3051322?modelVersionId=3470027"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "moss",
-   "slug": "abs-slider-moss",
-   "category": "utility",
-   "triggers": [],
-   "url": "https://civitai.com/models/2513137?modelVersionId=3438321"
   }
  ],
  "candidates": [
+  {
+   "date": "2026-11-16",
+   "event": "candidate",
+   "family": "illustrious",
+   "slug": "Beautiful darkness style Krea2/Anima/illustriousXL/ZImageTurbo/Flux",
+   "category": "style",
+   "triggers": [
+    "beautiful_darkness_style"
+   ],
+   "url": "https://civitai.com/models/1335689"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "candidate",
+   "family": "illustrious",
+   "slug": "Kaede Hozuki (ONIMAI: I'm Now Your Sister!/Oniichan Wa Oshimai)",
+   "category": "character",
+   "triggers": [
+    "K&3d3H0zuk1,1girl, solo, pink eyes, pink hair, blue hair, multicolored hair, two-tone hair, large breasts",
+    "K&3d3un1f0rm, blue skirt, shirt, necklace, bow, bracelet, untucked shirt, red bowtie, side ponytail",
+    "K&3d3sw1msu1t, large breasts, eyewear on head, swimsuit, pink nails, heart-shaped pink-tinted eyewear, green bikini, sandals, navel, hair flower, side ponytail",
+    "K&3d3succu, horns, tail, demon tail, earrings, pink high heels, bridal gauntlets, wings, ponytail"
+   ],
+   "url": "https://civitai.com/models/1039717"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "candidate",
+   "family": "illustrious",
+   "slug": "Aphrodite (Record of Ragnarok/Shuumatsu no Valkyrie)",
+   "category": "character",
+   "triggers": [
+    "Aphrod1te, 1girl, blue eyes, blonde hair, blue eyes, hair flower, hair ornament, huge breasts | greco-roman clothes, ancient greek clothes, dress, sideboob"
+   ],
+   "url": "https://civitai.com/models/1210660"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "candidate",
+   "family": "krea2",
+   "slug": "Pokémon retro anime style (1997)",
+   "category": "style",
+   "triggers": [
+    "pokemon_retro style"
+   ],
+   "url": "https://civitai.com/models/863109"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "candidate",
+   "family": "pony",
+   "slug": "Laz aka MadeFromLazers Style",
+   "category": "style",
+   "triggers": [
+    "Lazstyle"
+   ],
+   "url": "https://civitai.com/models/367799"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "candidate",
+   "family": "illustrious",
+   "slug": "Galko (Please Tell Me! Galko-chan)",
+   "category": "character",
+   "triggers": [
+    "G&lk0, 1girl, solo, blonde hair, long hair, blue eyes, large breasts, earrings, pink nail polish, lips, asymmetrical hair, one side up, single side bun, blue scrunchie",
+    "G&lk0sch00lun1f0rm, school uniform, kogal, plaid skirt, pleated skirt, red bow",
+    "G&lk0blu3sw1msu1t, black eyewear on head, bracelet, hair bun, single side bun, bikini top, blue bikini bottom skirt, frills, choker, blue scrunchie"
+   ],
+   "url": "https://civitai.com/models/1077938"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "candidate",
+   "family": "illustrious",
+   "slug": "Yuna from Final Fantasy [IllustriousXL]",
+   "category": "style",
+   "triggers": [
+    "FFYuna, brown hair"
+   ],
+   "url": "https://civitai.com/models/1563818"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "candidate",
+   "family": "illustrious",
+   "slug": "JagoDibuja Style (Anima/Illust/Pony)",
+   "category": "style",
+   "triggers": [
+    "JagoStyle, JagoStylePinup, JagoStyleFlat,",
+    "JagoSophie, JagoErika, JagoArtur, JagoMegan, JagoElly, JagoClara, JagoJenny, JagoMila, JagoCarmen, JagoSolenne, JagoSonia, JagoJulia, JagoHiroko,"
+   ],
+   "url": "https://civitai.com/models/600648"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "candidate",
+   "family": "illustrious",
+   "slug": "Wyvern rider / ドラゴンナイト (Fire Emblem) Pony/Flux/IL/NAI/ZIT/ANI",
+   "category": "concept",
+   "triggers": [
+    "wyvern rider,wyvern,dragon riding",
+    "holding polearm",
+    "holding axe"
+   ],
+   "url": "https://civitai.com/models/586690"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "candidate",
+   "family": "illustrious",
+   "slug": "NINJA SCROLL ☆ STYLE",
+   "category": "style",
+   "triggers": [
+    "N1njaScroll"
+   ],
+   "url": "https://civitai.com/models/56829"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "candidate",
+   "family": "illustrious",
+   "slug": "High Profile Breast Implants 2.0 [Illustrious/Pony]",
+   "category": "anatomy",
+   "triggers": [
+    "fake tits"
+   ],
+   "url": "https://civitai.com/models/1932906"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "candidate",
+   "family": "pony",
+   "slug": "LOONA (HELLUVA WAIFU)",
+   "category": "character",
+   "triggers": [
+    "LOONA, FURRY,",
+    "GREY HAIR, SILVER EYES, RED SCLERA,",
+    "SPIKED COLLAR, PIERCED EYEBROW,",
+    "CROP TOP, MICRO SHORTS,"
+   ],
+   "url": "https://civitai.com/models/1108569"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "candidate",
+   "family": "illustrious",
+   "slug": "C.C. (シーツー) - Code Geass: Lelouch of the Rebellion",
+   "category": "anatomy",
+   "triggers": [
+    "1girl,green hair,yellow eyes,bangs,sidelocks,long hair,very long hair",
+    "medium breasts,shiny hair,straitjacket,white bodysuit,bodysuit,breasts,high heels,wide sleeves,long sleeves,belt,boots,high heel boots,skin tight",
+    "hair between eyes, medium breasts,ashford academy school uniform,skirt,green necktie,school uniform,black footwear,socks,black skirt,necktie,jacket,miniskirt,shirt,collared shirt,loafers,long sleeves,shoes,white shirt,yellow jacket,kneehighs,ribbon,hair bow,white ribbon,breasts,bow,wing collar,white bow,hair ribbon,pleated skirt,blazer,blue socks,shiny hair,sleeves past wrists,brown jacket",
+    "boots,thigh boots,detached sleeves,thighhighs,white footwear,high heels,high heel boots,shorts,breasts,white shorts,belt,medium breasts,bare shoulders,short shorts,straight hair,black sleeves,dress,black dress,knee boots,white thighhighs,long sleeves,shiny hair,sleeveless"
+   ],
+   "url": "https://civitai.com/models/1834731"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "candidate",
+   "family": "pony",
+   "slug": "Sheena Fujibayashi (Tales of Symphonia)  - 3 Outfits - Anima/Illustrious/Pony",
+   "category": "clothing",
+   "triggers": [
+    "ogSheena, ponytail, black hair, japanese clothes, hair ribbon, fingerless gloves, cleavage, pink obi, black pants, brown eyes, hair between eyes,",
+    "swimSheena, ponytail, black hair, hair ribbon, red one-piece swimsuit, highleg, cross-laced clothes, brown eyes, hair between eyes,",
+    "ylgSheena, black hair, hair bun,hair clip,armlet,dark purple clothes,halterneck,criss-cross halter crop top,underboob,midriff,short skirt,pelvic curtain,side slit, choker, straps across stomach, bracelet, brown eyes, black thighhighs,"
+   ],
+   "url": "https://civitai.com/models/336590"
+  },
+  {
+   "date": "2026-11-16",
+   "event": "candidate",
+   "family": "krea2",
+   "slug": "Cartoon Val, Clo, Jo and Stephanie- imaginary petite mature women",
+   "category": "character",
+   "triggers": [
+    "Joyce"
+   ],
+   "url": "https://civitai.com/models/2326573"
+  },
   {
    "date": "2026-11-14",
    "event": "candidate",

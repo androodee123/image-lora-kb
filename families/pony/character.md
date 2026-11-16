@@ -1,6 +1,6 @@
 # Pony (Pony Diffusion XL) — character
 
-22 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+27 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -11,10 +11,13 @@
 | slug | triggers | strength | dl | what | source |
 |---|---|---|---:|---|---|
 | `taimanin-rpgx-character-collection-concept-pony` | taimanincc, 1 girl, Solo Focus, character profile title text, Simple background, | not stated | 2837 | --SAMPLE <LORA>->Base->CommonWard->Character-- --------------------------------------  <lora:TaimaninCC_IL_V2: | [link](https://civitai.com/models/556011?modelVersionId=618819) |
+| `hentai-futanari-shared-onaho-iwara-mmd-mod-pony` | (futa_onaho_share), (2girls), yuri, futanari, futa with futa, erection, penises  | not stated | 1541 |  | [link](https://civitai.com/models/792940?modelVersionId=886658) |
 | `beautiful-older-trans-girl-pony` | trans, TS, transgender, futa, shemale, beautiful, big tits, big fake tits, older | not stated | 859 |  | [link](https://civitai.com/models/1509053?modelVersionId=1706989) |
+| `costumegamer-girl-request-pony` | open cardigan, pink bra, pink panties, lace, cat ear headphones | not stated | 833 |  | [link](https://civitai.com/models/817873?modelVersionId=914559) |
 | `kirill-from-shounen-ga-otona-ni-natta-nats-pony` | 1girl, solo, breasts, red hair, long hair, large breasts, huge breasts | not stated | 412 | Standard Pony | [link](https://civitai.com/models/823310?modelVersionId=920656) |
 | `guy-rides-trans-girl-pony` | grtg, guy rides trans, futa on male, anal sex, | not stated | 198 |  | [link](https://civitai.com/models/2026207?modelVersionId=2293183) |
 | `kaneda-maiko-hentai-discipline-record-of-a-pony` | Kaneda Maiko, 1girl, brown hair, red eyes, hairclip, glasses, purple school unif | not stated | 160 | Kaneda Maiko from Discipline: Record of a Crusade is on ANIMA / NoobAI-XL V-pred / Epsilon / IL / Pony and SD1 | [link](https://civitai.com/models/1852388?modelVersionId=2096360) |
+| `jane-nesz-pony` | janenesz, tracksuit jacket, tracksuit pants | not stated | 131 | Nesz' OC Jane Anima Tags: Main Tag: janenesz Appearance Tags: pixie cut, black hair, purple eyes, freckles OUT | [link](https://civitai.com/models/885224?modelVersionId=990918) |
 | `Futa World - Nami - v1.0 - Futa World - Nami` | Face: Nami, pale skin, long eyelashes, light brown eyebrows, pink lips., Hair: A | not stated | 106 |  | [link](https://civitai.com/models/2875160?modelVersionId=3248907) |
 | `flaccid-futa-personalami-style-pony` | not stated | not stated | 86 |  | [link](https://civitai.com/models/2966772?modelVersionId=3361585) |
 | `egg-birthing-babes-pony` | not stated | not stated | 65 | THIS IS A DUMPY WAIFU SLASH EGG BIRTH MODEL | [link](https://civitai.com/models/2955354?modelVersionId=3347563) |
@@ -31,4 +34,6 @@
 | `futanari-waifu-pony` | not stated | not stated | 31 | THIS IS THE MODEL FOR FUTANARI WAIFU I MADE FOR TESTING SO ENJOY IT AND PLEASE COMMENT AND TELL ME HOW IT WAS | [link](https://civitai.com/models/2955344?modelVersionId=3347549) |
 | `pokemon-trainers-pony` | not stated | not stated | 30 | ENJOY POKEMON MODEL WITH COCKS AND EGG BIRTHING | [link](https://civitai.com/models/2955537?modelVersionId=3347810) |
 | `anime-woman-nsfw-pony` | not stated | not stated | 20 | CURRENT VERSION ONE I WILL TRY AND UPDATE IT EVERY SO OFTEN | [link](https://civitai.com/models/2922255?modelVersionId=3306398) |
+| `character-ponyxl-minako-ano-ko-no-kawari-n-pony` | M1N4K0, score_9, score_8_up, score_7_up, source_anime, brown eyes, eyelashes, ha | not stated | 20 | Image sizes and tags are optimized in the tagging process. | [link](https://civitai.com/models/3053718?modelVersionId=3473243) |
+| `character-pony` | not stated | not stated | 17 |  | [link](https://civitai.com/models/3053430?modelVersionId=3472841) |
 | `Pony Girl - V1 - V1` | not stated | not stated |  |  |  |

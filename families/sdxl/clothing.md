@@ -1,6 +1,6 @@
 # SDXL — clothing
 
-6 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+7 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -11,6 +11,7 @@
 | slug | triggers | strength | dl | what | source |
 |---|---|---|---:|---|---|
 | `80s-aerobic-outfit-xl` | a3robic, 80s aerobic outfit | not stated | 479 |  | [link](https://civitai.com/models/517542?modelVersionId=575094) |
+| `outfit-futa-xl` | not stated | not stated | 185 | V1 | [link](https://civitai.com/models/663022?modelVersionId=741974) |
 | `step-sis-pants-down-jeans-pulled-down-simu-xl` | pd_jeans, from behind, from front | 0.65–0.85 | 181 | STEP-SIS JEANS PULLED DOWN SIMULATOR XL SDXL + Illustrious XL + Realistic Pony XL / Front & Back View A LoRA f | [link](https://civitai.com/models/3015326?modelVersionId=3422758) |
 | `thong-upskirt-xl` | not stated | not stated | 178 |  | [link](https://civitai.com/models/2898091?modelVersionId=3276640) |
 | `bullet-bra-xl` | not stated | not stated | 53 |  | [link](https://civitai.com/models/2903504?modelVersionId=3283348) |

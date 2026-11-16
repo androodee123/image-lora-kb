@@ -1,6 +1,6 @@
 # Krea2 (detailed-krea2) — concept
 
-392 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+398 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 | slug | triggers | strength | dl | what | source |
 |---|---|---|---:|---|---|
@@ -99,6 +99,7 @@
 | `blowbang-but-for-free-krea2` | bl0wb4ng, blowbang, multiple penises, 6+ penises,, cum, facial, bukkake, | 0.5-0.9 | 609 | Join my Discord:https://discord.gg/tMbPUdkP27 No Early Access. It is so sad that I need to write in the title  | [link](https://civitai.com/models/3050315?modelVersionId=3468762) |
 | `dog-z-krea2` | not stated | not stated | 602 | 🐶 New LoRA Model: Dogs Hey everyone! 🐾 I’m excited to share my new LoRA model, Dogs, built on Krea 2 and Zeta  | [link](https://civitai.com/models/2961815?modelVersionId=3355599) |
 | `evasive-posture-krea2` | her posture is evasive, on one knee, shown mid-action scrambling dashing away, o | not stated | 602 | evasive posture, escaping, scrambling away, in a bit of a panic etc. try: her posture is evasive on one knee s | [link](https://civitai.com/models/2975739?modelVersionId=3372666) |
+| `under-desk-helper-krea2` | She is sneakilly hidden under the desk | not stated | 600 | It's now more easy to generate girls under table, this wasn't done yet with Krea 2 so here it goes. | [link](https://civitai.com/models/3035974?modelVersionId=3449778) |
 | `stepping-into-clothing-krea2` | st3pp1ng-1nt0, she is reaching down and one-leg stepping into and pulling up her | not stated | 599 | generates a 'steping into' mid-action motion when pulling up underwear/leggings/pants. use with https://civita | [link](https://civitai.com/models/2984933?modelVersionId=3384093) |
 | `st-kreal-gay-femboy-s-krea2` | not stated | not stated | 595 | Release of the New LoRA Version The LoRA adapter that has just been released, available with a configurable se | [link](https://civitai.com/models/2937633?modelVersionId=3325563) |
 | `hairless-pubes-male-krea2` | He has clean smooth hairless pubic area | 1 | 594 | try: He has clean smooth hairless pubic area Should work between strength of 1 and 2. Any higher and starts to | [link](https://civitai.com/models/3014893?modelVersionId=3422142) |
@@ -135,6 +136,7 @@
 | `suicide-girls-krea2` | not stated | not stated | 426 | Trained on the same data set as my suicide girls sdxl model | [link](https://civitai.com/models/3009006?modelVersionId=3414514) |
 | `g-string-krea2` | g-string | not stated | 401 | Use this model to produce high quality images of women in g-strings | [link](https://civitai.com/models/3042965?modelVersionId=3458964) |
 | `38dd-cup-concept-krea2` | 38ddcup | 1 | 400 | An attempt to make a breasts concept  The dataset has only close-up of a 38dd cup, no face inside v2 has been  | [link](https://civitai.com/models/2903417?modelVersionId=3283255) |
+| `scrunch-yoga-pants-but-for-free-p-krea2` | y0g4, wearing an ass scrunching yoga pants,, wearing ass scrunching yoga shorts, | 0.5-0.9 | 400 | Join my Discord:https://discord.gg/tMbPUdkP27 It is so sad that I need to write in the title "for free" ... I  | [link](https://civitai.com/models/3053089?modelVersionId=3472374) |
 | `36c-cup-concept-krea2` | 36ccup | 1 | 393 | An attempt to make a breasts concept The dataset has only close-up of a 36c cup, no face inside The trigger wo | [link](https://civitai.com/models/2996330?modelVersionId=3398318) |
 | `wrestling-pin-k2-krea2` | Class37_necksit_K2 | not stated | 391 | Wrestling pin | [link](https://civitai.com/models/2983899?modelVersionId=3382843) |
 | `sexy-robots-krea2` | robot | not stated | 388 | Trained on 81 images of sexy robots | [link](https://civitai.com/models/2936432?modelVersionId=3324034) |
@@ -183,6 +185,7 @@
 | `redpubes-krea2` | redpubes | not stated | 238 | Generates red / ginger pubic hair Trigger: redpubes I used res_multistep and sgm_uniform at CFG 1 and 12 steps | [link](https://civitai.com/models/3033489?modelVersionId=3446589) |
 | `decosplosion-krea2` | DecoDaal | 1.0 | 235 | DecoSplosion Activation keyword: DecoDaal DecoSplosion is a bright, intricate collision of decoupage, collage, | [link](https://civitai.com/models/2980147?modelVersionId=3378190) |
 | `stickys-cumfaces-krea2` | not stated | not stated | 232 | Stickys_cumfaces | [link](https://civitai.com/models/2411752?modelVersionId=3415768) |
+| `underground-parking-krea2` | not stated | not stated | 232 | A level of an underground car park: rows of cars in white-lined bays, a broad driving lane with painted white  | [link](https://civitai.com/models/3031038?modelVersionId=3472229) |
 | `blood-bath-gmr-flux-pdxl-krea2` | bloodbath | not stated | 231 | Blood Bath the new SDXL Lora perfect to give a bath of RED to enhance your scene and give that sense of suspen | [link](https://civitai.com/models/621272?modelVersionId=3447175) |
 | `grid-tactics-concept-krea2` | not stated | not stated | 222 | Adventurers in a tactical RPG aesthetic: high three-quarter isometric view, hand-painted game-rendering finish | [link](https://civitai.com/models/2994351?modelVersionId=3395815) |
 | `living-suit-kr2-living-suit-v2-port-krea2` | livingsuitkr2 | not stated | 222 | Living Suit KR2 is a Krea2 port of Living Suit V2, originally made for Illustrious. This is not a new version  | [link](https://civitai.com/models/3001892?modelVersionId=3405338) |
@@ -196,6 +199,7 @@
 | `Cybernetic Arms - Multi_Concept - MrJohn - v1.0 - Cyber_epoch_8` | Mantis-Blades_ByMrJohn, mantis blades, cybernetic arm, mechanical forearm, retra | not stated | 205 | Un saludo a Dreamerland  Create 3 concepts of cybernetic weapons/arms | [link](https://civitai.com/models/2865084?modelVersionId=3236708) |
 | `lines-krea2` | striped lines, lines | 0.7 – 1.1 | 199 | KREA 2 This Low-Rank Adaptation (LoRA) is the culmination of an ongoing exploration into a specific photograph | [link](https://civitai.com/models/2994812?modelVersionId=3396398) |
 | `flashcup-krea2` | flashcup krea2 | not stated | 198 | 标题 FlashCup / Handheld Male Stroker / Clear Sleeve Concept LoRA (Krea2) 飞机杯 / 手持透明杯套概念 LoRA (Krea2) 中文 这是一个给 K | [link](https://civitai.com/models/2905644?modelVersionId=3285985) |
+| `public-bathhouse-krea2` | not stated | not stated | 194 | Public bathhouse scenes. Start with bathhouseconcept, and name showers, scrub tables, hot pools and steam so i | [link](https://civitai.com/models/3037917?modelVersionId=3472151) |
 | `tan nylon trampling - V1 - V1` | not stated | not stated | 191 | Trampling with tan or black pantyhose feet on male victims | [link](https://civitai.com/models/2885250?modelVersionId=3261413) |
 | `livestream-krea2` | livestream krea2 | not stated | 190 | Share your Images! Leave Feedback! Leave Suggestions! This lora was designed to create a simple clutter free l | [link](https://civitai.com/models/2873893?modelVersionId=3247318) |
 | `v67-graffiti-art-krea2` | (Graffiti art, realistic:1.2), wildstyle, burner piece, throw-up, aerosol spray  | not stated | 185 | V67 Graffiti art (Z Image Turbo, Anima and Krea 2) Anime Meets Urban Street Art – Spray, Tags & Wildstyle If y | [link](https://civitai.com/models/2686743?modelVersionId=3322110) |
@@ -248,6 +252,7 @@
 | `rural-wall-print-krea2` | not stated | not stated | 71 | A printed picture fastened to a flaking plaster wall in a rural Chinese home: pine mountains with waterfalls a | [link](https://civitai.com/models/3047717?modelVersionId=3469575) |
 | `magiccat-sm-krea2` | MC_SM | 0.8 | 69 | MagicCat SM — a Krea 2 concept LoRA for power-exchange scenes: collars and leashes, crops and floggers, gags,  | [link](https://civitai.com/models/3050450?modelVersionId=3468929) |
 | `femboys-krea2` | FemBoysRK | 1 | 44 | Premium character LoRAs Original synthetic characters, bundles and AI tools are in my shop: https://rkrra.com/ | [link](https://civitai.com/models/3011350?modelVersionId=3417590) |
+| `homme-krea2` | not stated | not stated | 43 | Testing, low steps so probably not the best yet | [link](https://civitai.com/models/3053195?modelVersionId=3472502) |
 | `funsized-krea2` | FunsizedRK | 1 | 27 | Premium character LoRAs Original synthetic characters, bundles and AI tools are in my shop: https://rkrra.com/ | [link](https://civitai.com/models/3027644?modelVersionId=3438765) |
 | `puffies-krea2` | PuffiesRK | 1 | 26 | Premium character LoRAs Original synthetic characters, bundles and AI tools are in my shop: https://rkrra.com/ | [link](https://civitai.com/models/3011693?modelVersionId=3418038) |
 | `oiled-krea2` | OiledRK | 1 | 22 | Premium character LoRAs Original synthetic characters, bundles and AI tools are in my shop: https://rkrra.com/ | [link](https://civitai.com/models/3009733?modelVersionId=3415425) |
@@ -287,6 +292,7 @@
 | `RD Krea Trans - Nessa - Krea Trans Nessa - KreaTransBabe` | not stated | not stated |  |  |  |
 | `Sakura Haruno KREA 2 - v1.1 - 3NXJJF5NCQYMQCGBZTYC4EW1P0` | not stated | not stated |  |  |  |
 | `StacyMoran-krea2-000004.TA_trained` | not stated | not stated |  |  |  |
+| `a-char-krea2` | not stated | not stated |  |  |  |
 | `acrylic-krea2` | not stated | not stated |  |  |  |
 | `actoress-y-o-krea2` | not stated | not stated |  |  |  |
 | `agatha-social-media-influencer-krea2` | not stated | not stated |  |  |  |

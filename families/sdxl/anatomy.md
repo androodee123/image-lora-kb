@@ -1,6 +1,6 @@
 # SDXL — anatomy
 
-8 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+9 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -14,6 +14,7 @@
 | `Hentai_Pussy_inspection2_SDXL` | Hentai_Pussy_inspection2, (wearing clothes, clothes cover body:1.5), solo, multi | not stated | 1554 |  | [link](https://civitai.com/models/1662102?modelVersionId=1881250) |
 | `flat-chest-xl` | flat body | 1.0 | 605 | Updated dataset  Tags - flatties, flat-chest, flat, chest, petite, nipples, solo, 1girl, nude, navel, pussy, r | [link](https://civitai.com/models/2240675?modelVersionId=3145094) |
 | `futa-on-femboy-goddes-xl` | not stated | not stated | 304 |  | [link](https://civitai.com/models/896260?modelVersionId=1002902) |
+| `bbc-futanari-xl` | bbc futa, giant bbc, futa, futanari, flaccid, erect | not stated | 296 | 7300 steps | [link](https://civitai.com/models/808126?modelVersionId=903633) |
 | `huge-sag-breasts-xl` | not stated | not stated | 223 |  | [link](https://civitai.com/models/2939810?modelVersionId=3328196) |
 | `futa-female-xl` | not stated | not stated | 153 |  | [link](https://civitai.com/models/1365216?modelVersionId=1542390) |
 | `futa-minotaur-xl` | not stated | not stated | 122 | Probably a failure | [link](https://civitai.com/models/1890507?modelVersionId=2139897) |

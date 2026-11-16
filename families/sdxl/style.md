@@ -1,6 +1,6 @@
 # SDXL — style
 
-16 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+18 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -13,9 +13,11 @@
 | `pvc-figure-style-xl` | figure style,photorealistic,photo \(medium\) | not stated | 3670 |  | [link](https://civitai.com/models/293000?modelVersionId=397752) |
 | `action-figure-style-xl` | not stated | not stated | 2570 | This update mainly focuses on increasing stability and enhancing flexibility. I removed some low-resolution ma | [link](https://civitai.com/models/222736?modelVersionId=252532) |
 | `anime-figure-xl` | anifigurestyle | 0.5 to 0.7 | 792 | Trained with SDXL base model, using this lora with other XL models will produce uncontrolled results. Using st | [link](https://civitai.com/models/429926?modelVersionId=508307) |
+| `hmd-style-xl` | not stated | not stated | 448 | my first Lora for HMD(汁っけの多い柘榴, 一億万軒茶屋, ミミズサウザンド, 川中島工房, ビックフットの森)(pixiv: https://www.pixiv.net/users/73799355 | [link](https://civitai.com/models/2755777?modelVersionId=3100814) |
 | `pvc-figure-illustrated-by-asanagi-for-anim-xl` | asanagi-figure | not stated | 379 |  | [link](https://civitai.com/models/362689?modelVersionId=405273) |
 | `thicknesslord-style-xl` | not stated | not stated | 229 |  | [link](https://civitai.com/models/921472?modelVersionId=1031432) |
 | `GermanGooGirls SDXL - v1.0 - GGG-Style-v3-SDXL` | not stated | not stated | 135 |  | [link](https://civitai.com/models/2890063?modelVersionId=3267334) |
+| `jennifer-samantha-sam-appleby-dmitrys-xl` | not stated | not stated | 87 |  | [link](https://civitai.com/models/1226099?modelVersionId=1381473) |
 | `Technical Blueprint Art Style SDXL LoRA - v1.0 - art_technical_blueprint_v1` | not stated | not stated | 78 |  | [link](https://civitai.com/models/2870213?modelVersionId=3242837) |
 | `Cross Hatch Engraving Art Style SDXL LoRA - v1.0 - art_cross_hatch_engraving_v1` | not stated | not stated | 52 |  | [link](https://civitai.com/models/2868571?modelVersionId=3240862) |
 | `pinterest-food-style-sd-xl` | Pinterest food style | not stated | 51 | Publishing | [link](https://civitai.com/models/2965130?modelVersionId=3359607) |

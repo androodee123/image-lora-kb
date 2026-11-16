@@ -1,6 +1,6 @@
 # MOSS (Moss Image / kromoss) — character
 
-70 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+75 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 | slug | triggers | strength | dl | what | source |
 |---|---|---|---:|---|---|
@@ -55,6 +55,7 @@
 | `character-base-violet-parr-style-ruidx-the-moss` | VLTPRR, (The Incredibles Style), 3d stylized digital render, octane render look, | not stated | 85 | LORA created with the Violet Parr model modeled by RuiDX. This version was trained with more than 89 images cr | [link](https://civitai.com/models/3050616?modelVersionId=3469154) |
 | `rino-moss` | rino | 0.8-1.0 | 85 | Rino - an original adult character, a young woman of about 23: long voluminous wavy copper-ginger hair in a hi | [link](https://civitai.com/models/3017015?modelVersionId=3425006) |
 | `moss-image-neverness-to-everness-linko-nte-xl` | linko \(neverness to everness\), pink hair, short hair, antenna hair, one side u | not stated | 81 | Linko from Neverness to neverness - MOSS-Image version V1 Prompts: face/head: linko \(neverness to everness\), | [link](https://civitai.com/models/3012958?modelVersionId=3419698) |
+| `velvet-sensual-bunny-nikke-moss` | Velvet_Bunny | not stated | 79 | Velvet Sensual Bunny - NIKKE long pink hair and fair skin, black bunny ears with pink accents, a plastic white | [link](https://civitai.com/models/3049071?modelVersionId=3472280) |
 | `character-base-chloe-bourgeois-thick-and-c-moss` | CHL3BRG, (Miraculous Ladybug Style), 3d stylized digital render, octane render l | not stated | 78 | LORA created with the Chloé Bourgeois model modeled by RuiDX. This version was trained with more than 253 imag | [link](https://civitai.com/models/3047095?modelVersionId=3464282) |
 | `roku-god-of-nothing-moss` | Roku_GON, demon girl, glowing eyes, red sclera, facial markings, pink hair, long | not stated | 78 | Roku from God of Nothing | [link](https://civitai.com/models/3020707?modelVersionId=3430062) |
 | `bang-dream-miyanaga-nonoka-for-moss` | not stated | 1.5 | 77 | 2026.10.18 又是好久不见！这两天MOSS-IMAGE(Base/SFT)新鲜出炉，我好不容易找到一个既兼容moss_image架构的又能自定义blocks to swap参数的炉子，我太难了（ 但是，这把我好像 | [link](https://civitai.com/models/2778248?modelVersionId=3413940) |
@@ -66,6 +67,10 @@
 | `lily-wuthering-waves-moss` | Lily（Wuthering Waves）, long hair, purple hair, braid, hair between eyes, pink ey | not stated | 63 | 莉莉 Lily 鸣潮 Wuthering Waves MOSS Image | [link](https://civitai.com/models/3048518?modelVersionId=3466394) |
 | `claude-moss` | not stated | not stated | 61 | Claude娘，提示词 claude,hair flower, orange flower,orange hair, black hair bow, earrings, black ascot, brooch, jabo | [link](https://civitai.com/models/3020493?modelVersionId=3429494) |
 | `lux-moss` | L/x | not stated | 58 | Lux- now in MOSS. | [link](https://civitai.com/models/3049210?modelVersionId=3467321) |
+| `takuya-aihara-gender-swapped-character-fro-moss` | #Xchange#-Takuya-Aihara, ahoge, black thighhighs with whiteband, collared shirt  | not stated | 54 | Takuya Aihara [ Gender-swapped character ] from Xchange https://www.animecharactersdatabase.com/characters.php | [link](https://civitai.com/models/3053365?modelVersionId=3472760) |
+| `velma-original-character-moss` | V3lma, toned_girl, muscular_thighs, vascular, body_builder, shredded physique, f | 0.9 | 54 | UPDATE: MOSS version is out! recommend a strength of 0.9 This is my Velma character, my first ever original fe | [link](https://civitai.com/models/2859688?modelVersionId=3472677) |
+| `miyuki-hara-from-xtra-credit-moss` | #_minmei#-Miyuki-Hara, breasts apart, brown eyes, brown hair, hair between eyes, | not stated | 53 | Miyuki Hara from Xtra Credit https://www.animecharactersdatabase.com/characters.php?id=58261 caution This Lora | [link](https://civitai.com/models/3053402?modelVersionId=3472811) |
+| `asian-succubus-virt-a-mate-character-moss` | not stated | not stated | 52 | Asian Succubus - Virt A Mate Character | [link](https://civitai.com/models/3046613?modelVersionId=3472268) |
 | `hajime-tanaka-from-saimin-seishidou-v1-moss` | #SaiminSeishidou-Hajime-Tanaka, black short hair down with all short blunt bangs | not stated | 51 | Hajime Tanaka from Saimin Seishidou (A character resembling Hajime Tanaka. It is designed to be used together  | [link](https://civitai.com/models/3049198?modelVersionId=3468189) |
 | `ruku-orcus-iku-iku-succubus-saikyouiku-moss` | not stated | not stated | 48 | Roku Orcus a character from the hentai anime Iku Iku Succubus Saikyouiku If you want to support this model wit | [link](https://civitai.com/models/3045782?modelVersionId=3462588) |
 | `misao-takamine-from-saimin-seishidou-moss` | #SaiminSeishidou#-Misao-Takamine, black hair, grey pleated skirt, large breasts, | not stated | 44 | Misao Takamine from Saimin Seishidou https://www.animecharactersdatabase.com/characters.php?id=114120 caution  | [link](https://civitai.com/models/3051214?modelVersionId=3469904) |

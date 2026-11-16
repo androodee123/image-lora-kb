@@ -1,6 +1,6 @@
 # Illustrious / NoobAI (Illustrious-XL based) — utility
 
-21 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+22 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -15,6 +15,7 @@
 | `long_nipples_addift_v2` | long nipples | not stated | 6613 | Nipple length slider | [link](https://civitai.com/models/1384979?modelVersionId=1771546) |
 | `puffy_anus` | puffy anus | not stated | 6501 | Large anus slider LoRA | [link](https://civitai.com/models/1550214?modelVersionId=1754090) |
 | `Perky-SaggingBreasts4` | breasts | not stated | 3761 | Recommended negative prompt: lowres, bad quality, worst quality, bad anatomy, jpeg artifacts, signature, water | [link](https://civitai.com/models/2533936?modelVersionId=2847810) |
+| `hips-slider-ill` | not stated | 0 to 2 | 3632 | Recommended negative prompt: lowres, bad quality, worst quality, bad anatomy, jpeg artifacts, signature, water | [link](https://civitai.com/models/2546450?modelVersionId=2861715) |
 | `BukkakeSlider3` | not stated | 0 to 2 | 2532 | Recommended negative prompt: lowres, bad quality, worst quality, bad anatomy, jpeg artifacts, signature, water | [link](https://civitai.com/models/2567557?modelVersionId=2884953) |
 | `Darkness Slider2` | not stated | 0 to 2 | 2078 | Recommended negative prompt: lowres, bad quality, worst quality, bad anatomy, jpeg artifacts, signature, water | [link](https://civitai.com/models/2526312?modelVersionId=2839284) |
 | `medical-restraints-segufix-ill` | segufix | not stated | 1605 | trained on 81 images  keyword: segufix | [link](https://civitai.com/models/1142902?modelVersionId=1488598) |

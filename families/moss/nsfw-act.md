@@ -1,10 +1,6 @@
 # MOSS (Moss Image / kromoss) — nsfw-act
 
-20 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
-
-**Suggest ingest (max 3, nothing auto-downloads):**
-
-- Suggest ingest: [bondage 来吧 go BDSM, lora for Moss Qwen21 ZiB F1 & XL](https://civitai.com/models/136849) (moss, 34,235 dl) — `bondage`, `shibari`, `ropes`, `1990年代风格` · strength not stated — **downloads 34235 >= 2x best available (13485) in same family+category**
+23 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 | slug | triggers | strength | dl | what | source |
 |---|---|---|---:|---|---|
@@ -25,6 +21,9 @@
 | `ek-s-mecha-suit-sex-machine-moss` | sex machine mecha suit | not stated | 279 | edit: added extracted loras. r16 seems to be quite fine. and it is just 75 mega not over one giga big.... Hell | [link](https://civitai.com/models/3041593?modelVersionId=3457246) |
 | `blow-up-sex-doll-inflatable-sex-toy-moss` | not stated | not stated | 240 | Honestly I never saw a blow-up doll IRL 😅, this is just my take on Dollification porn CGI wirh an hyper realis | [link](https://civitai.com/models/2993967?modelVersionId=3432220) |
 | `straight-arm-bondage-shibari-concept-moss` | not stated | 0.8 | 233 | weight 0.8 Universal Negative Prompt (Works for all scenes — copy as-is.) face towards viewer, looking at view | [link](https://civitai.com/models/3014944?modelVersionId=3462919) |
+| `fishnet-shibari-moss` | fishnet_bondage ,绳子作为贴身内衣。, 女性被精心编织细的绳索以传统日式束缚（shibari）方式缠绕全身, 且(ropes_gag,gagge | not stated | 227 | Training lora need more buzz, give me support! Please leave a review if you like this lora！ ver. “花と蛇” the jap | [link](https://civitai.com/models/136849?modelVersionId=3441312) |
 | `lusthra-xxx-moss` | not stated | not stated | 207 | I need the community’s help to test this NSFW LoRa model, which is why it’s freely available. It’s the first N | [link](https://civitai.com/models/3048066?modelVersionId=3465796) |
+| `shibari-hana-to-hebi-moss` | bondage, shibari, ropes, 1990年代风格 | not stated | 171 | Training lora need more buzz, give me support! Please leave a review if you like this lora！ ver. “花と蛇” the jap | [link](https://civitai.com/models/136849?modelVersionId=3457797) |
+| `c666d-tunnel-gape-anal-gaping-anus-v1-moss` | tunnel gape, anal gaping, gape pull, pov hands, | 1 | 94 | This lora makes a gigantic gaping anus, which you can look into, as if it's a deep dark tunnel. Trained Trigge | [link](https://civitai.com/models/3039558?modelVersionId=3454524) |
 | `better-cum-moss` | not stated | not stated |  |  |  |
 | `huge-anal` | not stated | not stated |  |  |  |

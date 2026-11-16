@@ -1,10 +1,10 @@
 # Anima — concept
 
-275 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+278 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
-- Suggest ingest: [ロ○巨乳/Bust Size (Big)(XL,ill,pony)](https://civitai.com/models/458386) (anima, 11,439 dl) — `lkp` · strength `1.0` (stated) — **downloads 11439 >= 2x best available (3187) in same family+category**
+- Suggest ingest: [ロ○巨乳/Bust Size (Big)(XL,ill,pony)](https://civitai.com/models/458386) (anima, 11,476 dl) — `lkp` · strength `1.0` (stated) — **downloads 11476 >= 2x best available (3187) in same family+category**
 - Suggest ingest: [Mechanism concept](https://civitai.com/models/539249) (anima, 9,528 dl) — `mcnm` · strength `0.75-1` (stated) — **downloads 9528 >= 2x best available (3187) in same family+category**
 - Suggest ingest: [Spiderwebbed (Krea, Anima, ILXL, Pony)](https://civitai.com/models/384304) (anima, 7,562 dl) — `spiderwebbed` · strength not stated — **downloads 7562 >= 2x best available (3187) in same family+category**
 
@@ -166,6 +166,7 @@
 | `venus-s-waist-anima` | Venus's waist, , Venus's waist, abdominal shape, wide hips, wide thighs. Waist s | not stated | 200 | It's a parrot It's a Lora that I took care of | [link](https://civitai.com/models/3014594?modelVersionId=3421753) |
 | `asmr-anima` | ASMR_anima | not stated | 197 | Trigger Word: ASMR_anima, 1.pov, facing viewer, whispering in ear, <lora:ASMR_anima:0.8> ASMR_anima, 1girl, wh | [link](https://civitai.com/models/3048444?modelVersionId=3466311) |
 | `oliver-queen-s-grave-meme-anima` | gr4v3m3m3, smile, v, tombstone, squatting, grave | not stated | 196 | Creates the "Grant Gustin Next To Oliver Queen's Grave" Meme Trigger: gr4v3m3m3 Additional: smile, v, tombston | [link](https://civitai.com/models/2980900?modelVersionId=3379083) |
+| `conceptchibigurumi-anima` | chibigurumi, character doll | not stated | 195 | TAGS: chibigurumi, character doll Chibigurumi are a type of plushies! https://bsp-prize.jp/brand/2/  commissio | [link](https://civitai.com/models/2843123?modelVersionId=3209722) |
 | `urethral-beads-anima` | urethral beads, | not stated | 188 | Urethral Beads | [link](https://civitai.com/models/3033546?modelVersionId=3446664) |
 | `double-single-leg-humping-femdom-leg-humpi-anima` | leghumping4nima | not stated | 184 | Pretty rare tag. Enjoy! | [link](https://civitai.com/models/3014103?modelVersionId=3421152) |
 | `bar-censor-anima` | bar censor, censored identity, censored eyes, censored nipple, nipple boxes, che | 0.8 - 1.0 | 180 | Bar Censor Concept lora to selectively censor eyes, nipples, and pussy via bars. How to use Add trigger bar ce | [link](https://civitai.com/models/3016600?modelVersionId=3424429) |
@@ -184,6 +185,7 @@
 | `insane-massage-hot-tub-v2-anima` | water jet | not stated | 139 | I don't know how to stack versions together yet | [link](https://civitai.com/models/3000236?modelVersionId=3403203) |
 | `jumping-out-of-cake-anima` | c4k3, giant cake | not stated | 139 | Creates a 'Jumping out of Cake' scene Trigger: c4k3, giant cake | [link](https://civitai.com/models/3032760?modelVersionId=3445622) |
 | `tentacle-parasite-seedbed-infestationv2-se-anima` | Tentbackseed_MST, 1，Tentbackseed_MST,torn clothes,spoken question mark,look back | 0.6-0.8 | 139 | 🐙Your waifu has been infested by mysterious blue alien tentacles! Use this LoRA to trigger the blue alien tent | [link](https://civitai.com/models/2727069?modelVersionId=3418688) |
+| `foodcustomizable-parfait-anima` | parfait, parfait_green, parfait_red, parfait_pink, parfait_aqua, parfait_blue, p | not stated | 138 | ‼️ ANIMA EDIT ‼️  honestly, this isn't the best, the toppings rarely work. perhaps I need to rework the tags?  | [link](https://civitai.com/models/1720441?modelVersionId=3235554) |
 | `insane-massage-hot-tub-v4-anima` | not stated | not stated | 138 | This model is a concept of water jets massaging body and restriction of movement 4th version of my first exper | [link](https://civitai.com/models/3002472?modelVersionId=3406068) |
 | `demon-egg-demonization-corruption-sequence-anima` | DemonEgg_MST, 1,DemonEgg_MST,angry,purple tentacle,large cocoon,slime cocoon,pur | 0.8-1 | 136 | Use this LoRA to encase your waifu within a tentacle-entwined, demonic, Vore egg—then inject her with demonic  | [link](https://civitai.com/models/2655074?modelVersionId=3372251) |
 | `hoverboard-anima` | h0v3rb04rd, hoverboard, standing on hoverboard, sitting on hoverboard, lying on  | not stated | 134 | Creates a hoverboard scene Trigger: h0v3rb04rd Additional: hoverboard, standing on hoverboard, sitting on hove | [link](https://civitai.com/models/3017801?modelVersionId=3426040) |
@@ -231,6 +233,7 @@
 | `Breeding mount_ANIMA` | solo focus, farm interior, shoes, cum in anus, sex, anal, from side, completely  | not stated | 45 | Ohayo, my hot and kinky people 🔥😈!, I find myself needing to use this intro from now on for my original models | [link](https://civitai.com/models/2020010?modelVersionId=3183528) |
 | `gawktoonanima-further-anima` | not stated | not stated | 44 | Blowjobs, with full bodies in frame, in different positions. Use example images for prompts. | [link](https://civitai.com/models/3007330?modelVersionId=3412336) |
 | `tentacles-from-book-anm-il-anima` | tentacles from book, floating book, holding book, book on ground | not stated | 44 | LoRA for tentacles coming out of a book.  Anm_a1: Same dataset as IL_a1, just on Anima now. Works decently wel | [link](https://civitai.com/models/3010998?modelVersionId=3469767) |
+| `poc-esculptur-anima` | esculptur | not stated | 39 | A Proof of Concept LoRa aiming to replicate 3D printer statues. The dataset wasn't the best, but the result ga | [link](https://civitai.com/models/3052869?modelVersionId=3472110) |
 | `bite-me-umbrium-regional-mouths-anima` | mouthstyle arm, mouthstyle back, mouthstyle chest, mouthstyle face, mouthstyle f | 1.0 | 14 | Regional Mouths adds extra mouths to your character’s body, with separate triggers for nine regions. It is des | [link](https://civitai.com/models/3050863?modelVersionId=3469520) |
 | `Bowsette Fan-Art Super Mario - LoRA Anima NSFW Support - v1.0 - Bowsette_ANIMA_v1` | not stated | not stated |  |  |  |
 | `Catwoman DC Showcase Catwoman - LoRA Anima NSFW Support - v1.0 - DCShowcaseCatwoman_ANIMA_v1` | not stated | not stated |  |  |  |

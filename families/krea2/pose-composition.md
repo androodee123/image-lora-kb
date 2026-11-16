@@ -1,6 +1,6 @@
 # Krea2 (detailed-krea2) — pose-composition
 
-103 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+104 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -78,6 +78,7 @@
 | `double-handjob-pov-pose-krea2` | not stated | 0.6 | 475 | Try a strength between 0.6 and 1.0. | [link](https://civitai.com/models/2817075?modelVersionId=3430270) |
 | `0-5x-ultra-wide-selfie-krea2` | not stated | not stated | 464 | The selfie you get when the phone is switched to 0.5x: the outstretched hand, the face leaning in, the sole pu | [link](https://civitai.com/models/3032976?modelVersionId=3459335) |
 | `v67-camera-lens-krea2` | (V67 Camera & Lens:1.1), CamLens, camera, lens, photographic, analog, vintage, r | not stated | 464 | V67 Camera & Lens – A Cinematic LoRA for Krea 2 and Z Image Turbo. If you decide to use my model and your imag | [link](https://civitai.com/models/2949466?modelVersionId=3340291) |
+| `pov-ball-licking-ball-sucking-krea2` | blckng | not stated | 438 | POV Ball Licking & Ball Sucking for Krea 2. Seen from the man's point of view as a woman kneels between his le | [link](https://civitai.com/models/3047952?modelVersionId=3465626) |
 | `insulted-woman-pose-krea2` | not stated | 0.6 | 433 | Try a strength between 0.6 and 1.0. | [link](https://civitai.com/models/3037655?modelVersionId=3451953) |
 | `HAC89YD0EQSSDQA07AVDKA1570` | not stated | not stated | 430 | This is a Lora trained on Krea 2 to generate NSFW images for different poses. This model can generate shemale  | [link](https://civitai.com/models/2760779?modelVersionId=3106980) |
 | `pov-cowgirl-over-camera-fisheye-krea2` | not stated | not stated | 407 | VR-style wide fisheye view from the man lying on his back, looking straight up at a woman who straddles him ri | [link](https://civitai.com/models/3025891?modelVersionId=3436520) |

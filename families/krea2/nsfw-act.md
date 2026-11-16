@@ -1,6 +1,6 @@
 # Krea2 (detailed-krea2) — nsfw-act
 
-264 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+265 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 | slug | triggers | strength | dl | what | source |
 |---|---|---|---:|---|---|
@@ -201,6 +201,7 @@
 | `otk-spanking-bdsm-v2-krea2` | otk spanking, over the knee spanking | 0.6 | 464 | Is with a great pleasure that i present this Lora. Change log Anima V1 Cleared motion lines, Made spanked butt | [link](https://civitai.com/models/979512?modelVersionId=3447427) |
 | `pillory-stocks-bondage-restraint-krea2` | boundstock | not stated | 441 | LoRA focused on people locked in a pillory / stocks. Trigger word: boundstock Works for both women and men, va | [link](https://civitai.com/models/3045229?modelVersionId=3461836) |
 | `blow-job-krea2` | not stated | not stated | 437 | Based on my SDXL LoRA "Blowjob POV" | [link](https://civitai.com/models/2998848?modelVersionId=3401493) |
+| `double-vaginal-cowgirl-but-for-free-krea2` | d0ubl3, double vaginal penetration, two penises in vagina, threesome, | 0.5-0.9 | 425 | Join my Discord:https://discord.gg/tMbPUdkP27 It is so sad that I need to write in the title "for free" ... I  | [link](https://civitai.com/models/3053111?modelVersionId=3472400) |
 | `cooperative-fellatio-triple-oral-feast-krea2-2` | tripleoralfeast, | 0.6–1.0 | 380 | TripleOralFeast v2 - Stable Triple Oral Service LoRA (Illustrious/SDXL) Significantly more versatile than befo | [link](https://civitai.com/models/2297192?modelVersionId=3360778) |
 | `Knot Penis and Penetration Krea 2 - v1.0 - knot_cock_V1_krea2` | knot penis,, with knot penis, | 0.1 to 1 | 366 | ❤️Please Give a Like If You Like My Model ❤️ My Self im 26 year old Girl part time Making Ai Models Help Me to | [link](https://civitai.com/models/2889417?modelVersionId=3266543) |
 | `sandal-spanking-bdsm-spanking-krea2` | sandal spanking | 0.7 | 363 | Is with a great pleasure that i present this Lora. It's Composition Lora I recommend strength between 0.7 and  | [link](https://civitai.com/models/1729114?modelVersionId=3189646) |

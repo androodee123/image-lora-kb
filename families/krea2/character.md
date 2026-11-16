@@ -1,6 +1,6 @@
 # Krea2 (detailed-krea2) — character
 
-981 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+987 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -10,7 +10,7 @@
 |---|---|---|---:|---|---|
 | `alt-girl-e-girl-krea2` | not stated | not stated | 9378 | Trigger word AltGirl | [link](https://civitai.com/models/2274840?modelVersionId=3198266) |
 | `krea2_charactersheet_full_v1` | Follow the prompt template I left in the workflow. | not stated | 3182 | TripleView is a LoRA trained on approximately 300 character sheet samples, with a strong focus on generating c | [link](https://civitai.com/models/2764727?modelVersionId=3203877) |
-| `The YARN Collection for Krea2 - ThisYearsModel - YARN_ThisYearsModel` | not stated | 0.2 - 1.5 | 2312 | The YARN (Yet Another Realistic NSFW) Collection includes diverse styles for use with Krea 2. While these Lora | [link](https://civitai.com/models/2880467?modelVersionId=3255885) |
+| `yarn-thisyearsmodel-krea2` | not stated | 0.2 - 1.5 | 2312 | The YARN (Yet Another Realistic NSFW) Collection includes diverse styles for use with Krea 2. While these Lora | [link](https://civitai.com/models/2880467?modelVersionId=3255885) |
 | `girl-s-clothes-xl-ill-krea2` | not stated | 0.4 | 1872 | The strength of Lora is recommended to be 0.4~0.6. | [link](https://civitai.com/models/445063?modelVersionId=3338606) |
 | `Girly-Next-Door Beauties - Harper - Girly-Next-Door Beautie Harper` | Harper | not stated | 1807 | Trigger for Model Emily: German_Emily (golden-brown-haired playful beauty) Trigger for Model Kaya: South_Afric | [link](https://civitai.com/models/3029517?modelVersionId=3239840) |
 | `rly-thot-shot-asha-krea2` | rlyasha, straight black-brown hair | 1.0 | 1649 | Exclusive LoRAs and premium content: RLY Ko-Fi Asha is the 56th release in a series (RLY Thot Shots) of female | [link](https://civitai.com/models/2929405?modelVersionId=3315275) |
@@ -231,6 +231,7 @@
 | `salma-warfalla-this-person-does-not-exist-krea2` | Salma Warfalla | not stated | 261 | trgigger: Salma Warfalla with light brown skin and dark brown, wavy shoulder-length hair, | [link](https://civitai.com/models/2940834?modelVersionId=3329508) |
 | `christie-dead-or-alive-krea2` | Christie from Dead or Alive, 24-year-old British woman, short silver-white asymm | not stated | 260 | My Character LoRA Gallery (1000+ Downloadable Character LoRAs & 500+ Runnable Online) Anima: Steps: 16450 Effe | [link](https://civitai.com/models/2957719?modelVersionId=3350472) |
 | `lani-krea2` | not stated | not stated | 259 | A character LoRA of Lani, a woman with long wavy light-brown hair, fair skin, and hazel eyes. | [link](https://civitai.com/models/2965952?modelVersionId=3360602) |
+| `velma-original-character-krea2` | V3lma, toned_girl, muscular_thighs, vascular, body_builder, shredded physique, f | 0.9 | 259 | UPDATE: MOSS version is out! recommend a strength of 0.9 This is my Velma character, my first ever original fe | [link](https://civitai.com/models/2859688?modelVersionId=3230157) |
 | `xe-lion-s-femaile-influencer-model-002-nat-krea2` | not stated | not stated | 259 | Get your Custom AI Influencer Bring your face and body references — I’ll turn them into a reliable, brand-safe | [link](https://civitai.com/models/2971131?modelVersionId=3366940) |
 | `ranma-12-for-krea2` | r4n24 | not stated | 258 | ~The 2024 Ranma Series comes to Krea 2~ This LoRA features the style of the show and three iconic characters!  | [link](https://civitai.com/models/3002118?modelVersionId=3405620) |
 | `realmodel-sidie-krea2` | not stated | not stated | 258 | “Real” model designed to deliver a realistic AI figure with authentic personality and no AI look. Trained for  | [link](https://civitai.com/models/3016120?modelVersionId=3423767) |
@@ -423,6 +424,7 @@
 | `eryn-integrated-busty-likeness-v3-krea2` | kxeryn woman, kxeryn model, kxeryn noun of your choice | not stated | 182 | Eryn Eryn is a step in a different direction - a bit of an experiment, you might say. Eryn was originally mean | [link](https://civitai.com/models/3005426?modelVersionId=3453822) |
 | `kimberly-wilson-krea2` | kimwilson | not stated | 182 | Original fictional adult character (18+). This character was created by Jimberly and is canonically over 18 ye | [link](https://civitai.com/models/2961210?modelVersionId=3447309) |
 | `sakura-a-90s-inspired-college-girl-krea2` | not stated | not stated | 182 | This is a Krea-2 LoRA that reminds me of the pretty college girls in the 90s. The activation word is Sakura361 | [link](https://civitai.com/models/3045642?modelVersionId=3462390) |
+| `rias-gremory-high-school-dxd-krea2` | rias | not stated | 181 | Rias Gremory - High School DxD | [link](https://civitai.com/models/3033044?modelVersionId=3445994) |
 | `wenfuren-krea2` | wenfuren,1girl,blue eyes,black hair,long hair,earrings,hair ornament,dress,cape, | not stated | 181 |  | [link](https://civitai.com/models/2955834?modelVersionId=3348170) |
 | `yulissa-unmissable-krea2` | Yulissa | not stated | 181 | Built for clean shots, expressive faces, and that effortless attractive vibe. | [link](https://civitai.com/models/2288545?modelVersionId=3357535) |
 | `elise-krea2` | not stated | not stated | 180 | A character LoRA of Elise, a woman with long wavy blonde hair, fair skin, and blue eyes. | [link](https://civitai.com/models/2992339?modelVersionId=3393327) |
@@ -602,6 +604,7 @@
 | `model-krea2-3` | zx-xiaohuan,1girl, solo, brown hair, jewelry, red hair tie, red and pink hanfu-s | not stated | 135 | 周一仙的便宜孙女 | [link](https://civitai.com/models/2564051?modelVersionId=3356645) |
 | `chibi-character-krea2` | The cocoart of chibi, full body, bold line. | not stated | 134 | chibi character of cocoart style. - - - Disclaimer: Please use this model at your own risk. I am not responsib | [link](https://civitai.com/models/3014312?modelVersionId=3421410) |
 | `gina-ai-girlfriend-krea2` | not stated | .6 - .9 | 134 | New Hispanic character Dataset was captioned to not lock in hair color, eye color, makeup, or hairstyle. Datas | [link](https://civitai.com/models/2973822?modelVersionId=3370281) |
+| `princess-kida-from-atlantis-the-lost-empir-krea2` | kida, dark-skinned female, blue eyes, white hair, long hair, facial tattoo,, ear | not stated | 134 | Kida from Atlantis: The Lost Empire | [link](https://civitai.com/models/3035950?modelVersionId=3449737) |
 | `gabi-fit-punk-girl-krea2` | GabiRose | not stated | 133 | A character LORA of a fictional alt/punk girl named Gabi. Use trigger word GabiRose. | [link](https://civitai.com/models/3003724?modelVersionId=3407689) |
 | `kj-neo-world-official-art-krea2` | not stated | not stated | 133 | 🌌 Neo World Krea-2 LoRA Showa Mars Story Character Collection Neo World is an original retro-futuristic univer | [link](https://civitai.com/models/3022983?modelVersionId=3432744) |
 | `sura-krea2` | sura | 0.9-1.0 | 133 | Sura is an original AI character (fictional, created from scratch, not based on any real person): long straigh | [link](https://civitai.com/models/2974751?modelVersionId=3371650) |
@@ -819,6 +822,7 @@
 | `mystra-at-least-her-model-in-baldur-s-gate-krea2` | not stated | not stated | 83 | Krea2 Mystra is a female mage wearing a long dark robe with gold embroidery, a belt, jewelry, and earrings. Wa | [link](https://civitai.com/models/2967565?modelVersionId=3362485) |
 | `neverness-to-everness-collection-krea2` | Kurobane,   1girl, solo  long black hair, golden yellow eyes, towering ornate bl | not stated | 83 | 此Lora合集是以Krea-2-Raw为底膜，使用AI-ToolKit进行训练，训练素材全部来源于游戏截图 更多lora看主页网盘，懒得上传了~~ | [link](https://civitai.com/models/2887354?modelVersionId=3374973) |
 | `raquelle-krea2` | Raquelle | not stated | 83 | Krea2: Use the name Raquelle in your prompt to bring up the character. Add "cartoon" or "illustration" to call | [link](https://civitai.com/models/842828?modelVersionId=3359256) |
+| `the-lust-of-ups-sofia-krea2` | SofiaRain | not stated | 83 | Her name is Sofia Rain.  A friend sent me 3 images from some AI chat. This LoRA was created based on them. | [link](https://civitai.com/models/3053662?modelVersionId=3473170) |
 | `azalea-the-daily-life-of-a-middle-aged-onl-krea2` | A4OAzalea, brown hair, bangs, brown eyes, long hair, parted bangs, eyebrows visi | 0.8 - 1 | 82 | Trained entirely on screencaps Works with other lora Recommended weight = 0.8 - 1 The Showcase images use weig | [link](https://civitai.com/models/2957335?modelVersionId=3350010) |
 | `bard-the-daily-life-of-a-middle-aged-onlin-krea2` | A4OBard, hair between eyes, long hair, bangs, brown hair,, hat, witch hat, bare  | 0.8 - 1 | 82 | Trained entirely on screencaps Works with other lora Recommended weight = 0.8 - 1 The Showcase images use weig | [link](https://civitai.com/models/2957339?modelVersionId=3350016) |
 | `jaune-moineau-akuyaku-reijou-tensei-ojisan-krea2` | ARTJaune, short hair, pink hair, bangs, eyebrows visible through hair, green eye | 0.8 - 1 | 82 | Trained entirely on screencaps Works with other lora Recommended weight = 0.8 - 1 The Showcase images use weig | [link](https://civitai.com/models/2947262?modelVersionId=3337549) |
@@ -955,9 +959,11 @@
 | `mary-once-upon-a-witch-s-death-aru-majo-ga-krea2` | AMGMary, brown hair, braid, long hair, single braid, brown eyes, hair over shoul | 0.8 - 1 | 38 | Trained entirely on screencaps Works with other lora Recommended weight = 0.8 - 1 The Showcase images use weig | [link](https://civitai.com/models/2962115?modelVersionId=3355880) |
 | `amino-san-boku-ni-haishin-bare-shita-u-cup-krea2` | aminosan | not stated | 37 | Amino-san from Boku ni Haishin Bare shita U-Cup Chinkobi Joshi Amino-san | [link](https://civitai.com/models/1981985?modelVersionId=3469828) |
 | `willowasperleaf-krea2` | willowasperleaf | not stated | 37 | Willow Asperleaf is the queen of what remains of Botannica. She mitigates the horrors of Hain the Heartless, w | [link](https://civitai.com/models/3045309?modelVersionId=3461936) |
+| `lady-ouji-krea2` | Lady_Ouji, a curvy woman with absurdly long, wavy black hair that reaches the fl | not stated | 36 | 𝐋𝐚𝐝𝐲 𝐎𝐮𝐣𝐢 𝐋𝐨𝐑𝐀 ❤ Lady was my first-ever created character. She was born when I was like 9 years old (to say, 1 | [link](https://civitai.com/models/3034544?modelVersionId=3472431) |
 | `orin-the-red-baldur-s-gate-3-krea2-2` | not stated | not stated | 34 | This version has some issue with nude, I initially thought 5 nude reference would be enough in the total datas | [link](https://civitai.com/models/2977230?modelVersionId=3374504) |
 | `jubilost-pathfinder-kingmaker-krea2` | jubilost_pfkm | not stated | 31 | This LORA is intended to create one of the characters of the RPG game "Pathfinder: Kingmaker" | [link](https://civitai.com/models/2874466?modelVersionId=3248018) |
 | `qanipalaat-arknights-krea2` | qanipalaat default outfit, qanipalaat chri, qanipalaat | 1.1-1.2 | 30 | This is a Lora character created for Qanipalaat in Arknights, including the default outfit (Qanipalaat default | [link](https://civitai.com/models/2949022?modelVersionId=3339757) |
+| `mfx02-triton-krea2` | not stated | 0.7–0.9 | 28 | MFX02 — TRITON MaleCore Fantasy / Premium Male AI Characters Enter the depths of an ancient underwater kingdom | [link](https://civitai.com/models/3048365?modelVersionId=3466210) |
 | `stacey-krea2` | not stated | not stated | 26 | All new STACEY.....TALLER...THINNER...SEXIER! | [link](https://civitai.com/models/3015140?modelVersionId=3422475) |
 | `daspudel-male-krea2` | pudel | not stated | 25 | - | [link](https://civitai.com/models/2968631?modelVersionId=3363783) |
 | `claire-nunez-trollhunters-krea2` | 3d, 3d render, 3d animated style, ClaireNunez,, long pink sweater, short black j | not stated | 22 | Claire Nunez from the 1st season of Trollhunters | [link](https://civitai.com/models/2978769?modelVersionId=3376466) |

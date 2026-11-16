@@ -1,6 +1,6 @@
 # Pony (Pony Diffusion XL) — anatomy
 
-68 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+82 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -21,6 +21,7 @@
 | `breasts-squeeze-xl-ill-pony` | breasts squeeze, hands up | not stated | 3543 | The strength of Lora is recommended to be around 1.0. | [link](https://civitai.com/models/849396?modelVersionId=950331) |
 | `futa-impregnation-pony` | fimpreg | not stated | 3104 | XLv1: More reliable, variety of poses. May struggle a little with internal cumshot. Otherwise an improvement i | [link](https://civitai.com/models/186615?modelVersionId=589868) |
 | `hentai-huge-clitoris-spread-pussy-perfect-pony` | (shungikutenudon) , 1girl, solo, breasts, nipples,  spread legs,  spread pussy,  | not stated | 2929 | ⬇️2026 Anima model⬇️ 🎉🎊The perfect giant clitoris is complete!!🎊🎉 The training dataset was completely recreate | [link](https://civitai.com/models/868507?modelVersionId=971987) |
+| `noballs-futanari-ponyxl-pony` | futa, no_balls | not stated | 2875 |  | [link](https://civitai.com/models/492611?modelVersionId=547710) |
 | `Foot Worship - Foot Licking - Femdom - Foot Fetish Poses Pony SDXL - V1 - Foot_Worship_-_Foot_Licking_-_Femdom_-Foot_Fetish_Poses-000002` | not stated | not stated | 2846 | V1. | [link](https://civitai.com/models/561477?modelVersionId=625393) |
 | `long-erect-clitoris-large-clit-pony` | XLclit, Erect_clitoris | not stated | 2792 |  | [link](https://civitai.com/models/686987?modelVersionId=768861) |
 | `engorged-clitoris-pony` | ClitMax | not stated | 2769 |  | [link](https://civitai.com/models/1010976?modelVersionId=1133248) |
@@ -30,13 +31,16 @@
 | `realistic-futa-trans-dick-pic-pony` | ShemSelf, intersex, futanari, futa | not stated | 1846 |  | [link](https://civitai.com/models/1325398?modelVersionId=1496391) |
 | `futa-on-male-outdated-go-use-the-new-one-pony` | not stated | not stated | 1721 |  | [link](https://civitai.com/models/568450?modelVersionId=633519) |
 | `futa-self-cock-worship-pony` | Self-Licking, Self-Worship,, Licking cock | not stated | 1558 | Beta | [link](https://civitai.com/models/1250501?modelVersionId=1409664) |
+| `hairshort-bangs-pony` | short bangs | not stated | 1488 |  | [link](https://civitai.com/models/113023?modelVersionId=896381) |
 | `erect-clitoris-pony` | pubic | not stated | 1454 |  | [link](https://civitai.com/models/719256?modelVersionId=1315814) |
 | `futa-amazon-position-pony` | 1 futanari, anal, amazon position, 1boy, penis, futanari cum blast, sex, , pov,  | not stated | 1373 |  | [link](https://civitai.com/models/547197?modelVersionId=608626) |
+| `shijiu-style-futa-sissy-femboy-and-more-pony` | not stated | not stated | 1367 |  | [link](https://civitai.com/models/431772?modelVersionId=481024) |
 | `futa-pov-body-xl-by-uoc-pony` | fut4p0vb0dy,futa_pov_body,futa pov body, | not stated | 1348 |  | [link](https://civitai.com/models/969885?modelVersionId=1085968) |
 | `futa-on-futa-pony` | futa on futa, 2futanari, *see notes* | not stated | 1089 | Refined training data, refined training prompt for improved accuracy and precision in various futa-on-futa pos | [link](https://civitai.com/models/1664121?modelVersionId=1938512) |
 | `futa-hanging-balls-from-behind-pony` | not stated | not stated | 1037 |  | [link](https://civitai.com/models/520905?modelVersionId=705844) |
 | `Putting You in Your Place Femdom Foot to Chest Pose PONY - v1.0 - hud_f3mdom_k1ck_XLP` | 1girl, hud_f3mdom_k1ck, femdom, leg up, high heels, kicking, 1boy, nude, penis,, | not stated | 1006 |  | [link](https://civitai.com/models/704816?modelVersionId=788374) |
 | `futadom-light-hard-futa-on-male-pony` | futadom | not stated | 902 | If there is a problem with any poses, please let me know in private or in the comments. Lora works much better | [link](https://civitai.com/models/1025064?modelVersionId=1234662) |
+| `hairhair-over-eyes-request-pony` | hair over eyes | not stated | 871 |  | [link](https://civitai.com/models/841948?modelVersionId=941948) |
 | `futa-teabag-balls-on-face-pony` | not stated | not stated | 838 |  | [link](https://civitai.com/models/752271?modelVersionId=841201) |
 | `muscular-futa-pony` | not stated | not stated | 769 |  | [link](https://civitai.com/models/516469?modelVersionId=573937) |
 | `clitoris-stimulation-pony` | not stated | not stated | 692 |  | [link](https://civitai.com/models/1899328?modelVersionId=2452787) |
@@ -47,11 +51,21 @@
 | `penis-size-difference-bwc-pony` | bwc, penis size difference, penis size comparison | not stated | 510 |  | [link](https://civitai.com/models/1699329?modelVersionId=1923179) |
 | `crack_anus` | crack anus | not stated | 486 | crack anus Illustrious | [link](https://civitai.com/models/1324037?modelVersionId=1494834) |
 | `flt-futa-pony` | flt futa | not stated | 411 | What I aimed for and achieved: Improved facial details, along with a matte finish and gentle gradients. What m | [link](https://civitai.com/models/1641762?modelVersionId=1986490) |
+| `hairbeehive-hairdo-commission-pony` | beehive hairdo | not stated | 391 | TAGS: beehive hairdo all bangs should work with it | [link](https://civitai.com/models/855704?modelVersionId=957423) |
+| `female-futa-sara-101-pony` | Futa | not stated | 384 |  | [link](https://civitai.com/models/988161?modelVersionId=1107027) |
 | `sarah-the-space-pirate-pony` | Sarah the space pirate,blonde,blue eyes, long blond hair,golden earrings | not stated | 361 | Sarah the space pirate,blonde,blue eyes, long blond hair,golden earrings | [link](https://civitai.com/models/613325?modelVersionId=685601) |
+| `rainbow-futa-pony` | not stated | not stated | 347 |  | [link](https://civitai.com/models/623402?modelVersionId=696930) |
+| `multi-tip-layered-glans-futa-penis-photore-pony` | t3p | not stated | 316 | Trigger word: t3p See description for usage suggestions | [link](https://civitai.com/models/1025430?modelVersionId=1149974) |
+| `petite-futa-pony` | not stated | not stated | 288 |  | [link](https://civitai.com/models/1013410?modelVersionId=1136093) |
+| `camotamang-kamotama-futa-artist-style-pony` | camotama | not stated | 285 |  | [link](https://civitai.com/models/886877?modelVersionId=992759) |
 | `futa-world-juna-pony` | Juna, blonde hair, straight hair with bangs, long layered hair, fair skin, purpl | not stated | 253 |  | [link](https://civitai.com/models/2447893?modelVersionId=2752424) |
 | `small-saggy-breasts-with-puffy-nipples-pony` | small saggy breasts, puffy nipples | not stated | 195 | Initial version | [link](https://civitai.com/models/2982174?modelVersionId=3380658) |
+| `pov-futa-xl-pony` | not stated | not stated | 190 | V1 | [link](https://civitai.com/models/867542?modelVersionId=970881) |
 | `futa-1-pony` | not stated | not stated | 188 |  | [link](https://civitai.com/models/851821?modelVersionId=953041) |
+| `above-futa-pony` | not stated | not stated | 172 | V1 | [link](https://civitai.com/models/970167?modelVersionId=1086299) |
 | `futa-world-cleo-pony` | Face: Cleo, thick eyebrows, brown eyebrows, delicate nose, soft lips., Hair: Sho | not stated | 167 |  | [link](https://civitai.com/models/2914677?modelVersionId=3297347) |
+| `goth-alt-futa-pony` | not stated | not stated | 166 |  | [link](https://civitai.com/models/1155320?modelVersionId=1299363) |
+| `futa-wide-dick-pony` | not stated | not stated | 148 |  | [link](https://civitai.com/models/1011773?modelVersionId=1134186) |
 | `futa-on-futa-pov-pony` | not stated | not stated | 144 | new trial of futa on futa | [link](https://civitai.com/models/952638?modelVersionId=1757721) |
 | `futa-world-nox-pony` | Face: Nox, 18yo, pale skin, thin eyebrows, straight eyebrows, defined eyelashes, | not stated | 115 |  | [link](https://civitai.com/models/2991242?modelVersionId=3391974) |
 | `huge-futa-pony` | Colossal penis, colossal testicles, | not stated | 110 |  | [link](https://civitai.com/models/1578014?modelVersionId=1785708) |

@@ -1,6 +1,6 @@
 # SDXL — concept
 
-53 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+54 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -23,6 +23,7 @@
 | `Balloon Blowing 5.0 - SDXL - Balloon_Blowing_5.0` | balloon, blowing, overinflating, bursting, necking | not stated | 90 |  | [link](https://civitai.com/models/1745568?modelVersionId=1976450) |
 | `convent-cell-xl` | convent c3ll | not stated | 87 |  | [link](https://civitai.com/models/2188861?modelVersionId=2464551) |
 | `Head scarves - Headscarf SDXL - Silk_head_scarf` | head_scarf | not stated | 84 |  | [link](https://civitai.com/models/1833008?modelVersionId=2074318) |
+| `meryl-dmitrys-xl` | not stated | not stated | 81 |  | [link](https://civitai.com/models/1192215?modelVersionId=1342306) |
 | `hot-milf-kelli-w-xl` | HMKW | not stated | 71 | V1.0=Orginal | [link](https://civitai.com/models/2901956?modelVersionId=3281469) |
 | `halftone-orange-xl` | not stated | not stated | 65 |  | [link](https://civitai.com/models/3001547?modelVersionId=3404877) |
 | `hot-milf-randi-x-xl` | HMRX | not stated | 64 | V1.0 = Original | [link](https://civitai.com/models/2988594?modelVersionId=3388616) |
