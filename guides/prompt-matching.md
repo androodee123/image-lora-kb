@@ -40,7 +40,7 @@ Prompt reads as: subject: woman, bbw, cowgirl western; concept: text and logos; 
 | 5 | `<sis-begs-for-more-style-anima:0.7>` | style | subject/character: bbw; anatomy: hair, body type | sbfm7_s | 0.7 (default) |
 | 6 | `<boo-di-ogog-artist-style-anima:0.7>` | style | expression: talking | 0g0g | 0.7 (default) |
 
-Stacking notes: Two or more style LoRAs fight each other: keep one, or halve both weights. Realism and anime/comic style LoRAs rarely agree: choose one lane. Large stack: add LoRAs one at a time and keep helpers at 0.2–0.5.
+Stacking notes: Two or more style LoRAs fight each other: keep one, or halve both weights. Large stack: add LoRAs one at a time and keep helpers at 0.2–0.5.
 
 ## Fantasy character, tag prompt (Pony)
 
@@ -59,7 +59,7 @@ Prompt reads as: subject: woman, elf; concept: fantasy, outdoors; clothing: swim
 | 5 | `<airgenasi-fantasy-xl:0.7>` | concept | words: fantasy; concept/intent: fantasy | AirGenasi | 0.7 (default) |
 | 6 | `<changeling-xl:0.7>` | concept | words: dark, hair; style/medium: dark gothic; anatomy: hair | Changeling, gray skin, white eyes | 0.7 (default) |
 
-Stacking notes: Realism and anime/comic style LoRAs rarely agree: choose one lane. Mixed families in one stack: keep every LoRA in the checkpoint's family (pony, illustrious). Large stack: add LoRAs one at a time and keep helpers at 0.2–0.5.
+Stacking notes: Mixed families in one stack: keep every LoRA in the checkpoint's family (pony, illustrious). Large stack: add LoRAs one at a time and keep helpers at 0.2–0.5.
 
 ## Latex + pose + expression (Illustrious/NoobAI)
 
