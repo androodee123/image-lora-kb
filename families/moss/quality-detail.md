@@ -1,6 +1,6 @@
 # MOSS (Moss Image / kromoss) — quality-detail
 
-40 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+39 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -33,7 +33,6 @@
 | `amateur-cellulite-moss` | not stated | not stated | 342 | I wanted to remake my 1.5 sd model and got this!!! MOSS: i cannot get any image at decent speed so test yourse | [link](https://civitai.com/models/2853605?modelVersionId=3426705) |
 | `v7-unretracted-foreskin-dick-foreskin-moss` | unretracted foreskin, foreskin | 0.8 - 1.0 | 342 | new update for anima! with photorealistic. with cartoon (if furry) and anime. lora weight: 0.8 - 1.0 !!!!!Warn | [link](https://civitai.com/models/2068232?modelVersionId=3453935) |
 | `verity-moss` | not stated | not stated | 335 | Bro? It's november It's actually a lokr which means it's great for vider warranty of images than a normal lora | [link](https://civitai.com/models/3038663?modelVersionId=3453291) |
-| `realistic-photo-by-studio-atelier-moss` | not stated | not stated | 302 | A professional studio look: grey, taupe or blue-grey seamless paper, soft directional light, and portraits (he | [link](https://civitai.com/models/3048437?modelVersionId=3466300) |
 | `rly-thot-shot-bea-moss` | rlybea | 1.0 | 255 | If you're enjoying the free RLY Thot Shots series and want to say thanks, a coffee, tips or other support is a | [link](https://civitai.com/models/2987333?modelVersionId=3466352) |
 | `goth-gals-anime-realism-moss` | 1girl, solo, looking at viewer, blush, simple background, hat, frills, parted li | not stated | 246 | Goth Gals (MOSS) [Anime & Realism] Everybody wants a goth gf, but who will download this LoRA to generate one? | [link](https://civitai.com/models/3031375?modelVersionId=3443775) |
 | `better-men-body-hair-texture-moss` | not stated | 1.0 | 233 | Better Hairy Men · MOSS Image A male appearance and photographic style LoRA for MOSS Image, focused on natural | [link](https://civitai.com/models/3010117?modelVersionId=3425958) |

@@ -1,6 +1,6 @@
 # Pony (Pony Diffusion XL) — style
 
-104 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+101 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -21,7 +21,6 @@
 | `80s-vintage-porn-magazine-style-v1-pony` | 80spm, vintage porn, 80s era, 1980s photo | not stated | 2061 |  | [link](https://civitai.com/models/1007808?modelVersionId=1129515) |
 | `bimbo-jp-style-pony` | jpBimboStyleQuiron, johnpersonsQuiron | not stated | 1740 | 👑 Bimbo JP Style - Pony - LORA 👑 ⚙️🔧Model base: Pony ______________ 📝🌟 Trigger: johnpersonsQuiron, jpBimboStyl | [link](https://civitai.com/models/717410?modelVersionId=802260) |
 | `jjfrenchie-style-pdxl-pony` | JJFrenchiestyle | not stated | 1717 |  | [link](https://civitai.com/models/393038?modelVersionId=438409) |
-| `Prison School anime style PDXL - PSV1F - Prison_School_anime_style_Pony_r2` | score_9_up, score_8_up, score_7_up, | not stated | 1686 |  | [link](https://civitai.com/models/525298?modelVersionId=583646) |
 | `seishoujo-style-pony-3` | not stated | not stated | 1654 |  | [link](https://civitai.com/models/448957?modelVersionId=499922) |
 | `dragon-ball-battle-comic-random-generator-pony` | DBBattle, (duel:1.25), (comic:1.25), battle, emphasis lines, speed lines, motion | not stated | 1623 |  | [link](https://civitai.com/models/703770?modelVersionId=787236) |
 | `uno-makoto-marumiya-pony-xl` | not stated | not stated | 1603 |  | [link](https://civitai.com/models/347454?modelVersionId=388734) |
@@ -39,7 +38,6 @@
 | `chiro-youkai-tamanokoshi-style-il-pony` | Ch1ro | not stated | 456 | Recreates Chiro art style, have fun! | [link](https://civitai.com/models/1270100?modelVersionId=1432712) |
 | `chrome-inspired-by-hajime-sorayama-style-p-pony` | chrome | not stated | 447 |  | [link](https://civitai.com/models/706691?modelVersionId=790463) |
 | `jagodibuja-style-illust-v1-pony` | JagoStyle, JagoStylePinup OR JagoStyleComic, JagoSophie, JagoErika, JagoArtur, J | 0.9-0.8 | 428 | Jagodibuja art style and two sub-styles, trained on a dataset of 1284 1343 carefully curated images. Lowering  | [link](https://civitai.com/models/600648?modelVersionId=671341) |
-| `sunnysundown-sundown-pulenkompot-feral-il-pony` | Sund0wn-f3ral | not stated | 387 | Recreates SunnySundown's art style, focusing specifically on ponies/furry art. He hasn't made this in a while  | [link](https://civitai.com/models/1313971?modelVersionId=1483186) |
 | `Adam Warren Style - V1 - Adam_Warren_Style` | not stated | not stated | 379 |  | [link](https://civitai.com/models/715648?modelVersionId=800295) |
 | `ponyxl-concept-anime-figures-pony` | Figure, Figma, joints, Nendoroid, chibi | not stated | 322 | Lora of Figma, Nendoroid, and Pop Up Parade anime figures. Please leave a review if you like the model! I will | [link](https://civitai.com/models/656994?modelVersionId=1175638) |
 | `shikikat-art-style-pony` | Shikikat | not stated | 313 |  | [link](https://civitai.com/models/567599?modelVersionId=632540) |
@@ -105,7 +103,6 @@
 | `regular-show-rigby-and-unicorns-pony` | R1gby-un1corn | not stated | 47 | Recreates the Rigby unicorn scene from Regular Show. Have fun! | [link](https://civitai.com/models/1628841?modelVersionId=1843556) |
 | `t-rex-studio-t-rex-animation-style-pony` | TRexStudio | not stated | 46 | Based on T-Rex Animation Studio. Have fun! | [link](https://civitai.com/models/2815365?modelVersionId=3175310) |
 | `kaiser-kaiserofart-artstyle-xitter-etc-unc-pony` | by Kaiser | not stated | 44 |  | [link](https://civitai.com/models/2897106?modelVersionId=3275416) |
-| `ndy-art-style-il-sd-pony` | Ndy_style, 3d | not stated | 41 | Based on NDY art style, amazing animator from YouTube. If he won't make porn, then we will 😁. Based primarily  | [link](https://civitai.com/models/2111576?modelVersionId=2388796) |
 | `boardom-art-style-il-commission-pony` | Boardom | not stated | 40 | Commission lora, this one is in the art style of Boardom. Have fun! | [link](https://civitai.com/models/1954283?modelVersionId=2211819) |
 | `jay-williams-art-style-pony` | JayWilliamsStyle | not stated | 40 |  | [link](https://civitai.com/models/2892082?modelVersionId=3269814) |
 | `konno-tohiro-pony` | K0nno_T0hiro | not stated | 36 | Recreates Konno Tohiro (コンノトヒロ) style, have fun! | [link](https://civitai.com/models/2703268?modelVersionId=3035841) |

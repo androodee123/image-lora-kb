@@ -1,12 +1,12 @@
 # Krea2 (detailed-krea2) — style
 
-1166 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+1160 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
 - Suggest ingest: [Cinematic Shot ✨](https://civitai.com/models/432586) (krea2, 62,180 dl) — `zy_cinematic` · strength not stated — **downloads 62180 >= 2x best available (11215) in same family+category**
 - Suggest ingest: [2000s Analog Core](https://civitai.com/models/1134895) (krea2, 40,517 dl) — trigger not stated · strength `0.9` (stated) — **downloads 40517 >= 2x best available (11215) in same family+category**
-- Suggest ingest: [BArtstyle / Blue Archive Art Style LoRA / Anime Flat Color / 蔚蓝档案画风模型 ](https://civitai.com/models/29215) (krea2, 31,498 dl) — `azure youth anime art style` · strength `0.8` (stated) — **downloads 31498 >= 2x best available (11215) in same family+category**
+- Suggest ingest: [Midjourney Artful NSFW](https://civitai.com/models/837884) (krea2, 25,852 dl) — `ArtfulNSFW` · strength not stated — **downloads 25852 >= 2x best available (11215) in same family+category**
 
 | slug | triggers | strength | dl | what | source |
 |---|---|---|---:|---|---|
@@ -376,7 +376,6 @@
 | `kurodrive-monochrome-automotive-illustrati-krea2` | monochrome, linework, illustration | not stated | 334 | About this style : KuroDrive is a bold monochrome illustration style built around high-contrast black-and-whit | [link](https://civitai.com/models/2889072?modelVersionId=3266172) |
 | `waldemar-kazak-von-kozak-dark-satire-retro-krea2` | not stated | 0.8–1.0 | 334 | WALDEMAR KAZAK (VON KOZAK) — Dark Satire, Retro Pin-Up & the Soviet Dream / LoRA (Krea2 Turbo) A LoRA capturin | [link](https://civitai.com/models/2937109?modelVersionId=3324881) |
 | `anime-illustration-krea2` | illusdream | not stated | 333 | Anime illustration is a highly versatile, premium-fidelity LoRA crafted to bring vibrant, expressive anime art | [link](https://civitai.com/models/2975710?modelVersionId=3372626) |
-| `danganronpa-anime-style-mix-krea2` | danganronpa_3_(anime)_(style), danganronpa_3_(anime)_(style), This is an anime s | not stated | 333 | Short gist: Lora trained on the various Danganronpa anime. Version 1 of the lora is more averaged out between  | [link](https://civitai.com/models/1822827?modelVersionId=3244117) |
 | `gachiakuta-manga-style-wai-krea2` | gachiakuta, | 0.8-1.52 | 333 | Prompt: gachiakuta Strength: 0.8-1.52 I love making these LoRA's for y'all. You can support me on Ko-fi. You c | [link](https://civitai.com/models/1802043?modelVersionId=3287235) |
 | `igor-vorontsov-painterly-pictorialism-krea2` | not stated | 0.85–1.0 | 331 | IGOR VORONTSOV — PAINTERLY PICTORIALISM / LoRA  One weight slider — and the frame becomes a classical oil pain | [link](https://civitai.com/models/2227842?modelVersionId=3374151) |
 | `haijme-sorayama-style-krea2-2` | hsoroyama;, reflective;hyperrealism; superrealism; high gloss finish; airbrush_m | not stated | 329 | I had a goal to make good Hajime Soroyama model from the start my (short) training spree, and its finally here | [link](https://civitai.com/models/2500005?modelVersionId=3071386) |
@@ -667,7 +666,6 @@
 | `v67-pastel-dreamy-krea2` | (Pastel Dreamy:1.2), soft pastel, dreamy haze, cotton candy sky, ethereal glow,  | not stated | 202 | Pastel Dreamy LoRA for Flux, Z Image Turbo and Krea 2. Soft Pastel Aesthetics, Dreamy Haze, Ethereal Atmospher | [link](https://civitai.com/models/2535566?modelVersionId=3249217) |
 | `ag-botis-polished-webtoon-style-krea2` | @B0T15R1F | 0.6-0.8 | 201 | Ars Goetia is series of loras made on a whim, on variety of images, made from mix of Midjourney, Tumblr, NijiJ | [link](https://civitai.com/models/2853685?modelVersionId=3363312) |
 | `nyte-tyde-artist-style-krea2` | An impressionist digital painting by nyte_tyde | 1.4-1.6 | 201 | Imitates the characteristic style of the artist Nyte Tyde, with particular focus on the digital impressionist  | [link](https://civitai.com/models/2917116?modelVersionId=3333035) |
-| `portia-a-90s-inspired-college-student-who-krea2` | Portia361 | not stated | 201 | This is a Krea-2 LORA that reminds me of the pretty college girls in the 90s who moved away from hairspray and | [link](https://civitai.com/models/3018255?modelVersionId=3426633) |
 | `rembrandt-style-and-xl-krea2` | Rbnt | not stated | 201 | Rembrandt van Rijn (1606–1669) This is a LoRA dedicated to the style of Dutch painter and printmaker, Rembrand | [link](https://civitai.com/models/2139092?modelVersionId=3453694) |
 | `azuma-yasuo-painterly-style-krea2` | Painterly digital art with slightly glossy skin textures in style of AzYas. | not stated | 200 | Model based on style of Azuma Yasao (AzumaArts) - https://bsky.app/profile/azumaarts.bsky.social Pretty feet,  | [link](https://civitai.com/models/1717308?modelVersionId=3367632) |
 | `fine-cut-glass-style-zit-flux-xl-krea2` | Fine-Cut Glass | not stated | 200 | This is a style lora intended to turn the subject into Fine-Cut Glass, or to give the image a feel of one made | [link](https://civitai.com/models/573445?modelVersionId=3339171) |
@@ -1003,7 +1001,6 @@
 | `modare-painterly-anime-style-krea2` | @x9_kp2m | not stated | 101 | Commissions are now open. https://www.fiverr.com/s/L3dBgdj https://ko-fi.com/asuka41/commissions QQ群： 10585172 | [link](https://civitai.com/models/3052986?modelVersionId=3472252) |
 | `waltz-with-bashir-movie-style-krea2` | vob | 1 | 101 | Premium character LoRAs Original synthetic characters, bundles and AI tools are in my shop: https://rkrra.com/ | [link](https://civitai.com/models/2874267?modelVersionId=3247780) |
 | `ao-ao0-0nemu-artist-style-krea2` | @ao_(ao0_0nemu), anime-style art | 0.6-0.8 | 100 | Trigger words makes lora much stronger. Recommended settings for Anima: Sampler: er_sde / euler / dpmpp_sde_gp | [link](https://civitai.com/models/2771951?modelVersionId=3398337) |
-| `rui-komatsuzaki-style-v2-danganronpa-style-krea2` | komatsuzaki_rui_(style) , In the Rui Komatsuzaki art style., komatsuzaki_rui_(st | not stated | 100 | A style lora trained on most of the major franchises that Rui Komatsuzaki, aka the Danganronpa artist, has wor | [link](https://civitai.com/models/2969854?modelVersionId=3367396) |
 | `sewn-storybook-krea2` | not stated | not stated | 100 | I have yet to manually test this yet, but chatgpt assures me the training came out great! 🤣 .8-1.5 | [link](https://civitai.com/models/3038786?modelVersionId=3453442) |
 | `96yottea-artist-style-krea2-2` | digital artwork, anime-style art, @96yottea | 0.8-1.4 | 99 | UPDATE 23/10/2026: Added new testing version for MOSS-Image, tested mostly with turbo lora. ER_SDE for more sh | [link](https://civitai.com/models/2786359?modelVersionId=3372186) |
 | `kreajones-krea2` | Bradhamel art style | not stated | 99 | Images were created with ComfyUI and include workflow. If your images are not appearing on my model pages, or  | [link](https://civitai.com/models/3052969?modelVersionId=3472238) |
@@ -1028,7 +1025,6 @@
 | `yu-yu-hakusho-the-movie-1993-movie-style-krea2` | yyh | 1 | 96 | Premium character LoRAs Original synthetic characters, bundles and AI tools are in my shop: https://rkrra.com/ | [link](https://civitai.com/models/2876953?modelVersionId=3251213) |
 | `catiris-style-krea2` | not stated | not stated | 95 | Krea 2 / Catiris Style Lora BASE Model:Krea 2 Raw Training on ModelsSope | [link](https://civitai.com/models/2970243?modelVersionId=3365829) |
 | `oy-x-c100-krea2` | @oyc1oo | not stated | 95 | First try training a style LoRA for Krea 2 on civitai.  Trained on the C100 release of Oyari Ashito. | [link](https://civitai.com/models/2985198?modelVersionId=3384425) |
-| `novel-my-hero-academia-style-for-kr2-krea2` | MHAAnime style image of | 0.75 | 94 | This style is a request trained on a dataset provided by a discord friend. It's a My Hero Academia anime style | [link](https://civitai.com/models/3052160?modelVersionId=3471112) |
 | `snippwapp-artist-style-ilustrious-krea2` | KR2_Snippwapp, 3d | not stated | 94 | Based On:https://e621.net/posts?tags=snippwapp Want to support me without Tipping? Here's how: Liking my posts | [link](https://civitai.com/models/2429825?modelVersionId=3248141) |
 | `circus-caricatures-krea2` | CircusRK | 1 | 93 | Premium character LoRAs Original synthetic characters, bundles and AI tools are in my shop: https://rkrra.com/ | [link](https://civitai.com/models/3034881?modelVersionId=3448334) |
 | `luca-2021-movie-style-krea2` | lca | 1 | 93 | Premium character LoRAs Original synthetic characters, bundles and AI tools are in my shop: https://rkrra.com/ | [link](https://civitai.com/models/2880282?modelVersionId=3255322) |
@@ -1041,7 +1037,6 @@
 | `oro97-artist-style-krea2` | Oro97 | not stated | 91 | Trained on Krea 2 raw, tested on Turbo. Please support the artist by checking out their page 🔞: https://www.pa | [link](https://civitai.com/models/3046246?modelVersionId=3463217) |
 | `porco-rosso-1992-movie-style-krea2` | pcrs | 1 | 91 | Premium character LoRAs Original synthetic characters, bundles and AI tools are in my shop: https://rkrra.com/ | [link](https://civitai.com/models/2880404?modelVersionId=3255474) |
 | `unstitched-reality-krea2` | unstitchedrealityfx | not stated | 91 | Still testing but good enough for a v1 | [link](https://civitai.com/models/3037508?modelVersionId=3451758) |
-| `danganronpa-locations-danganronpa-krea2` | danganronpa_(series),  danganronpa_2x2, danganronpa_2x2_(style), one_point_persp | 0.5 | 90 | A work in progress to make it easier to use environmental elements and styles from the Danganronpa games. The  | [link](https://civitai.com/models/1732851?modelVersionId=3333432) |
 | `futurama-season-5-tv-series-style-krea2` | ftrmssn5 | 1 | 90 | Premium character LoRAs Original synthetic characters, bundles and AI tools are in my shop: https://rkrra.com/ | [link](https://civitai.com/models/2968666?modelVersionId=3363829) |
 | `grindhouse-gothic-pop-noir-krea2` | gr1ndg0th | 1.0 | 89 | # Grindhouse Gothic Pop-Noir / Krea 2 Oil paint gone dark and grainy, like a drive-in poster that's spent fort | [link](https://civitai.com/models/3053009?modelVersionId=3472276) |
 | `itadori-washi-digital-giga-style-krea2` | not stated | not stated | 89 | A LoRA that imitates Itadori-Washi's art style. It specializes in generating muscular, mature, bearded men. | [link](https://civitai.com/models/2985575?modelVersionId=3384858) |
@@ -1083,7 +1078,6 @@
 | `swd3e22-style-krea2` | not stated | not stated | 79 | 在魔塔上的训练 | [link](https://civitai.com/models/3030598?modelVersionId=3442742) |
 | `al-guang-style-krea2` | not stated | not stated | 78 | 在魔塔上的训练 α和β采用两种不同的打标提示词 | [link](https://civitai.com/models/3001856?modelVersionId=3408341) |
 | `judge-dredd-1995-movie-style-krea2` | jddd | 1 | 78 | Premium character LoRAs Original synthetic characters, bundles and AI tools are in my shop: https://rkrra.com/ | [link](https://civitai.com/models/2883153?modelVersionId=3258897) |
-| `neon-genesis-evangelion-the-end-of-evangel-krea2` | ngevgln | 1 | 78 | Premium character LoRAs Original synthetic characters, bundles and AI tools are in my shop: https://rkrra.com/ | [link](https://civitai.com/models/2882878?modelVersionId=3258526) |
 | `nv3d-style-krea2` | not stated | not stated | 78 | Lora Based on the 3dcg works of Nv3d Any and all support is appreciated so i can get to making more loras! tem | [link](https://civitai.com/models/3046415?modelVersionId=3463433) |
 | `essence-of-aqua-krea2` | grazing, accenting, melding, seeping, reserving, blending | not stated | 77 | A watercolor technique lora. The dataset contained no subjects at all: no portraits, people, animals or object | [link](https://civitai.com/models/3045139?modelVersionId=3461734) |
 | `taa1hafumaix-krea2` | taa1hafumaix. | 0.6 - 1.0 | 76 | You can use strength 0.6 - 1.0 The rest is up to you, just adjust accordingly. If you have any questions, just | [link](https://civitai.com/models/2944478?modelVersionId=3333976) |

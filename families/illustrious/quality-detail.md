@@ -1,6 +1,6 @@
 # Illustrious / NoobAI (Illustrious-XL based) — quality-detail
 
-43 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+41 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -37,10 +37,8 @@
 | `minotaurx-hyperrealistic-diffusion-ill` | minoTaurXQuiron, furry, furry with non-furry | 0.7 - 1 | 827 | 👑 MinoTaurX Hyperrealistic Diffusion - Illustrious - LORA 👑 ⚙️🔧Model base: Illustrious Based on Illustrious th | [link](https://civitai.com/models/1310809?modelVersionId=1479390) |
 | `realistic-oiled-skin-natural-reflections-ill` | not stated | 0.5 to 0.9 | 660 | The goal of this LoRA is to improve how models interpret the oiled tag, making the oil on the skin and its ref | [link](https://civitai.com/models/3010482?modelVersionId=3416422) |
 | `mercy-overwatch-pink-mercy-skin-il-ill` | pink_mercy | not stated | 451 | Tags for Pink Mercy pink_mercy, hair ribbon, mechanical wings, blonde hair, twintails, mechanical halo, pink w | [link](https://civitai.com/models/1619070?modelVersionId=3250520) |
-| `youtou-hime-classic-skin-set-onmyoji-ill` | 1girl,very long hair,yellow eyes,black hair,long hair,absurdly long hair,bangs,h | not stated | 393 | Youtou Hime (妖刀姫) [Classic Skin set] from Onmyoji Draft Skin: 1girl,very long hair,yellow eyes,black hair,long | [link](https://civitai.com/models/1978985?modelVersionId=2240085) |
 | `Tentacles_-_Enhacement_epoch_10` | tentacles_on_breasts, hands_on_tentacles, grabbing, both hands, tentacles_on_arm | not stated | 323 | This LoRa aims to maintain consistency with a tentacle-based style, featuring some common actions that are typ | [link](https://civitai.com/models/2767584?modelVersionId=3115398) |
 | `hollow-vore-skinsuit-monster-transform-seq-ill` | hollowskin_MST, hollowskin_MST,scared face,tears,crying,orange tentacles,living  | 1 | 319 | A parasitic skinsuit monster grabbed ur waifu！ Use this LoRA and follow the steps below to easily envelop your | [link](https://civitai.com/models/2573907?modelVersionId=2891846) |
-| `youtou-hime-arena-skin-set-onmyoji-ill` | YUTOALT1, 1girl,red eyes,glowing eyes,white hair,ponytail,long hair,horns,bangs, | not stated | 288 | Youtou Hime (妖刀姫) [2 additional Arena Skins] from Onmyoji Retribution Light Skin Trigger word: YUTOALT1 Appear | [link](https://civitai.com/models/1978952?modelVersionId=2240043) |
 | `hq-fdau-ill` | fdau, top-down bottom-up | 0.7 | 250 | This Lora was created to reproduce a specific pose, similar to my other lora, but with more images and with a  | [link](https://civitai.com/models/622781?modelVersionId=1414049) |
 | `mrw-glossy-skin-ill` | glossy | not stated | 171 | Glossy skin / Illustrious Trigger: glossy | [link](https://civitai.com/models/2894836?modelVersionId=3272857) |
 | `masculine-photorealistic-modern-bedroom-in-ill` | ultra masculine photorealistic modern bedroom 1nt3r10r | not stated | 126 | Please don’t rely only on the LoRA title to understand what it does. The preview images are the real represent | [link](https://civitai.com/models/2784084?modelVersionId=3136141) |

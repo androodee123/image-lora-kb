@@ -1,6 +1,6 @@
 # MOSS (Moss Image / kromoss) — clothing
 
-64 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+60 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 | slug | triggers | strength | dl | what | source |
 |---|---|---|---:|---|---|
@@ -16,7 +16,6 @@
 | `hot-pants-moss` | Hot Pants, low-rise hot pants, unbuttoned hot pants, open button, open fly, open | not stated | 268 | ⚠️ 非商用声明 / Non-Commercial Notice: 本模型仅供个人学习、交流与兴趣爱好者测试使用，严禁任何形式的商业用途。 未经授权，亦不可使用本模型生成商业化图片或进行二次售卖。 | [link](https://civitai.com/models/2869130?modelVersionId=3433237) |
 | `base-front-upskirt-view-moss` | up5k1rt-fr0nt upskirt view | not stated | 266 | moss can already do upskirts, you dont really need this. but maybe the aesthetic suits what you're looking for | [link](https://civitai.com/models/3048322?modelVersionId=3466150) |
 | `adjusting-bra-hook-moss` | 4djust1ng-br4-h00k	She is adjusting the hook on her bra strap from the front. | not stated | 257 | try: 4djust1ng-br4-h00k She is adjusting the hook on her bra strap from the front. add 'naked' to avoid double | [link](https://civitai.com/models/3036639?modelVersionId=3450660) |
-| `team-rocket-cosplay-pokemon-ani-il-moss-xl` | t34mr0ck3t,, t34mr0ck3t,  team rocket uniform, white jacket, cropped jacket, whi | not stated | 253 | Prepare for trouble! 🚀 Follow me on X/Twitter for exclusive content: https://x.com/Citron_Legacy 😁 Please chec | [link](https://civitai.com/models/371976?modelVersionId=3416558) |
 | `joschek-s-latex-bodysuits-for-moss` | latex bodysuit | not stated | 236 | 'nother moss port from krea, but with this one i actually redid the captions with qwen 3.8. will update the kr | [link](https://civitai.com/models/3034825?modelVersionId=3448250) |
 | `maid-classic-moss` | maid,maid apron,maid headdres | not stated | 221 | The strength of Lora is recommended to be around 1.0. | [link](https://civitai.com/models/703211?modelVersionId=3456338) |
 | `base-micro-boyshorts-moss` | m1cr0-b0ysh0rt5 she is wearing micro-boyshorts | not stated | 220 | try: m1cr0-b0ysh0rt5 she is wearing low-waist micro-boyshorts add '{button/zip/lace/tie}-up' for a little extr | [link](https://civitai.com/models/3038446?modelVersionId=3453007) |
@@ -31,7 +30,6 @@
 | `perfect-bikini-body-for-moss` | not stated | 0.8 – 1.05 | 190 | Have you ever wanted to give your plain Jane outputs that extra umph? This LoRA does just that. Apply it to gi | [link](https://civitai.com/models/3038277?modelVersionId=3452751) |
 | `flat-chastity-cage-base-moss` | not stated | not stated | 185 | Obvious person of taste, we meet again. Ever wanted your 1 girl to have something a little extra? Ever want th | [link](https://civitai.com/models/3045392?modelVersionId=3462064) |
 | `base-maxi-boyshorts-moss` | m4x1-b0ysh0rt5 she is wearing maxi-boyshorts | not stated | 174 | try: m4x1-b0ysh0rt5 she is wearing low-waist maxi-boyshorts add '{button/zip/lace/tie}-up' for a little extra  | [link](https://civitai.com/models/3041884?modelVersionId=3457615) |
-| `pokebra-poke-ball-bra-panties-pokemon-clot-moss` | she is wearing a black pokeball bra and pokeball thong panties | 1.0 | 168 | MOSS Image release 10/28/2026 Suggested strength: 1.0 Suggested tags: wearing a black pokeball bra , pokeball  | [link](https://civitai.com/models/1488578?modelVersionId=3433689) |
 | `10-inches-pleaser-heels-moss` | 101ph, [Infinity997,Beyond008,Beyond009,Beyond010LG,Beyond010LG],, 10 inch platf | not stated | 166 | My Character LoRA Gallery (1000+ Downloadable Character LoRAs & 500+ Runnable Online) Moss Image: Steps: 2,898 | [link](https://civitai.com/models/1777689?modelVersionId=3451681) |
 | `base-midi-boyshorts-moss` | m1d1-b0ysh0rt5 she is wearing midi-boyshorts | not stated | 166 | try: m1d1-b0ysh0rt5 she is wearing low-waist midi-boyshorts add '{button/zip/lace/tie}-up' for a little extra  | [link](https://civitai.com/models/3041861?modelVersionId=3457585) |
 | `base-getting-dressed-stepping-into-clothin-moss` | st3pp1ng-1nt0 She is getting dressed stepping into her clothing | not stated | 165 | generates a mid-action pose of someone 'stepping into' panties/pants/etc while getting dressed. try: st3pp1ng- | [link](https://civitai.com/models/3048799?modelVersionId=3466739) |
@@ -46,7 +44,6 @@
 | `warhammer-40k-adepta-sororitas-battle-sist-moss` | boobplate, fleur-de-lis ornament, power armor, spikes, pelvic curtain, prayer be | not stated | 122 | WARHAMMER 40K - Adepta Sororitas / Battle Sister Armor & Outfits (MOSS) To all the Warhammer 40k enjoyers, her | [link](https://civitai.com/models/3022353?modelVersionId=3431968) |
 | `high-landscape-moss` | highlandscape | 0.8 - 1 | 115 | Trigger Word: highlandscape Use it at the beginning of your prompt for the best results! I recommend: sampler: | [link](https://civitai.com/models/3040767?modelVersionId=3456213) |
 | `base-getting-undressed-pulling-top-off-moss` | g3tt1ng-undr3553d	she is getting undressed, pulling her top off | not stated | 113 | generates a mid-action undressing top removal action. try: g3tt1ng-undr3553d she is getting undressed, pulling | [link](https://civitai.com/models/3045861?modelVersionId=3462695) |
-| `mari-makinami-dxcosplay-moss` | not stated | not stated | 113 | Help fuel my passion! Even $1 makes a difference. ☕ https://ko-fi.com/flyx3 让我保持创作热情，付费款/隐藏款模型可以在 爱发电 获取~ (202 | [link](https://civitai.com/models/3043088?modelVersionId=3459121) |
 | `marpat-woodland-camouflage-u-s-marines-moss` | MARPAT woodland camouflage | not stated | 96 | This model generates realistic MARPAT Woodland Camouflage uniforms, as typically worn by the United States Mar | [link](https://civitai.com/models/3015097?modelVersionId=3422418) |
 | `succubus-queen-clothes-vindictus-moss` | Succubus_queen_clothes | not stated | 92 | Succubus_Queen_Clothes - Vindictus | [link](https://civitai.com/models/3043049?modelVersionId=3472282) |
 | `base-backless-dress-moss` | b4ckl355-dr355	She is wearing a backless dress. | not stated | 81 | try: b4ckl355-dr355 She is wearing a backless dress if you want... glimpse of buttcrack | [link](https://civitai.com/models/3048950?modelVersionId=3466949) |
@@ -55,7 +52,6 @@
 | `prismcoat-moss` | @prismcoat | not stated | 78 | 琉光厚彩 / Prismcoat 🔑 触发词 / Trigger word @prismcoat 📝 示例提示词 / Example prompt @prismcoat illustration. One woman r | [link](https://civitai.com/models/3049833?modelVersionId=3468118) |
 | `clear-vinyl-pvc-boots-multi-length-moss` | cptb0, clear closed pointed toe [ankle/mid-calf/thigh-high] boots, transparent P | 1.2 | 74 | The Anima version's training results are average, and since the Anima model's knowledge is limited, you may ne | [link](https://civitai.com/models/3009615?modelVersionId=3467144) |
 | `il-fourth-armor-x-megaman-x4-x4-rockmanx4-moss` | Fourth Armor X, RockmanX4 | not stated | 62 | Help fuel my passion! Even $1 makes a difference. ☕ https://ko-fi.com/flyx3 让我保持创作热情，付费款/隐藏款模型可以在 爱发电 获取~ (202 | [link](https://civitai.com/models/1952504?modelVersionId=3451857) |
-| `catherine-fire-emblem-three-houses-and-fir-anima` | cthrn, dark-skinned female, blue eyes, blonde hair, low ponytail, hair ribbon, c | not stated | 47 | MOSS Image LoRA featuring Catherine from Fire Emblem: Three Houses plus her summer swimsuit outfit from Fire E | [link](https://civitai.com/models/3047383?modelVersionId=3464674) |
 | `high-heels-by-dizzy-moss` | Limited collection. High Heels | not stated |  | High Heels Boots | [link](https://civitai.com/models/3023190?modelVersionId=3433001) |
 | `strippershoes-by-dizzy-moss` | Strippershoes | not stated |  | StripShoes | [link](https://civitai.com/models/3034930?modelVersionId=3448393) |
 | `andrd_inflatableplug_moss` | not stated | not stated |  |  |  |

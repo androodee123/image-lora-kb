@@ -3,7 +3,8 @@ name: image-lora-kb
 description: >-
   Choose and stack text-to-image LoRAs for Illustrious/NoobAI, SDXL, Pony, Anima, Krea2 (detailed-krea2) and MOSS (kromoss)
   on Graydient. Goal-based chooser with recipes. Prefer LoRAs registered on Graydient; flag other HF-repo LoRAs; suggest ingesting strong CivitAI/HF
-  LoRAs only under the suggest-ingest rule. Never invent triggers or strengths. Adults only.
+  LoRAs only under the suggest-ingest rule. Prompt matcher (scripts/suggest.py + data/semantic_catalog.jsonl) finds LoRAs from every
+  Graydient LoRA that move a draft prompt closer to its subject, intent, clothing, expression, object, pose and style. Never invent triggers or strengths. Adults only.
 ---
 
 # Skill: choose text-to-image LoRAs (Illustrious · SDXL · Pony · Anima · Krea2 · MOSS)
@@ -14,12 +15,12 @@ Snapshot 2026-11-18. Adults-only (18+) concepts; describe NSFW factually. No min
 
 | family | on Graydient | HF repo only (needs adding) | ingest candidates |
 |---|---:|---:|---:|
-| Illustrious / NoobAI (Illustrious-XL based) | 4247 | 14 | 5016 |
-| SDXL | 276 | 0 | 1638 |
-| Pony (Pony Diffusion XL) | 1003 | 7 | 1373 |
-| Anima | 4114 | 0 | 1977 |
-| Krea2 (detailed-krea2) | 4280 | 3 | 2235 |
-| MOSS (Moss Image / kromoss) | 808 | 0 | 914 |
+| Illustrious / NoobAI (Illustrious-XL based) | 3315 | 14 | 4540 |
+| SDXL | 270 | 0 | 1588 |
+| Pony (Pony Diffusion XL) | 985 | 7 | 1260 |
+| Anima | 3857 | 0 | 1795 |
+| Krea2 (detailed-krea2) | 4105 | 3 | 2189 |
+| MOSS (Moss Image / kromoss) | 789 | 0 | 893 |
 
 **Recommend only LoRAs registered on Graydient** (files in HF `Octavian123/civit`, `civit2`, `private`). LoRAs found only in other Octavian123 HF repos are listed *flagged* as needing to be added to Graydient. Candidates (CivitAI/HF, not available) appear only as capped *Suggest ingest* lines.
 
@@ -31,13 +32,36 @@ Snapshot 2026-11-18. Adults-only (18+) concepts; describe NSFW factually. No min
 2. **High-value upgrade:** candidate has ≥ 2,000 downloads and ≥ 2× the downloads of the best available LoRA in the same family+category; or it is an official utility pack (turbo/lightning/distill/hyper) with no available equivalent.
 3. **Cap:** at most 3 suggestions per recipe, each with link + any source-stated trigger/strength. Nothing auto-downloads or auto-ingests; ingest runs only when Andrew asks (civit-to-graydient pipeline).
 
+## Match a prompt to LoRAs (semantic matcher)
+
+Use this whenever someone hands you a draft prompt, a render to improve, or an intent ("make it look like a 90s anime cel", "she should be kneeling in latex"). It searches **every LoRA we have on Graydient** (Andrew's own `onemoreepoch` ones included) — not just the recipe picks below.
+
+1. **Read the prompt context.** Note the base/workflow (Illustrious/NoobAI, Anima, Krea2 `detailed-krea2`, MOSS `kromoss`, SDXL, Pony), the LoRAs already in it (`<slug:w>`), and what the user is trying to get closer to: subject/character, concept/intent, clothing/outfit, expression, object/prop, pose/action/camera, style/medium, anatomy.
+2. **Run the matcher** (instant, offline):
+   ```bash
+   python3 scripts/suggest.py "<draft prompt>" --base krea2 [--intent "<goal in words>"] [--top 12] [--own] [--include-unavailable] [--json]
+   ```
+   It parses the prompt into those categories, scores each catalog LoRA on rare shared words (name, slug, source triggers) and shared semantic tags, and prefers on-Graydient, own (`OWN (onemoreepoch)`) and verified ones. Versions/epochs of one LoRA collapse to the best one (`+N other versions`). Each pick shows **why it matched**, the **trigger** (or *no trigger — registered by slug*), the **weight** (source-stated, or a labelled workflow default), creator, availability and the CivitAI link, then *Best per category*, *Stacking notes* and a *Proposed addition*.
+3. **Or consult the catalog directly:** `data/semantic_catalog.jsonl` (one row per Graydient slug: `slug, family, base_model, name, triggers, no_trigger, weight, weight_source, source_url, creator, own, ingest_date, availability{graydient,hf,raid}, role, semantic{subject,concept,clothing,expression,object,pose,style,anatomy}`), e.g. `jq -c 'select(.family=="anima" and (.semantic.clothing//[]|index("latex")))' data/semantic_catalog.jsonl`. Counts: `data/semantic_summary.md`.
+4. **Propose additions, don't dump the list.** Pick at most one identity per person, one style, one detail/realism helper, then only the clothing/pose/expression/object/anatomy helpers the image needs. Skip picks whose *why* says `adds: …` (content the prompt didn't ask for) unless the user wants it, and skip identity LoRAs without a `name match`. Keep every LoRA in the checkpoint's family. Write them in the family syntax below — `<slug:weight>` blocks first, then the source triggers in the prompt text in the same order; no-trigger LoRAs go in by slug only. **Never invent a trigger or a strength.**
+5. Explain each addition in one line (what it should fix), and suggest testing one LoRA at a time.
+
+Worked examples with real slugs: `guides/prompt-matching.md`. The catalog is rebuilt weekly by `scripts/update.sh` (`scripts/build_semantic.py`), and `scripts/check_new.py` reports new/untagged LoRAs.
+
 <!-- AUTO-UPDATE:START -->
 ## Live inventory (auto-updated by `scripts/update.py`, 2026-11-18)
 
-On Graydient: illustrious **4247** · sdxl **276** · pony **1003** · anima **4114** · krea2 **4280** · moss **808**. Ingest candidates: illustrious 5016 · sdxl 1638 · pony 1373 · anima 1977 · krea2 2235 · moss 914.
+On Graydient: illustrious **3315** · sdxl **270** · pony **985** · anima **3857** · krea2 **4105** · moss **789**. Ingest candidates: illustrious 4540 · sdxl 1588 · pony 1260 · anima 1795 · krea2 2189 · moss 893.
 
 **Recently available (newest first, max 20):**
 
+- 2026-11-18 `badge-maker-anime-civitai-badge-generator-v3011-anima` (anima/style) — badge, CivitaiBadge, hexagon,   black background, simple background,, gem, pearl (gemstone), gemstones, hexagon chest, crystal, hexagon cube,, glowing eyes, robot, science fiction, gradient, crack, screen, machine, mecha,, Flowers, jewels, leaves, portraits, wooden frames, crafts, paintings, picture frames, — https://civitai.com/models/2056293?modelVersionId=3263011
+- 2026-11-18 `jav-dvd-cover-female-investigator-brave-un-ill` (illustrious/concept) — trigger not stated
+- 2026-11-18 `badge-maker-anime-civitai-badge-generator-ill` (illustrious/style) — badge, civitaibadge, hexagon, — https://civitai.com/models/2056293?modelVersionId=2327005
+- 2026-11-18 `lo-chan-type-lo-mmd-model-xl-lo-pony` (pony/character) — trigger not stated
+- 2026-11-18 `tsurumaki-maki-mmd-model-mmd-voiceroid-voc-pony` (pony/character) — trigger not stated
+- 2026-11-18 `yuzuki-yukari-iwara-mmd-base-model-iwaramm-pony` (pony/character) — trigger not stated
+- 2026-11-18 `queen-s-blade-gamebook-titlecover-concept-pony` (pony/concept) — trigger not stated
 - 2026-11-18 `c-c-code-geass-lelouch-of-the-rebellion-anima` (anima/anatomy) — C.C_Anima, See Model Info for outfit — https://civitai.com/models/1834731?modelVersionId=3474299
 - 2026-11-18 `tatsumaki-one-punch-man-anima` (anima/character) — Tatsumaki_Anima, See Model Info for outfits — https://civitai.com/models/2036896?modelVersionId=3474351
 - 2026-11-18 `aphrodite-record-of-ragnarok-shuumatsu-no-anima` (anima/character) — Aphrod1te, 1girl, blue eyes, blonde hair, blue eyes, hair flower, hair ornament, huge breasts | greco-roman clothes, ancient greek clothes, dress, sideboob — https://civitai.com/models/1210660?modelVersionId=3473363
@@ -51,13 +75,6 @@ On Graydient: illustrious **4247** · sdxl **276** · pony **1003** · anima **4
 - 2026-11-18 `nicole-demara-zenless-zone-zero-character-anima` (anima/character) — nicolezzz, nicolezzz, bright pink hair, green eyes, long twintails, black hair bows — https://civitai.com/models/3054124?modelVersionId=3473810
 - 2026-11-18 `claire-harvey-jab-comix-anima` (anima/character) — 1girl, Claire_papi, brown hair, brown eyes, big breasts, mature breasts, petite body, wide hips, slender thighs, bimbo ass, pubic hair, trimmed pubic hair,, hair bun, messy hair bun, single hair bun,, long hair,, high ponytail, — https://civitai.com/models/2717854?modelVersionId=3474000
 - 2026-11-18 `webtoon-cha-hyeyoon-intern-diver-anima` (anima/character) — trigger not stated — https://civitai.com/models/3053833?modelVersionId=3473419
-- 2026-11-18 `claire-harvey-jab-comix-v3972-anima` (anima/character) — 1girl, Claire_papi, brown hair, brown eyes, big breasts, mature breasts, petite body, wide hips, slender thighs, bimbo ass, pubic hair, trimmed pubic hair,, hair bun, messy hair bun, single hair bun,, long hair,, high ponytail, — https://civitai.com/models/2717854?modelVersionId=3473972
-- 2026-11-18 `upskirt-pantyshot-multiple-views-2koma-con-anima` (anima/clothing) — upskirt, from below, multiple views, close-up — https://civitai.com/models/1961912?modelVersionId=2988963
-- 2026-11-18 `upskirt-voyeurism-concept-version-anima` (anima/clothing) — upskirt, from below, recording, peephole — https://civitai.com/models/2947964?modelVersionId=3338465
-- 2026-11-18 `spicy-lingerie-1-anima` (anima/clothing) — MRLingerie1 — https://civitai.com/models/2371103?modelVersionId=3316755
-- 2026-11-18 `satin-string-bikini-panties-anima` (anima/clothing) — satin_string_bikini_panties — https://civitai.com/models/3054067?modelVersionId=3473734
-- 2026-11-18 `cheating-netorare-prostitution-concept-ver-anima` (anima/concept) — netorare, prostitution, imminet sex, groping — https://civitai.com/models/1310495?modelVersionId=2988964
-- 2026-11-18 `moodlit-dramatic-lighting-and-shadows-for-anima` (anima/lighting) — trigger not stated — https://civitai.com/models/2829780?modelVersionId=3197853
 
 **Newest ingest candidates from the weekly update (proposals only; max 10):**
 
@@ -212,8 +229,8 @@ One style LoRA at a time; add a second only at a lower strength.
 - `anime-figure-xl` — `anifigurestyle` · strength `0.5 to 0.7` (stated) · 792 dl · Trained with SDXL base model, using this lora with other XL models will produce uncontrolled results · [source](https://civitai.com/models/429926?modelVersionId=508307)
 
 **Pony (Pony Diffusion XL)**
-- `Prison School anime style PDXL - PSV1F - Prison_School_anime_style_Pony_r2` — `score_9_up, score_8_up, score_7_up,` · strength not stated · 1,686 dl · [source](https://civitai.com/models/525298?modelVersionId=583646)
 - `uno-makoto-marumiya-pony-xl` — trigger not stated · strength not stated · 1,603 dl · [source](https://civitai.com/models/347454?modelVersionId=388734)
+- `terayama-reiko-anime-golden-boy-ponyxl-sd1-pony` — `Terayama Reiko, 1girl,`, `black hair, long hair, makeup, lipstick, brown eyes,`, `bikesuit,`, `open clothes, no bra, cleavage, unzipped` · strength not stated · 916 dl · XL version · [source](https://civitai.com/models/94159?modelVersionId=770710)
 
 **Anima**
 - `90s_anime_melancholy_Anima-step00003300` — `90s_melancholy, retro,` · strength `0.8` (stated) · 3,887 dl · Krea 2 version : weight between [0.8,1], best at 1 trigger words : 90s_melancholy, retro, Anima vers · [source](https://civitai.com/models/1738546?modelVersionId=2820017)
@@ -391,8 +408,8 @@ Search `data/loras.jsonl` by the character name (`rg -i name`). Use ONE identity
 - `taimanin-rpgx-character-collection-concept-pony` — `taimanincc, 1 girl, Solo Focus, character profile title text, Simple b` · strength not stated · 2,837 dl · --SAMPLE <LORA>->Base->CommonWard->Character-- --------------------------------------  <lora:Taimani · [source](https://civitai.com/models/556011?modelVersionId=618819)
 
 **Anima**
-- `draco-malfoid-malfoy-redteneri-genderswap-anima` — `femdraco, 1girl, blonde hair, long hair, asymmetrical bangs, parted ha`, `hogwarts school uniform, black robe, grey sweater, collared shirt, gre` · strength not stated · 3,480 dl · Based on Redteneri's Genderswap Draco Prompts: femdraco, 1girl, pale blonde hair, long hair, asymmet · [source](https://civitai.com/models/2967285?modelVersionId=3362156)
 - `taimanin-rpgx-character-collection-concept-anima` — `1girl, white background, character name, character profile, multi-fram`, `((TITLE TEXT:2,"***Character Name***", ***Character Name***))` · strength not stated · 1,535 dl · --SAMPLE <LORA>->Base->CommonWard->Character-- --------------------------------------  <lora:Taimani · [source](https://civitai.com/models/556011?modelVersionId=3051237)
+- `glory-wall-anima` — `Promts for this LoRA:`, `bdsm, glory wall, handsfree breast squeeze, immobilization, public res` · strength not stated · 1,047 dl · My telegram chanel: (https://t.me/+-OTXaB0G5F8yNDJi) My discord server: (https://discord.gg/NWpyuzsH · [source](https://civitai.com/models/2897098?modelVersionId=3275413)
 
 **Krea2 (detailed-krea2)**
 - `alt-girl-e-girl-krea2` — trigger not stated · strength not stated · 9,378 dl · Trigger word AltGirl · [source](https://civitai.com/models/2274840?modelVersionId=3198266)
@@ -411,8 +428,8 @@ Search `data/loras.jsonl` by the character name (`rg -i name`). Use ONE identity
 Describe a single motivated light source in prose too.
 
 **Illustrious / NoobAI (Illustrious-XL based)**
-- `maya-ibuki-neon-genesis-evangelion-ill` — `Maya_Ibuki`, `hat, uniform, black hair, beret, boots, black footwear, black eyes, mi`, `1girl, uniform, brown hair, short hair, pantyhose, military uniform, b` · strength not stated · 1,222 dl · Maya Ibuki from EVA Tragger word: Maya_Ibuki Outfit 1: 1girl, uniform, brown hair, short hair, panty · [source](https://civitai.com/models/1613043?modelVersionId=1825441)
 - `digitaldelights-impossible-downward-dog-ill` — `<Lora:DigitalDelights-impossible-downward-dog:1>, top-down bottom-up, ` · strength not stated · 1,130 dl · Name is self explanatory it's a yoga pose named dog down taking it to the extreme XD · [source](https://civitai.com/models/2143059?modelVersionId=2423989)
+- `ritsuko-akagi-neon-genesis-evangelion-ill` — `1girl,brown eyes, blonde hair,mole,mole under eye, short hair`, `makeup,breasts,medium breasts,jewelry,earrings,coat,labcoat,open cloth`, `bangs,parted bangs,makeup,red lips,lipstick,earrings,necklace,jewelry,`, `makeup,lipstick,earrings,jewelry,bare shoulders,shirt,sleeveless,belt,` · strength not stated · 900 dl · Ritsuko Akagi from EVA Appearance: 1girl,brown eyes, blonde hair,mole,mole under eye, short hair Lab · [source](https://civitai.com/models/1905245?modelVersionId=2156508)
 
 **Anima**
 - `vixon-s-styles-gothic-neon-anima` — `g0thic n30n, neon lights, glowing` · strength not stated · 5,773 dl · the OG dataset now brought to anima! Hey guys! Hope you love using this new LoRA as much as I loved  · [source](https://civitai.com/models/888231?modelVersionId=3022620)
@@ -717,7 +734,7 @@ Use an anatomy LoRA only if the base model draws the area poorly.
 
 **Illustrious / NoobAI (Illustrious-XL based)**
 - `costumeblack-bodystocking-request-ill` — `bodystocking` · strength not stated · 2,400 dl · TAGS: bodystocking I TAKE REQUESTS AT https://civitai.com/articles/7712/clothing-lora-requests · [source](https://civitai.com/models/812429?modelVersionId=1244147)
-- `bow-accent-kitten-heels-ill` — `highheels, bow,` · strength not stated · 1,318 dl · Hey guys! Hope you love using this new LoRA as much as I loved making it. Just a quick word of advic · [source](https://civitai.com/models/256493?modelVersionId=1506248)
+- `jacquard-leggings-ill` — `jacquardleggings`, `fishnet` · strength not stated · 1,034 dl · Lora for ass lifting yoga pants, with or without texture. Add fishnet to your prompt for texture. · [source](https://civitai.com/models/1521437?modelVersionId=1721371)
 
 **SDXL**
 - `lace-pantyhose-hooked-on-heel-meme-il-sd-xl` — `Pantyhose_hooked_on_heel, full body, from side, lying, on stomach, fee` · strength not stated · 49 dl · Creates the meme/viral pose where the character's high heel shoe is hooked on lace pantyhose. Very s · [source](https://civitai.com/models/2212567?modelVersionId=2491084)
@@ -797,8 +814,8 @@ All characters must be adults.
 - `krea2 thong floss outfit` — `zithong, thong floss outfit, 1girl, breasts, solo, nipples, realistic,` · strength `0.8` (stated) · 1,606 dl · Krea2 thong_floss_outfit Lora type:Krea2 triger：zithong, thong floss outfit, prompt：zithong, thong f · [source](https://civitai.com/models/2217869?modelVersionId=3190414)
 
 **MOSS (Moss Image / kromoss)**
-- `team-rocket-cosplay-pokemon-ani-il-moss-xl` — `t34mr0ck3t,`, `t34mr0ck3t,  team rocket uniform, white jacket, cropped jacket, white ` · strength not stated · 253 dl · Prepare for trouble! 🚀 Follow me on X/Twitter for exclusive content: https://x.com/Citron_Legacy 😁 P · [source](https://civitai.com/models/371976?modelVersionId=3416558)
 - `maid-classic-moss` — `maid,maid apron,maid headdres` · strength not stated · 221 dl · The strength of Lora is recommended to be around 1.0. · [source](https://civitai.com/models/703211?modelVersionId=3456338)
+- `base-candid-getting-dressed-inspecting-pan-moss` — `p4nt135-1n5p3ct10n	She is inspecting her panties in her hand` · strength not stated · 213 dl · generates mid-action shots of a woman inspecting panties in her hand, in a getting dressed/undressed · [source](https://civitai.com/models/3049187?modelVersionId=3467286)
 
 - Suggest ingest: [Undressing SD1/XL/PONY/FLUX](https://civitai.com/models/505266) (sdxl, 55,860 dl) — `undressing` · strength `1.3` (stated) — **downloads 55860 >= 2x best available (1359) in same family+category**
 - Suggest ingest: [Slavekini, aka Slave Leia Outfit - Clothing [Krea2, Anima, IL, Pony, S](https://civitai.com/models/7913) (illustrious, 30,714 dl) — `slave leia outfit`, `or`, `slavekini, pelvic curtain , collar, armlet , hair ornament, braid` · strength `.8-1.0` (stated) — **downloads 30714 >= 2x best available (6777) in same family+category**

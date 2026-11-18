@@ -1,6 +1,6 @@
 # Illustrious / NoobAI (Illustrious-XL based) — nsfw-act
 
-340 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+339 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -46,7 +46,6 @@
 | `super-excessive-cum-huge-bukkake-ill` | huge_bukkake, bukkake, facials,  sperm, cum, excessive cum, excessive bukkake, c | not stated | 3966 | The learning materials are here. Please feel free to use them. https://mega.nz/file/MpQFBBaL#pj815v1bIqPdra4Aw | [link](https://civitai.com/models/1852454?modelVersionId=2096410) |
 | `locked-sex-machine-ill` | lockedsexmachine | 0.8-1.0 | 3959 | Lora for a sex machine fixed to the genitals Trigger word : lockedsexmachine The word "sex machine" doesn't me | [link](https://civitai.com/models/1885871?modelVersionId=2134615) |
 | `pose_anal_fingering2 - Illustrious - pose_anal_fingering_2-000020` | pose_anal_fingering2,  1girl, penis, 1boy, testicles, hetero, anal fingering, ej | not stated | 3784 | Triger word : pose_anal_fingering2, score_9, 1girl, penis, 1boy, testicles, hetero, anal fingering, ejaculatio | [link](https://civitai.com/models/887213?modelVersionId=1452587) |
-| `face-hug-xl` | throat bulge, lips, mouth, faceless male, irrumatio, face hug, interspecies, tes | not stated | 3771 | Ohayo, my hot and kinky people 🔥😈!, I find myself needing to use this intro from now on for my original models | [link](https://civitai.com/models/2091192?modelVersionId=2366018) |
 | `Double_Dildo_ILXL` | yuri, double dildo, ass-to-ass, ass to ass, wet glistening pussies, sex toy, dou | not stated | 3737 | have created a discord (https://discord.gg/NWpyuzsHqn) server where you can post your work and offer your idea | [link](https://civitai.com/models/1157997?modelVersionId=1302583) |
 | `extreme-insertion-xl-ill` | extremeinsertion, rough sex, epic sex,  vaginal, stomach bulge:1.4, stomach vein | 1-0.6 | 3725 | The learning materials are here. Please feel free to use them. https://mega.nz/file/JwIyXJiL#4ts-VjtpbqoqV5XZA | [link](https://civitai.com/models/1859053?modelVersionId=2104073) |
 | `multiple-penetrations-ill-xl` | multiple penetrations, 1girl, multiple boys, penis, sex, group sex, | 1.0 | 3723 | A strength of around 1.0 for Lola is recommended. | [link](https://civitai.com/models/1370965?modelVersionId=1548943) |

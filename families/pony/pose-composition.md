@@ -1,6 +1,6 @@
 # Pony (Pony Diffusion XL) — pose-composition
 
-24 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+22 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -19,7 +19,6 @@
 | `standing-missionary-pony` | 1girl, 1boy, standing missionary, vaginal | not stated | 524 | Recommended negative prompt: lowres, bad quality, worst quality, bad anatomy, jpeg artifacts, signature, water | [link](https://civitai.com/models/2088039?modelVersionId=2362457) |
 | `dildo-tray-holding-tray-with-dildos-pose-i-pony` | D1ldo_tray, holding tray, dildo, anal beads | not stated | 481 | Let's your favorite character serve guests by carrying a tray of dildos, anal beads, and sex toys. Have fun! | [link](https://civitai.com/models/1587558?modelVersionId=1796495) |
 | `yoruichi-pose-cat-stretch-pose-god-of-thun-pony` | ((y0ruichi_p0se)), 1girl, solo, ((stretching)), (side view), (arched back) | not stated | 428 | Creates the iconic yoruichi pose, have fun! | [link](https://civitai.com/models/1376336?modelVersionId=1555148) |
-| `aroundback-pony` | aroundback, masturbation, female masturbation | not stated | 405 | A Lora to ensure the consistent generation of a very common pose that I have yet to figure out a useful tag or | [link](https://civitai.com/models/1243111?modelVersionId=1401109) |
 | `adriano-pose-pony` | AdrianoPose | not stated | 322 |  | [link](https://civitai.com/models/2001283?modelVersionId=2265219) |
 | `fishhook-fish-hook-spread-mouth-fingers-sp-pony` | Fishh0ok, fingers in mouth, spread mouth, tongue out | not stated | 288 | Makes a sexy fishhook pose where her mouth is pulled open and her eager tongue is waiting for some yummy jizz. | [link](https://civitai.com/models/1279694?modelVersionId=1443704) |
 | `neck-lift-throatlift-necklift-throat-lift-pony` | Neck lift, standing, asphyxiation, eye contact, looking up, struggling, choke ho | not stated | 286 | Lift your favorite character by the neck. Have fun! | [link](https://civitai.com/models/1833681?modelVersionId=2075064) |
@@ -32,5 +31,4 @@
 | `heart-pose-amen-pose-taka-taka-pose-ai-inf-pony` | amen_pose, from behind, bent over, own hands together | not stated | 98 | All the pretty influencers are doing it, now you characters can too! Have fun! | [link](https://civitai.com/models/2530904?modelVersionId=2844420) |
 | `multiple-shibari-poses-pony` | shibari_pose, suspension bondage , rope bondage | not stated | 42 | Basic version | [link](https://civitai.com/models/3053942?modelVersionId=3473566) |
 | `nicki-minaj-challenge-nicki-minaj-leg-pose-pony` | Nminaj_pose, crossed legs, balanced on object, balance on one foot | not stated | 36 | Recreates the Nicki Minaj pose challenge (not based on her or any one specific person, just the pose itself).  | [link](https://civitai.com/models/2053008?modelVersionId=2323480) |
-| `soryu-asuka-langley-neon-genesis-evangelio-xl` | asuka_a_pxl, souryuu asuka langley, long hair, bangs, blue eyes, brown hair, hai | not stated | 36 |  | [link](https://civitai.com/models/3045453?modelVersionId=3462148) |
 | `three-quarters-view-three-quarters-angle-3-pony` | Three quarters view | not stated | 31 | More consistent three-quarters view. Have fun! | [link](https://civitai.com/models/2604399?modelVersionId=2924401) |

@@ -1,6 +1,6 @@
 # SDXL — concept
 
-77 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+74 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -30,7 +30,6 @@
 | `garrote-rope-choking-il-sd-xl` | garrote | not stated | 125 | Garrote your favorite character, make her choke! Have fun! | [link](https://civitai.com/models/2127273?modelVersionId=2406510) |
 | `olga-v1-xl` | not stated | not stated | 124 |  | [link](https://civitai.com/models/3024098?modelVersionId=3434204) |
 | `human-motorcycle-living-bike-il-sd-xl` | hum4n_m0t0rcycle, motorcycle, object transformation | not stated | 116 |  | [link](https://civitai.com/models/1484425?modelVersionId=1679470) |
-| `civchan-sd-flux-xl` | Civchan, pink hair, purple eyes, maid outfit | not stated | 115 |  | [link](https://civitai.com/models/1444802?modelVersionId=1633388) |
 | `toilet-symbol-il-sd-xl` | Toilet symbol on back, Toilet symbol on breast, Toilet symbol on shoulder, Toile | not stated | 106 | Puts a toilet symbol on your favorite character. Have fun! | [link](https://civitai.com/models/1714027?modelVersionId=1939682) |
 | `black-dames-xl` | BW3, 1girl, solo, dark-skinned female, black hair, jewelry, large breasts, looki | not stated | 97 |  | [link](https://civitai.com/models/2725597?modelVersionId=3063502) |
 | `fountain-transformation-il-sd-xl` | Fountain_transformation, fountain, change of status, petrification | not stated | 93 | Your favorite character has been defeated, petrified, and turned into a fountain for public use and humiliatio | [link](https://civitai.com/models/1862982?modelVersionId=2108517) |
@@ -56,7 +55,6 @@
 | `multiple-punches-rapid-punches-punch-barra-xl` | multi-punch, multiple punches, rapid punches, punch barrage, | not stated | 47 | Creates the iconic multiple punch barrage seen in action anime scenes. Have fun! | [link](https://civitai.com/models/1449374?modelVersionId=1638715) |
 | `the-overseer-xl` | overseer | not stated | 46 |  | [link](https://civitai.com/models/3022087?modelVersionId=3431892) |
 | `repa-devi-dynamic-age-dora-xl` | devi_char, devi_prime, devi_mature, devi_elder | not stated | 42 |  | [link](https://civitai.com/models/2966023?modelVersionId=3360679) |
-| `sakura-haruno-nsfw-ultimate-ripped-clothes-xl` | sakura haruno, ripped cloths, clothing rip | not stated | 41 |  | [link](https://civitai.com/models/2999876?modelVersionId=3402731) |
 | `tsuuki-xl` | Tsuuki | not stated | 40 |  | [link](https://civitai.com/models/2986878?modelVersionId=3386445) |
 | `atomicpunk-buildings-ad-xl` | Atompunk, buildings | not stated | 39 |  | [link](https://civitai.com/models/2949952?modelVersionId=3340893) |
 | `evie-von-vergin-xl` | not stated | not stated | 39 |  | [link](https://civitai.com/models/2786256?modelVersionId=3468416) |
@@ -84,6 +82,5 @@
 | `gloria-xl` | Gloria | not stated | 20 |  | [link](https://civitai.com/models/3007750?modelVersionId=3412877) |
 | `fright-dimension-vezmira-the-bone-empress-xl` | not stated | not stated | 17 |  | [link](https://civitai.com/models/3006758?modelVersionId=3411568) |
 | `diegotrans-xl` | not stated | not stated | 13 |  | [link](https://civitai.com/models/2979631?modelVersionId=3377519) |
-| `julius-zimmerman-violet-parr-xl` | not stated | not stated | 11 |  | [link](https://civitai.com/models/3008933?modelVersionId=3414413) |
 | `purple-panda-starry-tail-red-panda-xl` | purple panda. starry tail, red panda, | not stated | 11 |  | [link](https://civitai.com/models/3047727?modelVersionId=3465311) |
 | `flaccid-sdxl` | not stated | not stated |  |  |  |

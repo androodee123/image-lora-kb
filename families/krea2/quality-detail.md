@@ -1,6 +1,6 @@
 # Krea2 (detailed-krea2) — quality-detail
 
-147 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+144 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 | slug | triggers | strength | dl | what | source |
 |---|---|---|---:|---|---|
@@ -89,7 +89,6 @@
 | `soul-realism-everyday-phone-photo-krea2` | not stated | 1.0 | 429 | Please read first I made this for fun. There is nothing to sell you, and I'm not saying it's the best LoRA out | [link](https://civitai.com/models/3031498?modelVersionId=3443934) |
 | `gg-mia-krea2` | not stated | not stated | 417 | Mia - #1 in the GGG Collection I wanted to get this out, but there are already improvements I want to work on  | [link](https://civitai.com/models/3003425?modelVersionId=3407318) |
 | `detailed-woman-genitals-for-krea2` | detailed woman genitals for krea2 | not stated | 408 | Trained from my existing dataset using quality photorealistic images. Not enough information? I’m kinda lazy,  | [link](https://civitai.com/models/2911674?modelVersionId=3293571) |
-| `realistic-photo-by-studio-atelier-krea2` | not stated | not stated | 393 | A professional studio look: grey, taupe or blue-grey seamless paper, soft directional light, and portraits (he | [link](https://civitai.com/models/3048437?modelVersionId=3468256) |
 | `nKrea - Krea2 LoRA experiment - Initial Commit - nKrea_pruned` | not stated | not stated | 390 | New Update! I have re-tested this LoRA on-site and now, it works (with no action on my side). Welp, in any cas | [link](https://civitai.com/models/2878520?modelVersionId=3253140) |
 | `delirium-psychedelic-dark-surrealism-krea2` | Delirium style | not stated | 367 | About this Style :  Delirium blends vibrant psychedelic aesthetics with dark surrealism, dream logic, and expr | [link](https://civitai.com/models/2881616?modelVersionId=3256991) |
 | `dinah-black-canary-realistic-oc-krea2` | dinah | not stated | 329 | About Black Canary realistic model, basically a hot blonde girl. trigger: dinah | [link](https://civitai.com/models/3028720?modelVersionId=3440171) |
@@ -116,11 +115,9 @@
 | `watw-austria-krea2` | austria woman | not stated | 196 | 🌍Women around the World🌎#WATW 🇦🇹 Austria The LoRAs will work best with the following checkpoints: Krea 2 Turbo | [link](https://civitai.com/models/1960588?modelVersionId=3442375) |
 | `schmusrealism-chromatic-aberration-krea2` | not stated | 1 | 192 | Schmuser Realism: Chromatic Aberration Slider - Krea 2 Adds real lens fringing to your images. What it does: R | [link](https://civitai.com/models/3030360?modelVersionId=3442434) |
 | `watw-libya-krea2` | libya woman | not stated | 185 | 🌍Women around the World🌎#WATW 🇱🇾 Libya Krea 2 Turbo 18+ for Character LoRAs unStable Evolution KREA unStable E | [link](https://civitai.com/models/1982504?modelVersionId=3450599) |
-| `mary-raw-elegance-krea2` | Mary | not stated | 182 | Infinitely adaptable from saintly, soft-lit editorials to sharp, high-fashion minimalism | [link](https://civitai.com/models/2393854?modelVersionId=3336542) |
 | `elham-xstar-k2-final-krea2` | E1H4M | not stated | 181 | Elham Xstar steps into Krea2 with a beauty that feels instinctive, intimate, and entirely her own (quietly int | [link](https://civitai.com/models/2896778?modelVersionId=3274984) |
 | `3rd-page-titties-zit-flux-ill-krea2` | Page3Tits | 1-1.25 | 167 | Krea2 Same dataset, 1.50 to 2.00 strength ZiT available! Same dataset, same great funbags! Pony: I had to use  | [link](https://civitai.com/models/996793?modelVersionId=3462651) |
 | `big-brother-futuristic-dystopian-tvs-conce-krea2` | B1GB, dystopian, old-fashioned crt television, boxy television set, cctv monitor | 1.0 | 165 | Big Brother is Watching (B1GB) ..... So watch himstead by making some awesome looking dystopian styled TV sets | [link](https://civitai.com/models/2565399?modelVersionId=3406244) |
-| `jay-sharp-edge-krea2` | Jay | not stated | 164 | Sexy, stylish, and unconventional, looks better with short and edgy hairstyles. | [link](https://civitai.com/models/2977759?modelVersionId=3375207) |
 | `rumi-kpop-demon-hunters-realistic-2-outfit-krea2` | rm_perso, rumi yellow outfit, rumi black outfit | 1.0 | 164 | Rumi from KPop Demon Hunters, photorealistic take with her two signature looks. This is a personal interpretat | [link](https://civitai.com/models/3039651?modelVersionId=3454681) |
 | `gradientlace-lucy-krea2` | lucygl | 0.80 | 163 | A 28-year-old blonde character for Krea 2. Trained on a canon-locked 26-image set at 1500 steps, so the face,  | [link](https://civitai.com/models/3030403?modelVersionId=3442493) |
 | `realism-krea2` | not stated | not stated | 152 | Add some chaotic realism to your generation! Trained on a large dataset of real life photos, riots and street  | [link](https://civitai.com/models/961407?modelVersionId=3472950) |

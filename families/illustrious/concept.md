@@ -215,8 +215,8 @@
 | `giving-birth-ill` | giving birth ill | not stated |  | Download Giving birth v1.0, a LORA for Illustrious. 1 file: GBV-Illustrious_V1.safetensors (218 MB). Published | [link](https://civitai.com/models/2901543?modelVersionId=3280935) |
 | `hikawa-rinka-ill` | not stated | not stated |  |  |  |
 | `hitomi-tanaka-xl` | not stated | not stated |  |  |  |
-| `illya-il-v3-ill` | not stated | not stated |  |  |  |
 | `irui-ganeden-super-robot-wars-ill` | not stated | not stated |  |  |  |
+| `jav-dvd-cover-female-investigator-brave-un-ill` | not stated | not stated |  |  |  |
 | `karen-lilica-fairy-tail-ill` | not stated | not stated |  |  |  |
 | `keff-the-trucker-humbugged-manful-ill` | not stated | not stated |  |  |  |
 | `kirsten-vh-xl` | not stated | not stated |  |  |  |

@@ -1,6 +1,6 @@
 # Anima — pose-composition
 
-66 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+62 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 | slug | triggers | strength | dl | what | source |
 |---|---|---|---:|---|---|
@@ -65,8 +65,4 @@
 | `zesty-sonic-meme-anima` | zstsc pose | not stated | 130 | Zesty Sonic (Meme) | [link](https://civitai.com/models/3006947?modelVersionId=3411818) |
 | `Goatse_Pose_Real_Step_01600_ANI` | gtsprdpse, solo focus, hands spreading buttocks, exposed anus, low rear angle, s | not stated | 126 | This is a goatse concept trained on sythetic data generated with Morris_1026's goatse lora, but it was trained | [link](https://civitai.com/models/2426665?modelVersionId=3107254) |
 | `civitai-m-il-breast-presse-sitting-on-the-anima` | 1girl is breast press, her breasts together using her own arms.,, (1girl is stre | 0.8 | 126 | 思いつくと何となく作るという。 既存のものの差分みたくなってるけど一応新規 胸潰し尻もち座り M開脚しつつ開いた膝の内側へ手を下すポージング 太もも掴みと掴みなしの２ポーズパターン grabbing own thighs | [link](https://civitai.com/models/3055330?modelVersionId=3475391) |
-| `asuka-langley-neon-genesis-evangelion-anima` | not stated | 0.7–1.0 | 106 | Asuka Langley / Neon Genesis Evangelion / ANIMA LoRA Asuka Langley from Neon Genesis Evangelion is now availab | [link](https://civitai.com/models/3024793?modelVersionId=3435100) |
-| `world-is-mine-pose-1-outfit-meme-concept-anima` | WIMLP,, pink checkered blanket, lying on back, on floor, knees up, convenient le | not stated | 92 | I'm on a roll with old pose memes. 👀 | [link](https://civitai.com/models/2445576?modelVersionId=3466836) |
-| `romeo-to-cinderella-pose-meme-concept-anima` | RTCPC,  holding fruit, apple, open mouth, lying, on stomach, looking at viewer,  | not stated | 85 | Depending on the additional LoRAs you use the polka dot background can be cranky. So add weight or brackets to | [link](https://civitai.com/models/2498646?modelVersionId=3474229) |
-| `world-is-mine-pose-2-meme-concept-anima` | WIMEP, pink heart background, closed eyes, :o, hand up,, Outfit:, mini crown, cr | not stated | 78 | That song is stuck in my head for hours. Send help! | [link](https://civitai.com/models/2445698?modelVersionId=3466928) |
 | `endoscopicview-anima-v1-e10` | not stated | not stated |  |  |  |

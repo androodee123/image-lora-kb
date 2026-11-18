@@ -1,19 +1,19 @@
 # Illustrious / NoobAI (Illustrious-XL based) — text-to-image LoRAs
 
-On Graydient: **4247** distinct LoRAs · HF repo only (needs adding to Graydient): **14** · ingest candidates: **5016**
+On Graydient: **3315** distinct LoRAs · HF repo only (needs adding to Graydient): **14** · ingest candidates: **4540**
 
 Per-category pages (sorted: Graydient first, then by CivitAI downloads). Complete data: `data/loras.jsonl` (filter `family == illustrious`).
 
 | category | on Graydient | HF only | page |
 |---|---:|---:|---|
-| character | 1765 | 1 | [character.md](character.md) |
-| style | 650 | 0 | [style.md](style.md) |
-| anatomy | 391 | 3 | [anatomy.md](anatomy.md) |
-| clothing | 600 | 0 | [clothing.md](clothing.md) |
-| pose-composition | 122 | 0 | [pose-composition.md](pose-composition.md) |
-| lighting | 41 | 0 | [lighting.md](lighting.md) |
-| quality-detail | 43 | 0 | [quality-detail.md](quality-detail.md) |
-| nsfw-act | 340 | 0 | [nsfw-act.md](nsfw-act.md) |
+| character | 955 | 1 | [character.md](character.md) |
+| style | 624 | 0 | [style.md](style.md) |
+| anatomy | 348 | 3 | [anatomy.md](anatomy.md) |
+| clothing | 569 | 0 | [clothing.md](clothing.md) |
+| pose-composition | 115 | 0 | [pose-composition.md](pose-composition.md) |
+| lighting | 29 | 0 | [lighting.md](lighting.md) |
+| quality-detail | 41 | 0 | [quality-detail.md](quality-detail.md) |
+| nsfw-act | 339 | 0 | [nsfw-act.md](nsfw-act.md) |
 | concept | 236 | 10 | [concept.md](concept.md) |
 | utility | 59 | 0 | [utility.md](utility.md) |
 

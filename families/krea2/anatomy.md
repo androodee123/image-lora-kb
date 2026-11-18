@@ -1,6 +1,6 @@
 # Krea2 (detailed-krea2) — anatomy
 
-344 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+343 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -215,7 +215,6 @@
 | `一字马 - v1.0 - Krea2-一字马` | 一字马 | not stated | 494 | 综合了我能想到的各种一字马姿势： 躺姿做横一字马；躺姿做竖一字马；坐姿做横一字马；站姿竖一字马；双手撑椅做双脚离地的斜一字马。 一共五种很有诱惑力的姿势。提示词使用方法：确定姿势+一字马方向，可随意组合。 I combi | [link](https://civitai.com/models/2868439?modelVersionId=3240705) |
 | `pov-penis-awe-krea2` | pov-penis-awe, pov view of hand lovingly fondling a man's penis, large clammy te | not stated | 490 | try: pov view of hand lovingly fondling a man's penis large clammy testicles behind hand | [link](https://civitai.com/models/2975803?modelVersionId=3372736) |
 | `toeless stirrup legwear` | toeless stirrup legwear, jiajiaowa, 1girl, solo, black hair, long hair, shorts,  | 0.9 | 484 | If you like my models and want to support my work, please subscribe to my Patreon! For only $3.99 a month, you | [link](https://civitai.com/models/2845851?modelVersionId=3213122) |
-| `star-butterfly-krea2` | kstar, blonde hair, Pink heart-shaped blush marks appear on both cheeks, red hor | 1.2 | 483 | ⚙️ Recommended Settings 🎨 Krea 2 Tested with: CyberRealistic Krea 2/DaSiWa Krea2 Steps: 10 CFG Scale: 1.2 Samp | [link](https://civitai.com/models/2832903?modelVersionId=3362315) |
 | `glass-krea2` | not stated | not stated | 482 | trained on my SDXL LoRA version of Glass | [link](https://civitai.com/models/3011029?modelVersionId=3417150) |
 | `freckles-face-krea2` | not stated | 0.4 | 481 | Try a strength between 0.4 and 1.0. It's a helper for freckles alls over face and body. Use "red hair" in the  | [link](https://civitai.com/models/2664694?modelVersionId=3387049) |
 | `natural-body-b-big-tits-krea2` | not stated | 0.65–0.85 | 477 | A concept LoRA focused on a specific body type with large natural breasts, slim waist and long legs, trained e | [link](https://civitai.com/models/3012021?modelVersionId=3455294) |

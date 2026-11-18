@@ -1,6 +1,6 @@
 # Krea2 (detailed-krea2) — concept
 
-448 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+445 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 | slug | triggers | strength | dl | what | source |
 |---|---|---|---:|---|---|
@@ -339,7 +339,6 @@
 | `Mimasaka_Hideaki_krea2_v1-e10` | not stated | not stated |  |  |  |
 | `Mimasaka_Hideaki_krea2_v2-e14` | not stated | not stated |  |  |  |
 | `RD Krea Trans - Nessa - Krea Trans Nessa - KreaTransBabe` | not stated | not stated |  |  |  |
-| `Sakura Haruno KREA 2 - v1.1 - 3NXJJF5NCQYMQCGBZTYC4EW1P0` | not stated | not stated |  |  |  |
 | `StacyMoran-krea2-000004.TA_trained` | not stated | not stated |  |  |  |
 | `a-char-krea2` | not stated | not stated |  |  |  |
 | `acrylic-krea2` | not stated | not stated |  |  |  |
@@ -364,7 +363,6 @@
 | `beauty44-fairy-krea2` | not stated | not stated |  |  |  |
 | `belledelphine-krea2-000010.TA_trained` | not stated | not stated |  |  |  |
 | `blk3ring-KREA2-v1e8` | not stated | not stated |  |  |  |
-| `blue-archive-all-in-one-krea2` | not stated | not stated |  |  |  |
 | `bonnie-rabbit-krea2` | not stated | not stated |  |  |  |
 | `bottom-heavy-women-krea2` | not stated | not stated |  |  |  |
 | `bronwyn-adventure-time-krea2` | not stated | not stated |  |  |  |
@@ -392,7 +390,6 @@
 | `gotd-dirty-things-v-01-krea2` | not stated | not stated |  |  |  |
 | `gotd-fpm-melly-krea2` | not stated | not stated |  |  |  |
 | `goth-krea2` | not stated | not stated |  |  |  |
-| `hadam-seoul-atelier-krea2` | not stated | not stated |  |  |  |
 | `hazelmoore-h4z3l-krea2` | not stated | not stated |  |  |  |
 | `horibenny-krea2-000010.TA_trained` | not stated | not stated |  |  |  |
 | `jessicajaymes-jj4mes-krea2` | not stated | not stated |  |  |  |

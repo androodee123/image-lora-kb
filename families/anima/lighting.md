@@ -1,6 +1,6 @@
 # Anima — lighting
 
-49 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+47 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 | slug | triggers | strength | dl | what | source |
 |---|---|---|---:|---|---|
@@ -20,7 +20,6 @@
 | `psychiatric-ward-cell-interior-anima` | psychiatric ward cell 1nt3r10r | not stated | 210 | Please don’t rely only on the LoRA title to understand what it does. The preview images are the real represent | [link](https://civitai.com/models/2741104?modelVersionId=3082703) |
 | `flshpck-anima-v1-e16` | not stated | not stated | 208 | Combine with your own lora's to create a custom Fleshlight™ | [link](https://civitai.com/models/2856472?modelVersionId=3226301) |
 | `drive-thru-anima` | dr1v3thru, open window, brick wall, car interior | not stated | 196 | Creates a Drive Thru scene Trigger: dr1v3thru Additional: open window, brick wall, car interior | [link](https://civitai.com/models/3021323?modelVersionId=3430599) |
-| `rei-ayanami3-xl` | Rei_Anima, 1girl, blue hair, short hair, hair between eyes, red eyes, school uni | not stated | 195 | Rei Ayanami from EVA Anima Trigger Word: Rei_Anima Suggested Prompts: Appearance: 1girl,blue hair,red eyes,sho | [link](https://civitai.com/models/1711753?modelVersionId=3430176) |
 | `ep113-flight-attendant-dragon-ball-anima` | (ep113_sutchadesu), (blue eyes, blonde hair, curly hair, afro, eyebrows hidden b | not stated | 173 | スッチャデス「ドラゴンボール 其之百十三 第22回天下一武道会」 | [link](https://civitai.com/models/2977085?modelVersionId=3374320) |
 | `zenless-zone-zero-remielle-dan-3-in-1-outf-anima` | ,remielle dan,Feathered Murmurs,breasts,wings,pink hair,thighhighs,white thighhi | not stated | 168 | 中文 这是一个蕾米埃尔·丹（Remielle Dan）的三合一 LoRA，收录了她的三套服装：空羽呢喃、影池独舞（Seashade Pas Seul）以及月夜密语（Moonlight Whispers）。通过对应的触发词 | [link](https://civitai.com/models/3036733?modelVersionId=3455064) |
 | `exclusive-baroque-victorian-bedroom-interi-anima` | exclusive baroque victorian bedroom 1nt3r10r | not stated | 153 | Please don’t rely only on the LoRA title to understand what it does. The preview images are the real represent | [link](https://civitai.com/models/2736069?modelVersionId=3076487) |
@@ -49,7 +48,6 @@
 | `olivia-from-lust-flight-by-awe-some-ryan-anima` | 0l1v14,blue eyes,blonde hair,braided bun,medium breasts,hair pulled back,lips,bl | not stated | 73 | Olivia was Shirley’s senior colleague, but despite being far more experienced, she ultimately shared her fate. | [link](https://civitai.com/models/2982517?modelVersionId=3381107) |
 | `colosseum-ruins-ani-anima` | romecolosseum, romecolosseumjail | not stated | 69 | 🌟 Welcome to the ultimate Anime Colosseum Ruins LoRA, designed specifically to bring breathtaking, highly deta | [link](https://civitai.com/models/2993679?modelVersionId=3394966) |
 | `rooms-tiny-house-anima` | z1os | 1 | 68 | Finding all my models or profile elsewhere than Civitai is without my consent ! Please don't repost my files.  | [link](https://civitai.com/models/3039692?modelVersionId=3454740) |
-| `yuru-daemons-of-the-shadow-realm-yomi-no-t-anima` | yuru, 1boy, solo, blonde hair, red eyes, anime screencap,, blue kimono, bare sho | not stated | 63 | Did you like it? You can support me here: https://ko-fi.com/vdyzn Recommended Checkpoints: 20-30stps 4-5cfg: W | [link](https://civitai.com/models/2875173?modelVersionId=3248927) |
 | `alien-planets-anima` | alien planet | 2 | 60 | About version 1: Most examples are generated with strength of 2. Tried to mix in different things so single tr | [link](https://civitai.com/models/2994763?modelVersionId=3398632) |
 | `neon-nights-penny-anima` | nnpenny, blue shirt, collared shirt, black jacket, open jacket, pencil skirt, bl | not stated | 51 | Penny works as a financial advisor. She's insecure about her body and admires the workers at the Velvet Dreams | [link](https://civitai.com/models/3023643?modelVersionId=3433598) |
 | `neono-harem-heroes-anima` | hh_neono, white hairband, neono-dress, adventurer outfit, hh_neono,vr-dress, pur | not stated | 44 | Lora for generating images of character Neono, from Harem Heroes game. | [link](https://civitai.com/models/2844006?modelVersionId=3455282) |

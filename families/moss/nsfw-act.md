@@ -1,6 +1,6 @@
 # MOSS (Moss Image / kromoss) — nsfw-act
 
-31 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+27 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 | slug | triggers | strength | dl | what | source |
 |---|---|---|---:|---|---|
@@ -29,9 +29,5 @@
 | `lusthra-xxx-moss` | not stated | not stated | 207 | I need the community’s help to test this NSFW LoRa model, which is why it’s freely available. It’s the first N | [link](https://civitai.com/models/3048066?modelVersionId=3465796) |
 | `shibari-hana-to-hebi-moss` | bondage, shibari, ropes, 1990年代风格 | not stated | 171 | Training lora need more buzz, give me support! Please leave a review if you like this lora！ ver. “花と蛇” the jap | [link](https://civitai.com/models/136849?modelVersionId=3457797) |
 | `c666d-tunnel-gape-anal-gaping-anus-v1-moss` | tunnel gape, anal gaping, gape pull, pov hands, | 1 | 94 | This lora makes a gigantic gaping anus, which you can look into, as if it's a deep dark tunnel. Trained Trigge | [link](https://civitai.com/models/3039558?modelVersionId=3454524) |
-| `mr-piglets-chavettes-and-essex-women-for-moss-3` | not stated | not stated | 89 | You don't have to like the LoRa, but you can show your appreciation for the work put into it with a thumbs-up  | [link](https://civitai.com/models/3028633?modelVersionId=3440435) |
-| `mr-piglets-chavettes-and-essex-women-for-moss-2` | not stated | not stated | 73 | You don't have to like the LoRa, but you can show your appreciation for the work put into it with a thumbs-up  | [link](https://civitai.com/models/3028633?modelVersionId=3440428) |
-| `mr-piglets-chavettes-and-essex-women-for-moss-4` | not stated | not stated | 72 | You don't have to like the LoRa, but you can show your appreciation for the work put into it with a thumbs-up  | [link](https://civitai.com/models/3028633?modelVersionId=3443794) |
-| `mr-piglets-chavettes-and-essex-women-for-moss` | not stated | not stated | 67 | You don't have to like the LoRa, but you can show your appreciation for the work put into it with a thumbs-up  | [link](https://civitai.com/models/3028633?modelVersionId=3440043) |
 | `better-cum-moss` | not stated | not stated |  |  |  |
 | `huge-anal` | not stated | not stated |  |  |  |

@@ -4,6 +4,19 @@ Automatic entries from `scripts/update.py` (newest first). Catalog/SKILL updates
 
 ## 2026-11-18
 
+Moved candidate→available 0, added 7, became on Graydient 0, removed 1417, new candidates 0; HF files +15/-0.
+
+Newly available:
+- `badge-maker-anime-civitai-badge-generator-v3011-anima` (anima/style) — badge, CivitaiBadge, hexagon,   black background, simple background,, gem, pearl (gemstone), gemstones, hexagon chest, crystal, hexagon cube,, glowing eyes, robot, science fiction, gradient, crack, screen, machine, mecha,, Flowers, jewels, leaves, portraits, wooden frames, crafts, paintings, picture frames,, Text, English text, robot, open mouth, parody, humor, portrait, meme,  (TEXT:2 "FACK CIVITAI"), (TEXT:2 "MATHER FACKER") — https://civitai.com/models/2056293?modelVersionId=3263011
+- `jav-dvd-cover-female-investigator-brave-un-ill` (illustrious/concept) — trigger not stated
+- `badge-maker-anime-civitai-badge-generator-ill` (illustrious/style) — badge, civitaibadge, hexagon, — https://civitai.com/models/2056293?modelVersionId=2327005
+- `lo-chan-type-lo-mmd-model-xl-lo-pony` (pony/character) — trigger not stated
+- `tsurumaki-maki-mmd-model-mmd-voiceroid-voc-pony` (pony/character) — trigger not stated
+- `yuzuki-yukari-iwara-mmd-base-model-iwaramm-pony` (pony/character) — trigger not stated
+- `queen-s-blade-gamebook-titlecover-concept-pony` (pony/concept) — trigger not stated
+
+## 2026-11-18
+
 Moved candidate→available 471, added 2579, became on Graydient 0, removed 0, new candidates 965; HF files +3522/-0.
 
 Candidates now on Graydient (moved to available):

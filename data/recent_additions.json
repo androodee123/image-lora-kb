@@ -4,6 +4,76 @@
    "date": "2026-11-18",
    "event": "available",
    "family": "anima",
+   "slug": "badge-maker-anime-civitai-badge-generator-v3011-anima",
+   "category": "style",
+   "triggers": [
+    "badge, CivitaiBadge, hexagon,   black background, simple background,",
+    "gem, pearl (gemstone), gemstones, hexagon chest, crystal, hexagon cube,",
+    "glowing eyes, robot, science fiction, gradient, crack, screen, machine, mecha,",
+    "Flowers, jewels, leaves, portraits, wooden frames, crafts, paintings, picture frames,"
+   ],
+   "url": "https://civitai.com/models/2056293?modelVersionId=3263011"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "illustrious",
+   "slug": "jav-dvd-cover-female-investigator-brave-un-ill",
+   "category": "concept",
+   "triggers": [],
+   "url": ""
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "illustrious",
+   "slug": "badge-maker-anime-civitai-badge-generator-ill",
+   "category": "style",
+   "triggers": [
+    "badge, civitaibadge, hexagon,"
+   ],
+   "url": "https://civitai.com/models/2056293?modelVersionId=2327005"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "pony",
+   "slug": "lo-chan-type-lo-mmd-model-xl-lo-pony",
+   "category": "character",
+   "triggers": [],
+   "url": ""
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "pony",
+   "slug": "tsurumaki-maki-mmd-model-mmd-voiceroid-voc-pony",
+   "category": "character",
+   "triggers": [],
+   "url": ""
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "pony",
+   "slug": "yuzuki-yukari-iwara-mmd-base-model-iwaramm-pony",
+   "category": "character",
+   "triggers": [],
+   "url": ""
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "pony",
+   "slug": "queen-s-blade-gamebook-titlecover-concept-pony",
+   "category": "concept",
+   "triggers": [],
+   "url": ""
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "anima",
    "slug": "c-c-code-geass-lelouch-of-the-rebellion-anima",
    "category": "anatomy",
    "triggers": [
@@ -1600,81 +1670,6 @@
     "@prac4"
    ],
    "url": "https://civitai.com/models/3050031?modelVersionId=3468389"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "anima",
-   "slug": "pyris-style-vascular-men-anima",
-   "category": "style",
-   "triggers": [],
-   "url": "https://civitai.com/models/3044155?modelVersionId=3469071"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "illustrious",
-   "slug": "otoko-no-ko-futanari-ill",
-   "category": "anatomy",
-   "triggers": [
-    "otoko no ko, futanari"
-   ],
-   "url": "https://civitai.com/models/559731?modelVersionId=1040046"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "illustrious",
-   "slug": "facejob-cock-on-face-ill",
-   "category": "anatomy",
-   "triggers": [
-    "fac3j0b"
-   ],
-   "url": "https://civitai.com/models/3049959?modelVersionId=3468287"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "illustrious",
-   "slug": "diana-filion-the-legendary-hero-is-dead-ill",
-   "category": "character",
-   "triggers": [
-    "diana filion",
-    "red eyes, white hair, long hair, swept bangs",
-    "black choker, cleavage, black elbow gloves, black leotard, navel, midriff, black thighhighs"
-   ],
-   "url": "https://civitai.com/models/3049834?modelVersionId=3468119"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "illustrious",
-   "slug": "mean-girl-improved-ill",
-   "category": "character",
-   "triggers": [],
-   "url": "https://civitai.com/models/3050055?modelVersionId=3468410"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "illustrious",
-   "slug": "eve-stellar-blade-15-outfits-ill",
-   "category": "clothing",
-   "triggers": [
-    "Check Description."
-   ],
-   "url": "https://civitai.com/models/3049996?modelVersionId=3468332"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "illustrious",
-   "slug": "pajamas-concept-ill",
-   "category": "clothing",
-   "triggers": [
-    "(color1) pajamas, bare shoulders, short sleeves, detached sleeves, crop top, midriff, navel, off shoulder, collarbone, shorts, frilled shorts"
-   ],
-   "url": "https://civitai.com/models/3013971?modelVersionId=3420996"
   }
  ],
  "candidates": [

@@ -1,6 +1,6 @@
 # Krea2 (detailed-krea2) — pose-composition
 
-112 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+110 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -24,7 +24,6 @@
 | `kissing-with-extra-krea2` | not stated | 0.5-0.8 | 1726 | kissing with extra ;) FLUX2_klein_9b NEW ;) DEEP KISS, Tongue, and some white, viscous fluid . . . tongue, if  | [link](https://civitai.com/models/402198?modelVersionId=3378205) |
 | `hm1girl-phone-camera-realism-for-krea2` | hm1girl | not stated | 1714 | Free ComfyUI workflows, Runpod templates, and guides: 👉 hearmemanai.com For more LoRAs and updates, Join my Di | [link](https://civitai.com/models/2967466?modelVersionId=3362360) |
 | `pov-handjob-krea2` | not stated | 0.6 | 1700 | Try a strength between 0.6 and 1.0.  SDXL: Sorry, this LoRA is a bit tricky to use and requires a few attempts | [link](https://civitai.com/models/2804245?modelVersionId=3376062) |
-| `aroundback-krea2` | aroundback | not stated | 1694 | A Lora to ensure the consistent generation of a very common pose that I have yet to figure out a useful tag or | [link](https://civitai.com/models/1243111?modelVersionId=3145079) |
 | `poses-2-v6297-krea2` | The Pose | not stated | 1449 | About: A collection of universal low-rank adaptation models that add advanced poses to Krea 2. Trained exclusi | [link](https://civitai.com/models/3003945?modelVersionId=3436297) |
 | `pov-doggystyle-krea2` | not stated | not stated | 1418 | POV Doggystyle for Krea 2. The camera is the man behind her, looking down at her back and buttocks while he ta | [link](https://civitai.com/models/3015692?modelVersionId=3423217) |
 | `pussy-spread-krea2` | pussy spread krea2 | not stated | 1412 | For fans of stretched pussy. Trained for close-up shots of the pussy, as well as for female positions on the s | [link](https://civitai.com/models/2923413?modelVersionId=3307852) |
@@ -115,7 +114,6 @@
 | `v67-floral-composition-krea2` | (Floral composition:1.1), ikebana, kadō, bouquet, floral still life, flower arra | 1.1 | 122 | V67 Floral Composition LoRA for Z Image Turbo and Krea 2 – Timeless Floral Art from Classical Bouquets to Japa | [link](https://civitai.com/models/2541590?modelVersionId=3310196) |
 | `2010-cybercam-selfies-krea2` | not stated | 1.5 | 104 | Selfiez gives casual indoor selfies an early-2010s compact digital camera look. It works well with a visible h | [link](https://civitai.com/models/3050965?modelVersionId=3469578) |
 | `graphic-portrait-krea2` | GP_K, Colored cheeks, illustration | not stated | 99 | • GᖇᗩᑭᕼIᑕ ᑭOᖇTᖇᗩIT • This template creates artistic portraits with an eye-catching graphic style. It is a mix  | [link](https://civitai.com/models/170039?modelVersionId=3465400) |
-| `asuka-langley-neon-genesis-evangelion-krea2` | asuka | 0.8-1.0 | 78 | 明日香·兰格雷 / Asuka Langley (Krea 2 LoRA) 触发词 / Trigger word：asuka 中文说明 角色 《新世纪福音战士》的明日香·兰格雷·惣流。本 LoRA 以 cosplay 实 | [link](https://civitai.com/models/3043231?modelVersionId=3459298) |
 | `add-intricate-composition-krea2` | endlesspossibilities | not stated | 66 | this lora is meant to bring a lot of details and complexity. some use cases: from shield and weapon details, l | [link](https://civitai.com/models/739343?modelVersionId=3407505) |
 | `snofs-nsfw-lower-rank-krea2` | not stated | not stated | 42 | all credits go to SNOFS https://civitai.red/models/1972981/snofs-sex-nudes-other-fun-stuff @ https://civitai.r | [link](https://civitai.com/models/3052077?modelVersionId=3471000) |
 | `kreaclassicframing` | not stated | not stated | 9 | Unlock 3 premium checkpoints + the entire LoRA Lab with the Event Horizon Pass — just $20/month, and everythin | [link](https://civitai.com/models/2958510?modelVersionId=3354171) |

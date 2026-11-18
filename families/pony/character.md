@@ -1,12 +1,12 @@
 # Pony (Pony Diffusion XL) — character
 
-92 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+89 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
-- Suggest ingest: [THE PONYDEX (POKEMON) - [PONY XL / INDIGO XL]](https://civitai.com/models/561630) (pony, 80,829 dl) — `Abra` · strength not stated — **downloads 80829 >= 2x best available (7066) in same family+category**
 - Suggest ingest: [Photo Comparison / Phone View [BETA v2] + XL](https://civitai.com/models/43965) (pony, 50,252 dl) — `Photo_Comparison` · strength not stated — **downloads 50252 >= 2x best available (7066) in same family+category**
 - Suggest ingest: [Honkai: Star Rail Girls [Pony]](https://civitai.com/models/348561) (pony, 47,713 dl) — `the herta \(honkai: star rail\)` · strength `0.7 - 1` (stated) — **downloads 47713 >= 2x best available (7066) in same family+category**
+- Suggest ingest: [Spider Gwen / Goofy Ai](https://civitai.com/models/83816) (pony, 34,207 dl) — `gwen stacy`, `blonde hair,undercut,blue eyes` · strength not stated — **downloads 34207 >= 2x best available (7066) in same family+category**
 
 | slug | triggers | strength | dl | what | source |
 |---|---|---|---:|---|---|
@@ -49,7 +49,6 @@
 | `big-trans-girl-chubby-fat-trans-girls-pony` | BigTransGirl, bbwtg, chubbytg | not stated | 181 | Gotta love a beautiful chubby trans girl, don't you? So soft, so sexy. Use "chubbytg" for a chubby trans girl  | [link](https://civitai.com/models/2081639?modelVersionId=2355349) |
 | `trans-girl-xmas-pony` | TGXmas | not stated | 180 | Celebrate the holidays with your favorite trans girl with this lora! | [link](https://civitai.com/models/2086940?modelVersionId=2362330) |
 | `nurse-joy-jessie-misty-pokemon-waifus-pony` | Nurs3_j0y, solo, pink hair, hair rings, blue eyes, pink dress, apron, nurse cap, | not stated | 174 | Pokemon waifus, Nurse Joy, Jessie, and Misty | [link](https://civitai.com/models/1371251?modelVersionId=1593243) |
-| `kaneda-maiko-hentai-discipline-record-of-a-pony` | Kaneda Maiko, 1girl, brown hair, red eyes, hairclip, glasses, purple school unif | not stated | 160 | Kaneda Maiko from Discipline: Record of a Crusade is on ANIMA / NoobAI-XL V-pred / Epsilon / IL / Pony and SD1 | [link](https://civitai.com/models/1852388?modelVersionId=2096360) |
 | `nurse-joy-jessie-misty-pokemon-waifus-pony-3` | M1sty, m1sty, orange hair, short hair, side ponytail, green eyes,bare arms, susp | not stated | 159 | Pokemon waifus, Nurse Joy, Jessie, and Misty | [link](https://civitai.com/models/1371251?modelVersionId=1549264) |
 | `varesa-genshin-impact-xl-ponyxl-pony` | varesa | 1.0 | 158 | 💖 Support & Share the Magic!  Love these tools? Like, add to collection, and tag this resource in your creatio | [link](https://civitai.com/models/1270749?modelVersionId=1440289) |
 | `natsumi-ndc-pony-2` | natsumi, blonde female, ahoge, tanned female,, natsumi, blue haired female, bang | not stated | 154 | Natsumi, the OC of NDC. If you're one of the like 3 people reading this, I appreciate you. This and the Kiss-S | [link](https://civitai.com/models/731469?modelVersionId=1201587) |
@@ -84,21 +83,19 @@
 | `lace-waifu-pony` | BOUDOIR_PLUMP | not stated | 49 | please enjoy doing futanari and anime models i posted with yukata and otehrewiser with this model | [link](https://civitai.com/models/2976331?modelVersionId=3373368) |
 | `natsumi-ndc-pony-5` | natsumi,, vers_1,, vers_2,, vers_3,, short hair,, ahoge,, tanned female, blonde  | not stated | 48 | Natsumi, the OC of NDC. If you're one of the like 3 people reading this, I appreciate you. This and the Kiss-S | [link](https://civitai.com/models/731469?modelVersionId=1199877) |
 | `lesbian-queens-pony` | not stated | not stated | 47 | LESBIAN WOMAN IN LOVE MANY DIFFERNT STYLES | [link](https://civitai.com/models/2922500?modelVersionId=3306702) |
-| `cassidy-pokemon-s1-1990-pony` | Cassidy, cassidy_poke, blonde hair, long hair, twintails, purple eyes, 1girl, so | not stated | 45 |  | [link](https://civitai.com/models/2987525?modelVersionId=3387240) |
 | `lewd-woman-pony` | not stated | not stated | 45 | Nimfo test | [link](https://civitai.com/models/1952678?modelVersionId=3328877) |
-| `pokemon-nemona-ndy-style-il-pony` | ndy-nemona, single glove, shirt, 1girl, necktie, black hair, solo, white shirt,  | not stated | 40 | Nemona from Pokemon, but made in NDY's style. Have fun! | [link](https://civitai.com/models/2121647?modelVersionId=2400036) |
 | `redline-from-spine-commission-pony-3` | rdln, 1girl,, cropped jacket, multicolored hair, black hair, red hair, shorts,,  | not stated | 40 |  | [link](https://civitai.com/models/1296046?modelVersionId=1462713) |
 | `cartethyia-fleurdelys-wuthering-waves-pony` | cartethyia, blue eyes, grey pupils, blonde hair, forehead tattoo, teardrop earri | not stated | 39 | Makes Cartethyia, had to make her after seeing so many chibi memes. Have fun! | [link](https://civitai.com/models/2453213?modelVersionId=2758456) |
 | `skarrsinger-karmelita-ant-queen-hollow-kni-pony` | skarrsinger karmelita, 1girl, ant, no mouth, antennae, black skin, bug, closed e | not stated | 39 | Makes Skarrsinger Karmelita, one of the hardest (and hottest) bosses in Hollow Knight Silksong. Have fun! | [link](https://civitai.com/models/2035592?modelVersionId=2313750) |
 | `darkness-horse-wolrd-pony` | not stated | not stated | 37 | THIS IS A DARKNESS FUTANARI HORSE FURRY ANTHRO MODEL | [link](https://civitai.com/models/2955501?modelVersionId=3347761) |
 | `bell-beast-hollow-knight-silksong-il-pony` | Bell_beast, black eyes, claws, bug, mask, horns, four eyes, solid oval eyes | not stated | 36 | Makes the Bell Beast (fast travel) bug from Hollow Knight: Silksong. Isn't it the cutest? Have fun! Very few i | [link](https://civitai.com/models/1930850?modelVersionId=2185372) |
-| `daisy-pokemon-s1-1990-pony` | Daisy, daisy_poke, blonde hair, long hair, green eyes, mole under eye, mole, 1gi | not stated | 35 |  | [link](https://civitai.com/models/2999427?modelVersionId=3402184) |
-| `duplica-pokemon-s1-1990-pony` | uplica, dup_poke, green hair, twintails, brown eyes, 1girl, solo, retro artstyle | not stated | 34 |  | [link](https://civitai.com/models/2971841?modelVersionId=3367794) |
 | `futanari-waifu-pony` | not stated | not stated | 31 | THIS IS THE MODEL FOR FUTANARI WAIFU I MADE FOR TESTING SO ENJOY IT AND PLEASE COMMENT AND TELL ME HOW IT WAS | [link](https://civitai.com/models/2955344?modelVersionId=3347549) |
-| `pokemon-trainers-pony` | not stated | not stated | 30 | ENJOY POKEMON MODEL WITH COCKS AND EGG BIRTHING | [link](https://civitai.com/models/2955537?modelVersionId=3347810) |
 | `anime-woman-nsfw-pony` | not stated | not stated | 20 | CURRENT VERSION ONE I WILL TRY AND UPDATE IT EVERY SO OFTEN | [link](https://civitai.com/models/2922255?modelVersionId=3306398) |
 | `character-ponyxl-minako-ano-ko-no-kawari-n-pony` | M1N4K0, score_9, score_8_up, score_7_up, source_anime, brown eyes, eyelashes, ha | not stated | 20 | Image sizes and tags are optimized in the tagging process. | [link](https://civitai.com/models/3053718?modelVersionId=3473243) |
 | `venom-gummy-surprise-gummy-venom-il-pony` | Gummy-Venom, purple skin, whipped cream hair, yellow eyes, sharp teeth, candy ar | not stated | 18 | Marvel brought the cake with this one. Have fun with Gummy Venom however you want! | [link](https://civitai.com/models/2256262?modelVersionId=2539840) |
 | `character-pony` | not stated | not stated | 17 |  | [link](https://civitai.com/models/3053430?modelVersionId=3472841) |
 | `Pony Girl - V1 - V1` | not stated | not stated |  |  |  |
+| `lo-chan-type-lo-mmd-model-xl-lo-pony` | not stated | not stated |  |  |  |
 | `oltlo-orushibu-art-style-many-characters-pony` | not stated | not stated |  |  |  |
+| `tsurumaki-maki-mmd-model-mmd-voiceroid-voc-pony` | not stated | not stated |  |  |  |
+| `yuzuki-yukari-iwara-mmd-base-model-iwaramm-pony` | not stated | not stated |  |  |  |

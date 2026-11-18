@@ -1,6 +1,6 @@
 # MOSS (Moss Image / kromoss) — style
 
-278 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+275 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -151,7 +151,6 @@
 | `90s-anime-aesthetic-illustriousxl-zimagetu-moss` | 90s_anime_aesthetic, 1990s (style), retro, retro artstyle | 0.8 | 217 | Krea 2 version: weight between [0.8,1], best at 1 trigger words : 90s_anime_aesthetic, 1990s (style), retro, r | [link](https://civitai.com/models/1357076?modelVersionId=3473903) |
 | `nacnac-style-moss` | not stated | not stated | 215 | Style LyCORIS of artist Nacnac | [link](https://civitai.com/models/85747?modelVersionId=3420834) |
 | `takeda-hiromitsu-style-moss` | not stated | not stated | 212 | The style of Takeda Hiromitsu。 本模型采用漫画素材而非动漫素材进行训练，综合了黑白与彩色训练数据。画质效果可能与使用动漫素材训练的版本略有偏差。 | [link](https://civitai.com/models/2811466?modelVersionId=3466384) |
-| `akableak-artstyle-xl` | 4k4bl34k-style | not stated | 210 | MOSS - V1 / ANIMA - V1 / IL V1 Keyword: 4k4bl34k-style Please, consider supporting the REAL artist: https://ww | [link](https://civitai.com/models/1833938?modelVersionId=3419591) |
 | `gwan-e-style-moss` | not stated | not stated | 203 | 这个模型不需要触发词 This model doesn't need a trigger word | [link](https://civitai.com/models/2825977?modelVersionId=3433041) |
 | `wingedwasabi-style-moss` | not stated | not stated | 203 | style of wingedwasabi | [link](https://civitai.com/models/3020061?modelVersionId=3428937) |
 | `mento-style-moss` | not stated | not stated | 202 | 没有触发词 基于moss base训练 | [link](https://civitai.com/models/3034919?modelVersionId=3448378) |
@@ -195,7 +194,6 @@
 | `null-3d-style-nullus02-1-8-moss` | nullus02 | 0.9 - 1.0 | 156 | 🎨 Style LoRA Weight : 0.9 - 1.0 Trigger : @nullus02 ⚠️ Support the original artist / Removal on request. https | [link](https://civitai.com/models/3047104?modelVersionId=3468323) |
 | `retro-neo-noir-illustriousxl-zimageturbo-f-moss` | retro_neo_noir, retro, retro artstyle | 0.8 | 154 | Krea 2 version : weight between [0.8,1], best at 1 trigger words : retro_neo_noir, retro, retro artstyle, Anim | [link](https://civitai.com/models/1836542?modelVersionId=3473915) |
 | `1987-mosspop-moss` | mosspop, a late 80s magazine, low contrast, faded colors and film grain, magazin | not stated | 153 | Late 80s era european adult magazine Look. Works great with Base Model. Images were created using the “SolordZ | [link](https://civitai.com/models/3050381?modelVersionId=3468854) |
-| `drunkoak-xl` | @drunkoak | 1 | 152 | trigger：@drunkoak  weight：1~0.7 | [link](https://civitai.com/models/3010814?modelVersionId=3416876) |
 | `magical-destroyers-style-moss` | destroyersM0style, illustration | not stated | 150 |  | [link](https://civitai.com/models/3015065?modelVersionId=3422372) |
 | `s007-moss` | brushwork, chromatic aberration, greyscale, sepia | not stated | 148 | for moss 在moss base bf16上训练,标记时挪用了部分概念,使用时建议以brushwork, chromatic aberration,greyscale,sepia为关键字编写一两句描述性自然语言来使 | [link](https://civitai.com/models/2512107?modelVersionId=3428373) |
 | `sunahara-wataru-style-moss` | not stated | not stated | 148 | My first ever lora. really loving MOSS image.  This is a style LORA for replicating artist Sunahara Wataru sty | [link](https://civitai.com/models/3012433?modelVersionId=3418968) |
@@ -207,7 +205,6 @@
 | `retro-cel-90-1990s-tv-anime-cel-style-moss` | retrocel90 | 0.8 | 141 | Retro Cel 90 for MOSS-Image: the look of 1990s TV anime. Flat two-tone cel shading, thin even lines, hard shad | [link](https://civitai.com/models/3038971?modelVersionId=3453680) |
 | `prywinko-style-anima` | not stated | not stated | 140 | https://danbooru.donmai.us/posts?page=7&tags=prywinko+ | [link](https://civitai.com/models/3054059?modelVersionId=3473723) |
 | `yamada-anna-the-dangers-in-my-heart-moss` | Yamada anna, anime style, comic style | not stated | 136 | 原作漫画風とアニメ風が出せます。 You can create both manga/original artwork styles and anime styles. | [link](https://civitai.com/models/2799223?modelVersionId=3414679) |
-| `tinkerbell-shinyaku-inyouchuu-gamecg-style-moss` | malebolgia | 1 | 134 | The model I think is fairly self explanatory. Alright, you can reference this one to the previous anima one I  | [link](https://civitai.com/models/3054728?modelVersionId=3474584) |
 | `wet-babe-by-sarcastic-tofu-moss` | Wet_Babe, Soaking Wet Slanted Back Hair, Wet Skin, Dripping Water Droplets on Bo | not stated | 131 | This LORA aims to help an AI Art prompter to generate quality images for fine looking wet women (clothed or Fu | [link](https://civitai.com/models/3054118?modelVersionId=3473802) |
 | `vintage-drawing-ce-moss` | not stated | not stated | 130 | A vintage drawing style LoRA. | [link](https://civitai.com/models/660535?modelVersionId=3453069) |
 | `ag-malphas-painterly-midjourney-moss` | @M4LPH4SX | 0.6-0.8 | 129 | Ars Goetia is series of loras made on a whim, on variety of images, made from mix of Midjourney, Tumblr, NijiJ | [link](https://civitai.com/models/2938020?modelVersionId=3446079) |
