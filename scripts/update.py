@@ -151,6 +151,17 @@ def run(a, clock, summary, today):
         r = U.sh([PY, "scripts/build_kb.py"], ROOT, check=False)
         if r.returncode != 0:
             raise SystemExit("build_kb failed: " + (r.stderr or "")[-300:])
+    with clock.step("adults-only prune + semantic catalog (prompt matcher)"):
+        # moves safety-skipped / minor-coded rows to excluded.jsonl, then tags every Graydient LoRA for scripts/suggest.py
+        r = U.sh([PY, "scripts/build_semantic.py", "--prune-kb"], ROOT, check=False)
+        if r.returncode != 0:
+            raise SystemExit("build_semantic failed: " + (r.stderr or "")[-300:])
+        for line in r.stdout.strip().split("\n"):
+            if line.startswith("{"):
+                summary.setdefault("semantic", {}).update(json.loads(line))
+        r = U.sh([PY, "scripts/matcher_examples.py"], ROOT, check=False)
+        if r.returncode != 0:
+            summary["warnings"].append("matcher_examples failed: " + (r.stderr or "")[-200:])
     after_avail, after_cand = snapshot()
     after_mids = {r.get("civitai_model_id") for r in after_avail.values() if r.get("civitai_model_id")}
     before_mids = {r.get("civitai_model_id") for r in before_avail.values() if r.get("civitai_model_id")}

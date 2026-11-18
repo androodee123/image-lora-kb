@@ -3,12 +3,15 @@
 
 1. New on Graydient / HF: re-lists every Octavian123 HF repo (read-only metadata) and diffs against the
    previous listing in data/raw/hf -> files added/removed (KB needs `build_kb.py` + `render_kb.py`).
+3. Semantic tags: rebuilds data/semantic_catalog.jsonl (scripts/build_semantic.py) so every LoRA on Graydient, including
+   ones added since last week, carries subject/concept/clothing/expression/object/pose/style/anatomy tags for
+   scripts/suggest.py, and reports new/untagged entries and the age of the data/local snapshots.
 2. New on CivitAI: harvests the newest pages for Illustrious/NoobAI, Anima, Krea 2, MOSS Image, SDXL, Pony and
    proposes LoRAs that are in neither data/loras.jsonl nor data/candidates.jsonl (ranked by early traction).
    Minor-coded names/tags and forbidden identities are skipped.
 Writes proposals/YYYY-MM-DD.md. Exit code 0 always when the report is written.
 
-Usage:  python3 scripts/check_new.py [--no-hf] [--no-civitai] [--min-downloads 50]
+Usage:  python3 scripts/check_new.py [--no-hf] [--no-civitai] [--no-semantic] [--min-downloads 50]
 """
 from __future__ import annotations
 import argparse, json, subprocess, sys
@@ -18,6 +21,8 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from t2i_lora import family_from_base, minor_reason, categorize, FAMILY_LABEL
+import semantic as S
+import build_semantic as B
 
 ROOT = Path(__file__).resolve().parents[1]
 RAW, DATA, PROP = ROOT / "data" / "raw", ROOT / "data", ROOT / "proposals"
@@ -44,6 +49,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--no-hf", action="store_true")
     ap.add_argument("--no-civitai", action="store_true")
+    ap.add_argument("--no-semantic", action="store_true")
     ap.add_argument("--min-downloads", type=int, default=50)
     a = ap.parse_args()
     today = datetime.now().strftime("%Y-%m-%d")
@@ -87,7 +93,9 @@ def main():
             if not fam or {h for v in c["versions"] for h in v.get("sha256", [])} & hfsha:
                 continue
             tw = next((v.get("trainedWords") for v in c["versions"] if v.get("trainedWords")), [])
-            if minor_reason(c["name"], " ".join(c.get("tags") or []), " ".join(tw or [])):
+            if minor_reason(c["name"], " ".join(c.get("tags") or []), " ".join(tw or [])) or \
+               S.blocked_character(c["name"], " ".join(c.get("tags") or []), " ".join(tw or [])) or \
+               S.blocked(c["name"], " ".join(c.get("tags") or []), " ".join(tw or [])):
                 continue
             if (c.get("downloadCount") or 0) < a.min_downloads:
                 continue
@@ -100,8 +108,18 @@ def main():
                 continue
             per[fam] += 1
             cat = categorize(c["name"], c.get("tags"))
-            L.append(f"- [{c['name'][:80]}](https://civitai.com/models/{c['id']}) — {FAMILY_LABEL[fam]} · {cat} · {c.get('downloadCount') or 0} dl · triggers: {', '.join(tw[:4]) if tw else 'not stated'}" + (" · real-person likeness (POI)" if c.get("poi") else ""))
+            sem = S.tag_text(c["name"], " ".join(c.get("tags") or []), " ".join(tw or []), categories=[x for x in S.CATEGORIES if x != "motion"])
+            semtxt = "; ".join(f"{k}: {', '.join(v[:3])}" for k, v in sem.items()) or "no tags"
+            L.append(f"- [{c['name'][:80]}](https://civitai.com/models/{c['id']}) — {FAMILY_LABEL[fam]} · {cat} · {c.get('downloadCount') or 0} dl · triggers: {', '.join(tw[:4]) if tw else 'not stated'} · tags: {semtxt}" + (" · real-person likeness (POI)" if c.get("poi") else ""))
         L += ["", "To fold these into the KB as candidates run `python3 scripts/harvest.py && python3 scripts/build_kb.py && python3 scripts/render_kb.py`.", ""]
+    # 3. Semantic tags (prompt matcher)
+    if not a.no_semantic:
+        before = B.catalog_slugs()
+        try:
+            B.main()
+            L += B.report_lines(before)
+        except Exception as e:  # never block the weekly report
+            L += ["## Semantic tags for the prompt matcher", "", f"Rebuild failed: {e}", ""]
     out = PROP / f"{today}.md"
     out.write_text("\n".join(L) + "\n")
     print(out)

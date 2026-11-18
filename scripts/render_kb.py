@@ -128,10 +128,13 @@ def main():
         (d / "README.md").write_text("\n".join(idx) + "\n")
 
     # ---------------- SKILL.md ----------------
+    SEMANTIC_SECTION = (ROOT / "guides" / "semantic-matcher-section.md").read_text(encoding="utf-8").rstrip("\n").split("\n") \
+        if (ROOT / "guides" / "semantic-matcher-section.md").exists() else []
     S = ["---", "name: image-lora-kb",
          "description: >-", "  Choose and stack text-to-image LoRAs for Illustrious/NoobAI, SDXL, Pony, Anima, Krea2 (detailed-krea2) and MOSS (kromoss)",
          "  on Graydient. Goal-based chooser with recipes. Prefer LoRAs registered on Graydient; flag other HF-repo LoRAs; suggest ingesting strong CivitAI/HF",
-         "  LoRAs only under the suggest-ingest rule. Never invent triggers or strengths. Adults only.", "---", "",
+         "  LoRAs only under the suggest-ingest rule. Prompt matcher (scripts/suggest.py + data/semantic_catalog.jsonl) finds LoRAs from every",
+         "  Graydient LoRA that move a draft prompt closer to its subject, intent, clothing, expression, object, pose and style. Never invent triggers or strengths. Adults only.", "---", "",
          "# Skill: choose text-to-image LoRAs (Illustrious · SDXL · Pony · Anima · Krea2 · MOSS)", "",
          f"Snapshot {today}. Adults-only (18+) concepts; describe NSFW factually. No minor-coded LoRAs are in this KB.", "",
          "## Inventory at a glance", "", "| family | on Graydient | HF repo only (needs adding) | ingest candidates |", "|---|---:|---:|---:|"]
@@ -143,6 +146,7 @@ def main():
           "1. **Gap fill:** the family+category has no Graydient LoRA and the candidate has ≥ 2,000 downloads.",
           "2. **High-value upgrade:** candidate has ≥ 2,000 downloads and ≥ 2× the downloads of the best available LoRA in the same family+category; or it is an official utility pack (turbo/lightning/distill/hyper) with no available equivalent.",
           "3. **Cap:** at most 3 suggestions per recipe, each with link + any source-stated trigger/strength. Nothing auto-downloads or auto-ingests; ingest runs only when Andrew asks (civit-to-graydient pipeline).", "",
+          *SEMANTIC_SECTION, "",
           "## How to look up any LoRA", "",
           "- Full data: `data/loras.jsonl` (fields: slug, family, category, nsfw, availability, trigger_words, strength, description, example{prompt,image_url}, source_url, downloads, reliability).",
           "- Search: `rg -i '\"slug\": \"[^\"]*keyword' data/loras.jsonl` or `jq -c 'select(.family==\"krea2\" and (.slug|test(\"latex\")))' data/loras.jsonl`.",
@@ -206,7 +210,7 @@ Keep the identity LoRA highest; name condom details explicitly (transparent late
 
     # ---------------- README + accessibility report ----------------
     R = ["# image-lora-kb", "", "Private text-to-image LoRA knowledge base for Graydient: Illustrious/NoobAI, SDXL, Pony, Anima, Krea2, MOSS. Companion to `video-lora-kb`.", "",
-         "- `SKILL.md` — goal chooser + recipes (load this).", "- `families/<family>/<category>.md` — complete tables.", "- `data/loras.jsonl`, `candidates.jsonl`, `excluded.jsonl`, `unclassified.jsonl`, `inventory_summary.md`, `accessibility_report.md`, `graydient_ingest_queue.md`.",
+         "- `SKILL.md` — goal chooser + recipes (load this).", "- `scripts/suggest.py` + `data/semantic_catalog.jsonl` — prompt → LoRA matcher over every LoRA on Graydient (subject, intent, clothing, expression, object, pose, style, anatomy tags; worked examples in `guides/prompt-matching.md`).", "- `families/<family>/<category>.md` — complete tables.", "- `data/loras.jsonl`, `candidates.jsonl`, `excluded.jsonl`, `unclassified.jsonl`, `inventory_summary.md`, `accessibility_report.md`, `graydient_ingest_queue.md`.",
          "- `UPDATING.md`, `CHANGELOG.md` — how updates work; `scripts/update.sh` is the single entry point.", "- `scripts/` — `update.sh`/`update.py`, `list_graydient.py` (HF listing), `civit_lookup.py` (hash/model lookup), `harvest.py` (candidates), `build_kb.py`, `render_kb.py`, `check_new.py` (weekly monitor), `export_pack.py`.", "",
          "Metadata only: nothing here downloads weights; no tokens are stored.", "", "## Counts", "", "| family | on Graydient | HF only | candidates |", "|---|---:|---:|---:|"]
     for f in FAMILIES:
