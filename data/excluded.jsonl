@@ -1005,6 +1005,53 @@
 {"slug": "andrd_inflatableplug_moss_000001500", "repo": "Octavian123/civit2", "path": "andrd_inflatableplug_moss_000001500.safetensors", "reason": "intermediate training epoch (final file exists)", "family": null}
 {"slug": "andrd_inflatableplug_moss_000001750", "repo": "Octavian123/civit2", "path": "andrd_inflatableplug_moss_000001750.safetensors", "reason": "intermediate training epoch (final file exists)", "family": null}
 {"slug": "andrd_inflatableplug_moss_000002000", "repo": "Octavian123/civit2", "path": "andrd_inflatableplug_moss_000002000.safetensors", "reason": "intermediate training epoch (final file exists)", "family": null}
+{"slug": "kiwinestyle_illustrious_v1_000000250", "repo": "Octavian123/civit2", "path": "kiwinestyle/illustrious/kiwinestyle_illustrious_v1_000000250.safetensors", "reason": "intermediate training epoch (kept highest epoch kiwinestyle_illustrious_v1_000002250)", "family": null}
+{"slug": "kiwinestyle_illustrious_v1_000000500", "repo": "Octavian123/civit2", "path": "kiwinestyle/illustrious/kiwinestyle_illustrious_v1_000000500.safetensors", "reason": "intermediate training epoch (kept highest epoch kiwinestyle_illustrious_v1_000002250)", "family": null}
+{"slug": "kiwinestyle_illustrious_v1_000000750", "repo": "Octavian123/civit2", "path": "kiwinestyle/illustrious/kiwinestyle_illustrious_v1_000000750.safetensors", "reason": "intermediate training epoch (kept highest epoch kiwinestyle_illustrious_v1_000002250)", "family": null}
+{"slug": "kiwinestyle_illustrious_v1_000001000", "repo": "Octavian123/civit2", "path": "kiwinestyle/illustrious/kiwinestyle_illustrious_v1_000001000.safetensors", "reason": "intermediate training epoch (kept highest epoch kiwinestyle_illustrious_v1_000002250)", "family": null}
+{"slug": "kiwinestyle_illustrious_v1_000001250", "repo": "Octavian123/civit2", "path": "kiwinestyle/illustrious/kiwinestyle_illustrious_v1_000001250.safetensors", "reason": "intermediate training epoch (kept highest epoch kiwinestyle_illustrious_v1_000002250)", "family": null}
+{"slug": "kiwinestyle_illustrious_v1_000001500", "repo": "Octavian123/civit2", "path": "kiwinestyle/illustrious/kiwinestyle_illustrious_v1_000001500.safetensors", "reason": "intermediate training epoch (kept highest epoch kiwinestyle_illustrious_v1_000002250)", "family": null}
+{"slug": "kiwinestyle_illustrious_v1_000001750", "repo": "Octavian123/civit2", "path": "kiwinestyle/illustrious/kiwinestyle_illustrious_v1_000001750.safetensors", "reason": "intermediate training epoch (kept highest epoch kiwinestyle_illustrious_v1_000002250)", "family": null}
+{"slug": "kiwinestyle_illustrious_v1_000002000", "repo": "Octavian123/civit2", "path": "kiwinestyle/illustrious/kiwinestyle_illustrious_v1_000002000.safetensors", "reason": "intermediate training epoch (kept highest epoch kiwinestyle_illustrious_v1_000002250)", "family": null}
+{"slug": "kiwinestyle-krea2_000000250", "repo": "Octavian123/civit2", "path": "kiwinestyle/krea2/kiwinestyle-krea2_000000250.safetensors", "reason": "intermediate training epoch (final file exists)", "family": null}
+{"slug": "kiwinestyle-krea2_000000500", "repo": "Octavian123/civit2", "path": "kiwinestyle/krea2/kiwinestyle-krea2_000000500.safetensors", "reason": "intermediate training epoch (final file exists)", "family": null}
+{"slug": "kiwinestyle-krea2_000000750", "repo": "Octavian123/civit2", "path": "kiwinestyle/krea2/kiwinestyle-krea2_000000750.safetensors", "reason": "intermediate training epoch (final file exists)", "family": null}
+{"slug": "kiwinestyle-krea2_000001000", "repo": "Octavian123/civit2", "path": "kiwinestyle/krea2/kiwinestyle-krea2_000001000.safetensors", "reason": "intermediate training epoch (final file exists)", "family": null}
+{"slug": "kiwinestyle-krea2_000001250", "repo": "Octavian123/civit2", "path": "kiwinestyle/krea2/kiwinestyle-krea2_000001250.safetensors", "reason": "intermediate training epoch (final file exists)", "family": null}
+{"slug": "kiwinestyle-krea2_000001500", "repo": "Octavian123/civit2", "path": "kiwinestyle/krea2/kiwinestyle-krea2_000001500.safetensors", "reason": "intermediate training epoch (final file exists)", "family": null}
+{"slug": "kiwinestyle-krea2_000001750", "repo": "Octavian123/civit2", "path": "kiwinestyle/krea2/kiwinestyle-krea2_000001750.safetensors", "reason": "intermediate training epoch (final file exists)", "family": null}
+{"slug": "kiwinestyle-krea2_000002000", "repo": "Octavian123/civit2", "path": "kiwinestyle/krea2/kiwinestyle-krea2_000002000.safetensors", "reason": "intermediate training epoch (final file exists)", "family": null}
+{"slug": "kiwinestyle-krea2_000002250", "repo": "Octavian123/civit2", "path": "kiwinestyle/krea2/kiwinestyle-krea2_000002250.safetensors", "reason": "intermediate training epoch (final file exists)", "family": null}
+{"slug": "kiwinestyle-krea2_000002500", "repo": "Octavian123/civit2", "path": "kiwinestyle/krea2/kiwinestyle-krea2_000002500.safetensors", "reason": "intermediate training epoch (final file exists)", "family": null}
+{"slug": "kiwinestyle-krea2_000002750", "repo": "Octavian123/civit2", "path": "kiwinestyle/krea2/kiwinestyle-krea2_000002750.safetensors", "reason": "intermediate training epoch (final file exists)", "family": null}
+{"slug": "kiwinestyle-krea2_000003000", "repo": "Octavian123/civit2", "path": "kiwinestyle/krea2/kiwinestyle-krea2_000003000.safetensors", "reason": "intermediate training epoch (final file exists)", "family": null}
+{"slug": "kiwinestyle-krea2_000003250", "repo": "Octavian123/civit2", "path": "kiwinestyle/krea2/kiwinestyle-krea2_000003250.safetensors", "reason": "intermediate training epoch (final file exists)", "family": null}
+{"slug": "kiwinestyle_anima_v1_000000250", "repo": "Octavian123/civit2", "path": "kiwinestyle_anima_v1_000000250.safetensors", "reason": "intermediate training epoch (final file exists)", "family": null}
+{"slug": "kiwinestyle_anima_v1_000000500", "repo": "Octavian123/civit2", "path": "kiwinestyle_anima_v1_000000500.safetensors", "reason": "intermediate training epoch (final file exists)", "family": null}
+{"slug": "kiwinestyle_anima_v1_000000750", "repo": "Octavian123/civit2", "path": "kiwinestyle_anima_v1_000000750.safetensors", "reason": "intermediate training epoch (final file exists)", "family": null}
+{"slug": "kiwinestyle_anima_v1_000001000", "repo": "Octavian123/civit2", "path": "kiwinestyle_anima_v1_000001000.safetensors", "reason": "intermediate training epoch (final file exists)", "family": null}
+{"slug": "kiwinestyle_anima_v1_000001250", "repo": "Octavian123/civit2", "path": "kiwinestyle_anima_v1_000001250.safetensors", "reason": "intermediate training epoch (final file exists)", "family": null}
+{"slug": "kiwinestyle_anima_v1_000001500", "repo": "Octavian123/civit2", "path": "kiwinestyle_anima_v1_000001500.safetensors", "reason": "intermediate training epoch (final file exists)", "family": null}
+{"slug": "kiwinestyle_anima_v1_000001750", "repo": "Octavian123/civit2", "path": "kiwinestyle_anima_v1_000001750.safetensors", "reason": "intermediate training epoch (final file exists)", "family": null}
+{"slug": "kiwinestyle_anima_v1_000002000", "repo": "Octavian123/civit2", "path": "kiwinestyle_anima_v1_000002000.safetensors", "reason": "intermediate training epoch (final file exists)", "family": null}
+{"slug": "kiwinestyle_anima_v1_000002250", "repo": "Octavian123/civit2", "path": "kiwinestyle_anima_v1_000002250.safetensors", "reason": "intermediate training epoch (final file exists)", "family": null}
+{"slug": "kiwinestyle_anima_v1_000002500", "repo": "Octavian123/civit2", "path": "kiwinestyle_anima_v1_000002500.safetensors", "reason": "intermediate training epoch (final file exists)", "family": null}
+{"slug": "kiwinestyle_anima_v1_000002750", "repo": "Octavian123/civit2", "path": "kiwinestyle_anima_v1_000002750.safetensors", "reason": "intermediate training epoch (final file exists)", "family": null}
+{"slug": "kiwinestyle_anima_v1_000003000", "repo": "Octavian123/civit2", "path": "kiwinestyle_anima_v1_000003000.safetensors", "reason": "intermediate training epoch (final file exists)", "family": null}
+{"slug": "kiwinestyle_anima_v1_000003250", "repo": "Octavian123/civit2", "path": "kiwinestyle_anima_v1_000003250.safetensors", "reason": "intermediate training epoch (final file exists)", "family": null}
+{"slug": "kiwinestyle_moss_v1_000000250", "repo": "Octavian123/civit2", "path": "kiwinestyle_moss_v1_000000250.safetensors", "reason": "intermediate training epoch (final file exists)", "family": null}
+{"slug": "kiwinestyle_moss_v1_000000500", "repo": "Octavian123/civit2", "path": "kiwinestyle_moss_v1_000000500.safetensors", "reason": "intermediate training epoch (final file exists)", "family": null}
+{"slug": "kiwinestyle_moss_v1_000000750", "repo": "Octavian123/civit2", "path": "kiwinestyle_moss_v1_000000750.safetensors", "reason": "intermediate training epoch (final file exists)", "family": null}
+{"slug": "kiwinestyle_moss_v1_000001000", "repo": "Octavian123/civit2", "path": "kiwinestyle_moss_v1_000001000.safetensors", "reason": "intermediate training epoch (final file exists)", "family": null}
+{"slug": "kiwinestyle_moss_v1_000001250", "repo": "Octavian123/civit2", "path": "kiwinestyle_moss_v1_000001250.safetensors", "reason": "intermediate training epoch (final file exists)", "family": null}
+{"slug": "kiwinestyle_moss_v1_000001500", "repo": "Octavian123/civit2", "path": "kiwinestyle_moss_v1_000001500.safetensors", "reason": "intermediate training epoch (final file exists)", "family": null}
+{"slug": "kiwinestyle_moss_v1_000001750", "repo": "Octavian123/civit2", "path": "kiwinestyle_moss_v1_000001750.safetensors", "reason": "intermediate training epoch (final file exists)", "family": null}
+{"slug": "kiwinestyle_moss_v1_000002000", "repo": "Octavian123/civit2", "path": "kiwinestyle_moss_v1_000002000.safetensors", "reason": "intermediate training epoch (final file exists)", "family": null}
+{"slug": "kiwinestyle_moss_v1_000002250", "repo": "Octavian123/civit2", "path": "kiwinestyle_moss_v1_000002250.safetensors", "reason": "intermediate training epoch (final file exists)", "family": null}
+{"slug": "kiwinestyle_moss_v1_000002500", "repo": "Octavian123/civit2", "path": "kiwinestyle_moss_v1_000002500.safetensors", "reason": "intermediate training epoch (final file exists)", "family": null}
+{"slug": "kiwinestyle_moss_v1_000002750", "repo": "Octavian123/civit2", "path": "kiwinestyle_moss_v1_000002750.safetensors", "reason": "intermediate training epoch (final file exists)", "family": null}
+{"slug": "kiwinestyle_moss_v1_000003000", "repo": "Octavian123/civit2", "path": "kiwinestyle_moss_v1_000003000.safetensors", "reason": "intermediate training epoch (final file exists)", "family": null}
+{"slug": "kiwinestyle_moss_v1_000003250", "repo": "Octavian123/civit2", "path": "kiwinestyle_moss_v1_000003250.safetensors", "reason": "intermediate training epoch (final file exists)", "family": null}
 {"slug": "Aimsee_Ill_epoch_10-pony", "repo": "Octavian123/mcb", "path": "Aimsee_Ill_epoch_10-pony.safetensors", "reason": "intermediate training epoch (kept highest epoch Aimsee_Ill_epoch_10-ill)", "family": null}
 {"slug": "Aimsee_Ill_epoch_10-sdxl", "repo": "Octavian123/mcb", "path": "Aimsee_Ill_epoch_10-sdxl.safetensors", "reason": "intermediate training epoch (kept highest epoch Aimsee_Ill_epoch_10-ill)", "family": null}
 {"slug": "MCB Lubed krea2 v1-01", "repo": "Octavian123/mcb", "path": "MCB Lubed krea2 v1-01.safetensors", "reason": "intermediate training epoch (kept highest epoch MCB Lubed krea2 v1-08)", "family": null}
@@ -2165,70 +2212,252 @@
 {"slug": "女王様ハニーver.1.01Femdom_Honey ver.1.01 - v1.1 - 1754747509839548564", "repo": "Octavian123/civit", "path": "女王様ハニーver.1.01Femdom_Honey ver.1.01 - v1.1 - 1754747509839548564.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
 {"slug": "2b-nier-automata-qwen-image-2512-qwen", "repo": "Octavian123/civit2", "path": "2b-nier-automata-qwen-image-2512-qwen.safetensors", "reason": "out of scope (base/family: Qwen)", "family": null}
 {"slug": "2d-oral-sex-h3", "repo": "Octavian123/civit2", "path": "2d-oral-sex-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
+{"slug": "80-inch-ass-biggest-ass-il-sd-flux", "repo": "Octavian123/civit2", "path": "80-inch-ass-biggest-ass-il-sd-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
+{"slug": "90s-anime-aesthetic-illustriousxl-zimagetu-chroma", "repo": "Octavian123/civit2", "path": "90s-anime-aesthetic-illustriousxl-zimagetu-chroma.safetensors", "reason": "out of scope (base/family: Chroma)", "family": null}
+{"slug": "90s-anime-aesthetic-illustriousxl-zimagetu-flux", "repo": "Octavian123/civit2", "path": "90s-anime-aesthetic-illustriousxl-zimagetu-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
+{"slug": "90s-anime-aesthetic-illustriousxl-zimagetu-zimage", "repo": "Octavian123/civit2", "path": "90s-anime-aesthetic-illustriousxl-zimagetu-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
+{"slug": "90s-science-fiction-background-landscape-f-flux", "repo": "Octavian123/civit2", "path": "90s-science-fiction-background-landscape-f-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
 {"slug": "a-leather-harness-lingrie-for-qwen21-qwen", "repo": "Octavian123/civit2", "path": "a-leather-harness-lingrie-for-qwen21-qwen.safetensors", "reason": "out of scope (base/family: Qwen 2.1)", "family": null}
 {"slug": "achromatic-fabulous-collection-z-image-wan", "repo": "Octavian123/civit2", "path": "achromatic-fabulous-collection-z-image-wan.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
+{"slug": "action-figure-pack-flux", "repo": "Octavian123/civit2", "path": "action-figure-pack-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
+{"slug": "action-figure-sd15-v1-0", "repo": "Octavian123/civit2", "path": "action-figure-sd15-v1-0.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "action-figure-sd15", "repo": "Octavian123/civit2", "path": "action-figure-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "add-micro-details-concept-flux", "repo": "Octavian123/civit2", "path": "add-micro-details-concept-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
+{"slug": "add-micro-details-concept-h3", "repo": "Octavian123/civit2", "path": "add-micro-details-concept-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
 {"slug": "adult-tamaki-irl-flux", "repo": "Octavian123/civit2", "path": "adult-tamaki-irl-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
 {"slug": "aesthetic-fashion-collection-3-z-image-zimage", "repo": "Octavian123/civit2", "path": "aesthetic-fashion-collection-3-z-image-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
+{"slug": "after-anal-sd15", "repo": "Octavian123/civit2", "path": "after-anal-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "ahegao-hoodie-zimage", "repo": "Octavian123/civit2", "path": "ahegao-hoodie-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
+{"slug": "ahegao-murakami-style-wan-2", "repo": "Octavian123/civit2", "path": "ahegao-murakami-style-wan-2.safetensors", "reason": "out of scope (base/family: Wan Video 14B t2v)", "family": null}
+{"slug": "ahegao-murakami-style-wan-3", "repo": "Octavian123/civit2", "path": "ahegao-murakami-style-wan-3.safetensors", "reason": "out of scope (base/family: Wan Video 14B t2v)", "family": null}
+{"slug": "ahegao-murakami-style-wan", "repo": "Octavian123/civit2", "path": "ahegao-murakami-style-wan.safetensors", "reason": "out of scope (base/family: Wan Video 14B t2v)", "family": null}
 {"slug": "ailora-v6700-krea2", "repo": "Octavian123/civit2", "path": "ailora-v6700-krea2.safetensors", "reason": "possible minor-coded term: age difference", "family": "krea2"}
+{"slug": "al-himemix-ill", "repo": "Octavian123/civit2", "path": "al-himemix-ill.safetensors", "reason": "checkpoint, not a LoRA", "family": "illustrious"}
 {"slug": "all-fours-zimage", "repo": "Octavian123/civit2", "path": "all-fours-zimage.safetensors", "reason": "out of scope (base/family: ZImageBase)", "family": null}
 {"slug": "allura-zimage", "repo": "Octavian123/civit2", "path": "allura-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
 {"slug": "allure-forbidden-collection-2-z-image-v4883-zimage", "repo": "Octavian123/civit2", "path": "allure-forbidden-collection-2-z-image-v4883-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
+{"slug": "amateur-photography-flux", "repo": "Octavian123/civit2", "path": "amateur-photography-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
+{"slug": "amateur-suck-sd15", "repo": "Octavian123/civit2", "path": "amateur-suck-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "amateur-transcock-sd15", "repo": "Octavian123/civit2", "path": "amateur-transcock-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
 {"slug": "american-futurism-architecture-buildings-f-flux", "repo": "Octavian123/civit2", "path": "american-futurism-architecture-buildings-f-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
 {"slug": "amomum-fugacious-collection-z-image-zimage", "repo": "Octavian123/civit2", "path": "amomum-fugacious-collection-z-image-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
+{"slug": "anal-cowgirl-front-sd15", "repo": "Octavian123/civit2", "path": "anal-cowgirl-front-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "anal-cowgirl-reverse-sd15", "repo": "Octavian123/civit2", "path": "anal-cowgirl-reverse-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "anal-dildo-sd15-2", "repo": "Octavian123/civit2", "path": "anal-dildo-sd15-2.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "anal-dildo-sd15-v3-0-brutal-dildos", "repo": "Octavian123/civit2", "path": "anal-dildo-sd15-v3-0-brutal-dildos.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "anal-dildo-sd15", "repo": "Octavian123/civit2", "path": "anal-dildo-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "anal-gape-gaping-asshole-zimage", "repo": "Octavian123/civit2", "path": "anal-gape-gaping-asshole-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
+{"slug": "anal-minimax-h3", "repo": "Octavian123/civit2", "path": "anal-minimax-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
 {"slug": "anal-penetration-qwen-image-2-1-turbo-qwen", "repo": "Octavian123/civit2", "path": "anal-penetration-qwen-image-2-1-turbo-qwen.safetensors", "reason": "out of scope (base/family: Qwen 2.1)", "family": null}
+{"slug": "anal-pov-back-sd15-v1-0", "repo": "Octavian123/civit2", "path": "anal-pov-back-sd15-v1-0.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "anal-pov-back-sd15", "repo": "Octavian123/civit2", "path": "anal-pov-back-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "anal-pov-front-sd15", "repo": "Octavian123/civit2", "path": "anal-pov-front-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "anal-side-missionay-anal-sd15", "repo": "Octavian123/civit2", "path": "anal-side-missionay-anal-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
 {"slug": "anaya-von-vergin-h3", "repo": "Octavian123/civit2", "path": "anaya-von-vergin-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
 {"slug": "ani3d-10-il-light-3d-render-lift-ill", "repo": "Octavian123/civit2", "path": "ani3d-10-il-light-3d-render-lift-ill.safetensors", "reason": "checkpoint, not a LoRA", "family": "illustrious"}
 {"slug": "anime-sunrise-background-flux-ad-flux", "repo": "Octavian123/civit2", "path": "anime-sunrise-background-flux-ad-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
 {"slug": "anime-sunset-background-flux-ad-flux", "repo": "Octavian123/civit2", "path": "anime-sunset-background-flux-ad-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
 {"slug": "annabelle-nordhavenlove-h3", "repo": "Octavian123/civit2", "path": "annabelle-nordhavenlove-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
 {"slug": "april-o-neil-tmnt-1987-ill", "repo": "Octavian123/civit2", "path": "april-o-neil-tmnt-1987-ill.safetensors", "reason": "possible minor-coded term: teenage", "family": "illustrious"}
+{"slug": "ass-clapping-twerk-v4867-wan", "repo": "Octavian123/civit2", "path": "ass-clapping-twerk-v4867-wan.safetensors", "reason": "out of scope (base/family: Wan Video 14B t2v)", "family": null}
+{"slug": "ass-slap-ass-smack-spanking-wan", "repo": "Octavian123/civit2", "path": "ass-slap-ass-smack-spanking-wan.safetensors", "reason": "out of scope (base/family: Wan Video 14B i2v 480p)", "family": null}
+{"slug": "ass-walk-from-behind-booty-walking-ass-jig-wan", "repo": "Octavian123/civit2", "path": "ass-walk-from-behind-booty-walking-ass-jig-wan.safetensors", "reason": "out of scope (base/family: Wan Video 14B i2v 480p)", "family": null}
+{"slug": "asscrack-peek-flux2", "repo": "Octavian123/civit2", "path": "asscrack-peek-flux2.safetensors", "reason": "out of scope (base/family: Flux.2 Klein 9B-base)", "family": null}
 {"slug": "assertive-focal-collection-z-image-v4853-zimage", "repo": "Octavian123/civit2", "path": "assertive-focal-collection-z-image-v4853-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
+{"slug": "asshole-behind-thong-sd15", "repo": "Octavian123/civit2", "path": "asshole-behind-thong-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
 {"slug": "assjob-minimax-h3", "repo": "Octavian123/civit2", "path": "assjob-minimax-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
+{"slug": "assuplyingdown-sd15-assuplyingdown", "repo": "Octavian123/civit2", "path": "assuplyingdown-sd15-assuplyingdown.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
 {"slug": "asterism-fulguration-collection-z-image-zimage", "repo": "Octavian123/civit2", "path": "asterism-fulguration-collection-z-image-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
 {"slug": "asuka-langley-soryu-neon-genesis-evangelio-anima", "repo": "Octavian123/civit2", "path": "asuka-langley-soryu-neon-genesis-evangelio-anima.safetensors", "reason": "possible minor-coded term: middle school", "family": "anima"}
+{"slug": "asuka-shikinami-langley-rebuild-of-evangel-ill", "repo": "Octavian123/civit2", "path": "asuka-shikinami-langley-rebuild-of-evangel-ill.safetensors", "reason": "possible minor-coded term: middle school", "family": "illustrious"}
+{"slug": "aurelia-ai-influencer-model-flux", "repo": "Octavian123/civit2", "path": "aurelia-ai-influencer-model-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
 {"slug": "auricular-folly-collection-2-z-image-zimage", "repo": "Octavian123/civit2", "path": "auricular-folly-collection-2-z-image-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
+{"slug": "bagged-flux2", "repo": "Octavian123/civit2", "path": "bagged-flux2.safetensors", "reason": "out of scope (base/family: Flux.2 Klein 9B-base)", "family": null}
+{"slug": "bagged-sd15", "repo": "Octavian123/civit2", "path": "bagged-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "bagged-zimage", "repo": "Octavian123/civit2", "path": "bagged-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
+{"slug": "balls-sucking-handjob-wan-wan2-2-t2v-low-noise", "repo": "Octavian123/civit2", "path": "balls-sucking-handjob-wan-wan2-2-t2v-low-noise.safetensors", "reason": "out of scope (base/family: Wan Video 2.2 T2V-A14B)", "family": null}
+{"slug": "balls-sucking-handjob-wan", "repo": "Octavian123/civit2", "path": "balls-sucking-handjob-wan.safetensors", "reason": "out of scope (base/family: Wan Video 2.2 T2V-A14B)", "family": null}
+{"slug": "barbie-style-inbox-doll-play-set-sd15-v1-0", "repo": "Octavian123/civit2", "path": "barbie-style-inbox-doll-play-set-sd15-v1-0.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "barbie-style-inbox-doll-play-set-sd15", "repo": "Octavian123/civit2", "path": "barbie-style-inbox-doll-play-set-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "bathroom-booty-selfie-pose-sink-butt-influ-flux2", "repo": "Octavian123/civit2", "path": "bathroom-booty-selfie-pose-sink-butt-influ-flux2.safetensors", "reason": "out of scope (base/family: Flux.2 Klein 9B)", "family": null}
+{"slug": "bathroom-booty-selfie-pose-sink-butt-influ-zimage", "repo": "Octavian123/civit2", "path": "bathroom-booty-selfie-pose-sink-butt-influ-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
+{"slug": "bbw-plus-sized-curvy-thicc-woman-il-sd-flu-flux", "repo": "Octavian123/civit2", "path": "bbw-plus-sized-curvy-thicc-woman-il-sd-flu-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
+{"slug": "beef-curtains-flux2", "repo": "Octavian123/civit2", "path": "beef-curtains-flux2.safetensors", "reason": "out of scope (base/family: flux2)", "family": null}
 {"slug": "beeg-v3-13000-step00006000-comfy", "repo": "Octavian123/civit2", "path": "beeg-v3-13000-step00006000-comfy.safetensors", "reason": "out of scope (base/family: LTXV2)", "family": null}
+{"slug": "beetle-car-sd15", "repo": "Octavian123/civit2", "path": "beetle-car-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "belly-dancing-wan-wan2-2-t2v-high-noise", "repo": "Octavian123/civit2", "path": "belly-dancing-wan-wan2-2-t2v-high-noise.safetensors", "reason": "out of scope (base/family: Wan Video 2.2 T2V-A14B)", "family": null}
+{"slug": "belly-dancing-wan", "repo": "Octavian123/civit2", "path": "belly-dancing-wan.safetensors", "reason": "out of scope (base/family: Wan Video 2.2 T2V-A14B)", "family": null}
 {"slug": "belt-spanking-il-bdsm-spanking-qwen", "repo": "Octavian123/civit2", "path": "belt-spanking-il-bdsm-spanking-qwen.safetensors", "reason": "out of scope (base/family: Qwen 2.1)", "family": null}
+{"slug": "big-dick-dredd-diffusion-sd15", "repo": "Octavian123/civit2", "path": "big-dick-dredd-diffusion-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "big-titty-goth-girl-big-tiddy-goth-gf-flux", "repo": "Octavian123/civit2", "path": "big-titty-goth-girl-big-tiddy-goth-gf-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
 {"slug": "bimbofication-krea2", "repo": "Octavian123/civit2", "path": "bimbofication-krea2.safetensors", "reason": "checkpoint, not a LoRA", "family": "krea2"}
 {"slug": "black-myth-wukong-landscape-background-flu-flux", "repo": "Octavian123/civit2", "path": "black-myth-wukong-landscape-background-flu-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
+{"slug": "blacked-eye-censor-il-z-sd-zimage", "repo": "Octavian123/civit2", "path": "blacked-eye-censor-il-z-sd-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
+{"slug": "blowbang-wan-wan2-2-t2v-high-noise", "repo": "Octavian123/civit2", "path": "blowbang-wan-wan2-2-t2v-high-noise.safetensors", "reason": "out of scope (base/family: Wan Video 2.2 T2V-A14B)", "family": null}
+{"slug": "blowbang-wan", "repo": "Octavian123/civit2", "path": "blowbang-wan.safetensors", "reason": "out of scope (base/family: Wan Video 2.2 T2V-A14B)", "family": null}
+{"slug": "blowjob-close-to-real-sd15", "repo": "Octavian123/civit2", "path": "blowjob-close-to-real-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "blowjob-full-sd15", "repo": "Octavian123/civit2", "path": "blowjob-full-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "blowjob-side-view-sd15", "repo": "Octavian123/civit2", "path": "blowjob-side-view-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "blowjob-top-of-head-pov-sd15-v2-0", "repo": "Octavian123/civit2", "path": "blowjob-top-of-head-pov-sd15-v2-0.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "blowjob-top-of-head-pov-sd15", "repo": "Octavian123/civit2", "path": "blowjob-top-of-head-pov-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "blowjob-top-of-head-pov-sdxl1-0-xl-v4-1-mx-photorealistic", "repo": "Octavian123/civit2", "path": "blowjob-top-of-head-pov-sdxl1-0-xl-v4-1-mx-photorealistic.safetensors", "reason": "checkpoint, not a LoRA", "family": "sdxl"}
 {"slug": "blowjob-v1-5-minimax-h3", "repo": "Octavian123/civit2", "path": "blowjob-v1-5-minimax-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
+{"slug": "blowjobs-bbc-wan-2", "repo": "Octavian123/civit2", "path": "blowjobs-bbc-wan-2.safetensors", "reason": "out of scope (base/family: Wan Video 2.2 T2V-A14B)", "family": null}
+{"slug": "blowjobs-bbc-wan-wan2-2-t2v-high-noise", "repo": "Octavian123/civit2", "path": "blowjobs-bbc-wan-wan2-2-t2v-high-noise.safetensors", "reason": "out of scope (base/family: Wan Video 2.2 T2V-A14B)", "family": null}
+{"slug": "blowjobs-bbc-wan", "repo": "Octavian123/civit2", "path": "blowjobs-bbc-wan.safetensors", "reason": "out of scope (base/family: Wan Video 14B t2v)", "family": null}
+{"slug": "blowjobs-extreme-bbc-wan-wan2-2-t2v-low-noise", "repo": "Octavian123/civit2", "path": "blowjobs-extreme-bbc-wan-wan2-2-t2v-low-noise.safetensors", "reason": "out of scope (base/family: Wan Video 2.2 T2V-A14B)", "family": null}
+{"slug": "blowjobs-extreme-bbc-wan", "repo": "Octavian123/civit2", "path": "blowjobs-extreme-bbc-wan.safetensors", "reason": "out of scope (base/family: Wan Video 2.2 T2V-A14B)", "family": null}
+{"slug": "blowjobs-man-in-frame-v4836-wan", "repo": "Octavian123/civit2", "path": "blowjobs-man-in-frame-v4836-wan.safetensors", "reason": "out of scope (base/family: Wan Video 14B t2v)", "family": null}
+{"slug": "blowjobs-side-view-wan-wan2-2-t2v-high-noise", "repo": "Octavian123/civit2", "path": "blowjobs-side-view-wan-wan2-2-t2v-high-noise.safetensors", "reason": "out of scope (base/family: Wan Video 2.2 T2V-A14B)", "family": null}
+{"slug": "blowjobs-side-view-wan", "repo": "Octavian123/civit2", "path": "blowjobs-side-view-wan.safetensors", "reason": "out of scope (base/family: Wan Video 2.2 T2V-A14B)", "family": null}
 {"slug": "blue-ballpoint-zimage", "repo": "Octavian123/civit2", "path": "blue-ballpoint-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
+{"slug": "bodycon-maxiskirt-zimage", "repo": "Octavian123/civit2", "path": "bodycon-maxiskirt-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
+{"slug": "botox-lips-wan-wan2-2-t2v-high-noise", "repo": "Octavian123/civit2", "path": "botox-lips-wan-wan2-2-t2v-high-noise.safetensors", "reason": "out of scope (base/family: Wan Video 2.2 T2V-A14B)", "family": null}
+{"slug": "botox-lips-wan", "repo": "Octavian123/civit2", "path": "botox-lips-wan.safetensors", "reason": "out of scope (base/family: Wan Video 2.2 T2V-A14B)", "family": null}
+{"slug": "breasts-and-nipple-enhancer-qwen-rank-128-version", "repo": "Octavian123/civit2", "path": "breasts-and-nipple-enhancer-qwen-rank-128-version.safetensors", "reason": "checkpoint, not a LoRA", "family": null}
+{"slug": "breasts-and-nipple-enhancer-qwen", "repo": "Octavian123/civit2", "path": "breasts-and-nipple-enhancer-qwen.safetensors", "reason": "out of scope (base/family: Qwen)", "family": null}
+{"slug": "breeding-mount-futa-breeding-horse-onahole-flux2", "repo": "Octavian123/civit2", "path": "breeding-mount-futa-breeding-horse-onahole-flux2.safetensors", "reason": "out of scope (base/family: Flux.2 Klein 9B-base)", "family": null}
+{"slug": "breeding-mount-futa-breeding-horse-onahole-zimage", "repo": "Octavian123/civit2", "path": "breeding-mount-futa-breeding-horse-onahole-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
+{"slug": "breeding-mount-with-someone-inside-flux2", "repo": "Octavian123/civit2", "path": "breeding-mount-with-someone-inside-flux2.safetensors", "reason": "out of scope (base/family: Flux.2 Klein 9B-base)", "family": null}
+{"slug": "breeding-mount-with-someone-inside-zimage", "repo": "Octavian123/civit2", "path": "breeding-mount-with-someone-inside-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
+{"slug": "brutal-dildo-h3", "repo": "Octavian123/civit2", "path": "brutal-dildo-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
+{"slug": "brutal-dildo-huny-2", "repo": "Octavian123/civit2", "path": "brutal-dildo-huny-2.safetensors", "reason": "out of scope (base/family: Hunyuan Video)", "family": null}
+{"slug": "brutal-dildo-huny-3", "repo": "Octavian123/civit2", "path": "brutal-dildo-huny-3.safetensors", "reason": "out of scope (base/family: Hunyuan Video)", "family": null}
+{"slug": "brutal-dildo-huny-4", "repo": "Octavian123/civit2", "path": "brutal-dildo-huny-4.safetensors", "reason": "out of scope (base/family: Hunyuan Video)", "family": null}
+{"slug": "brutal-dildo-huny-5", "repo": "Octavian123/civit2", "path": "brutal-dildo-huny-5.safetensors", "reason": "out of scope (base/family: Hunyuan Video)", "family": null}
+{"slug": "brutal-dildo-huny", "repo": "Octavian123/civit2", "path": "brutal-dildo-huny.safetensors", "reason": "out of scope (base/family: Hunyuan Video)", "family": null}
+{"slug": "brutal-dildo-wan-3", "repo": "Octavian123/civit2", "path": "brutal-dildo-wan-3.safetensors", "reason": "out of scope (base/family: Wan Video 14B t2v)", "family": null}
+{"slug": "brutal-dildo-wan-4", "repo": "Octavian123/civit2", "path": "brutal-dildo-wan-4.safetensors", "reason": "out of scope (base/family: Wan Video 14B t2v)", "family": null}
+{"slug": "brutal-dildo-wan-5", "repo": "Octavian123/civit2", "path": "brutal-dildo-wan-5.safetensors", "reason": "out of scope (base/family: Wan Video 14B t2v)", "family": null}
+{"slug": "buchukisu-kissing-viewer-kissing-screen-zimage", "repo": "Octavian123/civit2", "path": "buchukisu-kissing-viewer-kissing-screen-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
+{"slug": "buildings-view-from-indoors-sd15", "repo": "Octavian123/civit2", "path": "buildings-view-from-indoors-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "bukkake-realistic-cum-facial-flux", "repo": "Octavian123/civit2", "path": "bukkake-realistic-cum-facial-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
 {"slug": "bust-on-tits-face-nsfw-round-breasts-h3-mi-h3", "repo": "Octavian123/civit2", "path": "bust-on-tits-face-nsfw-round-breasts-h3-mi-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
 {"slug": "busty69-zimage", "repo": "Octavian123/civit2", "path": "busty69-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
+{"slug": "buttjob-assjob-sd15", "repo": "Octavian123/civit2", "path": "buttjob-assjob-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "c666d-ahegao-expression-boogu-xl", "repo": "Octavian123/civit2", "path": "c666d-ahegao-expression-boogu-xl.safetensors", "reason": "out of scope (base/family: Boogu)", "family": null}
+{"slug": "c666d-nosehook-boogu-xl", "repo": "Octavian123/civit2", "path": "c666d-nosehook-boogu-xl.safetensors", "reason": "out of scope (base/family: Boogu)", "family": null}
+{"slug": "cammy-realistic-cosplay-sd15", "repo": "Octavian123/civit2", "path": "cammy-realistic-cosplay-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "candid-bbc-dating-app-chroma", "repo": "Octavian123/civit2", "path": "candid-bbc-dating-app-chroma.safetensors", "reason": "out of scope (base/family: Chroma)", "family": null}
+{"slug": "candid-panties-zimage", "repo": "Octavian123/civit2", "path": "candid-panties-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
+{"slug": "candid-pussy-selfie-v2-chroma", "repo": "Octavian123/civit2", "path": "candid-pussy-selfie-v2-chroma.safetensors", "reason": "out of scope (base/family: Chroma)", "family": null}
 {"slug": "cane-marks-bdsm-spanking-qwen", "repo": "Octavian123/civit2", "path": "cane-marks-bdsm-spanking-qwen.safetensors", "reason": "out of scope (base/family: Qwen 2.1)", "family": null}
 {"slug": "canny-control-moss", "repo": "Octavian123/civit2", "path": "canny-control-moss.safetensors", "reason": "out of scope (base/family: Other)", "family": null}
+{"slug": "carried-away-chroma", "repo": "Octavian123/civit2", "path": "carried-away-chroma.safetensors", "reason": "out of scope (base/family: Chroma)", "family": null}
+{"slug": "cartethyia-fleurdelys-wuthering-waves-zimage", "repo": "Octavian123/civit2", "path": "cartethyia-fleurdelys-wuthering-waves-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
 {"slug": "celshadingstyle00-s-sd15", "repo": "Octavian123/civit2", "path": "celshadingstyle00-s-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "character-design-sheet-flux", "repo": "Octavian123/civit2", "path": "character-design-sheet-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
+{"slug": "cheek-blowjob-sd15-v1-0", "repo": "Octavian123/civit2", "path": "cheek-blowjob-sd15-v1-0.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "cheek-blowjob-sd15", "repo": "Octavian123/civit2", "path": "cheek-blowjob-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "cheetara-thundercats-series-sd15-2", "repo": "Octavian123/civit2", "path": "cheetara-thundercats-series-sd15-2.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "cheetara-thundercats-series-sd15-v3-0", "repo": "Octavian123/civit2", "path": "cheetara-thundercats-series-sd15-v3-0.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "cheetara-thundercats-series-sd15", "repo": "Octavian123/civit2", "path": "cheetara-thundercats-series-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "choking-sex-sex-with-choking-choke-wan", "repo": "Octavian123/civit2", "path": "choking-sex-sex-with-choking-choke-wan.safetensors", "reason": "out of scope (base/family: Wan Video 14B i2v 480p)", "family": null}
+{"slug": "christmas-snow-globe-concept-sd15", "repo": "Octavian123/civit2", "path": "christmas-snow-globe-concept-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "christmas-style-sd15", "repo": "Octavian123/civit2", "path": "christmas-style-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "civchan-sd-flux", "repo": "Octavian123/civit2", "path": "civchan-sd-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
 {"slug": "civchan-unoffical-h3", "repo": "Octavian123/civit2", "path": "civchan-unoffical-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
+{"slug": "close-up-pussy-and-anus-pov-hands-spreadin-wan-2", "repo": "Octavian123/civit2", "path": "close-up-pussy-and-anus-pov-hands-spreadin-wan-2.safetensors", "reason": "out of scope (base/family: Wan Video 2.2 I2V-A14B)", "family": null}
+{"slug": "close-up-pussy-and-anus-pov-hands-spreadin-wan", "repo": "Octavian123/civit2", "path": "close-up-pussy-and-anus-pov-hands-spreadin-wan.safetensors", "reason": "out of scope (base/family: Wan Video 2.2 I2V-A14B)", "family": null}
+{"slug": "coitus-interruptus-chroma", "repo": "Octavian123/civit2", "path": "coitus-interruptus-chroma.safetensors", "reason": "out of scope (base/family: Chroma)", "family": null}
 {"slug": "conceptsylvanian-families-zimage", "repo": "Octavian123/civit2", "path": "conceptsylvanian-families-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
 {"slug": "costumegriffin-kryuger-military-uniform-fe-sd15", "repo": "Octavian123/civit2", "path": "costumegriffin-kryuger-military-uniform-fe-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
 {"slug": "costumestrawberry-dress-sd15", "repo": "Octavian123/civit2", "path": "costumestrawberry-dress-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "cowgirl-sex-position-v6973-wan", "repo": "Octavian123/civit2", "path": "cowgirl-sex-position-v6973-wan.safetensors", "reason": "out of scope (base/family: Wan Video 2.2 T2V-A14B)", "family": null}
 {"slug": "cr3ampi3-animation-i2v-ltx2-v1-0", "repo": "Octavian123/civit2", "path": "cr3ampi3-animation-i2v-ltx2-v1-0.safetensors", "reason": "out of scope (base/family: LTXV2)", "family": null}
+{"slug": "creased-uneven-panties-flux2", "repo": "Octavian123/civit2", "path": "creased-uneven-panties-flux2.safetensors", "reason": "out of scope (base/family: Flux.2 Klein 9B)", "family": null}
 {"slug": "crystalgram-krea2", "repo": "Octavian123/civit2", "path": "crystalgram-krea2.safetensors", "reason": "checkpoint, not a LoRA", "family": "krea2"}
+{"slug": "cum-dog-bowl-humiliation-zimage", "repo": "Octavian123/civit2", "path": "cum-dog-bowl-humiliation-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
+{"slug": "cum-in-open-mouth-sd15-v3-0", "repo": "Octavian123/civit2", "path": "cum-in-open-mouth-sd15-v3-0.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "cum-in-open-mouth-sd15", "repo": "Octavian123/civit2", "path": "cum-in-open-mouth-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "cum-in-panties-stained-gusset-zimage", "repo": "Octavian123/civit2", "path": "cum-in-panties-stained-gusset-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
 {"slug": "cum-on-eyes-flux2", "repo": "Octavian123/civit2", "path": "cum-on-eyes-flux2.safetensors", "reason": "out of scope (base/family: Flux.2 Klein 9B-base)", "family": null}
+{"slug": "cum-on-face-from-behind-forehead-facial-il-zimage", "repo": "Octavian123/civit2", "path": "cum-on-face-from-behind-forehead-facial-il-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
+{"slug": "cum-on-face-sd15", "repo": "Octavian123/civit2", "path": "cum-on-face-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "cum-on-face-wan-wan2-2-t2v-high-noise", "repo": "Octavian123/civit2", "path": "cum-on-face-wan-wan2-2-t2v-high-noise.safetensors", "reason": "out of scope (base/family: Wan Video 2.2 T2V-A14B)", "family": null}
+{"slug": "cum-on-face-wan", "repo": "Octavian123/civit2", "path": "cum-on-face-wan.safetensors", "reason": "out of scope (base/family: Wan Video 2.2 T2V-A14B)", "family": null}
+{"slug": "cum-shot-h3-101-h3", "repo": "Octavian123/civit2", "path": "cum-shot-h3-101-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
+{"slug": "cum-slut-minimax-h3", "repo": "Octavian123/civit2", "path": "cum-slut-minimax-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
 {"slug": "cupra-ai-s-all-in-one-qwen", "repo": "Octavian123/civit2", "path": "cupra-ai-s-all-in-one-qwen.safetensors", "reason": "out of scope (base/family: Qwen 2.1)", "family": null}
 {"slug": "cyberblade-motorcycles-flux", "repo": "Octavian123/civit2", "path": "cyberblade-motorcycles-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
 {"slug": "cyberpunk-2077-background-flux-ad-flux", "repo": "Octavian123/civit2", "path": "cyberpunk-2077-background-flux-ad-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
 {"slug": "d-miniature-motorcycle-modeling-diverse-sh-flux", "repo": "Octavian123/civit2", "path": "d-miniature-motorcycle-modeling-diverse-sh-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
+{"slug": "damp-patch-in-fabric-flux2", "repo": "Octavian123/civit2", "path": "damp-patch-in-fabric-flux2.safetensors", "reason": "out of scope (base/family: Flux.2 Klein 9B)", "family": null}
 {"slug": "darkfantasy80s-vivid-v1-e5-flux", "repo": "Octavian123/civit2", "path": "darkfantasy80s-vivid-v1-e5-flux.safetensors", "reason": "out of scope (base/family: Flux.3 Klein)", "family": null}
+{"slug": "deep-throat-diffusion-sd15-sd-1-5-v1-0", "repo": "Octavian123/civit2", "path": "deep-throat-diffusion-sd15-sd-1-5-v1-0.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "deep-throat-diffusion-sd15", "repo": "Octavian123/civit2", "path": "deep-throat-diffusion-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "deepthroat-pov-sd15", "repo": "Octavian123/civit2", "path": "deepthroat-pov-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "detailed-penis-h3", "repo": "Octavian123/civit2", "path": "detailed-penis-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
+{"slug": "deuza-style-flux", "repo": "Octavian123/civit2", "path": "deuza-style-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
+{"slug": "dick-slap-wan", "repo": "Octavian123/civit2", "path": "dick-slap-wan.safetensors", "reason": "out of scope (base/family: Wan Video)", "family": null}
+{"slug": "dildo-pussy-big-dildo-sd15-v1-0", "repo": "Octavian123/civit2", "path": "dildo-pussy-big-dildo-sd15-v1-0.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "dildo-pussy-big-dildo-sd15", "repo": "Octavian123/civit2", "path": "dildo-pussy-big-dildo-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "dildo-under-panties-dildo-under-thong-dild-zimage", "repo": "Octavian123/civit2", "path": "dildo-under-panties-dildo-under-thong-dild-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
 {"slug": "dirtylarry-s-dick-detailer-h3", "repo": "Octavian123/civit2", "path": "dirtylarry-s-dick-detailer-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
+{"slug": "discarded-panties-zimage", "repo": "Octavian123/civit2", "path": "discarded-panties-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
+{"slug": "discharge-in-panties-zimage", "repo": "Octavian123/civit2", "path": "discharge-in-panties-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
+{"slug": "discharge-stained-panties-flux2", "repo": "Octavian123/civit2", "path": "discharge-stained-panties-flux2.safetensors", "reason": "out of scope (base/family: Flux.2 Klein 9B)", "family": null}
+{"slug": "distended-saggy-abdomen-or-fupa-zimage", "repo": "Octavian123/civit2", "path": "distended-saggy-abdomen-or-fupa-zimage.safetensors", "reason": "out of scope (base/family: zimage)", "family": null}
 {"slug": "dmitrys-art-style-sd15", "repo": "Octavian123/civit2", "path": "dmitrys-art-style-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
 {"slug": "dmitrys-dmitry-sergeev-style-sd15", "repo": "Octavian123/civit2", "path": "dmitrys-dmitry-sergeev-style-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "dogeza-clothes-on-floor-il-z-sd-zimage", "repo": "Octavian123/civit2", "path": "dogeza-clothes-on-floor-il-z-sd-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
+{"slug": "doggystyle-back-view-trans-v2056-wan", "repo": "Octavian123/civit2", "path": "doggystyle-back-view-trans-v2056-wan.safetensors", "reason": "out of scope (base/family: Wan Video 2.2 T2V-A14B)", "family": null}
+{"slug": "dogtanian-sd15", "repo": "Octavian123/civit2", "path": "dogtanian-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "doll-box-barbie-style-realistic-flux", "repo": "Octavian123/civit2", "path": "doll-box-barbie-style-realistic-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
+{"slug": "doll-box-realistic-sd15", "repo": "Octavian123/civit2", "path": "doll-box-realistic-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
 {"slug": "doom-background-flux-ad-flux", "repo": "Octavian123/civit2", "path": "doom-background-flux-ad-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
 {"slug": "doomer-boomer-sd15", "repo": "Octavian123/civit2", "path": "doomer-boomer-sd15.safetensors", "reason": "checkpoint, not a LoRA", "family": null}
+{"slug": "doris-the-fun-sporty-curly-ai-babe-flux", "repo": "Octavian123/civit2", "path": "doris-the-fun-sporty-curly-ai-babe-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
+{"slug": "dorse-queen-s-stalliion-il-sd-ill", "repo": "Octavian123/civit2", "path": "dorse-queen-s-stalliion-il-sd-ill.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "double-barrel-blowjob-double-blowjob-2-dic-zimage", "repo": "Octavian123/civit2", "path": "double-barrel-blowjob-double-blowjob-2-dic-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
+{"slug": "double-blowjob-sd15", "repo": "Octavian123/civit2", "path": "double-blowjob-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "double-dildo-deepthroat-il-z-sd-zimage", "repo": "Octavian123/civit2", "path": "double-dildo-deepthroat-il-z-sd-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
+{"slug": "drag-queen-il-sd-flux", "repo": "Octavian123/civit2", "path": "drag-queen-il-sd-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
 {"slug": "dress-96-2026-lolita-krea2", "repo": "Octavian123/civit2", "path": "dress-96-2026-lolita-krea2.safetensors", "reason": "possible minor-coded term: lolita", "family": "krea2"}
 {"slug": "drift-stop-from-close-up-face-wan2-2-i2v-a-wan", "repo": "Octavian123/civit2", "path": "drift-stop-from-close-up-face-wan2-2-i2v-a-wan.safetensors", "reason": "out of scope (base/family: Wan Video 2.2 I2V-A14B)", "family": null}
+{"slug": "duplex-house-duplex-camper-zimage", "repo": "Octavian123/civit2", "path": "duplex-house-duplex-camper-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
 {"slug": "early-1900s-photograph-h3", "repo": "Octavian123/civit2", "path": "early-1900s-photograph-h3.safetensors", "reason": "out of scope (base/family: Other)", "family": null}
 {"slug": "earth-from-iss-low-earth-orbit-planetary-v-h3", "repo": "Octavian123/civit2", "path": "earth-from-iss-low-earth-orbit-planetary-v-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
 {"slug": "easy-rider-cpt-america-motorcycle-flux", "repo": "Octavian123/civit2", "path": "easy-rider-cpt-america-motorcycle-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
+{"slug": "echidna-queen-s-blade-character-sd15-v2-0", "repo": "Octavian123/civit2", "path": "echidna-queen-s-blade-character-sd15-v2-0.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "echidna-queen-s-blade-character-sd15", "repo": "Octavian123/civit2", "path": "echidna-queen-s-blade-character-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "english-back-garden-sd15", "repo": "Octavian123/civit2", "path": "english-back-garden-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "english-house-front-sd15", "repo": "Octavian123/civit2", "path": "english-house-front-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
 {"slug": "esther-nordhavenlove-h3", "repo": "Octavian123/civit2", "path": "esther-nordhavenlove-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
+{"slug": "evil-lyn-loramasters-of-the-universe-sd15", "repo": "Octavian123/civit2", "path": "evil-lyn-loramasters-of-the-universe-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "exaggerated-hourglass-figure-thicc-bimbo-flux2", "repo": "Octavian123/civit2", "path": "exaggerated-hourglass-figure-thicc-bimbo-flux2.safetensors", "reason": "out of scope (base/family: Flux.2 Klein 9B-base)", "family": null}
+{"slug": "exaggerated-hourglass-figure-thicc-bimbo-zimage", "repo": "Octavian123/civit2", "path": "exaggerated-hourglass-figure-thicc-bimbo-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
+{"slug": "exposed-chroma", "repo": "Octavian123/civit2", "path": "exposed-chroma.safetensors", "reason": "out of scope (base/family: Chroma)", "family": null}
+{"slug": "extreme-ejaculation-v9574-wan", "repo": "Octavian123/civit2", "path": "extreme-ejaculation-v9574-wan.safetensors", "reason": "out of scope (base/family: Wan Video 2.2 T2V-A14B)", "family": null}
+{"slug": "extreme-insertion-pov-sex-wan2-2-i2v-14b-i-wan-2", "repo": "Octavian123/civit2", "path": "extreme-insertion-pov-sex-wan2-2-i2v-14b-i-wan-2.safetensors", "reason": "out of scope (base/family: Wan Video 2.2 I2V-A14B)", "family": null}
+{"slug": "extreme-insertion-pov-sex-wan2-2-i2v-14b-i-wan", "repo": "Octavian123/civit2", "path": "extreme-insertion-pov-sex-wan2-2-i2v-14b-i-wan.safetensors", "reason": "out of scope (base/family: Wan Video 2.2 I2V-A14B)", "family": null}
+{"slug": "extreme-pov-deep-throat-wan2-2-i2v-14b-2-s-wan-2", "repo": "Octavian123/civit2", "path": "extreme-pov-deep-throat-wan2-2-i2v-14b-2-s-wan-2.safetensors", "reason": "out of scope (base/family: Wan Video 2.2 I2V-A14B)", "family": null}
+{"slug": "extreme-pov-deep-throat-wan2-2-i2v-14b-2-s-wan", "repo": "Octavian123/civit2", "path": "extreme-pov-deep-throat-wan2-2-i2v-14b-2-s-wan.safetensors", "reason": "out of scope (base/family: Wan Video 2.2 I2V-A14B)", "family": null}
+{"slug": "face-punch-punch-in-the-face-il-sd-flux-flux2", "repo": "Octavian123/civit2", "path": "face-punch-punch-in-the-face-il-sd-flux-flux2.safetensors", "reason": "out of scope (base/family: Flux.2 Klein 9B-base)", "family": null}
+{"slug": "face-punch-punch-in-the-face-il-sd-flux-zimage", "repo": "Octavian123/civit2", "path": "face-punch-punch-in-the-face-il-sd-flux-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
+{"slug": "face-punch-punch-in-the-face-il-sd-flux", "repo": "Octavian123/civit2", "path": "face-punch-punch-in-the-face-il-sd-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
+{"slug": "faceslap-slapped-in-the-face-face-slap-wan", "repo": "Octavian123/civit2", "path": "faceslap-slapped-in-the-face-face-slap-wan.safetensors", "reason": "out of scope (base/family: Wan Video 14B i2v 480p)", "family": null}
+{"slug": "facial-cumshots-v4240-wan", "repo": "Octavian123/civit2", "path": "facial-cumshots-v4240-wan.safetensors", "reason": "out of scope (base/family: Wan Video 14B t2v)", "family": null}
+{"slug": "facial-cumshots-v5076-wan", "repo": "Octavian123/civit2", "path": "facial-cumshots-v5076-wan.safetensors", "reason": "out of scope (base/family: Wan Video 2.2 T2V-A14B)", "family": null}
 {"slug": "faye-valentine-irl-flux", "repo": "Octavian123/civit2", "path": "faye-valentine-irl-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
+{"slug": "fellatrix-style-il-chroma", "repo": "Octavian123/civit2", "path": "fellatrix-style-il-chroma.safetensors", "reason": "out of scope (base/family: Chroma)", "family": null}
+{"slug": "fellatrix-style-il-zimage", "repo": "Octavian123/civit2", "path": "fellatrix-style-il-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
 {"slug": "female-pov-z-image-turbo-helper-zimage", "repo": "Octavian123/civit2", "path": "female-pov-z-image-turbo-helper-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
 {"slug": "femboys-tgirls-and-futa-flux2", "repo": "Octavian123/civit2", "path": "femboys-tgirls-and-futa-flux2.safetensors", "reason": "out of scope (base/family: Flux.2 Klein 9B)", "family": null}
+{"slug": "femnude-aio-female-nudity-for-qwen-image-2-qwen", "repo": "Octavian123/civit2", "path": "femnude-aio-female-nudity-for-qwen-image-2-qwen.safetensors", "reason": "out of scope (base/family: Qwen)", "family": null}
+{"slug": "figure-bust-premium-statue-bust-flux", "repo": "Octavian123/civit2", "path": "figure-bust-premium-statue-bust-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
+{"slug": "figure-bust-premium-statue-bust-sd15", "repo": "Octavian123/civit2", "path": "figure-bust-premium-statue-bust-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
 {"slug": "fineporn-v6-turbo-nsfw-krea2", "repo": "Octavian123/civit2", "path": "fineporn-v6-turbo-nsfw-krea2.safetensors", "reason": "checkpoint, not a LoRA", "family": "krea2"}
 {"slug": "flaccid-uncut-penis-qwen", "repo": "Octavian123/civit2", "path": "flaccid-uncut-penis-qwen.safetensors", "reason": "out of scope (base/family: Qwen 2.1)", "family": null}
 {"slug": "flux-3-klein-ghost-in-the-shell-flux", "repo": "Octavian123/civit2", "path": "flux-3-klein-ghost-in-the-shell-flux.safetensors", "reason": "out of scope (base/family: Flux.3 Klein)", "family": null}
 {"slug": "flux-futa-flux", "repo": "Octavian123/civit2", "path": "flux-futa-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
+{"slug": "flux-pov-cock-stepping-trampling-cbt-flux", "repo": "Octavian123/civit2", "path": "flux-pov-cock-stepping-trampling-cbt-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
+{"slug": "flux-pov-cock-stepping-trampling-cbt-v1-flux", "repo": "Octavian123/civit2", "path": "flux-pov-cock-stepping-trampling-cbt-v1-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
+{"slug": "foot-on-breasts-step-on-breasts-trampling-zimage", "repo": "Octavian123/civit2", "path": "foot-on-breasts-step-on-breasts-trampling-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
+{"slug": "frank-frazetta-fantasy-art-style-gmr-flux", "repo": "Octavian123/civit2", "path": "frank-frazetta-fantasy-art-style-gmr-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
 {"slug": "friend-s-pov-minimax-h3", "repo": "Octavian123/civit2", "path": "friend-s-pov-minimax-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
+{"slug": "fullmetal-alchemist-edward-elric-sd15", "repo": "Octavian123/civit2", "path": "fullmetal-alchemist-edward-elric-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "funko-pop-character-sd15", "repo": "Octavian123/civit2", "path": "funko-pop-character-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
 {"slug": "futa-cock-growth-z-image-transformation-zimage", "repo": "Octavian123/civit2", "path": "futa-cock-growth-z-image-transformation-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
 {"slug": "futa-dicknipples-flaccid-hunyuanvideo-k3nk-huny", "repo": "Octavian123/civit2", "path": "futa-dicknipples-flaccid-hunyuanvideo-k3nk-huny.safetensors", "reason": "out of scope (base/family: Hunyuan Video)", "family": null}
 {"slug": "futa-flux", "repo": "Octavian123/civit2", "path": "futa-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
@@ -2236,18 +2465,38 @@
 {"slug": "futa-masturbation-cumshot-i2v-mh3-ltx-wan", "repo": "Octavian123/civit2", "path": "futa-masturbation-cumshot-i2v-mh3-ltx-wan.safetensors", "reason": "out of scope (base/family: Wan Video 2.2 I2V-A14B)", "family": null}
 {"slug": "futa-on-male-blowjob-flux", "repo": "Octavian123/civit2", "path": "futa-on-male-blowjob-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
 {"slug": "futana-ill", "repo": "Octavian123/civit2", "path": "futana-ill.safetensors", "reason": "checkpoint, not a LoRA", "family": "illustrious"}
+{"slug": "futanari-style-sd15", "repo": "Octavian123/civit2", "path": "futanari-style-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
 {"slug": "futanari-transform-h3", "repo": "Octavian123/civit2", "path": "futanari-transform-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
 {"slug": "future-motorcycles-flux", "repo": "Octavian123/civit2", "path": "future-motorcycles-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
+{"slug": "gagging-blowjob-gagging-deepthroat-penis-a-wan", "repo": "Octavian123/civit2", "path": "gagging-blowjob-gagging-deepthroat-penis-a-wan.safetensors", "reason": "out of scope (base/family: Wan Video 14B i2v 480p)", "family": null}
+{"slug": "gangbang-facial-bukkake-excessive-cum-wan2-wan-2", "repo": "Octavian123/civit2", "path": "gangbang-facial-bukkake-excessive-cum-wan2-wan-2.safetensors", "reason": "out of scope (base/family: Wan Video 2.2 I2V-A14B)", "family": null}
+{"slug": "gangbang-facial-bukkake-excessive-cum-wan2-wan", "repo": "Octavian123/civit2", "path": "gangbang-facial-bukkake-excessive-cum-wan2-wan.safetensors", "reason": "out of scope (base/family: Wan Video 2.2 I2V-A14B)", "family": null}
+{"slug": "gangbang-group-sex-gang-bang-improvement-zimage", "repo": "Octavian123/civit2", "path": "gangbang-group-sex-gang-bang-improvement-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
+{"slug": "gape-girls-missionary-sd15", "repo": "Octavian123/civit2", "path": "gape-girls-missionary-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "gape-huge-anus-gape-sd15", "repo": "Octavian123/civit2", "path": "gape-huge-anus-gape-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "gaping-assholes-sd15", "repo": "Octavian123/civit2", "path": "gaping-assholes-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "gas-station-bathroom-background-flux-ad-flux", "repo": "Octavian123/civit2", "path": "gas-station-bathroom-background-flux-ad-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
 {"slug": "gatchaman-ova-jun-2-outfits-sd15", "repo": "Octavian123/civit2", "path": "gatchaman-ova-jun-2-outfits-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
 {"slug": "getting-on-all-fours-minimax-h3", "repo": "Octavian123/civit2", "path": "getting-on-all-fours-minimax-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
 {"slug": "ghibli-classic-look-turbo-krea2", "repo": "Octavian123/civit2", "path": "ghibli-classic-look-turbo-krea2.safetensors", "reason": "checkpoint, not a LoRA", "family": "krea2"}
+{"slug": "ginger-bread-style-sd15", "repo": "Octavian123/civit2", "path": "ginger-bread-style-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "girl-in-a-box-sd15", "repo": "Octavian123/civit2", "path": "girl-in-a-box-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "glory-hole-front-view-glory-wall-front-vie-zimage", "repo": "Octavian123/civit2", "path": "glory-hole-front-view-glory-wall-front-vie-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
+{"slug": "glory-wall-stuck-in-wall-sd15", "repo": "Octavian123/civit2", "path": "glory-wall-stuck-in-wall-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "gloryhole-close-view-sd15", "repo": "Octavian123/civit2", "path": "gloryhole-close-view-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "gloryhole-sd15-v3-0", "repo": "Octavian123/civit2", "path": "gloryhole-sd15-v3-0.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "gloryhole-sd15", "repo": "Octavian123/civit2", "path": "gloryhole-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
 {"slug": "graycolor-retro-anime-style-h3", "repo": "Octavian123/civit2", "path": "graycolor-retro-anime-style-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
 {"slug": "grok-style-gargoyle-monster-style-ill", "repo": "Octavian123/civit2", "path": "grok-style-gargoyle-monster-style-ill.safetensors", "reason": "possible minor-coded term: child", "family": "illustrious"}
+{"slug": "grool-flux2", "repo": "Octavian123/civit2", "path": "grool-flux2.safetensors", "reason": "out of scope (base/family: Flux.2 Klein 9B-base)", "family": null}
 {"slug": "growth-effect-minimax-h3-alpha-h3", "repo": "Octavian123/civit2", "path": "growth-effect-minimax-h3-alpha-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
+{"slug": "gusset-aside-pussy-peek-zimage", "repo": "Octavian123/civit2", "path": "gusset-aside-pussy-peek-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
 {"slug": "h3-anal-dildo-ref2va-h3", "repo": "Octavian123/civit2", "path": "h3-anal-dildo-ref2va-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
 {"slug": "h3-analsex-missionary-v1-h3", "repo": "Octavian123/civit2", "path": "h3-analsex-missionary-v1-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
 {"slug": "h3-ltx-2-3-paizuri-titfuck-with-thrusting-v2-h3", "repo": "Octavian123/civit2", "path": "h3-ltx-2-3-paizuri-titfuck-with-thrusting-v2-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
 {"slug": "h3-stillroom-h3", "repo": "Octavian123/civit2", "path": "h3-stillroom-h3.safetensors", "reason": "checkpoint, not a LoRA", "family": null}
+{"slug": "haddon-sundblom-style-xl-il-ill", "repo": "Octavian123/civit2", "path": "haddon-sundblom-style-xl-il-ill.safetensors", "reason": "checkpoint, not a LoRA", "family": "illustrious"}
+{"slug": "haddon-sundblom-style-xl-il-xl", "repo": "Octavian123/civit2", "path": "haddon-sundblom-style-xl-il-xl.safetensors", "reason": "checkpoint, not a LoRA", "family": "sdxl"}
 {"slug": "haijme-sorayama-style-h3", "repo": "Octavian123/civit2", "path": "haijme-sorayama-style-h3.safetensors", "reason": "out of scope (base/family: Other)", "family": null}
 {"slug": "hair-pulling-h3-101-h3", "repo": "Octavian123/civit2", "path": "hair-pulling-h3-101-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
 {"slug": "hairshort-bangs-sd15", "repo": "Octavian123/civit2", "path": "hairshort-bangs-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
@@ -2257,127 +2506,347 @@
 {"slug": "hajime-sorayama-s-sexy-pin-up-robots-zimage", "repo": "Octavian123/civit2", "path": "hajime-sorayama-s-sexy-pin-up-robots-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
 {"slug": "hajime-sorayama-style-flux", "repo": "Octavian123/civit2", "path": "hajime-sorayama-style-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
 {"slug": "hajime-sorayama-style-sd15", "repo": "Octavian123/civit2", "path": "hajime-sorayama-style-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "halloween-style-flux", "repo": "Octavian123/civit2", "path": "halloween-style-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
+{"slug": "handjobs-v8084-wan", "repo": "Octavian123/civit2", "path": "handjobs-v8084-wan.safetensors", "reason": "out of scope (base/family: Wan Video 2.2 T2V-A14B)", "family": null}
+{"slug": "harley-quinn-realistic-cosplay-sd15", "repo": "Octavian123/civit2", "path": "harley-quinn-realistic-cosplay-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
 {"slug": "hataraki-ari-style-h3", "repo": "Octavian123/civit2", "path": "hataraki-ari-style-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
+{"slug": "hawk-tuah-wan", "repo": "Octavian123/civit2", "path": "hawk-tuah-wan.safetensors", "reason": "out of scope (base/family: Wan Video)", "family": null}
 {"slug": "hdr-vae-qwen-image-qwen", "repo": "Octavian123/civit2", "path": "hdr-vae-qwen-image-qwen.safetensors", "reason": "out of scope (base/family: Qwen)", "family": null}
+{"slug": "head-in-ass-head-inserted-in-ass-anal-vore-zimage", "repo": "Octavian123/civit2", "path": "head-in-ass-head-inserted-in-ass-anal-vore-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
+{"slug": "heart-pose-amen-pose-taka-taka-pose-ai-inf-flux2", "repo": "Octavian123/civit2", "path": "heart-pose-amen-pose-taka-taka-pose-ai-inf-flux2.safetensors", "reason": "out of scope (base/family: Flux.2 Klein 9B-base)", "family": null}
+{"slug": "hela-deaths-elegant-daughter-flux", "repo": "Octavian123/civit2", "path": "hela-deaths-elegant-daughter-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
 {"slug": "highquality-flux", "repo": "Octavian123/civit2", "path": "highquality-flux.safetensors", "reason": "out of scope (base/family: Flux.3 Klein)", "family": null}
+{"slug": "hikari-horaki-neon-genesis-evangelion-ill", "repo": "Octavian123/civit2", "path": "hikari-horaki-neon-genesis-evangelion-ill.safetensors", "reason": "possible minor-coded term: middle school", "family": "illustrious"}
+{"slug": "himawari-kunogi-xxxholic-ill", "repo": "Octavian123/civit2", "path": "himawari-kunogi-xxxholic-ill.safetensors", "reason": "possible minor-coded term: lolita", "family": "illustrious"}
+{"slug": "hip-dips-zimage", "repo": "Octavian123/civit2", "path": "hip-dips-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
+{"slug": "hipdips-flux2", "repo": "Octavian123/civit2", "path": "hipdips-flux2.safetensors", "reason": "out of scope (base/family: Flux.2 Klein 9B-base)", "family": null}
+{"slug": "hmbreasts-breasts-areoles-for-minimax-h3", "repo": "Octavian123/civit2", "path": "hmbreasts-breasts-areoles-for-minimax-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
+{"slug": "hmcumshot-cumshot-for-minimax-h3-2", "repo": "Octavian123/civit2", "path": "hmcumshot-cumshot-for-minimax-h3-2.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
+{"slug": "hmcumshot-cumshot-for-minimax-h3-v1-0", "repo": "Octavian123/civit2", "path": "hmcumshot-cumshot-for-minimax-h3-v1-0.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
+{"slug": "hmcumshot-cumshot-for-minimax-h3", "repo": "Octavian123/civit2", "path": "hmcumshot-cumshot-for-minimax-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
+{"slug": "hmfemme-realistic-1girl-for-qwen", "repo": "Octavian123/civit2", "path": "hmfemme-realistic-1girl-for-qwen.safetensors", "reason": "out of scope (base/family: Qwen)", "family": null}
+{"slug": "hminnie-h3", "repo": "Octavian123/civit2", "path": "hminnie-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
+{"slug": "hmmasturbation-squirting-and-female-mastur-v2-h3", "repo": "Octavian123/civit2", "path": "hmmasturbation-squirting-and-female-mastur-v2-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
+{"slug": "hmmisdog-missionary-doggy-pov-for-minimax-h3-v1-0", "repo": "Octavian123/civit2", "path": "hmmisdog-missionary-doggy-pov-for-minimax-h3-v1-0.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
+{"slug": "hmmisdog-missionary-doggy-pov-for-minimax-h3", "repo": "Octavian123/civit2", "path": "hmmisdog-missionary-doggy-pov-for-minimax-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
+{"slug": "hmnsfw-aio-sex-h3-2", "repo": "Octavian123/civit2", "path": "hmnsfw-aio-sex-h3-2.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
+{"slug": "hmnsfw-aio-sex-h3-v2-5", "repo": "Octavian123/civit2", "path": "hmnsfw-aio-sex-h3-v2-5.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
+{"slug": "hmnsfw-aio-sex-h3", "repo": "Octavian123/civit2", "path": "hmnsfw-aio-sex-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
+{"slug": "hmpussy-pussy-anus-for-minimax-h3-2", "repo": "Octavian123/civit2", "path": "hmpussy-pussy-anus-for-minimax-h3-2.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
+{"slug": "hmpussy-pussy-anus-for-minimax-h3-3", "repo": "Octavian123/civit2", "path": "hmpussy-pussy-anus-for-minimax-h3-3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
+{"slug": "hmpussy-pussy-anus-for-minimax-h3-v1-stills-only", "repo": "Octavian123/civit2", "path": "hmpussy-pussy-anus-for-minimax-h3-v1-stills-only.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
+{"slug": "hmpussy-pussy-anus-for-minimax-h3", "repo": "Octavian123/civit2", "path": "hmpussy-pussy-anus-for-minimax-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
+{"slug": "hms-milf-body-flux2", "repo": "Octavian123/civit2", "path": "hms-milf-body-flux2.safetensors", "reason": "out of scope (base/family: Flux.2 Klein 9B-base)", "family": null}
+{"slug": "hms-milf-body-zimage", "repo": "Octavian123/civit2", "path": "hms-milf-body-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
+{"slug": "hms-pak-lounge-sd15", "repo": "Octavian123/civit2", "path": "hms-pak-lounge-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "hms-woman-using-her-phone-sd15", "repo": "Octavian123/civit2", "path": "hms-woman-using-her-phone-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "holding-dildo-riding-dildo-chroma", "repo": "Octavian123/civit2", "path": "holding-dildo-riding-dildo-chroma.safetensors", "reason": "out of scope (base/family: Chroma)", "family": null}
+{"slug": "holding-spread-legs-presenting-pussy-m-m-s-flux2", "repo": "Octavian123/civit2", "path": "holding-spread-legs-presenting-pussy-m-m-s-flux2.safetensors", "reason": "out of scope (base/family: Flux.2 Klein 9B)", "family": null}
+{"slug": "holding-spread-legs-presenting-pussy-m-m-s-zimage", "repo": "Octavian123/civit2", "path": "holding-spread-legs-presenting-pussy-m-m-s-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
+{"slug": "horse-penis-futa-sd15", "repo": "Octavian123/civit2", "path": "horse-penis-futa-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
 {"slug": "human-onahole-fantasy-sex-concept-collecti-h3", "repo": "Octavian123/civit2", "path": "human-onahole-fantasy-sex-concept-collecti-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
 {"slug": "huniecam-studios-art-style-sd15", "repo": "Octavian123/civit2", "path": "huniecam-studios-art-style-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
 {"slug": "hyper-futa-cock-and-balls-ernie-edition-xl", "repo": "Octavian123/civit2", "path": "hyper-futa-cock-and-balls-ernie-edition-xl.safetensors", "reason": "out of scope (base/family: Ernie)", "family": null}
 {"slug": "hyper-futa-cock-and-balls-z-image-turbo-ed-zimage", "repo": "Octavian123/civit2", "path": "hyper-futa-cock-and-balls-z-image-turbo-ed-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
 {"slug": "hyper-futa-zimage", "repo": "Octavian123/civit2", "path": "hyper-futa-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
 {"slug": "hyper-futanari-big-futa-dick-and-balls-flux", "repo": "Octavian123/civit2", "path": "hyper-futanari-big-futa-dick-and-balls-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
+{"slug": "hyper-huge-gape-diffusion-sd1-5-sd15-2", "repo": "Octavian123/civit2", "path": "hyper-huge-gape-diffusion-sd1-5-sd15-2.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "hyper-huge-gape-diffusion-sd1-5-sd15-sd1-5-all-fours-v4-0", "repo": "Octavian123/civit2", "path": "hyper-huge-gape-diffusion-sd1-5-sd15-sd1-5-all-fours-v4-0.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "hyper-huge-gape-diffusion-sd1-5-sd15", "repo": "Octavian123/civit2", "path": "hyper-huge-gape-diffusion-sd1-5-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "inputwo-style-sd15", "repo": "Octavian123/civit2", "path": "inputwo-style-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "intense-ahegao-fucked-silly-ahegao-one-eye-flux2", "repo": "Octavian123/civit2", "path": "intense-ahegao-fucked-silly-ahegao-one-eye-flux2.safetensors", "reason": "out of scope (base/family: Flux.2 Klein 9B-base)", "family": null}
+{"slug": "intense-ahegao-fucked-silly-ahegao-one-eye-zimage", "repo": "Octavian123/civit2", "path": "intense-ahegao-fucked-silly-ahegao-one-eye-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
+{"slug": "interior-design-sd15", "repo": "Octavian123/civit2", "path": "interior-design-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
 {"slug": "irrumatio-blowjob-minimax-h3-k3nk-h3", "repo": "Octavian123/civit2", "path": "irrumatio-blowjob-minimax-h3-k3nk-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
+{"slug": "ivy-valentine-realistic-cosplay-sd15", "repo": "Octavian123/civit2", "path": "ivy-valentine-realistic-cosplay-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "iwara-hentai-mmd-dance-wan2-2-i2v-14b-how-wan-2", "repo": "Octavian123/civit2", "path": "iwara-hentai-mmd-dance-wan2-2-i2v-14b-how-wan-2.safetensors", "reason": "out of scope (base/family: Wan Video 2.2 I2V-A14B)", "family": null}
+{"slug": "iwara-hentai-mmd-dance-wan2-2-i2v-14b-how-wan", "repo": "Octavian123/civit2", "path": "iwara-hentai-mmd-dance-wan2-2-i2v-14b-how-wan.safetensors", "reason": "out of scope (base/family: Wan Video 2.2 I2V-A14B)", "family": null}
+{"slug": "iwara-hentai-mmd-dynamic-hip-swing-dance-w-wan-2", "repo": "Octavian123/civit2", "path": "iwara-hentai-mmd-dynamic-hip-swing-dance-w-wan-2.safetensors", "reason": "out of scope (base/family: Wan Video 2.2 I2V-A14B)", "family": null}
+{"slug": "iwara-hentai-mmd-dynamic-hip-swing-dance-w-wan", "repo": "Octavian123/civit2", "path": "iwara-hentai-mmd-dynamic-hip-swing-dance-w-wan.safetensors", "reason": "out of scope (base/family: Wan Video 2.2 I2V-A14B)", "family": null}
+{"slug": "japanese-school-hallway-background-flux-ad-flux", "repo": "Octavian123/civit2", "path": "japanese-school-hallway-background-flux-ad-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
+{"slug": "jaspion-sd15-v1-0", "repo": "Octavian123/civit2", "path": "jaspion-sd15-v1-0.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "jaspion-sd15", "repo": "Octavian123/civit2", "path": "jaspion-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
 {"slug": "jav-bondage-flux", "repo": "Octavian123/civit2", "path": "jav-bondage-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
 {"slug": "jessica-rabbit-irl-flux", "repo": "Octavian123/civit2", "path": "jessica-rabbit-irl-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
+{"slug": "jiban-kidou-keiji-sd15", "repo": "Octavian123/civit2", "path": "jiban-kidou-keiji-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "jiraya-sekai-ninja-sen-jiraiya-sd15", "repo": "Octavian123/civit2", "path": "jiraya-sekai-ninja-sen-jiraiya-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "jlullaby-art-style-sd15", "repo": "Octavian123/civit2", "path": "jlullaby-art-style-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "jockstrap-varied-colors-styles-and-concept-flux-2", "repo": "Octavian123/civit2", "path": "jockstrap-varied-colors-styles-and-concept-flux-2.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
+{"slug": "jockstrap-varied-colors-styles-and-concept-flux", "repo": "Octavian123/civit2", "path": "jockstrap-varied-colors-styles-and-concept-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
+{"slug": "jockstrap-varied-colors-styles-and-concept-flux2-2", "repo": "Octavian123/civit2", "path": "jockstrap-varied-colors-styles-and-concept-flux2-2.safetensors", "reason": "out of scope (base/family: Flux.2 Klein 9B)", "family": null}
+{"slug": "jockstrap-varied-colors-styles-and-concept-flux2-3", "repo": "Octavian123/civit2", "path": "jockstrap-varied-colors-styles-and-concept-flux2-3.safetensors", "reason": "out of scope (base/family: Flux.2 Klein 4B)", "family": null}
+{"slug": "jockstrap-varied-colors-styles-and-concept-flux2", "repo": "Octavian123/civit2", "path": "jockstrap-varied-colors-styles-and-concept-flux2.safetensors", "reason": "out of scope (base/family: Flux.2 Klein 9B)", "family": null}
+{"slug": "jockstrap-varied-colors-styles-and-concept-ltx2", "repo": "Octavian123/civit2", "path": "jockstrap-varied-colors-styles-and-concept-ltx2.safetensors", "reason": "out of scope (base/family: LTXV2)", "family": null}
+{"slug": "jockstrap-varied-colors-styles-and-concept-zimage", "repo": "Octavian123/civit2", "path": "jockstrap-varied-colors-styles-and-concept-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
+{"slug": "kamen-rider-black-sd15", "repo": "Octavian123/civit2", "path": "kamen-rider-black-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "kissing-tongue-action-wan-wan2-2-t2v-high-noise", "repo": "Octavian123/civit2", "path": "kissing-tongue-action-wan-wan2-2-t2v-high-noise.safetensors", "reason": "out of scope (base/family: Wan Video 2.2 T2V-A14B)", "family": null}
+{"slug": "kissing-tongue-action-wan", "repo": "Octavian123/civit2", "path": "kissing-tongue-action-wan.safetensors", "reason": "out of scope (base/family: Wan Video 2.2 T2V-A14B)", "family": null}
+{"slug": "klein-9b-panties-outline-or-semi-visible-u-sd15", "repo": "Octavian123/civit2", "path": "klein-9b-panties-outline-or-semi-visible-u-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "klein-9b-panty-licking-flux2", "repo": "Octavian123/civit2", "path": "klein-9b-panty-licking-flux2.safetensors", "reason": "out of scope (base/family: Flux.2 Klein 9B-base)", "family": null}
+{"slug": "klein-9b-panty-sniffing-flux2", "repo": "Octavian123/civit2", "path": "klein-9b-panty-sniffing-flux2.safetensors", "reason": "out of scope (base/family: Flux.2 Klein 9B-base)", "family": null}
+{"slug": "klein-9b-saddlebags-flux2", "repo": "Octavian123/civit2", "path": "klein-9b-saddlebags-flux2.safetensors", "reason": "out of scope (base/family: Flux.2 Klein 9B-base)", "family": null}
+{"slug": "klein-9b-taking-selfie-from-3rd-person-vie-flux2", "repo": "Octavian123/civit2", "path": "klein-9b-taking-selfie-from-3rd-person-vie-flux2.safetensors", "reason": "out of scope (base/family: Flux.2 Klein 9B)", "family": null}
+{"slug": "klein-9b-underbuttocks-flux2", "repo": "Octavian123/civit2", "path": "klein-9b-underbuttocks-flux2.safetensors", "reason": "out of scope (base/family: Flux.2 Klein 9B-base)", "family": null}
+{"slug": "klein-9b-voyeur-peeping-tom-flux2", "repo": "Octavian123/civit2", "path": "klein-9b-voyeur-peeping-tom-flux2.safetensors", "reason": "out of scope (base/family: Flux.2 Klein 9B-base)", "family": null}
+{"slug": "klein-9b-vpl-visible-panty-lines-flux2", "repo": "Octavian123/civit2", "path": "klein-9b-vpl-visible-panty-lines-flux2.safetensors", "reason": "out of scope (base/family: Flux.2 Klein 9B-base)", "family": null}
+{"slug": "knollingcase-sd15", "repo": "Octavian123/civit2", "path": "knollingcase-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "konno-tohiro-zimage", "repo": "Octavian123/civit2", "path": "konno-tohiro-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
 {"slug": "koutarou-style-sd15", "repo": "Octavian123/civit2", "path": "koutarou-style-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
 {"slug": "kromoss-general-nsfw-aesthetic-style-furry-moss", "repo": "Octavian123/civit2", "path": "kromoss-general-nsfw-aesthetic-style-furry-moss.safetensors", "reason": "checkpoint, not a LoRA", "family": "moss"}
 {"slug": "lactation-lactating-breasts-minimax-h3", "repo": "Octavian123/civit2", "path": "lactation-lactating-breasts-minimax-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
 {"slug": "lady-cop-zimage", "repo": "Octavian123/civit2", "path": "lady-cop-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
+{"slug": "large-naturals-h3", "repo": "Octavian123/civit2", "path": "large-naturals-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
 {"slug": "larryvrh-h3", "repo": "Octavian123/civit2", "path": "larryvrh-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
+{"slug": "latina-milf-thicc-latina-flux", "repo": "Octavian123/civit2", "path": "latina-milf-thicc-latina-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
+{"slug": "leaking-into-panties-flux2", "repo": "Octavian123/civit2", "path": "leaking-into-panties-flux2.safetensors", "reason": "out of scope (base/family: Flux.2 Klein 9B-base)", "family": null}
 {"slug": "lean-forward-and-place-hands-on-the-knees-h3", "repo": "Octavian123/civit2", "path": "lean-forward-and-place-hands-on-the-knees-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
+{"slug": "legendary-landscapes-sd15", "repo": "Octavian123/civit2", "path": "legendary-landscapes-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "leina-loraqueen-s-blade-character-sd15", "repo": "Octavian123/civit2", "path": "leina-loraqueen-s-blade-character-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "leslie-demon-deals-ponyxl-sd-1-5-sd15-2", "repo": "Octavian123/civit2", "path": "leslie-demon-deals-ponyxl-sd-1-5-sd15-2.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "leslie-demon-deals-ponyxl-sd-1-5-sd15-3", "repo": "Octavian123/civit2", "path": "leslie-demon-deals-ponyxl-sd-1-5-sd15-3.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "leslie-demon-deals-ponyxl-sd-1-5-sd15", "repo": "Octavian123/civit2", "path": "leslie-demon-deals-ponyxl-sd-1-5-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "liana-simply-adorable-flux", "repo": "Octavian123/civit2", "path": "liana-simply-adorable-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
+{"slug": "licking-penis-pov-average-penis-sd15", "repo": "Octavian123/civit2", "path": "licking-penis-pov-average-penis-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "licking-penis-pov-sd15-v1-0c", "repo": "Octavian123/civit2", "path": "licking-penis-pov-sd15-v1-0c.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "licking-penis-pov-sd15", "repo": "Octavian123/civit2", "path": "licking-penis-pov-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "lily-wuthering-waves-sd15", "repo": "Octavian123/civit2", "path": "lily-wuthering-waves-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
 {"slug": "lineart-control-moss", "repo": "Octavian123/civit2", "path": "lineart-control-moss.safetensors", "reason": "out of scope (base/family: Other)", "family": null}
+{"slug": "lion-o-thundercats-sd15", "repo": "Octavian123/civit2", "path": "lion-o-thundercats-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "low-rise-fashion-flux2", "repo": "Octavian123/civit2", "path": "low-rise-fashion-flux2.safetensors", "reason": "out of scope (base/family: Flux.2 Klein 9B-base)", "family": null}
+{"slug": "low-rise-fashion-zimage", "repo": "Octavian123/civit2", "path": "low-rise-fashion-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
 {"slug": "ltx-2-better-female-nudity", "repo": "Octavian123/civit2", "path": "ltx-2-better-female-nudity.safetensors", "reason": "out of scope (base/family: ltx)", "family": null}
 {"slug": "ltx-2-takerpov-lora-v1-2", "repo": "Octavian123/civit2", "path": "ltx-2-takerpov-lora-v1-2.safetensors", "reason": "out of scope (base/family: LTXV2)", "family": null}
 {"slug": "ltx2-i2v-sexthrust", "repo": "Octavian123/civit2", "path": "ltx2-i2v-sexthrust.safetensors", "reason": "out of scope (base/family: LTXV2)", "family": null}
 {"slug": "ltx2-i2v-sexymove", "repo": "Octavian123/civit2", "path": "ltx2-i2v-sexymove.safetensors", "reason": "out of scope (base/family: LTXV2)", "family": null}
 {"slug": "ltx2-nsfw-furry-lora-step-15000", "repo": "Octavian123/civit2", "path": "ltx2-nsfw-furry-lora-step-15000.safetensors", "reason": "out of scope (base/family: LTXV2)", "family": null}
 {"slug": "lumenfall-femme-fatale-ill", "repo": "Octavian123/civit2", "path": "lumenfall-femme-fatale-ill.safetensors", "reason": "checkpoint, not a LoRA", "family": "illustrious"}
+{"slug": "lunar-new-year-2024-sd15", "repo": "Octavian123/civit2", "path": "lunar-new-year-2024-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
 {"slug": "lux-the-bright-light-of-justice-qwen", "repo": "Octavian123/civit2", "path": "lux-the-bright-light-of-justice-qwen.safetensors", "reason": "out of scope (base/family: Qwen)", "family": null}
 {"slug": "lux-the-light-bringer-zimage", "repo": "Octavian123/civit2", "path": "lux-the-light-bringer-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
 {"slug": "m2ltx-fingering-step00004000-comfy", "repo": "Octavian123/civit2", "path": "m2ltx-fingering-step00004000-comfy.safetensors", "reason": "out of scope (base/family: LTXV2)", "family": null}
+{"slug": "married-to-penis-zimage", "repo": "Octavian123/civit2", "path": "married-to-penis-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
+{"slug": "mature-milf-mature-woman-40-year-old-milf-flux", "repo": "Octavian123/civit2", "path": "mature-milf-mature-woman-40-year-old-milf-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
+{"slug": "maxidresshms-sd15", "repo": "Octavian123/civit2", "path": "maxidresshms-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
 {"slug": "mehmet-doruk-erdem-style-bikes-flux", "repo": "Octavian123/civit2", "path": "mehmet-doruk-erdem-style-bikes-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
+{"slug": "melona-sd15", "repo": "Octavian123/civit2", "path": "melona-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
 {"slug": "meryl-dmitrys-sd15", "repo": "Octavian123/civit2", "path": "meryl-dmitrys-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
 {"slug": "messy-blowjob-h3", "repo": "Octavian123/civit2", "path": "messy-blowjob-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
+{"slug": "metalder-choujinki-sd15", "repo": "Octavian123/civit2", "path": "metalder-choujinki-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "mikasa-ackerman-attack-on-titan-teen-ill", "repo": "Octavian123/civit2", "path": "mikasa-ackerman-attack-on-titan-teen-ill.safetensors", "reason": "possible minor-coded term: teen", "family": "illustrious"}
+{"slug": "milking-table-blowjob-sd15", "repo": "Octavian123/civit2", "path": "milking-table-blowjob-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
 {"slug": "minimax-female-accents-north-american-h3", "repo": "Octavian123/civit2", "path": "minimax-female-accents-north-american-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
 {"slug": "minimax-h3-image-anime-classic-hd-h3", "repo": "Octavian123/civit2", "path": "minimax-h3-image-anime-classic-hd-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
+{"slug": "minimax-h3-image-real-pussy-h3", "repo": "Octavian123/civit2", "path": "minimax-h3-image-real-pussy-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
 {"slug": "minimax-h3-pussy-spread-v1-h3", "repo": "Octavian123/civit2", "path": "minimax-h3-pussy-spread-v1-h3.safetensors", "reason": "out of scope (base/family: h3)", "family": null}
 {"slug": "minimax-h3-t2v-i2v-doublefuck-h3", "repo": "Octavian123/civit2", "path": "minimax-h3-t2v-i2v-doublefuck-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
 {"slug": "minimax-h3-t2v-i2v-nipplesuck-h3", "repo": "Octavian123/civit2", "path": "minimax-h3-t2v-i2v-nipplesuck-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
 {"slug": "minimax-h3-t2v-i2v-selfsuck-h3", "repo": "Octavian123/civit2", "path": "minimax-h3-t2v-i2v-selfsuck-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
 {"slug": "minimax-image-bal-breast-h3", "repo": "Octavian123/civit2", "path": "minimax-image-bal-breast-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
+{"slug": "miss-information-gameoverse-2-outfits-zimage", "repo": "Octavian123/civit2", "path": "miss-information-gameoverse-2-outfits-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
+{"slug": "missionary-anal-trans-wan-wan2-2-t2v-high-noise", "repo": "Octavian123/civit2", "path": "missionary-anal-trans-wan-wan2-2-t2v-high-noise.safetensors", "reason": "out of scope (base/family: Wan Video 2.2 T2V-A14B)", "family": null}
+{"slug": "missionary-anal-trans-wan", "repo": "Octavian123/civit2", "path": "missionary-anal-trans-wan.safetensors", "reason": "out of scope (base/family: Wan Video 2.2 T2V-A14B)", "family": null}
 {"slug": "mmh3-realism-slider-v2-hyperflow-h3-flash-h3", "repo": "Octavian123/civit2", "path": "mmh3-realism-slider-v2-hyperflow-h3-flash-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
+{"slug": "mmh3-st-real-big-penis-h3", "repo": "Octavian123/civit2", "path": "mmh3-st-real-big-penis-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
 {"slug": "motorcycle-indian-scout-limited-ghost-whit-flux", "repo": "Octavian123/civit2", "path": "motorcycle-indian-scout-limited-ghost-whit-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
+{"slug": "mouth-full-of-cock-impossible-fit-oral-unh-zimage", "repo": "Octavian123/civit2", "path": "mouth-full-of-cock-impossible-fit-oral-unh-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
 {"slug": "mr-glitter-bikini-ltx2", "repo": "Octavian123/civit2", "path": "mr-glitter-bikini-ltx2.safetensors", "reason": "out of scope (base/family: LTXV 2.5)", "family": null}
 {"slug": "msltx-3fingering-step00005000-comfy", "repo": "Octavian123/civit2", "path": "msltx-3fingering-step00005000-comfy.safetensors", "reason": "out of scope (base/family: LTXV2)", "family": null}
+{"slug": "muscle-mommy-female-bodybuilder-fbb-flux-i-flux", "repo": "Octavian123/civit2", "path": "muscle-mommy-female-bodybuilder-fbb-flux-i-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
+{"slug": "muscular-robots-robots-flux-ad-flux", "repo": "Octavian123/civit2", "path": "muscular-robots-robots-flux-ad-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
+{"slug": "neo-fantasy-xl", "repo": "Octavian123/civit2", "path": "neo-fantasy-xl.safetensors", "reason": "checkpoint, not a LoRA", "family": "sdxl"}
 {"slug": "neon-blackpink-pink-edge-glow-style-h3", "repo": "Octavian123/civit2", "path": "neon-blackpink-pink-edge-glow-style-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
+{"slug": "neon-pixxie-retro-version-qwen", "repo": "Octavian123/civit2", "path": "neon-pixxie-retro-version-qwen.safetensors", "reason": "out of scope (base/family: Qwen)", "family": null}
+{"slug": "nhs-nurse-sister-uniform-v3-flux2", "repo": "Octavian123/civit2", "path": "nhs-nurse-sister-uniform-v3-flux2.safetensors", "reason": "out of scope (base/family: Flux.2 Klein 9B-base)", "family": null}
+{"slug": "nhs-nurse-sister-uniform-v3-wan", "repo": "Octavian123/civit2", "path": "nhs-nurse-sister-uniform-v3-wan.safetensors", "reason": "out of scope (base/family: Wan Video 14B t2v)", "family": null}
+{"slug": "nhs-nurse-sister-uniform-v3-zimage", "repo": "Octavian123/civit2", "path": "nhs-nurse-sister-uniform-v3-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
 {"slug": "niva-legend-vaz-2121-qwen-2-1-qwen", "repo": "Octavian123/civit2", "path": "niva-legend-vaz-2121-qwen-2-1-qwen.safetensors", "reason": "out of scope (base/family: Qwen 2.1)", "family": null}
 {"slug": "normal-control-moss", "repo": "Octavian123/civit2", "path": "normal-control-moss.safetensors", "reason": "out of scope (base/family: Other)", "family": null}
 {"slug": "nsfw-qwen-image-2-1-qwen", "repo": "Octavian123/civit2", "path": "nsfw-qwen-image-2-1-qwen.safetensors", "reason": "out of scope (base/family: Qwen 2.1)", "family": null}
+{"slug": "nsfw-z-image-bare-upper-body-with-burgundy-zimage", "repo": "Octavian123/civit2", "path": "nsfw-z-image-bare-upper-body-with-burgundy-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
 {"slug": "nsfw-z-image-modern-indoor-sexy-lingerie-s-anima", "repo": "Octavian123/civit2", "path": "nsfw-z-image-modern-indoor-sexy-lingerie-s-anima.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
 {"slug": "nude-fashion-v1-turbo-krea2", "repo": "Octavian123/civit2", "path": "nude-fashion-v1-turbo-krea2.safetensors", "reason": "checkpoint, not a LoRA", "family": "krea2"}
+{"slug": "nurse-outfit-flux-2-klein-flux2", "repo": "Octavian123/civit2", "path": "nurse-outfit-flux-2-klein-flux2.safetensors", "reason": "out of scope (base/family: Flux.2 Klein 9B-base)", "family": null}
+{"slug": "ohogao-o-face-ahegao-il-sd-chroma", "repo": "Octavian123/civit2", "path": "ohogao-o-face-ahegao-il-sd-chroma.safetensors", "reason": "out of scope (base/family: Chroma)", "family": null}
+{"slug": "ohogao-o-face-ahegao-il-sd-flux2", "repo": "Octavian123/civit2", "path": "ohogao-o-face-ahegao-il-sd-flux2.safetensors", "reason": "out of scope (base/family: Flux.2 Klein 9B-base)", "family": null}
+{"slug": "ohogao-o-face-ahegao-il-sd-zimage", "repo": "Octavian123/civit2", "path": "ohogao-o-face-ahegao-il-sd-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
 {"slug": "on-back-legs-up-male-and-futa-anus-works-w-flux2", "repo": "Octavian123/civit2", "path": "on-back-legs-up-male-and-futa-anus-works-w-flux2.safetensors", "reason": "out of scope (base/family: Flux.2 Klein 9B)", "family": null}
+{"slug": "onaho-figure-pov-sex-wan2-2-i2v-14b-insert-v4123-wan", "repo": "Octavian123/civit2", "path": "onaho-figure-pov-sex-wan2-2-i2v-14b-insert-v4123-wan.safetensors", "reason": "out of scope (base/family: Wan Video 2.2 I2V-A14B)", "family": null}
+{"slug": "one-girl-2-penises-sd15", "repo": "Octavian123/civit2", "path": "one-girl-2-penises-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "oral-pov-realistic-sd15", "repo": "Octavian123/civit2", "path": "oral-pov-realistic-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "oral-sex-sitting-blowjob-sd15-v3-0", "repo": "Octavian123/civit2", "path": "oral-sex-sitting-blowjob-sd15-v3-0.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "oral-sex-sitting-blowjob-sd15", "repo": "Octavian123/civit2", "path": "oral-sex-sitting-blowjob-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
 {"slug": "otomo-sakura-beatmania-iidx-xl", "repo": "Octavian123/civit2", "path": "otomo-sakura-beatmania-iidx-xl.safetensors", "reason": "out of scope (base/family: Other)", "family": null}
 {"slug": "paizuri-fellatio-h3", "repo": "Octavian123/civit2", "path": "paizuri-fellatio-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
+{"slug": "pakfem3-sd15", "repo": "Octavian123/civit2", "path": "pakfem3-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "panthro-thundercats-sd15-v3-0", "repo": "Octavian123/civit2", "path": "panthro-thundercats-sd15-v3-0.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "panthro-thundercats-sd15", "repo": "Octavian123/civit2", "path": "panthro-thundercats-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "panties-in-mouth-flux2", "repo": "Octavian123/civit2", "path": "panties-in-mouth-flux2.safetensors", "reason": "out of scope (base/family: Flux.2 Klein 9B)", "family": null}
+{"slug": "panties-lowered-flux2", "repo": "Octavian123/civit2", "path": "panties-lowered-flux2.safetensors", "reason": "out of scope (base/family: Flux.2 Klein 9B)", "family": null}
+{"slug": "panties-lowered-zimage", "repo": "Octavian123/civit2", "path": "panties-lowered-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
+{"slug": "parnia-chubby-and-charming-flux", "repo": "Octavian123/civit2", "path": "parnia-chubby-and-charming-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
 {"slug": "pdpovmiss-zimage", "repo": "Octavian123/civit2", "path": "pdpovmiss-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
+{"slug": "peek-into-panties-zimage", "repo": "Octavian123/civit2", "path": "peek-into-panties-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
+{"slug": "penis-envy-chroma", "repo": "Octavian123/civit2", "path": "penis-envy-chroma.safetensors", "reason": "out of scope (base/family: Chroma)", "family": null}
+{"slug": "penis-pizza-sd15", "repo": "Octavian123/civit2", "path": "penis-pizza-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "penis-sd15", "repo": "Octavian123/civit2", "path": "penis-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "perreo-dancing-ass-grinding-wan2-1-t2v-14b-wan", "repo": "Octavian123/civit2", "path": "perreo-dancing-ass-grinding-wan2-1-t2v-14b-wan.safetensors", "reason": "out of scope (base/family: Wan Video)", "family": null}
 {"slug": "pictorial-adventures-flux-2-il-flux2", "repo": "Octavian123/civit2", "path": "pictorial-adventures-flux-2-il-flux2.safetensors", "reason": "out of scope (base/family: Flux.2 Klein 4B)", "family": null}
 {"slug": "pin-point-hamedoku-orikou-jk-pet-hazuki-ay-anima", "repo": "Octavian123/civit2", "path": "pin-point-hamedoku-orikou-jk-pet-hazuki-ay-anima.safetensors", "reason": "possible minor-coded term: jk", "family": "anima"}
 {"slug": "pixel-art-spritesheet-4-walk-combat-32x48-xl", "repo": "Octavian123/civit2", "path": "pixel-art-spritesheet-4-walk-combat-32x48-xl.safetensors", "reason": "out of scope (base/family: Boogu)", "family": null}
+{"slug": "pixxie-retro-neon-edition-zimage", "repo": "Octavian123/civit2", "path": "pixxie-retro-neon-edition-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
+{"slug": "playboy-magazine-cover-flux", "repo": "Octavian123/civit2", "path": "playboy-magazine-cover-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
+{"slug": "playboy-magazine-cover-style-sd15", "repo": "Octavian123/civit2", "path": "playboy-magazine-cover-style-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
 {"slug": "pose-control-moss", "repo": "Octavian123/civit2", "path": "pose-control-moss.safetensors", "reason": "out of scope (base/family: Other)", "family": null}
 {"slug": "pose-creator-v1-moss", "repo": "Octavian123/civit2", "path": "pose-creator-v1-moss.safetensors", "reason": "checkpoint, not a LoRA", "family": "moss"}
 {"slug": "poselineartlora-qwen", "repo": "Octavian123/civit2", "path": "poselineartlora-qwen.safetensors", "reason": "out of scope (base/family: Qwen 2.1)", "family": null}
+{"slug": "poselineartlora-v1-qwen", "repo": "Octavian123/civit2", "path": "poselineartlora-v1-qwen.safetensors", "reason": "out of scope (base/family: Qwen 2.1)", "family": null}
+{"slug": "pov-pussy-selfie-flux2", "repo": "Octavian123/civit2", "path": "pov-pussy-selfie-flux2.safetensors", "reason": "out of scope (base/family: Flux.2 Klein 9B)", "family": null}
+{"slug": "pronebone-sex-high-wan", "repo": "Octavian123/civit2", "path": "pronebone-sex-high-wan.safetensors", "reason": "out of scope (base/family: Wan Video 2.2 T2V-A14B)", "family": null}
+{"slug": "pulling-put-panties-zimage", "repo": "Octavian123/civit2", "path": "pulling-put-panties-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
+{"slug": "pvc-figure-statues-sd15", "repo": "Octavian123/civit2", "path": "pvc-figure-statues-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
 {"slug": "pvc-style-model-movable-figure-model-anima", "repo": "Octavian123/civit2", "path": "pvc-style-model-movable-figure-model-anima.safetensors", "reason": "checkpoint, not a LoRA", "family": "anima"}
+{"slug": "rainbow-mika-street-fighter-sd15", "repo": "Octavian123/civit2", "path": "rainbow-mika-street-fighter-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
 {"slug": "re-zero-futa-on-male-flux", "repo": "Octavian123/civit2", "path": "re-zero-futa-on-male-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
+{"slug": "real-brutal-dildo-sd15-v1-0", "repo": "Octavian123/civit2", "path": "real-brutal-dildo-sd15-v1-0.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "real-brutal-dildo-sd15", "repo": "Octavian123/civit2", "path": "real-brutal-dildo-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "real-penis-big-dick-dand-huge-white-penis-sd15-sd-1-5-v1-0", "repo": "Octavian123/civit2", "path": "real-penis-big-dick-dand-huge-white-penis-sd15-sd-1-5-v1-0.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "real-penis-big-dick-dand-huge-white-penis-sd15", "repo": "Octavian123/civit2", "path": "real-penis-big-dick-dand-huge-white-penis-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
 {"slug": "realism-by-stable-yogi-moss", "repo": "Octavian123/civit2", "path": "realism-by-stable-yogi-moss.safetensors", "reason": "checkpoint, not a LoRA", "family": "moss"}
 {"slug": "realism-flux", "repo": "Octavian123/civit2", "path": "realism-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
+{"slug": "realistic-asshole-anus-behind-thong-sd15", "repo": "Octavian123/civit2", "path": "realistic-asshole-anus-behind-thong-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "realistic-cum-on-face-sd15", "repo": "Octavian123/civit2", "path": "realistic-cum-on-face-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
 {"slug": "retro-anime-mix-by-shrekman-h3", "repo": "Octavian123/civit2", "path": "retro-anime-mix-by-shrekman-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
 {"slug": "retro-anime-mix-by-shrekman-ltx2", "repo": "Octavian123/civit2", "path": "retro-anime-mix-by-shrekman-ltx2.safetensors", "reason": "out of scope (base/family: LTXV 2.3)", "family": null}
+{"slug": "retro-neo-noir-illustriousxl-zimageturbo-f-chroma", "repo": "Octavian123/civit2", "path": "retro-neo-noir-illustriousxl-zimageturbo-f-chroma.safetensors", "reason": "out of scope (base/family: Chroma)", "family": null}
+{"slug": "retro-neo-noir-illustriousxl-zimageturbo-f-flux", "repo": "Octavian123/civit2", "path": "retro-neo-noir-illustriousxl-zimageturbo-f-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
+{"slug": "retro-neo-noir-illustriousxl-zimageturbo-f-zimage", "repo": "Octavian123/civit2", "path": "retro-neo-noir-illustriousxl-zimageturbo-f-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
+{"slug": "reverse-cowgirl-trans-v1739-wan", "repo": "Octavian123/civit2", "path": "reverse-cowgirl-trans-v1739-wan.safetensors", "reason": "out of scope (base/family: Wan Video 2.2 T2V-A14B)", "family": null}
+{"slug": "reverse-piledriver-upside-down-piledriver-flux", "repo": "Octavian123/civit2", "path": "reverse-piledriver-upside-down-piledriver-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
 {"slug": "revulva-v1-qwen", "repo": "Octavian123/civit2", "path": "revulva-v1-qwen.safetensors", "reason": "out of scope (base/family: Qwen 2.1)", "family": null}
 {"slug": "rex-version-macross-7-sd15", "repo": "Octavian123/civit2", "path": "rex-version-macross-7-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
 {"slug": "riding-a-motorcycle-flux", "repo": "Octavian123/civit2", "path": "riding-a-motorcycle-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
+{"slug": "rimming-woman-rimming-man-s-ass-anilingus-wan", "repo": "Octavian123/civit2", "path": "rimming-woman-rimming-man-s-ass-anilingus-wan.safetensors", "reason": "out of scope (base/family: Wan Video 14B i2v 480p)", "family": null}
+{"slug": "ring-girl-sexy-ring-girl-boxing-mma-match-flux", "repo": "Octavian123/civit2", "path": "ring-girl-sexy-ring-girl-boxing-mma-match-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
+{"slug": "rino99-style-sd15", "repo": "Octavian123/civit2", "path": "rino99-style-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
 {"slug": "rough-sex-fucked-silly-il-chroma-shrekman-chroma-2", "repo": "Octavian123/civit2", "path": "rough-sex-fucked-silly-il-chroma-shrekman-chroma-2.safetensors", "reason": "out of scope (base/family: Chroma)", "family": null}
 {"slug": "rough-sex-fucked-silly-il-chroma-shrekman-chroma", "repo": "Octavian123/civit2", "path": "rough-sex-fucked-silly-il-chroma-shrekman-chroma.safetensors", "reason": "out of scope (base/family: Chroma)", "family": null}
 {"slug": "rough-sex-fucked-silly-il-chroma-shrekman-h3", "repo": "Octavian123/civit2", "path": "rough-sex-fucked-silly-il-chroma-shrekman-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
 {"slug": "round-firm-breasts-massage-breasts-lotion-h3", "repo": "Octavian123/civit2", "path": "round-firm-breasts-massage-breasts-lotion-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
 {"slug": "rvr-style-minimax-h3", "repo": "Octavian123/civit2", "path": "rvr-style-minimax-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
+{"slug": "saint-patrick-s-day-sd15", "repo": "Octavian123/civit2", "path": "saint-patrick-s-day-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "samantha-the-curvy-heartbreaker-flux", "repo": "Octavian123/civit2", "path": "samantha-the-curvy-heartbreaker-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
+{"slug": "samurai-x-battousai-kenshi-sd15", "repo": "Octavian123/civit2", "path": "samurai-x-battousai-kenshi-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "san-mononoke-hime-sd15", "repo": "Octavian123/civit2", "path": "san-mononoke-hime-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
 {"slug": "sandal-spanking-bdsm-spanking-qwen", "repo": "Octavian123/civit2", "path": "sandal-spanking-bdsm-spanking-qwen.safetensors", "reason": "out of scope (base/family: Qwen 2.1)", "family": null}
 {"slug": "savannah-phoenix-zimage", "repo": "Octavian123/civit2", "path": "savannah-phoenix-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
+{"slug": "scarlet-skips-zimage", "repo": "Octavian123/civit2", "path": "scarlet-skips-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
 {"slug": "schnitza-anima", "repo": "Octavian123/civit2", "path": "schnitza-anima.safetensors", "reason": "checkpoint, not a LoRA", "family": "anima"}
 {"slug": "school-uniform-bdsm-flux", "repo": "Octavian123/civit2", "path": "school-uniform-bdsm-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
 {"slug": "sci-fi-motorcycles-flux", "repo": "Octavian123/civit2", "path": "sci-fi-motorcycles-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
 {"slug": "scribble-control-moss", "repo": "Octavian123/civit2", "path": "scribble-control-moss.safetensors", "reason": "out of scope (base/family: Other)", "family": null}
+{"slug": "seashell-flux", "repo": "Octavian123/civit2", "path": "seashell-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
 {"slug": "secret-child-of-talos-skyrim-anima", "repo": "Octavian123/civit2", "path": "secret-child-of-talos-skyrim-anima.safetensors", "reason": "possible minor-coded term: child", "family": "anima"}
 {"slug": "segmentation-control-moss", "repo": "Octavian123/civit2", "path": "segmentation-control-moss.safetensors", "reason": "out of scope (base/family: Other)", "family": null}
+{"slug": "seisaku-kanous-manga-style-zit-version-zimage", "repo": "Octavian123/civit2", "path": "seisaku-kanous-manga-style-zit-version-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
 {"slug": "seishoujo-artstyle-xl", "repo": "Octavian123/civit2", "path": "seishoujo-artstyle-xl.safetensors", "reason": "out of scope (base/family: Other)", "family": null}
 {"slug": "self-anal-fisting-minimax-h3-k3nk-h3", "repo": "Octavian123/civit2", "path": "self-anal-fisting-minimax-h3-k3nk-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
+{"slug": "sex-machine-blowjob-wan", "repo": "Octavian123/civit2", "path": "sex-machine-blowjob-wan.safetensors", "reason": "out of scope (base/family: Wan Video 14B i2v 480p)", "family": null}
+{"slug": "she-ra-sd15", "repo": "Octavian123/civit2", "path": "she-ra-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
 {"slug": "shibari-hana-to-hebi-qwen", "repo": "Octavian123/civit2", "path": "shibari-hana-to-hebi-qwen.safetensors", "reason": "out of scope (base/family: Qwen 2.1)", "family": null}
 {"slug": "shibari-hana-to-hebi-zimage", "repo": "Octavian123/civit2", "path": "shibari-hana-to-hebi-zimage.safetensors", "reason": "out of scope (base/family: ZImageBase)", "family": null}
 {"slug": "shinobisat-cast-marisvela-zimage", "repo": "Octavian123/civit2", "path": "shinobisat-cast-marisvela-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
 {"slug": "showering-and-foam-ltx2", "repo": "Octavian123/civit2", "path": "showering-and-foam-ltx2.safetensors", "reason": "out of scope (base/family: LTXV 2.3)", "family": null}
+{"slug": "side-by-side-dating-profile-chroma", "repo": "Octavian123/civit2", "path": "side-by-side-dating-profile-chroma.safetensors", "reason": "out of scope (base/family: Chroma)", "family": null}
+{"slug": "side-spooning-trans-low-wan", "repo": "Octavian123/civit2", "path": "side-spooning-trans-low-wan.safetensors", "reason": "out of scope (base/family: Wan Video 2.2 T2V-A14B)", "family": null}
+{"slug": "silverhawks-style-sd15", "repo": "Octavian123/civit2", "path": "silverhawks-style-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
 {"slug": "sitastridemotorcycle-flux", "repo": "Octavian123/civit2", "path": "sitastridemotorcycle-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
+{"slug": "skinfluting-cock-on-mouth-zimage", "repo": "Octavian123/civit2", "path": "skinfluting-cock-on-mouth-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
+{"slug": "slam-bam-wham-clam-slam-ass-ass-slam-on-gr-huny", "repo": "Octavian123/civit2", "path": "slam-bam-wham-clam-slam-ass-ass-slam-on-gr-huny.safetensors", "reason": "out of scope (base/family: Hunyuan Video)", "family": null}
+{"slug": "sloppy-bj-high-wan", "repo": "Octavian123/civit2", "path": "sloppy-bj-high-wan.safetensors", "reason": "out of scope (base/family: Wan Video 2.2 T2V-A14B)", "family": null}
 {"slug": "smart-glasses-pov-minimax-h3", "repo": "Octavian123/civit2", "path": "smart-glasses-pov-minimax-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
+{"slug": "snakes-and-woman-concept-sd15", "repo": "Octavian123/civit2", "path": "snakes-and-woman-concept-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "snes-cover-sd15", "repo": "Octavian123/civit2", "path": "snes-cover-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
 {"slug": "snofs-nsfw-lower-rank-flux2", "repo": "Octavian123/civit2", "path": "snofs-nsfw-lower-rank-flux2.safetensors", "reason": "out of scope (base/family: Flux.2 Klein 9B)", "family": null}
 {"slug": "snofs-sex-nudes-other-fun-stuff-krea2", "repo": "Octavian123/civit2", "path": "snofs-sex-nudes-other-fun-stuff-krea2.safetensors", "reason": "checkpoint, not a LoRA", "family": "krea2"}
+{"slug": "sorceress-of-castle-grayskull-sd1-5-and-fl-flux", "repo": "Octavian123/civit2", "path": "sorceress-of-castle-grayskull-sd1-5-and-fl-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
+{"slug": "sorceress-of-castle-grayskull-sd1-5-and-fl-sd15", "repo": "Octavian123/civit2", "path": "sorceress-of-castle-grayskull-sd1-5-and-fl-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
 {"slug": "spanking-marks-bdsm-spanking-qwen", "repo": "Octavian123/civit2", "path": "spanking-marks-bdsm-spanking-qwen.safetensors", "reason": "out of scope (base/family: Qwen 2.1)", "family": null}
+{"slug": "spicy-lingerie-1-zimage", "repo": "Octavian123/civit2", "path": "spicy-lingerie-1-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
 {"slug": "staci-80s-zit-mmh3-h3", "repo": "Octavian123/civit2", "path": "staci-80s-zit-mmh3-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
 {"slug": "standing-on-footpegs-of-motorcycle-flux", "repo": "Octavian123/civit2", "path": "standing-on-footpegs-of-motorcycle-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
+{"slug": "standing-sex-v9234-wan", "repo": "Octavian123/civit2", "path": "standing-sex-v9234-wan.safetensors", "reason": "out of scope (base/family: Wan Video 2.2 T2V-A14B)", "family": null}
 {"slug": "star-trek-tng-cricket-phaser-qwen", "repo": "Octavian123/civit2", "path": "star-trek-tng-cricket-phaser-qwen.safetensors", "reason": "out of scope (base/family: Qwen 2.1)", "family": null}
+{"slug": "steelheart-silverhawks-sd15-v1-0", "repo": "Octavian123/civit2", "path": "steelheart-silverhawks-sd15-v1-0.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "steelheart-silverhawks-sd15", "repo": "Octavian123/civit2", "path": "steelheart-silverhawks-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "steelpunk-interior-buildings-flux-ad-flux", "repo": "Octavian123/civit2", "path": "steelpunk-interior-buildings-flux-ad-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
+{"slug": "straining-expression-il-sd-flux", "repo": "Octavian123/civit2", "path": "straining-expression-il-sd-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
+{"slug": "suitcase-bondage-il-z-sd-zimage", "repo": "Octavian123/civit2", "path": "suitcase-bondage-il-z-sd-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
+{"slug": "supermodel-runway-model-flux-il-sd-flux", "repo": "Octavian123/civit2", "path": "supermodel-runway-model-flux-il-sd-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
+{"slug": "suspension-bondage-bondage-suspension-zimage", "repo": "Octavian123/civit2", "path": "suspension-bondage-bondage-suspension-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
+{"slug": "t-rex-studio-t-rex-animation-style-zimage", "repo": "Octavian123/civit2", "path": "t-rex-studio-t-rex-animation-style-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
+{"slug": "taking-selfie-from-third-person-view-flux2", "repo": "Octavian123/civit2", "path": "taking-selfie-from-third-person-view-flux2.safetensors", "reason": "out of scope (base/family: Flux.2 Klein 9B)", "family": null}
+{"slug": "taylor-open-frame-flux-2", "repo": "Octavian123/civit2", "path": "taylor-open-frame-flux-2.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
+{"slug": "taylor-open-frame-flux", "repo": "Octavian123/civit2", "path": "taylor-open-frame-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
 {"slug": "teasing-sensual-blowjob-minimax-h3", "repo": "Octavian123/civit2", "path": "teasing-sensual-blowjob-minimax-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
+{"slug": "teela-loramasters-of-universe-sd15", "repo": "Octavian123/civit2", "path": "teela-loramasters-of-universe-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
 {"slug": "teen-18-moss-xl", "repo": "Octavian123/civit2", "path": "teen-18-moss-xl.safetensors", "reason": "possible minor-coded term: teen", "family": "moss"}
 {"slug": "theofficialpit-style-h3", "repo": "Octavian123/civit2", "path": "theofficialpit-style-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
+{"slug": "three-quarters-view-three-quarters-angle-3-zimage", "repo": "Octavian123/civit2", "path": "three-quarters-view-three-quarters-angle-3-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
+{"slug": "thrown-away-defeat-garbage-bags-alley-tras-flux2", "repo": "Octavian123/civit2", "path": "thrown-away-defeat-garbage-bags-alley-tras-flux2.safetensors", "reason": "out of scope (base/family: Flux.2 Klein 9B-base)", "family": null}
+{"slug": "thrown-away-defeat-garbage-bags-alley-tras-zimage", "repo": "Octavian123/civit2", "path": "thrown-away-defeat-garbage-bags-alley-tras-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
+{"slug": "thunder-tank-vehicle-sd15", "repo": "Octavian123/civit2", "path": "thunder-tank-vehicle-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
 {"slug": "thunderbike-gt5-flux", "repo": "Octavian123/civit2", "path": "thunderbike-gt5-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
+{"slug": "tig-ol-bitties-big-natural-tits-breasts-mh-flux", "repo": "Octavian123/civit2", "path": "tig-ol-bitties-big-natural-tits-breasts-mh-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
 {"slug": "tig-ol-bitties-big-natural-tits-breasts-mh-h3", "repo": "Octavian123/civit2", "path": "tig-ol-bitties-big-natural-tits-breasts-mh-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
+{"slug": "tig-ol-bitties-big-natural-tits-breasts-mh-sd15", "repo": "Octavian123/civit2", "path": "tig-ol-bitties-big-natural-tits-breasts-mh-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "tig-ol-bitties-big-natural-tits-breasts-mh-zimage", "repo": "Octavian123/civit2", "path": "tig-ol-bitties-big-natural-tits-breasts-mh-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
+{"slug": "tit-job-realistic-sd15", "repo": "Octavian123/civit2", "path": "tit-job-realistic-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "tit-job-sd15", "repo": "Octavian123/civit2", "path": "tit-job-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "titfuck-paizuri-high-wan", "repo": "Octavian123/civit2", "path": "titfuck-paizuri-high-wan.safetensors", "reason": "out of scope (base/family: Wan Video 2.2 T2V-A14B)", "family": null}
+{"slug": "toilet-seat-on-head-zimage", "repo": "Octavian123/civit2", "path": "toilet-seat-on-head-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
+{"slug": "toilet-transformation-toilet-objectificati-zimage", "repo": "Octavian123/civit2", "path": "toilet-transformation-toilet-objectificati-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
+{"slug": "torso-onahole-il-z-sd-zimage", "repo": "Octavian123/civit2", "path": "torso-onahole-il-z-sd-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
+{"slug": "tradwife-traditional-wife-flux-il-sd-flux", "repo": "Octavian123/civit2", "path": "tradwife-traditional-wife-flux-il-sd-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
 {"slug": "trans-futa-missionary-high-wan", "repo": "Octavian123/civit2", "path": "trans-futa-missionary-high-wan.safetensors", "reason": "out of scope (base/family: Wan Video 2.2 I2V-A14B)", "family": null}
 {"slug": "trans-futa-missionary-high-wan21", "repo": "Octavian123/civit2", "path": "trans-futa-missionary-high-wan21.safetensors", "reason": "out of scope (base/family: Wan Video 14B i2v 720p)", "family": null}
 {"slug": "trans-futa-missionary-low-wan", "repo": "Octavian123/civit2", "path": "trans-futa-missionary-low-wan.safetensors", "reason": "out of scope (base/family: Wan Video 2.2 I2V-A14B)", "family": null}
+{"slug": "transex-reverse-cowgirl-sd15", "repo": "Octavian123/civit2", "path": "transex-reverse-cowgirl-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "transex-style-sd15-v6-0", "repo": "Octavian123/civit2", "path": "transex-style-sd15-v6-0.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "transex-style-sd15", "repo": "Octavian123/civit2", "path": "transex-style-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
 {"slug": "turbo-nijikaido-w4a4-v8824-krea2", "repo": "Octavian123/civit2", "path": "turbo-nijikaido-w4a4-v8824-krea2.safetensors", "reason": "checkpoint, not a LoRA", "family": "krea2"}
+{"slug": "twerking-v1354-wan", "repo": "Octavian123/civit2", "path": "twerking-v1354-wan.safetensors", "reason": "out of scope (base/family: Wan Video 2.2 T2V-A14B)", "family": null}
+{"slug": "twerking-v1367-wan", "repo": "Octavian123/civit2", "path": "twerking-v1367-wan.safetensors", "reason": "out of scope (base/family: Wan Video 2.2 T2V-A14B)", "family": null}
+{"slug": "twerking-v3087-wan", "repo": "Octavian123/civit2", "path": "twerking-v3087-wan.safetensors", "reason": "out of scope (base/family: Wan Video 2.2 I2V-A14B)", "family": null}
 {"slug": "us-military-soldiers-zimage", "repo": "Octavian123/civit2", "path": "us-military-soldiers-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
 {"slug": "v1-0-shotaro-kaneda-s-bike-akira-anima", "repo": "Octavian123/civit2", "path": "v1-0-shotaro-kaneda-s-bike-akira-anima.safetensors", "reason": "possible minor-coded term: shotaro", "family": "anima"}
 {"slug": "v67-nex-fantasy-zimage", "repo": "Octavian123/civit2", "path": "v67-nex-fantasy-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
 {"slug": "v67-psychedelic-zimage", "repo": "Octavian123/civit2", "path": "v67-psychedelic-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
 {"slug": "v67-twins-and-mirror-flux", "repo": "Octavian123/civit2", "path": "v67-twins-and-mirror-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
 {"slug": "v67-vivid-color-palette-zimage", "repo": "Octavian123/civit2", "path": "v67-vivid-color-palette-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
+{"slug": "valentines-day-sd15", "repo": "Octavian123/civit2", "path": "valentines-day-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
 {"slug": "virtual-character-kinoshita-yuka-ill", "repo": "Octavian123/civit2", "path": "virtual-character-kinoshita-yuka-ill.safetensors", "reason": "possible minor-coded term: jc", "family": "illustrious"}
 {"slug": "virtual-character-misaki-mayo-ill", "repo": "Octavian123/civit2", "path": "virtual-character-misaki-mayo-ill.safetensors", "reason": "possible minor-coded term: jc", "family": "illustrious"}
 {"slug": "virtual-character-sasamoto-ikumi-ill", "repo": "Octavian123/civit2", "path": "virtual-character-sasamoto-ikumi-ill.safetensors", "reason": "possible minor-coded term: jc", "family": "illustrious"}
+{"slug": "vore-internals-sd15-sd1-5-v1", "repo": "Octavian123/civit2", "path": "vore-internals-sd15-sd1-5-v1.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "vore-internals-sd15", "repo": "Octavian123/civit2", "path": "vore-internals-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "wan-2-2-pussy-and-anus-wan-v2-high", "repo": "Octavian123/civit2", "path": "wan-2-2-pussy-and-anus-wan-v2-high.safetensors", "reason": "out of scope (base/family: Wan Video 2.2 T2V-A14B)", "family": null}
+{"slug": "wan-2-2-pussy-and-anus-wan", "repo": "Octavian123/civit2", "path": "wan-2-2-pussy-and-anus-wan.safetensors", "reason": "out of scope (base/family: Wan Video 2.2 T2V-A14B)", "family": null}
 {"slug": "wan-2-2-wan-2-1-trans-futanari-missionary-wan", "repo": "Octavian123/civit2", "path": "wan-2-2-wan-2-1-trans-futanari-missionary-wan.safetensors", "reason": "out of scope (base/family: Wan Video 14B i2v 720p)", "family": null}
+{"slug": "wan-pussy-t2v-i2v-wan", "repo": "Octavian123/civit2", "path": "wan-pussy-t2v-i2v-wan.safetensors", "reason": "out of scope (base/family: Wan Video)", "family": null}
 {"slug": "wan2-1-i2v-480p-flaccid-v1-0", "repo": "Octavian123/civit2", "path": "wan2-1-i2v-480p-flaccid-v1-0.safetensors", "reason": "out of scope (base/family: Wan Video 14B i2v 480p)", "family": null}
 {"slug": "wan2-2-i2v-tentacled-v2-1-high-tawslora", "repo": "Octavian123/civit2", "path": "wan2-2-i2v-tentacled-v2-1-high-tawslora.safetensors", "reason": "out of scope (base/family: Wan Video 2.2 I2V-A14B)", "family": null}
 {"slug": "wan2-2-i2v-tentacled-v2-1-low-tawslora", "repo": "Octavian123/civit2", "path": "wan2-2-i2v-tentacled-v2-1-low-tawslora.safetensors", "reason": "out of scope (base/family: Wan Video 2.2 I2V-A14B)", "family": null}
 {"slug": "wan22-i2v-futa-cowgirl-low-noise", "repo": "Octavian123/civit2", "path": "wan22-i2v-futa-cowgirl-low-noise.safetensors", "reason": "out of scope (base/family: Wan Video 2.2 I2V-A14B)", "family": null}
 {"slug": "wanfutaonfuta", "repo": "Octavian123/civit2", "path": "wanfutaonfuta.safetensors", "reason": "out of scope (base/family: Wan Video 14B t2v)", "family": null}
+{"slug": "werewolf-sd15", "repo": "Octavian123/civit2", "path": "werewolf-sd15.safetensors", "reason": "out of scope (base/family: SD 1.5)", "family": null}
+{"slug": "wet-panties-flux2", "repo": "Octavian123/civit2", "path": "wet-panties-flux2.safetensors", "reason": "out of scope (base/family: Flux.2 Klein 9B)", "family": null}
+{"slug": "whaletail-flux2", "repo": "Octavian123/civit2", "path": "whaletail-flux2.safetensors", "reason": "out of scope (base/family: Flux.2 Klein 9B-base)", "family": null}
 {"slug": "what-dildo-to-ride-flux", "repo": "Octavian123/civit2", "path": "what-dildo-to-ride-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
 {"slug": "whisk-face-p-h3-image-black-h3", "repo": "Octavian123/civit2", "path": "whisk-face-p-h3-image-black-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
 {"slug": "whisk-face-p-h3-image-h3", "repo": "Octavian123/civit2", "path": "whisk-face-p-h3-image-h3.safetensors", "reason": "out of scope (base/family: MiniMax H3)", "family": null}
+{"slug": "wide-shot-long-shot-zoom-out-zimage", "repo": "Octavian123/civit2", "path": "wide-shot-long-shot-zoom-out-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
+{"slug": "window-voyeur-zimage", "repo": "Octavian123/civit2", "path": "window-voyeur-zimage.safetensors", "reason": "out of scope (base/family: ZImageTurbo)", "family": null}
+{"slug": "yasmine-ai-influencer-girl-flux", "repo": "Octavian123/civit2", "path": "yasmine-ai-influencer-girl-flux.safetensors", "reason": "out of scope (base/family: Flux.1 D)", "family": null}
 {"slug": "mcb-core-flux-v1", "repo": "Octavian123/mcb", "path": "mcb-core-flux-v1.safetensors", "reason": "out of scope (base/family: flux)", "family": null}
 {"slug": "mcb-core-flux-v2-6", "repo": "Octavian123/mcb", "path": "mcb-core-flux-v2-6.safetensors", "reason": "out of scope (base/family: flux)", "family": null}
 {"slug": "andrewpns-v2-e04-KREA2", "repo": "Octavian123/mine", "path": "andrewpns-v2-e04-KREA2.safetensors", "reason": "zero-byte placeholder", "family": "krea2"}
@@ -2415,11 +2884,14 @@
 {"slug": "prvpns-penis-for-v1-ill", "repo": "Octavian123/civit", "path": "prvpns-penis-for-v1-ill.safetensors", "reason": "possible minor-coded term in description: underage", "family": "illustrious"}
 {"slug": "risa-chinjao-musume-sanbiki-no-kappa-to-gy-ill", "repo": "Octavian123/civit", "path": "risa-chinjao-musume-sanbiki-no-kappa-to-gy-ill.safetensors", "reason": "possible minor-coded term: jk", "family": "illustrious"}
 {"slug": "tmnt-caitlin-anima", "repo": "Octavian123/civit", "path": "tmnt-caitlin-anima.safetensors", "reason": "possible minor-coded term: teenage", "family": "anima"}
+{"slug": "emilie-de-rochefort-lili-from-tekken-krea2", "repo": "Octavian123/civit2", "path": "emilie-de-rochefort-lili-from-tekken-krea2.safetensors", "reason": "possible minor-coded term: lolica", "family": "krea2"}
 {"slug": "futa-with-dildo-ill", "repo": "Octavian123/civit2", "path": "futa-with-dildo-ill.safetensors", "reason": "possible minor-coded term in description: shota", "family": "illustrious"}
 {"slug": "henkuma-style-ponyxl-huge-cock-xd-moss", "repo": "Octavian123/civit2", "path": "henkuma-style-ponyxl-huge-cock-xd-moss.safetensors", "reason": "possible minor-coded term in description: loli", "family": "moss"}
 {"slug": "kawaii-wide-angle-krea2", "repo": "Octavian123/civit2", "path": "kawaii-wide-angle-krea2.safetensors", "reason": "possible minor-coded term in description: lolita", "family": "krea2"}
 {"slug": "konami-metal-gear-solid-peace-walker-cocoo-anima", "repo": "Octavian123/civit2", "path": "konami-metal-gear-solid-peace-walker-cocoo-anima.safetensors", "reason": "possible minor-coded term in description: loli", "family": "anima"}
+{"slug": "maya-natsume-tenjou-tenge-ill", "repo": "Octavian123/civit2", "path": "maya-natsume-tenjou-tenge-ill.safetensors", "reason": "possible minor-coded term in description: loli", "family": "illustrious"}
 {"slug": "prvpns-penis-for-ill", "repo": "Octavian123/civit2", "path": "prvpns-penis-for-ill.safetensors", "reason": "possible minor-coded term in description: underage", "family": "illustrious"}
+{"slug": "stockiel-anarchy-stocking-panty-stocking-w-ill", "repo": "Octavian123/civit2", "path": "stockiel-anarchy-stocking-panty-stocking-w-ill.safetensors", "reason": "possible minor-coded term in description: Lolita", "family": "illustrious"}
 {"slug": "tmnt-2003-4kids-turtles-animated-series-st-krea2", "repo": "Octavian123/civit2", "path": "tmnt-2003-4kids-turtles-animated-series-st-krea2.safetensors", "reason": "possible minor-coded term: teenage", "family": "krea2"}
 {"slug": "ubette-goth-futa-oc-anima", "repo": "Octavian123/civit2", "path": "ubette-goth-futa-oc-anima.safetensors", "reason": "possible minor-coded term in description: loli", "family": "anima"}
 {"slug": "civitai:1025710", "repo": "candidate", "path": "Age Slider LoRA | Illustrious XL", "reason": "possible minor-coded term: Age Slider", "family": "illustrious"}
@@ -2509,3 +2981,7 @@
 {"slug": "civitai:3051633", "repo": "candidate", "path": "Starfire - DCAMU Teen Titans vs Justice League", "reason": "possible minor-coded term: Teen", "family": "illustrious"}
 {"slug": "civitai:3051915", "repo": "candidate", "path": "Rumi Tsurumi (鶴見 留美) - Oregairu: My Teen Romantic Comedy SNAFU (やはり俺の青春ラブコメはまちがっている。) Anima", "reason": "possible minor-coded term: Teen", "family": "anima"}
 {"slug": "civitai:3053108", "repo": "candidate", "path": "MOSS_age_slider", "reason": "possible minor-coded term: age slider", "family": "moss"}
+{"slug": "civitai:3057141", "repo": "candidate", "path": "成龙历险记 小玉", "reason": "possible minor-coded term: teenager", "family": "illustrious"}
+{"slug": "civitai:3054205", "repo": "candidate", "path": "Nishiumi Mannenrou", "reason": "possible minor-coded term in description: Lolita", "family": "anima"}
+{"slug": "civitai:3056056", "repo": "candidate", "path": "Juliet from Prague", "reason": "possible minor-coded term: teenager", "family": "krea2"}
+{"slug": "civitai:2124949", "repo": "candidate", "path": "Raven/Rachel Roth - Teen Titans [MOSS/ZImageTurbo/Chroma]", "reason": "possible minor-coded term: Teen", "family": "moss"}

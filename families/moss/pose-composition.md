@@ -1,6 +1,6 @@
 # MOSS (Moss Image / kromoss) — pose-composition
 
-17 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+19 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 | slug | triggers | strength | dl | what | source |
 |---|---|---|---:|---|---|
@@ -14,7 +14,9 @@
 | `get-bent-umbrium-moss` | bentstyle | 1.0 | 459 | Bend her over and give it to her nice and proper. I had trouble getting her flat to the table, so built a smal | [link](https://civitai.com/models/3032806?modelVersionId=3454748) |
 | `hidden-allure-moss` | not stated | 0.5 - 1.0 | 454 | This LoRA is designed for female subjects (18+) in standing poses, typically framed as a portrait, and often p | [link](https://civitai.com/models/3018265?modelVersionId=3426831) |
 | `couples-anatomy-v1-moss` | not stated | 0.8 | 385 | 双人构图 + 解剖细节增强 / Couple compositions & anatomy detail for MOSS Image 中文 给 MOSS Image 用的双人构图与解剖细节 LoRA。训练集是 93 张 | [link](https://civitai.com/models/3047111?modelVersionId=3464293) |
+| `balcony-view-moss` | p33p, see notes | not stated | 370 | try: p33p  {high-angle/low-angle/} view {from the side/} of a woman standing on balcony.  with {glass/} doorwa | [link](https://civitai.com/models/3026912?modelVersionId=3437844) |
 | `female-pov-xl` | female pov, mating press | 0.6-1.0 | 366 | HerPOV — First-Person Female POV -- Moss Image Base-- V2.0 Update: Reduced the data set to 69 very high qualit | [link](https://civitai.com/models/2725753?modelVersionId=3414323) |
+| `upright-kneeling-moss` | upright-kneeling | not stated | 249 | try: she is is upright-kneeling additional: hands behind her head arching back knees apart Yes, I know, it's f | [link](https://civitai.com/models/3030123?modelVersionId=3442126) |
 | `yogabowpose-moss` | yogabowpose | not stated | 220 | The keyword for this model is "yogabowpose" You can change the outfit, background, hair color, accessories. Th | [link](https://civitai.com/models/2987547?modelVersionId=3428836) |
 | `male-bottom-pov-moss` | not stated | not stated | 214 | Male Bottom Pov Vanilla Anima does not seem to reliably generate bottom-POV compositions using tags or caption | [link](https://civitai.com/models/2649530?modelVersionId=3427803) |
 | `the-look-moss` | LookDaal | 1.0 | 189 | The Look – A LoRA for Natural Faces & Expressions Trigger keyword: LookDaal Model type: LoRA (Flux) 🌟 What is  | [link](https://civitai.com/models/1882546?modelVersionId=3464483) |

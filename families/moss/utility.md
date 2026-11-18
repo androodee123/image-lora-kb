@@ -1,6 +1,6 @@
 # MOSS (Moss Image / kromoss) — utility
 
-22 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+28 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 | slug | triggers | strength | dl | what | source |
 |---|---|---|---:|---|---|
@@ -14,13 +14,19 @@
 | `amateur-slider-moss` | not stated | not stated | 1958 | Amateur Slider shifts the image quality and photographic style between clean, professional photography and the | [link](https://civitai.com/models/3039742?modelVersionId=3454778) |
 | `photo-quality-slider-moss` | not stated | 2 to 2 | 1473 | A slider LoRA that controls the overall photo quality of your generations, made for Moss Image. Trained with F | [link](https://civitai.com/models/3021900?modelVersionId=3431350) |
 | `pornmaster-cum-slider-moss` | cum, semen. | not stated | 1442 | 模型介紹為中英雙語，中文使用者可以關閉翻譯。 PornMaster 色情大師 Moss LORA權重最高建議使用到+4，超過+4對構圖影響很大。 The recommended maximum LORA weight i | [link](https://civitai.com/models/3020205?modelVersionId=3429108) |
+| `thighs-slider-moss` | not stated | 0 to 2 | 1293 | Recommended negative prompt: lowres, bad quality, worst quality, bad anatomy, jpeg artifacts, signature, water | [link](https://civitai.com/models/2535632?modelVersionId=3431911) |
 | `breast-slider-moss` | not stated | not stated | 1077 | See the examples to understand the effects, all images have WF embedded.  In my opinion, V2 is a clear improve | [link](https://civitai.com/models/3042936?modelVersionId=3463103) |
 | `beauty-filter-slider-moss` | not stated | not stated | 994 | Beauty Filter Slider – Moss Image A slider LoRA that controls how "filtered" and glamorous women look in your  | [link](https://civitai.com/models/3021908?modelVersionId=3431367) |
+| `breasts-slider-moss` | gigantic breasts | not stated | 662 | Recommended negative prompt: lowres, bad quality, worst quality, bad anatomy, jpeg artifacts, signature, water | [link](https://civitai.com/models/2100839?modelVersionId=3460796) |
+| `waist-slider-moss` | not stated | 0 to 2 | 574 | Recommended negative prompt: lowres, bad quality, worst quality, bad anatomy, jpeg artifacts, signature, water | [link](https://civitai.com/models/2521578?modelVersionId=3433747) |
+| `lips-size-slider-moss` | not stated | 0 to 2 | 511 | Recommended negative prompt: lowres, bad quality, worst quality, bad anatomy, jpeg artifacts, signature, water | [link](https://civitai.com/models/2533131?modelVersionId=3418227) |
 | `brightness-slider-moss` | not stated | not stated | 478 | MOSS V1 Recommended range -3 to 3 | [link](https://civitai.com/models/3016826?modelVersionId=3424762) |
 | `slider-age-moss` | not stated | not stated | 404 | Dataset is composed of 71 photograph of both men and women. Usage: - Positive: makes the subjects older. - Neg | [link](https://civitai.com/models/3025154?modelVersionId=3435576) |
 | `hips-slider-moss` | not stated | 0 to 2 | 296 | Recommended negative prompt: lowres, bad quality, worst quality, bad anatomy, jpeg artifacts, signature, water | [link](https://civitai.com/models/2546450?modelVersionId=3449997) |
 | `head-size-slider-moss` | not stated | not stated | 262 | 中文： 负值缩小头部，正值放大头部，可搭配动漫转真人 LoRA 使用。 英文： Negative values reduce head size, while positive values increase it. C | [link](https://civitai.com/models/3050174?modelVersionId=3468578) |
+| `juggernaut-dmd2-moss` | not stated | 1.0 | 247 | A huge thank you to RunDiffusion for sponsoring the compute for Juggernaut Moss. Without them none of this wou | [link](https://civitai.com/models/3054110?modelVersionId=3473794) |
 | `pastel-pinup-palooza-r7-moss` | kkpinup | not stated | 233 | Pastel Pinup Palooza r7 Trigger word: kkpinup Rank / Alpha: 32 Training steps: 3,000 License: Non-commercial O | [link](https://civitai.com/models/3023306?modelVersionId=3433174) |
+| `thick-arms-muscular-arms-slider-moss` | not stated | 0 to 2 | 232 | Recommended negative prompt: lowres, bad quality, worst quality, bad anatomy, jpeg artifacts, signature, water | [link](https://civitai.com/models/2843356?modelVersionId=3442051) |
 | `abs-slider-moss` | not stated | 0 to 2 | 167 | Recommended negative prompt: lowres, bad quality, worst quality, bad anatomy, jpeg artifacts, signature, water | [link](https://civitai.com/models/2513137?modelVersionId=3438321) |
 | `camera-zoom-slider-moss` | not stated | not stated | 102 | This Slider LoRA is designed to control the camera zoom (zoom-in / zoom-out) in anime-style illustrations. cau | [link](https://civitai.com/models/3049841?modelVersionId=3468127) |
 | `3d-skingrad-slider-moss` | not stated | not stated | 92 | This Slider LoRA is designed to control the skin shading (3D rendering) of anime-style characters. caution For | [link](https://civitai.com/models/3049827?modelVersionId=3468108) |

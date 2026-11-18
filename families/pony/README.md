@@ -1,20 +1,20 @@
 # Pony (Pony Diffusion XL) — text-to-image LoRAs
 
-On Graydient: **507** distinct LoRAs · HF repo only (needs adding to Graydient): **7** · ingest candidates: **1323**
+On Graydient: **1003** distinct LoRAs · HF repo only (needs adding to Graydient): **7** · ingest candidates: **1373**
 
 Per-category pages (sorted: Graydient first, then by CivitAI downloads). Complete data: `data/loras.jsonl` (filter `family == pony`).
 
 | category | on Graydient | HF only | page |
 |---|---:|---:|---|
-| character | 27 | 0 | [character.md](character.md) |
-| style | 36 | 0 | [style.md](style.md) |
-| anatomy | 79 | 3 | [anatomy.md](anatomy.md) |
-| clothing | 201 | 0 | [clothing.md](clothing.md) |
-| pose-composition | 3 | 0 | [pose-composition.md](pose-composition.md) |
-| quality-detail | 1 | 0 | [quality-detail.md](quality-detail.md) |
-| nsfw-act | 51 | 0 | [nsfw-act.md](nsfw-act.md) |
-| concept | 105 | 4 | [concept.md](concept.md) |
-| utility | 4 | 0 | [utility.md](utility.md) |
+| character | 92 | 0 | [character.md](character.md) |
+| style | 104 | 0 | [style.md](style.md) |
+| anatomy | 174 | 3 | [anatomy.md](anatomy.md) |
+| clothing | 228 | 0 | [clothing.md](clothing.md) |
+| pose-composition | 24 | 0 | [pose-composition.md](pose-composition.md) |
+| quality-detail | 23 | 0 | [quality-detail.md](quality-detail.md) |
+| nsfw-act | 165 | 0 | [nsfw-act.md](nsfw-act.md) |
+| concept | 181 | 4 | [concept.md](concept.md) |
+| utility | 12 | 0 | [utility.md](utility.md) |
 
 ## In another HF repo, not on Graydient (flag: needs adding)
 

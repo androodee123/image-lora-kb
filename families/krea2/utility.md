@@ -1,6 +1,6 @@
 # Krea2 (detailed-krea2) — utility
 
-77 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+80 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -16,6 +16,7 @@
 | `nipples_protruding_krea2_loraholic` | not stated | not stated | 9459 | Krea2: At high values like 4.0 and up they dont always look as good as i would like. But with good prompts and | [link](https://civitai.com/models/2554559?modelVersionId=3191856) |
 | `flaccid_erect_krea2_loraholic` | not stated | not stated | 8021 | Flaccid / Erection Slider It's finally here! The long-awaited erection slider. If you want the "matte" look of | [link](https://civitai.com/models/2832299?modelVersionId=3196123) |
 | `genital_color_krea2_loraholic` | not stated | not stated | 7400 | Genital Color Slider The sample images show well how this LoRA works. Other LoRAs, prompt, ethnicity etc will  | [link](https://civitai.com/models/2825933?modelVersionId=3188207) |
+| `body-weight-slider-skinny-fat-slider-krea2` | not stated | not stated | 7200 | Recommended negative prompt: lowres, bad quality, worst quality, bad anatomy, jpeg artifacts, signature, water | [link](https://civitai.com/models/2513759?modelVersionId=3129180) |
 | `hyperdetailed-colored-pencil-krea2` | ArsMJStyle, Colored pencil hyperdetailed realism, | 1.2 | 3656 | A LoRA inspired by one of my favourite styles of hyperdetailed colored pencil illustrations. This style captur | [link](https://civitai.com/models/1155749?modelVersionId=3113897) |
 | `pornmaster-cum-slider-krea2` | not stated | not stated | 2866 | 模型介紹為中英雙語，中文使用者可以關閉翻譯。 PornMaster 色情大師-Krea2 要生成精液時，必須在原本就能生成精液的模型上使用，或是搭配cum lora一起使用。 LORA權重:+20 to -?. 正面LO | [link](https://civitai.com/models/2989239?modelVersionId=3389436) |
 | `camera-sliders-height-orbit-back-rednode-krea2` | not stated | not stated | 2457 | I recommend you download my RedNode Studio It has automatic drivers built into my custom node to use these LOR | [link](https://civitai.com/models/2937168?modelVersionId=3324953) |
@@ -61,6 +62,7 @@
 | `james-tissot-victorian-elegance-turbo-krea2` | not stated | 0.85–1.0 | 360 | JAMES TISSOT — Victorian Elegance / LoRA (Krea2 Turbo) One weight slider — and the frame becomes an elegant Vi | [link](https://civitai.com/models/2969950?modelVersionId=3365460) |
 | `moebius-jean-giraud-the-architect-of-dream-krea2` | moebius jean giraud the architect of dream krea2 | not stated | 311 | Moebius (Jean Giraud) — The Architect of Dreams / Ligne Claire & Surreal Sci-Fi / LoRA (Krea2 Turbo) LoRA trai | [link](https://civitai.com/models/2874382?modelVersionId=3247919) |
 | `ms-lighting-slider-kr2-krea2` | not stated | not stated | 306 | This slider changes the lighting from backlight to foreground lighting. Good results are achieved with values  | [link](https://civitai.com/models/3046639?modelVersionId=3463711) |
+| `cheekbone-slider-krea2` | not stated | not stated | 300 | The difference between "Hello, little friend, would you like a cookie?" and "Get on the ground and lick my boo | [link](https://civitai.com/models/3013419?modelVersionId=3420292) |
 | `bss-neck-length-slider-long-short-neck-krea2` | not stated | not stated | 299 | A concept slider LoRA designed to control neck length and anatomy proportions without breaking overall charact | [link](https://civitai.com/models/3033365?modelVersionId=3446422) |
 | `krea2nsfwlora-krea2` | not stated | 0.75 - 0.85 | 292 | 使用破限成功的图片训练而成，主要的作用是破限，不改变画风，可能还有一些去除CG画风，去除马赛克，略微提高颜值的作用，可以配合https://civitai.red/models/3026407/krea2nsfwwork | [link](https://civitai.com/models/3039845?modelVersionId=3454941) |
 | `ms-color-temperature-slider-kr2-krea2` | not stated | not stated | 285 | This slider changes the color temperature. Good results are achieved with values ​​from -3 (warm colors) to 4  | [link](https://civitai.com/models/3045036?modelVersionId=3461603) |
@@ -82,6 +84,7 @@
 | `rachel-amber-life-is-strange-turbo-krea2` | r4ch3l4mb3r, white shirt with a flanel shirt over, feather earring | not stated | 123 | Krea 2 lora for Rachel Amber from life is strange.  Trigger : r4ch3l4mb3r Outfit : white shirt with a flanel s | [link](https://civitai.com/models/2979952?modelVersionId=3377940) |
 | `hyper-futa-krea2` | Futa, Hyper Breasts, Huge thighs, Hyper Cock, Hyper Balls, | not stated | 109 | Hyper Futa Cock And Balls! KREA 2 EDITION! Wanted to try out this new Lora type KREA 2! See what it's all abou | [link](https://civitai.com/models/2817801?modelVersionId=3178247) |
 | `voronyx-krea2` | voronyx style | 0.7–1.0 | 108 | VORONYX — Organic Geometry & Futuristic Sculptural Art Where geometry becomes art and materials defy imaginati | [link](https://civitai.com/models/3020046?modelVersionId=3428918) |
+| `mr-piglets-uglynator-slider-krea2` | not stated | not stated | 70 | Some tool to make you get less likes at Tinder, Hinge, Grinder or wherever you hang out. It´s goes from 0 and  | [link](https://civitai.com/models/3033913?modelVersionId=3447140) |
 | `Queens Blade-Melona_Krea-2-Turbo - v1.0 - Melona_Krea-2-Turbo_000003000` | Melona | not stated | 55 | Melona_Krea-2-Turbo | [link](https://civitai.com/models/2846840?modelVersionId=3214386) |
 | `bss-aging-slider-krea2` | not stated | not stated |  |  |  |
 | `reaji-style-turbo-krea2` | not stated | not stated |  |  |  |

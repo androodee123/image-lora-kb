@@ -1,6 +1,6 @@
 # MOSS (Moss Image / kromoss) — quality-detail
 
-38 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+40 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -28,6 +28,7 @@
 | `detailer-moss` | not stated | not stated | 452 | V1 - Text slider + concept lora + saturation lora. Shifts style towards realism. V051 - simple text slider. 1. | [link](https://civitai.com/models/3028777?modelVersionId=3462778) |
 | `improved-men-s-pectorals-chest-definition-xl` | Medium Pectoral Muscles., Large Pectoral Muscle. Big Pectoral Muscles., Oversize | not stated | 398 | Recommended: (NEW) Capitan01R's Krea2 TextFusion Refusal-Reduction (OLD) Recommended: Krea2 TextFusion Refusal | [link](https://civitai.com/models/2689119?modelVersionId=3416753) |
 | `sharpflash-moss` | not stated | 1.0 | 395 | SharpFlash That direct-flash, point-and-shoot look: bright foregrounds, shiny highlights, harder shadows, and  | [link](https://civitai.com/models/3021935?modelVersionId=3431411) |
+| `c666d-cellulite-v1-moss` | cellulite, thick thighs, round ass, wide hips, chubby, blemishes, obese | 1.2 | 388 | Triggers: 🔥🔥🔥 cellulite: creates deep skin dimples and a wrinkled skin effect, often seen on mature woman. thi | [link](https://civitai.com/models/3021012?modelVersionId=3430204) |
 | `muscular-women-moss` | very muscular, huge muscles, extreme muscularity | not stated | 384 | I'll probably update and improve this with time, so if you have any good observations or suggestions, comment  | [link](https://civitai.com/models/670718?modelVersionId=3420979) |
 | `amateur-cellulite-moss` | not stated | not stated | 342 | I wanted to remake my 1.5 sd model and got this!!! MOSS: i cannot get any image at decent speed so test yourse | [link](https://civitai.com/models/2853605?modelVersionId=3426705) |
 | `v7-unretracted-foreskin-dick-foreskin-moss` | unretracted foreskin, foreskin | 0.8 - 1.0 | 342 | new update for anima! with photorealistic. with cartoon (if furry) and anime. lora weight: 0.8 - 1.0 !!!!!Warn | [link](https://civitai.com/models/2068232?modelVersionId=3453935) |
@@ -45,4 +46,5 @@
 | `great-geriatric-skin-moss` | not stated | not stated | 151 | Very early version which might work sometimes. Will only generate realistic images. Trained on base. Tested wi | [link](https://civitai.com/models/3014334?modelVersionId=3421439) |
 | `better-men-body-hair-texture-moss-image-xl` | not stated | 0.5–1.0 | 145 | Better Hairy Men · MOSS Image A male appearance and photographic style LoRA for MOSS Image, focused on natural | [link](https://civitai.com/models/3010117?modelVersionId=3415929) |
 | `superb-quality-nsfw-by-sarcastic-tofu-moss` | SQNSFW | not stated | 110 | This LORA aims to help an AI Art prompter to generate quality NSFW images for fine looking women who are eithe | [link](https://civitai.com/models/3024279?modelVersionId=3434436) |
+| `polestar-formula-2030-moss` | not stated | 0.85 – 1.0 | 30 | # Polestar Formula 2030 Concept (2026) A specialized LoRA trained on the 2026 Polestar Formula 2030 Concept, a | [link](https://civitai.com/models/3055063?modelVersionId=3475035) |
 | `face-moss` | not stated | 0.4 |  | Andrew's private LoRA (identity/style/anatomy helper). |  |

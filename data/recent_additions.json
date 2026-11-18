@@ -1,6 +1,690 @@
 {
  "available": [
   {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "anima",
+   "slug": "c-c-code-geass-lelouch-of-the-rebellion-anima",
+   "category": "anatomy",
+   "triggers": [
+    "C.C_Anima",
+    "See Model Info for outfit"
+   ],
+   "url": "https://civitai.com/models/1834731?modelVersionId=3474299"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "anima",
+   "slug": "tatsumaki-one-punch-man-anima",
+   "category": "character",
+   "triggers": [
+    "Tatsumaki_Anima",
+    "See Model Info for outfits"
+   ],
+   "url": "https://civitai.com/models/2036896?modelVersionId=3474351"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "anima",
+   "slug": "aphrodite-record-of-ragnarok-shuumatsu-no-anima",
+   "category": "character",
+   "triggers": [
+    "Aphrod1te, 1girl, blue eyes, blonde hair, blue eyes, hair flower, hair ornament, huge breasts | greco-roman clothes, ancient greek clothes, dress, sideboob"
+   ],
+   "url": "https://civitai.com/models/1210660?modelVersionId=3473363"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "anima",
+   "slug": "zella-understated-desire-anima",
+   "category": "character",
+   "triggers": [
+    "zella"
+   ],
+   "url": "https://civitai.com/models/2330593?modelVersionId=3088422"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "anima",
+   "slug": "yor-forger-spy-family-anima",
+   "category": "character",
+   "triggers": [
+    "YorDM",
+    "1girl, solo, black hair, long hair, red eyes, white hairband, earrings, large breasts"
+   ],
+   "url": "https://civitai.com/models/3053592?modelVersionId=3473068"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "anima",
+   "slug": "yuri-sakazaki-king-of-fighters-maximum-imp-anima",
+   "category": "character",
+   "triggers": [
+    "yuri_cosa,",
+    "yuri sakazaki, long hair, single braid, brown hair, headband, brown eyes,",
+    "dougi, fingerless gloves, spandex,",
+    "yuri_cosb,"
+   ],
+   "url": "https://civitai.com/models/3053952?modelVersionId=3473606"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "anima",
+   "slug": "lilith-the-maid-i-hired-recently-is-myster-anima",
+   "category": "character",
+   "triggers": [
+    "MIHRIM Lilith",
+    "Main Outfit"
+   ],
+   "url": "https://civitai.com/models/2032721?modelVersionId=3474069"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "anima",
+   "slug": "blue-mary-king-of-fighters-maximum-impact-anima",
+   "category": "character",
+   "triggers": [
+    "bmary_cosa,",
+    "short hair, blonde hair, bob cut, blue eyes, lips,",
+    "jewelry, green jacket, cropped jacket, necklace, pendant, tube top, crop top, cleavage, fingerless gloves, abs, midriff, belt, loose belt, baggy pants,",
+    "bmary_cosb,"
+   ],
+   "url": "https://civitai.com/models/3053965?modelVersionId=3473609"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "anima",
+   "slug": "ailish-sudeki-l-ponyxl-anima",
+   "category": "character",
+   "triggers": [
+    "AilishDG,",
+    "blue hair, ponytail, pink eyes,",
+    "thighhighs, white gloves, jewelry, earrings,detached sleeves, revealing clothes,"
+   ],
+   "url": "https://civitai.com/models/467490?modelVersionId=3473725"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "anima",
+   "slug": "seiko-ayase-dandadan-xl-eps-v1-1-v1-0-anima",
+   "category": "character",
+   "triggers": [
+    "seikdan",
+    "mature female, brown eyes, long hair, white hair, updo, parted bangs, red glasses, semi-rimless eyewear, under-rim eyewear, large breasts",
+    "white tank top, collarbone, cleavage, bare shoulders, grey gloves, elbow gloves, fingerless gloves, yellow haramaki, purple shorts, short shorts, dolphin shorts, grey thighhighs, stirrup legwear",
+    "yellow cardigan, off-shoulder cardigan, long sleeves, collarbone, cleavage, criss-cross halter, bare legs"
+   ],
+   "url": "https://civitai.com/models/1944761?modelVersionId=3473343"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "anima",
+   "slug": "nicole-demara-zenless-zone-zero-character-anima",
+   "category": "character",
+   "triggers": [
+    "nicolezzz",
+    "nicolezzz, bright pink hair, green eyes, long twintails, black hair bows"
+   ],
+   "url": "https://civitai.com/models/3054124?modelVersionId=3473810"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "anima",
+   "slug": "claire-harvey-jab-comix-anima",
+   "category": "character",
+   "triggers": [
+    "1girl, Claire_papi, brown hair, brown eyes, big breasts, mature breasts, petite body, wide hips, slender thighs, bimbo ass, pubic hair, trimmed pubic hair,",
+    "hair bun, messy hair bun, single hair bun,",
+    "long hair,",
+    "high ponytail,"
+   ],
+   "url": "https://civitai.com/models/2717854?modelVersionId=3474000"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "anima",
+   "slug": "webtoon-cha-hyeyoon-intern-diver-anima",
+   "category": "character",
+   "triggers": [],
+   "url": "https://civitai.com/models/3053833?modelVersionId=3473419"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "anima",
+   "slug": "claire-harvey-jab-comix-v3972-anima",
+   "category": "character",
+   "triggers": [
+    "1girl, Claire_papi, brown hair, brown eyes, big breasts, mature breasts, petite body, wide hips, slender thighs, bimbo ass, pubic hair, trimmed pubic hair,",
+    "hair bun, messy hair bun, single hair bun,",
+    "long hair,",
+    "high ponytail,"
+   ],
+   "url": "https://civitai.com/models/2717854?modelVersionId=3473972"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "anima",
+   "slug": "upskirt-pantyshot-multiple-views-2koma-con-anima",
+   "category": "clothing",
+   "triggers": [
+    "upskirt",
+    "from below",
+    "multiple views",
+    "close-up"
+   ],
+   "url": "https://civitai.com/models/1961912?modelVersionId=2988963"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "anima",
+   "slug": "upskirt-voyeurism-concept-version-anima",
+   "category": "clothing",
+   "triggers": [
+    "upskirt",
+    "from below",
+    "recording",
+    "peephole"
+   ],
+   "url": "https://civitai.com/models/2947964?modelVersionId=3338465"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "anima",
+   "slug": "spicy-lingerie-1-anima",
+   "category": "clothing",
+   "triggers": [
+    "MRLingerie1"
+   ],
+   "url": "https://civitai.com/models/2371103?modelVersionId=3316755"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "anima",
+   "slug": "satin-string-bikini-panties-anima",
+   "category": "clothing",
+   "triggers": [
+    "satin_string_bikini_panties"
+   ],
+   "url": "https://civitai.com/models/3054067?modelVersionId=3473734"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "anima",
+   "slug": "cheating-netorare-prostitution-concept-ver-anima",
+   "category": "concept",
+   "triggers": [
+    "netorare",
+    "prostitution",
+    "imminet sex",
+    "groping"
+   ],
+   "url": "https://civitai.com/models/1310495?modelVersionId=2988964"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "anima",
+   "slug": "moodlit-dramatic-lighting-and-shadows-for-anima",
+   "category": "lighting",
+   "triggers": [],
+   "url": "https://civitai.com/models/2829780?modelVersionId=3197853"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "anima",
+   "slug": "jav-hard-irrumatio-deepthroat-generator-anima",
+   "category": "nsfw-act",
+   "triggers": [
+    "JAV_MISS572,  1girl, solo focus, tears, crying, saliva, snot, drooling,   1boy, hetero,  irrumatio, deepthroat , male pubic hair, Fat man, nude male, Grab head, Grab hair,",
+    "bukkake, facial, excessive cum ,  close-up mouth , vomiting,"
+   ],
+   "url": "https://civitai.com/models/728512?modelVersionId=3230323"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "anima",
+   "slug": "extreme-deepthroat-irrumatio-anima",
+   "category": "nsfw-act",
+   "triggers": [
+    "extremedeepthroat, extreme deep throat, :>=,  Tears, runny nose, drool,  1girl, hetero, 1boy, dark skin boy, Huge penis, Huge testicles, veins penis, dark penis, male pubic hair,",
+    "extremedeepthroat, extreme deep throat, :>=,  Tears, runny nose, drool,  1girl, hetero, 1boy, dark skin boy, Huge penis, Huge testicles, veins penis, dark penis, male pubic hair,  mouth bulge, throat bulge, esophagus bulge,  bukkake, facial, excessive cum, cum in mouth,"
+   ],
+   "url": "https://civitai.com/models/1873285?modelVersionId=3243016"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "anima",
+   "slug": "x-ray-fellatio-anima",
+   "category": "nsfw-act",
+   "triggers": [
+    "1girl, 1boy, x-ray, fellatio, penis",
+    "deepthroat",
+    "from side"
+   ],
+   "url": "https://civitai.com/models/2096225?modelVersionId=2948584"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "anima",
+   "slug": "taker-pov-top-focus-penetration-gay-straig-anima",
+   "category": "nsfw-act",
+   "triggers": [
+    "[masterpiece,best quality,amazing quality], [xboy/xgirl/xother/xfutanari], [taker pov / empty],[optional for slime: penetration visible through translucent body],  The [male/female] [race/category] with [physical characteristic] and [completely nude/clothes description] who is [position/actions] and having sex with [race/categories] viewer [optional: position (e.g., on the side)] with his/her [erect penis/strap-on]  The viewer is a [race/ category] with [physical characteristic] and [completely nude/clothes description] who is penetrated by the [male/female] in front.,  [background / view position / other elements]"
+   ],
+   "url": "https://civitai.com/models/3004380?modelVersionId=3408542"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "anima",
+   "slug": "darkfire-plant-bondage-anima",
+   "category": "nsfw-act",
+   "triggers": [
+    "plant bondage"
+   ],
+   "url": "https://civitai.com/models/3054409?modelVersionId=3474179"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "anima",
+   "slug": "double-oral-sex-blow-job-rim-job-anima",
+   "category": "nsfw-act",
+   "triggers": [
+    "Double_Oral, side view, 3boys, male focus, group focus, oral sex, (2boys kneeling 1boy standing in middle), different boys, 1boy giving fellatio, blowjob, blow job, deepthroat sucking erect penis, 1boy licking anus, anilingus, rimjob, rim job,",
+    "standing boy hands on kneeling boys head, kneeling boys hands on standing boys thighs,"
+   ],
+   "url": "https://civitai.com/models/1808437?modelVersionId=3473396"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "anima",
+   "slug": "romeo-to-cinderella-pose-meme-concept-anima",
+   "category": "pose-composition",
+   "triggers": [
+    "RTCPC,  holding fruit, apple, open mouth, lying, on stomach, looking at viewer, from side,",
+    "pink pillow, frilled pillow, pillow hug, bed sheet,",
+    "pink background, polka dot background, black lace border,",
+    "CHOOSE:"
+   ],
+   "url": "https://civitai.com/models/2498646?modelVersionId=3474229"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "anima",
+   "slug": "muscle-slider-add-remove-muscle-with-enhan-anima",
+   "category": "quality-detail",
+   "triggers": [],
+   "url": "https://civitai.com/models/2224995?modelVersionId=3219709"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "anima",
+   "slug": "hentai-comic-random-generator-full-color-i-anima",
+   "category": "style",
+   "triggers": [
+    "Hentai comic style. Multi-view with 3-5 or more panels displaying text, speech bubbles,  focus lines, vibration lines, comic-style facial expressions, and sound effects. Hentai comic depictions of body parts, including genitals  (chest, navel, nipples, vulva, clitoris, vagina, anus, buttocks, nude, torn clothes, vaginal fluid),  Women are depicted with multiple multi-shots (cowboy shot, upper body, face).",
+    "1boy, erection, penis, hetero, sex, rough sex, epic sex, head grab, cumming, speed lines,",
+    "2boys, mmf threesome, erection, penis, multiple penises, testicles, cum,  hetero, sex, group sex,  oral, fellatio,  spread legs, spitroast, irrumatio, sweat, gangbang, double penetration, bangs, folded, thick thighs,"
+   ],
+   "url": "https://civitai.com/models/585589?modelVersionId=3008158"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "anima",
+   "slug": "hentai-comic-random-generator-hard-core-il-anima",
+   "category": "style",
+   "triggers": [
+    "Hentai comic style. Multi-view with 3-5 or more panels displaying text, speech bubbles,  focus lines, vibration lines, comic-style facial expressions, and sound effects. Hentai comic depictions of body parts, including genitals  (chest, navel, nipples, vulva, clitoris, vagina, anus, buttocks, nude, torn clothes, vaginal fluid),  Women are depicted with multiple multi-shots (cowboy shot, upper body, face).  2boys, mmf threesome, erection, penis, multiple penises, testicles, cum, hetero, sex, group sex,  oral, fellatio,  irrumatio, paizuri,  spread legs, spitroast, sweat, gangbang, double penetration,  triple penetration,"
+   ],
+   "url": "https://civitai.com/models/588622?modelVersionId=3014282"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "anima",
+   "slug": "queen-s-blade-gamebook-defeats-concept-il-anima",
+   "category": "style",
+   "triggers": [
+    "qb defeat, qbdefeat, simple background, white background, number Text,  trembling, focus line, vibrating line, comic expression, 1 girl, solo, defeat,cowboy shot, losing heroine, fighting stance, holding weapon, wince, pain, embarrassed, nose blush, blush, tears, clothes malfunction , revealing clothes , tearing clothes , torn clothes, torn panties , pantyshot , untied panties , torn bra , brashot , untied bra ,",
+    "1boy, pov hand, Tearing other clothes, grabbing other clothes, grabbing other bodies,"
+   ],
+   "url": "https://civitai.com/models/829053?modelVersionId=3051558"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "anima",
+   "slug": "gyaru-v3-anima",
+   "category": "style",
+   "triggers": [
+    "kurogal, gyaru, kogal, dark-skinned female",
+    "shirogal, gyaru, kogal"
+   ],
+   "url": "https://civitai.com/models/2467053?modelVersionId=3036215"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "anima",
+   "slug": "x3d-art-style-anima",
+   "category": "style",
+   "triggers": [
+    "@X3D"
+   ],
+   "url": "https://civitai.com/models/2987218?modelVersionId=3386869"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "anima",
+   "slug": "yinghui-silhouette-anima",
+   "category": "style",
+   "triggers": [
+    "silhouette, stylized 2d illustration, painterly digital art, soft clean linework, muted pastel colors, soft focus, atmospheric perspective, warm cinematic lighting, diffused backlight, frosted glass, intimate bedroom interior"
+   ],
+   "url": "https://civitai.com/models/2874008?modelVersionId=3247451"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "anima",
+   "slug": "gyaru-v2-anima",
+   "category": "style",
+   "triggers": [
+    "kurogal, gyaru, dark-skinned female, dark skin",
+    "shirogal, gyaru"
+   ],
+   "url": "https://civitai.com/models/2467053?modelVersionId=2911120"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "anima",
+   "slug": "taimanin-asagi-directed-by-murakami-teruak-anima",
+   "category": "style",
+   "triggers": [
+    "@murakamiteruakitaimanin , 1girl, solo focus, @ @, ringed eyes, empty eyes, thick eyebrows, saliva, sweat, blush,"
+   ],
+   "url": "https://civitai.com/models/2044734?modelVersionId=3412453"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "anima",
+   "slug": "gyaru-v1-anima",
+   "category": "style",
+   "triggers": [
+    "kurogal, gyaru, kogal, ganguro"
+   ],
+   "url": "https://civitai.com/models/2467053?modelVersionId=2773829"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "anima",
+   "slug": "papamilk-style-anima",
+   "category": "style",
+   "triggers": [
+    "papamilkstyle"
+   ],
+   "url": "https://civitai.com/models/3054441?modelVersionId=3474213"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "anima",
+   "slug": "spicy-leen-midnightleen-style-anima",
+   "category": "style",
+   "triggers": [
+    "Spicy_Leen"
+   ],
+   "url": "https://civitai.com/models/3052707?modelVersionId=3471916"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "anima",
+   "slug": "eggwash-anima",
+   "category": "style",
+   "triggers": [],
+   "url": "https://civitai.com/models/3054239?modelVersionId=3473963"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "anima",
+   "slug": "raiounsfw-style-v2610-anima",
+   "category": "style",
+   "triggers": [
+    "@r4iou"
+   ],
+   "url": "https://civitai.com/models/2497672?modelVersionId=3042610"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "anima",
+   "slug": "raiounsfw-style-v3991-anima",
+   "category": "style",
+   "triggers": [],
+   "url": "https://civitai.com/models/2497672?modelVersionId=3253991"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "anima",
+   "slug": "pure-onyx-game-style-anima",
+   "category": "style",
+   "triggers": [],
+   "url": "https://civitai.com/models/3054035?modelVersionId=3473692"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "anima",
+   "slug": "ss-brain-k3-sumeragi-kou-loser-s-knight-co-anima",
+   "category": "style",
+   "triggers": [
+    "malebolgia"
+   ],
+   "url": "https://civitai.com/models/3054356?modelVersionId=3474112"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "anima",
+   "slug": "style-anima-v3370",
+   "category": "style",
+   "triggers": [],
+   "url": "https://civitai.com/models/3053804?modelVersionId=3473370"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "anima",
+   "slug": "gagarin-kichi-style-golden-bazooka-doujin-anima",
+   "category": "style",
+   "triggers": [
+    "ggrnksty"
+   ],
+   "url": "https://civitai.com/models/3054089?modelVersionId=3473797"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "anima",
+   "slug": "jagodibuja-style-illust-anima",
+   "category": "style",
+   "triggers": [
+    "jagostylepinup, soft shading",
+    "JagoSophie, JagoErika, JagoArtur, JagoMegan, JagoElly, JagoClara, JagoJenny, JagoMila, JagoCarmen, JagoSolenne, JagoSonia, JagoJulia, JagoHiroko, JagoMila,"
+   ],
+   "url": "https://civitai.com/models/600648?modelVersionId=3473694"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "anima",
+   "slug": "raiounsfw-style-v7784-anima",
+   "category": "style",
+   "triggers": [
+    "r4iou"
+   ],
+   "url": "https://civitai.com/models/2497672?modelVersionId=2957784"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "anima",
+   "slug": "raiounsfw-style-v5-anima",
+   "category": "style",
+   "triggers": [
+    "r4iou"
+   ],
+   "url": "https://civitai.com/models/2497672?modelVersionId=2909007"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "anima",
+   "slug": "manga-style-naoki-urasawa-anima",
+   "category": "style",
+   "triggers": [],
+   "url": "https://civitai.com/models/690155?modelVersionId=3445857"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "anima",
+   "slug": "raiounsfw-style-v1-anima",
+   "category": "style",
+   "triggers": [
+    "r4iou"
+   ],
+   "url": "https://civitai.com/models/2497672?modelVersionId=2807671"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "anima",
+   "slug": "metabocafe-offensive-smell-uproar-itachou-anima",
+   "category": "style",
+   "triggers": [
+    "malebolgia"
+   ],
+   "url": "https://civitai.com/models/3054394?modelVersionId=3474154"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "anima",
+   "slug": "raiounsfw-style-v3-anima",
+   "category": "style",
+   "triggers": [
+    "r4iou"
+   ],
+   "url": "https://civitai.com/models/2497672?modelVersionId=2893955"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "anima",
+   "slug": "patrietta-satou-kuuki-artstyle-anima",
+   "category": "style",
+   "triggers": [],
+   "url": "https://civitai.com/models/2931701?modelVersionId=3318074"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "anima",
+   "slug": "raiounsfw-style-v4-anima",
+   "category": "style",
+   "triggers": [
+    "r4iou"
+   ],
+   "url": "https://civitai.com/models/2497672?modelVersionId=2899618"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "anima",
+   "slug": "darkfire-goth-comic-anima",
+   "category": "style",
+   "triggers": [],
+   "url": "https://civitai.com/models/2541050?modelVersionId=3473938"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "anima",
+   "slug": "null-edge-anima",
+   "category": "style",
+   "triggers": [
+    "NullEdge"
+   ],
+   "url": "https://civitai.com/models/3054251?modelVersionId=3473983"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "anima",
+   "slug": "raiounsfw-style-anima",
+   "category": "style",
+   "triggers": [],
+   "url": "https://civitai.com/models/2497672?modelVersionId=3474006"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "anima",
+   "slug": "commission-aleriia-v-style-anima",
+   "category": "style",
+   "triggers": [
+    "Aleriia-V style",
+    "请为我的作品点赞👍,谢谢/Please give my Lora  a thumbs up 👍,Thank you."
+   ],
+   "url": "https://civitai.com/models/3051696?modelVersionId=3475568"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "available",
+   "family": "anima",
+   "slug": "90s-fantasy-background-ad-anima",
+   "category": "style",
+   "triggers": [
+    "90sFantasy background in the style of 90s fantasy."
+   ],
+   "url": "https://civitai.com/models/3054187?modelVersionId=3473886"
+  },
+  {
    "date": "2026-11-16",
    "event": "available",
    "family": "anima",
@@ -991,690 +1675,181 @@
     "(color1) pajamas, bare shoulders, short sleeves, detached sleeves, crop top, midriff, navel, off shoulder, collarbone, shorts, frilled shorts"
    ],
    "url": "https://civitai.com/models/3013971?modelVersionId=3420996"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "illustrious",
-   "slug": "prisoner-dress-5-clothing-ill",
-   "category": "clothing",
-   "triggers": [
-    "prisoner_dress, long sleeves, collarbone,",
-    "prisoner_dress, short sleeves, collarbone,",
-    "prisoner_dress, sleeves past elbows, collarbone,",
-    "prisoner_dress, sleeveless, collarbone,"
-   ],
-   "url": "https://civitai.com/models/3050167?modelVersionId=3468565"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "illustrious",
-   "slug": "mini-giantess-xl",
-   "category": "concept",
-   "triggers": [
-    "size difference, gdfuth, ",
-    "1boy, 1girl,",
-    "muscular female, ",
-    "futanari, futa with male, "
-   ],
-   "url": "https://civitai.com/models/1434351?modelVersionId=1621364"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "illustrious",
-   "slug": "fellatio-taker-pov-sitting-futa-ill",
-   "category": "nsfw-act",
-   "triggers": [
-    "sitting futa presenting",
-    "sitting futa taker fellatio"
-   ],
-   "url": "https://civitai.com/models/1479078?modelVersionId=2703150"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "illustrious",
-   "slug": "small-penis-futa-femboy-trap-male-with-sex-ill",
-   "category": "nsfw-act",
-   "triggers": [
-    "gdfsppbh,",
-    "1girl, dickgril, penis, testicles, large breasts,",
-    "1boy, penis, testicles,",
-    "small penis,"
-   ],
-   "url": "https://civitai.com/models/1270359?modelVersionId=1553979"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "illustrious",
-   "slug": "ejaculation-in-container-ill",
-   "category": "nsfw-act",
-   "triggers": [
-    "cum ejaculation in container, cum gushing out, burst of cum, handjob, girl holding penis, tilting penis downward, pouring cum into container, cum in container, penis on container "
-   ],
-   "url": "https://civitai.com/models/3044012?modelVersionId=3460283"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "illustrious",
-   "slug": "blonde-milkmaid-sex-poses-pov-missionary-c-ill",
-   "category": "pose-composition",
-   "triggers": [
-    "untoldsex"
-   ],
-   "url": "https://civitai.com/models/3050484?modelVersionId=3468972"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "illustrious",
-   "slug": "soryu-asuka-langley-neon-genesis-evangelio-ill",
-   "category": "pose-composition",
-   "triggers": [
-    "asuka_a_il, souryuu asuka langley, long hair, bangs, blue eyes, brown hair, hair ornament,",
-    "bodysuit, pilot suit, plugsuit, red bodysuit, interface headset,"
-   ],
-   "url": "https://civitai.com/models/3049982?modelVersionId=3468314"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "illustrious",
-   "slug": "amionstyle-style-ill",
-   "category": "style",
-   "triggers": [
-    "@amionstyle"
-   ],
-   "url": "https://civitai.com/models/3043830?modelVersionId=3468993"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "krea2",
-   "slug": "futanari-penis-anatomy-klein-9b-krea2",
-   "category": "anatomy",
-   "triggers": [
-    "Futanari",
-    "erect penis facing upwards",
-    "erect penis facing downwards"
-   ],
-   "url": "https://civitai.com/models/2774695?modelVersionId=3124343"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "krea2",
-   "slug": "futanari-penis-bulge-krea2",
-   "category": "anatomy",
-   "triggers": [
-    "Bulge"
-   ],
-   "url": "https://civitai.com/models/2993222?modelVersionId=3394396"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "krea2",
-   "slug": "barbara-a-90s-inspired-college-girl-krea2",
-   "category": "character",
-   "triggers": [
-    "Barbara361"
-   ],
-   "url": "https://civitai.com/models/3050162?modelVersionId=3468560"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "krea2",
-   "slug": "naughty-girl-not-real-krea2",
-   "category": "character",
-   "triggers": [
-    "a wonderful young woman in her early 20s, with blonde hair. she has a slim, sexy body with large breasts. slutty styling, she is wearing makeup and lipstick. her face is very pretty, with full lips, and she is very cute. she has long lashes. slutty styling. She has flawless, tanned skin."
-   ],
-   "url": "https://civitai.com/models/3039409?modelVersionId=3454293"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "krea2",
-   "slug": "nuport-farrah-krea2",
-   "category": "character",
-   "triggers": [
-    "nufarrah"
-   ],
-   "url": "https://civitai.com/models/2261522?modelVersionId=3468568"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "krea2",
-   "slug": "mimi-a-90s-inspired-college-girl-krea2",
-   "category": "character",
-   "triggers": [
-    "Mimi361"
-   ],
-   "url": "https://civitai.com/models/3050385?modelVersionId=3468855"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "krea2",
-   "slug": "cassie-cage-mortal-kombat-11-krea2",
-   "category": "character",
-   "triggers": [
-    "C4ss13MK"
-   ],
-   "url": "https://civitai.com/models/3050177?modelVersionId=3468577"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "krea2",
-   "slug": "stacy-a-90s-inspired-college-girl-krea2",
-   "category": "character",
-   "triggers": [
-    "Stacy361"
-   ],
-   "url": "https://civitai.com/models/3050508?modelVersionId=3469007"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "krea2",
-   "slug": "oboro-taimanin-krea2",
-   "category": "character",
-   "triggers": [],
-   "url": "https://civitai.com/models/3049929?modelVersionId=3468244"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "krea2",
-   "slug": "allura-demoness-krea2",
-   "category": "character",
-   "triggers": [
-    "A11ura"
-   ],
-   "url": "https://civitai.com/models/3050617?modelVersionId=3469148"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "krea2",
-   "slug": "red-head-mom-krea2",
-   "category": "character",
-   "triggers": [
-    "Red head mom"
-   ],
-   "url": "https://civitai.com/models/3049926?modelVersionId=3468239"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "krea2",
-   "slug": "magiccat-stockings-krea2",
-   "category": "clothing",
-   "triggers": [
-    "MC_STOCKINGS"
-   ],
-   "url": "https://civitai.com/models/3050310?modelVersionId=3468756"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "krea2",
-   "slug": "swept-away-lingerie-ver-2-krea2",
-   "category": "clothing",
-   "triggers": [
-    "Sw3p74w4y,",
-    "lingerie, bra, black panties, garter belt, corset,"
-   ],
-   "url": "https://civitai.com/models/3050024?modelVersionId=3468369"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "krea2",
-   "slug": "cute-bp-01-05-pastel-heart-pattern-bra-pan-krea2",
-   "category": "clothing",
-   "triggers": [
-    "K2cutebp015_pastelheart"
-   ],
-   "url": "https://civitai.com/models/3050267?modelVersionId=3468690"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "krea2",
-   "slug": "cute-bp-02-04-strawberry-check-pattern-bra-krea2",
-   "category": "clothing",
-   "triggers": [
-    "K2cutebp02_04"
-   ],
-   "url": "https://civitai.com/models/3050252?modelVersionId=3468673"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "krea2",
-   "slug": "blowbang-but-for-free-krea2",
-   "category": "concept",
-   "triggers": [
-    "bl0wb4ng, blowbang, multiple penises, 6+ penises,",
-    "cum, facial, bukkake,"
-   ],
-   "url": "https://civitai.com/models/3050315?modelVersionId=3468762"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "krea2",
-   "slug": "magiccat-bondage-krea2",
-   "category": "nsfw-act",
-   "triggers": [
-    "MC_BONDAGE"
-   ],
-   "url": "https://civitai.com/models/3050330?modelVersionId=3468781"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "krea2",
-   "slug": "avant-garde-eroticism-v1-krea2",
-   "category": "style",
-   "triggers": [],
-   "url": "https://civitai.com/models/3050126?modelVersionId=3468505"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "krea2",
-   "slug": "nicole-a-90s-inspired-soccer-mom-in-her-30-krea2",
-   "category": "style",
-   "triggers": [
-    "Nicole361"
-   ],
-   "url": "https://civitai.com/models/3050215?modelVersionId=3468621"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "krea2",
-   "slug": "gil-elvgren-style-xl-il-krea2",
-   "category": "style",
-   "triggers": [
-    "GElvgrn"
-   ],
-   "url": "https://civitai.com/models/2088007?modelVersionId=3468141"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "moss",
-   "slug": "brkn-inny-pussy-moss",
-   "category": "anatomy",
-   "triggers": [],
-   "url": "https://civitai.com/models/3049920?modelVersionId=3468232"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "moss",
-   "slug": "xkorina-moss",
-   "category": "character",
-   "triggers": [
-    "xKorina",
-    "xKorina, a young adult blonde woman",
-    "adult braces"
-   ],
-   "url": "https://civitai.com/models/3049830?modelVersionId=3468113"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "anima",
-   "slug": "nagiriin-ryou-taimanin-rpgx-rpgx-illustrio-anima",
-   "category": "character",
-   "triggers": [
-    "nagiriin_ryou-taimarpgx, 1girl, solo, pink hair, long hair, very long hair, bangs, pink eyes, large breasts",
-    "baseoutfit, ninja, leotard, highleg, covered navel, bare shoulders, elbow gloves, gloves, fishnets, thighhighs, ponytail,",
-    "demonform, dark sclera, horns",
-    "mask, mouth mask, ninja mask,"
-   ],
-   "url": "https://civitai.com/models/2290746?modelVersionId=3438497"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "anima",
-   "slug": "shakira-warlord-1976-l-anima",
-   "category": "character",
-   "triggers": [
-    "shakiradg",
-    "long hair, black hair, green eyes",
-    "necklace, fur bikini"
-   ],
-   "url": "https://civitai.com/models/3050409?modelVersionId=3468881"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "anima",
-   "slug": "dark-queen-battletoads-ponyxl-anima",
-   "category": "character",
-   "triggers": [
-    "darkqueendg",
-    "long hair, black hair, eyeshadow, blue eyes, hair over eye, lipstick",
-    "black gloves, black latex leotard, cape, high collar"
-   ],
-   "url": "https://civitai.com/models/735539?modelVersionId=3469653"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "anima",
-   "slug": "concept-ohogao-anima",
-   "category": "concept",
-   "triggers": [
-    "ohogao",
-    "open mouth, rolling eyes, v-shaped eyebrows, puckered lips, tongue out, trembling, tearing up"
-   ],
-   "url": "https://civitai.com/models/3050755?modelVersionId=3469316"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "anima",
-   "slug": "bite-me-umbrium-regional-mouths-anima",
-   "category": "concept",
-   "triggers": [
-    "mouthstyle arm",
-    "mouthstyle back",
-    "mouthstyle chest",
-    "mouthstyle face"
-   ],
-   "url": "https://civitai.com/models/3050863?modelVersionId=3469520"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "anima",
-   "slug": "zh-group-grab-sex-anima",
-   "category": "nsfw-act",
-   "triggers": [
-    "ZH_Gr0upGrab, group sex, gangbang, grabbing, nipple tweak, breast grab, multiple penises"
-   ],
-   "url": "https://civitai.com/models/1205870?modelVersionId=3450050"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "anima",
-   "slug": "harem-threesome-ffm-3p-21-anima",
-   "category": "nsfw-act",
-   "triggers": [],
-   "url": "https://civitai.com/models/3050680?modelVersionId=3469233"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "anima",
-   "slug": "poseidon-no3-usagi-gari-gamecg-style-anima",
-   "category": "style",
-   "triggers": [
-    "malebolgia"
-   ],
-   "url": "https://civitai.com/models/3050678?modelVersionId=3469230"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "anima",
-   "slug": "horori-sigrid-belle-remielle-doujin-style-anima",
-   "category": "style",
-   "triggers": [
-    "malebolgia"
-   ],
-   "url": "https://civitai.com/models/3050958?modelVersionId=3469569"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "illustrious",
-   "slug": "jenny-dolittle-bodacious-space-pirates-in-ill",
-   "category": "character",
-   "triggers": [
-    "sdxl-jenny-dolittle"
-   ],
-   "url": "https://civitai.com/models/3050640?modelVersionId=3469178"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "illustrious",
-   "slug": "project-tokyo-dolls-e-in-numbers-ill",
-   "category": "character",
-   "triggers": [
-    "sdxl-ptd-tria"
-   ],
-   "url": "https://civitai.com/models/3050803?modelVersionId=3469375"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "illustrious",
-   "slug": "project-tokyo-dolls-in-numbers-ill",
-   "category": "character",
-   "triggers": [
-    "sdxl-ptd-mia"
-   ],
-   "url": "https://civitai.com/models/3050779?modelVersionId=3469345"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "illustrious",
-   "slug": "lynn-lambretta-bodacious-space-pirates-in-ill",
-   "category": "character",
-   "triggers": [
-    "sdxl-lynn-lambretta"
-   ],
-   "url": "https://civitai.com/models/3050668?modelVersionId=3469219"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "illustrious",
-   "slug": "olive-laurentia-norman-maggot-maggot666-xl-ill",
-   "category": "character",
-   "triggers": [
-    "olive laurentia, 1girl, short hair, large breasts,",
-    "olive laurentia, 1girl, short hair, brown hair, red eyes, large breasts,",
-    "olive laurentia, 1girl, short hair, black hair, black eyes, large breasts,",
-    "olive laurentia, 1girl, short hair, black hair, black eyes, large breasts, hair over one eye,"
-   ],
-   "url": "https://civitai.com/models/3050648?modelVersionId=3469187"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "illustrious",
-   "slug": "zh-group-grab-sex-ill",
-   "category": "nsfw-act",
-   "triggers": [
-    "ZH_Gr0upGrab, group sex, gangbang, grabbing, nipple tweak, breast grab, multiple penises"
-   ],
-   "url": "https://civitai.com/models/1205870?modelVersionId=3465442"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "illustrious",
-   "slug": "pov-sex-poses-8-positions-in-one-any-chara-ill",
-   "category": "pose-composition",
-   "triggers": [
-    "pov_sexposes_nh"
-   ],
-   "url": "https://civitai.com/models/3050683?modelVersionId=3469236"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "illustrious",
-   "slug": "pov-cowgirl-girl-on-top-any-character-wai-ill",
-   "category": "pose-composition",
-   "triggers": [
-    "pov_cowgirl_nh"
-   ],
-   "url": "https://civitai.com/models/3050664?modelVersionId=3469212"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "illustrious",
-   "slug": "pov-doggystyle-sex-from-behind-any-charact-ill",
-   "category": "pose-composition",
-   "triggers": [
-    "pov_doggy_nh"
-   ],
-   "url": "https://civitai.com/models/3050658?modelVersionId=3469205"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "illustrious",
-   "slug": "pov-blowjob-fellatio-looking-up-any-charac-ill",
-   "category": "pose-composition",
-   "triggers": [
-    "pov_blowjob_nh"
-   ],
-   "url": "https://civitai.com/models/3050672?modelVersionId=3469225"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "krea2",
-   "slug": "prvpns-realistic-penis-vaginal-penetration-krea2",
-   "category": "anatomy",
-   "triggers": [
-    "prvpns",
-    "prvpene"
-   ],
-   "url": "https://civitai.com/models/2807106?modelVersionId=3469915"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "krea2",
-   "slug": "sick-dolls-pharah-overwatch-krea2",
-   "category": "character",
-   "triggers": [
-    "pharah",
-    "wearing armor"
-   ],
-   "url": "https://civitai.com/models/3050591?modelVersionId=3469123"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "krea2",
-   "slug": "tyra-a-90s-inspired-college-girl-krea2",
-   "category": "character",
-   "triggers": [
-    "Tyra361"
-   ],
-   "url": "https://civitai.com/models/3050810?modelVersionId=3469382"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "krea2",
-   "slug": "elsbeth-the-lustful-krea2",
-   "category": "character",
-   "triggers": [
-    "3lsbeth"
-   ],
-   "url": "https://civitai.com/models/3051118?modelVersionId=3469777"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "krea2",
-   "slug": "amino-san-boku-ni-haishin-bare-shita-u-cup-krea2",
-   "category": "character",
-   "triggers": [
-    "aminosan"
-   ],
-   "url": "https://civitai.com/models/1981985?modelVersionId=3469828"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "krea2",
-   "slug": "magiccat-toys-krea2",
-   "category": "concept",
-   "triggers": [
-    "MC_TOYS"
-   ],
-   "url": "https://civitai.com/models/3050449?modelVersionId=3468928"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "krea2",
-   "slug": "magiccat-machine-krea2",
-   "category": "concept",
-   "triggers": [
-    "MC_MACHINE"
-   ],
-   "url": "https://civitai.com/models/3050828?modelVersionId=3469409"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "krea2",
-   "slug": "rural-wall-print-krea2",
-   "category": "concept",
-   "triggers": [],
-   "url": "https://civitai.com/models/3047717?modelVersionId=3469575"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "krea2",
-   "slug": "magiccat-sm-krea2",
-   "category": "concept",
-   "triggers": [
-    "MC_SM"
-   ],
-   "url": "https://civitai.com/models/3050450?modelVersionId=3468929"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "krea2",
-   "slug": "mutual-69-krea2",
-   "category": "nsfw-act",
-   "triggers": [
-    "mutual_69"
-   ],
-   "url": "https://civitai.com/models/3050735?modelVersionId=3469292"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "available",
-   "family": "krea2",
-   "slug": "2010-cybercam-selfies-krea2",
-   "category": "pose-composition",
-   "triggers": [],
-   "url": "https://civitai.com/models/3050965?modelVersionId=3469578"
   }
  ],
  "candidates": [
+  {
+   "date": "2026-11-18",
+   "event": "candidate",
+   "family": "pony",
+   "slug": "Taki - Soul Calibur (SC6)",
+   "category": "character",
+   "triggers": [
+    "takixl, "
+   ],
+   "url": "https://civitai.com/models/87807"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "candidate",
+   "family": "pony",
+   "slug": "Supergirl - DC (Injustice 2)",
+   "category": "character",
+   "triggers": [
+    "powergirlxl"
+   ],
+   "url": "https://civitai.com/models/138382"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "candidate",
+   "family": "pony",
+   "slug": "Hisako - Killer instinct (horror)",
+   "category": "style",
+   "triggers": [
+    "hisakoxl,"
+   ],
+   "url": "https://civitai.com/models/82172"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "candidate",
+   "family": "illustrious",
+   "slug": "Lisa the Babysitter (Dexter's Laboratory) [Pony/IL]",
+   "category": "character",
+   "triggers": [
+    "xlisax, orange hair, medium hair, blue eyes, pink lips, hairband"
+   ],
+   "url": "https://civitai.com/models/526347"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "candidate",
+   "family": "krea2",
+   "slug": "Painterly - CE",
+   "category": "style",
+   "triggers": [
+    "pntrlyCE_style"
+   ],
+   "url": "https://civitai.com/models/957327"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "candidate",
+   "family": "krea2",
+   "slug": "TeeKay's Custom Characters | N-R | Kr2 + Flux",
+   "category": "character",
+   "triggers": [
+    "QuinnMixer"
+   ],
+   "url": "https://civitai.com/models/1885010"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "candidate",
+   "family": "pony",
+   "slug": "Sarah Bryant - Virtua Fighter RV",
+   "category": "character",
+   "triggers": [
+    "sarahbxl,"
+   ],
+   "url": "https://civitai.com/models/83433"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "candidate",
+   "family": "illustrious",
+   "slug": "Tira - Soul Calibur (SC6)",
+   "category": "character",
+   "triggers": [
+    "tirasc6xl,"
+   ],
+   "url": "https://civitai.com/models/98203"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "candidate",
+   "family": "anima",
+   "slug": "Long Maid Dress",
+   "category": "clothing",
+   "triggers": [
+    "maid, long dress, apron, maid apron, maid headdress, long sleeves"
+   ],
+   "url": "https://civitai.com/models/1786064"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "candidate",
+   "family": "pony",
+   "slug": "Trilla Suduri - Star Wars Fallen Order (Inquisitor)",
+   "category": "character",
+   "triggers": [
+    "trilla"
+   ],
+   "url": "https://civitai.com/models/113220"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "candidate",
+   "family": "illustrious",
+   "slug": "Lovely Cat Maid",
+   "category": "clothing",
+   "triggers": [
+    "pink skirt, maid dress, long sleeves, pink bow, apron, lace trim, hair bow, sleeves past wrists"
+   ],
+   "url": "https://civitai.com/models/1786062"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "candidate",
+   "family": "illustrious",
+   "slug": "Lace Leotard Set",
+   "category": "clothing",
+   "triggers": [
+    "lace leotard, dress, lingerie, garter straps, cleavage,"
+   ],
+   "url": "https://civitai.com/models/256017"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "candidate",
+   "family": "krea2",
+   "slug": "Lines clothes",
+   "category": "style",
+   "triggers": [
+    "LCK2",
+    "superimposed drawing"
+   ],
+   "url": "https://civitai.com/models/160511"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "candidate",
+   "family": "pony",
+   "slug": "Mio - Tsukimichi: Moonlit fantasy 1.5/Pony/Illustrious",
+   "category": "style",
+   "triggers": [
+    "short black hair",
+    "pink headdress",
+    "yellow eyes",
+    "black kimono"
+   ],
+   "url": "https://civitai.com/models/236942"
+  },
+  {
+   "date": "2026-11-18",
+   "event": "candidate",
+   "family": "moss",
+   "slug": "Kiyohime (Fate Grand Order)",
+   "category": "character",
+   "triggers": [
+    "kiyochan, long mint-green hair, golden-amber eyes, white horns, gold hair ornaments, teal-blue kimono with light-mint trim, black obi sash with gold accents, yellow ribbon bow in the back, white thigh-high stockings with gold garter straps",
+    "kiyochan, long silver-white hair, red-amber eyes, black horns, gold side hair ornaments, ornate black kimono with gold trim, blue and gold obi sash, yellow back bow, white thigh-high stockings with gold garter straps",
+    "kiyochan, long mint-green hair, golden-amber eyes, white horns, large yellow ribbon bow, yellow swimsuit top with white frills, open white and mint-green kimono-style robe with gold trim, navy-blue corset obi with yellow bow, white thigh-high stockings with gold garter straps",
+    "kiyochan, long mint-green hair, yellow ribbon bow, golden-amber eyes, white horns, red hibiscus flowers, navy-blue one-piece swimsuit with white frilled trim, detached navy collar with red bow, white waist sash with large white bow, long white opera gloves, white knee-high boots with red bows"
+   ],
+   "url": "https://civitai.com/models/873481"
+  },
   {
    "date": "2026-11-16",
    "event": "candidate",
@@ -2195,15 +2370,6 @@
     "juv14l0cks3r, 1girl, hat, blue headwear, flower, blue flower, long hair, blue hair, blue eyes, empty eyes, neck ribbon, pink ribbon, dress, blue dress, cleavage, breasts, large breasts, long skirt, blue skirt"
    ],
    "url": "https://civitai.com/models/2941978"
-  },
-  {
-   "date": "2026-11-14",
-   "event": "candidate",
-   "family": "illustrious",
-   "slug": "Fantasy",
-   "category": "style",
-   "triggers": [],
-   "url": "https://civitai.com/models/2911842"
   }
  ]
 }

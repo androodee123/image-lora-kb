@@ -1,6 +1,6 @@
 # MOSS (Moss Image / kromoss) — nsfw-act
 
-23 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+31 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 | slug | triggers | strength | dl | what | source |
 |---|---|---|---:|---|---|
@@ -18,12 +18,20 @@
 | `shibaribondage-moss` | not stated | not stated | 389 | A shibari bondage lora for krea2 and moss. 標準日式繩縛lora，正面很穩定，背面的話雙手交叉容易出錯，關閉加速可以有更好的效果，或者用Krea2版本。可以指定繩子的顏色和材質， | [link](https://civitai.com/models/3020660?modelVersionId=3429718) |
 | `footjob-moss` | footjob, f00tj0b | 0.7 – 0.9 | 354 | Trigger word: footjob This LoRA specializes in generating high-quality footjob scenes. It focuses on realistic | [link](https://civitai.com/models/3042334?modelVersionId=3458198) |
 | `pantyhose-sex-moss` | not stated | not stated | 329 | Guidance 2.5 Steps 25 Sampler er_sde Seed 2 | [link](https://civitai.com/models/3022457?modelVersionId=3432090) |
+| `base-pov-fingering-moss` | p0v-f1ng3r1ng    pov view of a female viewer reaching hand between legs and fing | not stated | 323 | try: p0v-f1ng3r1ng pov view of a female viewer reaching hand between legs and fingering pussy slick glistening | [link](https://civitai.com/models/3050006?modelVersionId=3468343) |
+| `trio-for-threesomes-moss` | not stated | not stated | 305 | Trio is a Krea 2 LoRA trained on 153 captioned images of threesomes.  Start your prompt with one of the arrang | [link](https://civitai.com/models/3040250?modelVersionId=3475732) |
+| `rope-bondage-breast-compression-k3nk-moss` | not stated | 0.7-1.0 | 289 | Rope Bondage & Breast Compression - MOSS-Image LoRA - K3NK Trained on: Curated rope bondage dataset / Resoluti | [link](https://civitai.com/models/3029807?modelVersionId=3441663) |
 | `ek-s-mecha-suit-sex-machine-moss` | sex machine mecha suit | not stated | 279 | edit: added extracted loras. r16 seems to be quite fine. and it is just 75 mega not over one giga big.... Hell | [link](https://civitai.com/models/3041593?modelVersionId=3457246) |
 | `blow-up-sex-doll-inflatable-sex-toy-moss` | not stated | not stated | 240 | Honestly I never saw a blow-up doll IRL 😅, this is just my take on Dollification porn CGI wirh an hyper realis | [link](https://civitai.com/models/2993967?modelVersionId=3432220) |
 | `straight-arm-bondage-shibari-concept-moss` | not stated | 0.8 | 233 | weight 0.8 Universal Negative Prompt (Works for all scenes — copy as-is.) face towards viewer, looking at view | [link](https://civitai.com/models/3014944?modelVersionId=3462919) |
+| `air-blowjob-moss` | she is doing a bl0_wjob gesture, mimic it with her hand and mouth | not stated | 230 | Make mimic blowjob (only write it because I have no choice) | [link](https://civitai.com/models/2857700?modelVersionId=3474922) |
 | `fishnet-shibari-moss` | fishnet_bondage ,绳子作为贴身内衣。, 女性被精心编织细的绳索以传统日式束缚（shibari）方式缠绕全身, 且(ropes_gag,gagge | not stated | 227 | Training lora need more buzz, give me support! Please leave a review if you like this lora！ ver. “花と蛇” the jap | [link](https://civitai.com/models/136849?modelVersionId=3441312) |
 | `lusthra-xxx-moss` | not stated | not stated | 207 | I need the community’s help to test this NSFW LoRa model, which is why it’s freely available. It’s the first N | [link](https://civitai.com/models/3048066?modelVersionId=3465796) |
 | `shibari-hana-to-hebi-moss` | bondage, shibari, ropes, 1990年代风格 | not stated | 171 | Training lora need more buzz, give me support! Please leave a review if you like this lora！ ver. “花と蛇” the jap | [link](https://civitai.com/models/136849?modelVersionId=3457797) |
 | `c666d-tunnel-gape-anal-gaping-anus-v1-moss` | tunnel gape, anal gaping, gape pull, pov hands, | 1 | 94 | This lora makes a gigantic gaping anus, which you can look into, as if it's a deep dark tunnel. Trained Trigge | [link](https://civitai.com/models/3039558?modelVersionId=3454524) |
+| `mr-piglets-chavettes-and-essex-women-for-moss-3` | not stated | not stated | 89 | You don't have to like the LoRa, but you can show your appreciation for the work put into it with a thumbs-up  | [link](https://civitai.com/models/3028633?modelVersionId=3440435) |
+| `mr-piglets-chavettes-and-essex-women-for-moss-2` | not stated | not stated | 73 | You don't have to like the LoRa, but you can show your appreciation for the work put into it with a thumbs-up  | [link](https://civitai.com/models/3028633?modelVersionId=3440428) |
+| `mr-piglets-chavettes-and-essex-women-for-moss-4` | not stated | not stated | 72 | You don't have to like the LoRa, but you can show your appreciation for the work put into it with a thumbs-up  | [link](https://civitai.com/models/3028633?modelVersionId=3443794) |
+| `mr-piglets-chavettes-and-essex-women-for-moss` | not stated | not stated | 67 | You don't have to like the LoRa, but you can show your appreciation for the work put into it with a thumbs-up  | [link](https://civitai.com/models/3028633?modelVersionId=3440043) |
 | `better-cum-moss` | not stated | not stated |  |  |  |
 | `huge-anal` | not stated | not stated |  |  |  |

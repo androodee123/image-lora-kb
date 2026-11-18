@@ -1,6 +1,6 @@
 # Anima — quality-detail
 
-44 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+53 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -12,6 +12,8 @@
 |---|---|---|---:|---|---|
 | `zoda-nsfw-detailer-anima` | not stated | 0.5 - 1.0 | 8276 | v3_illustrious have 2 files: zoda_v3_illu_hires.safetensors (435MB, Hi-Res version , default option) zoda_v3_i | [link](https://civitai.com/models/1879987?modelVersionId=3130764) |
 | `realskin-slider-anima` | realskin slider anima | not stated | 6621 | -1：更平滑、更二次元的皮肤质感  0：接近底模原始效果 +1：更真实的皮肤纹理、材质和光影表现 -1 = flat anime skin  0 = base +1 = realistic skin texture | [link](https://civitai.com/models/2682590?modelVersionId=3068784) |
+| `add-micro-details-concept-v1-anima` | addmicrodetails | not stated | 5577 | Recommended settings: Steps: 25-40 CFG scale: 5-7 Strength – Varies (Sometimes it's hard to tell which one loo | [link](https://civitai.com/models/1377820?modelVersionId=3287274) |
+| `add-micro-details-concept-anima-2` | addmicrodetails | not stated | 4698 | Recommended settings: Steps: 25-40 CFG scale: 5-7 Strength – Varies (Sometimes it's hard to tell which one loo | [link](https://civitai.com/models/1377820?modelVersionId=3128378) |
 | `detailer-anima` | detailer anima | 1 | 3359 | Detailer lora for Anima. v2 - Whole thing is rebalanced. Colorfix added. Antisweat added. Additional stabilize | [link](https://civitai.com/models/2767064?modelVersionId=3142679) |
 | `zoda-nsfw-detailer-anima-2` | zoda nsfw detailer anima 2 | 0.5 - 1.0 | 2240 | v3_illustrious have 2 files: zoda_v3_illu_hires.safetensors (435MB, Hi-Res version , default option) zoda_v3_i | [link](https://civitai.com/models/1879987?modelVersionId=3092860) |
 | `kot2_Matte_skin_v5_Anima` | not stated | not stated | 2144 | Added v5(Anima). I recommend 1.0~2.0 Added v4(Illustrious). I recommend 0.5~1.5 below is about v3(Illustrious) | [link](https://civitai.com/models/1105924?modelVersionId=3219387) |
@@ -25,7 +27,9 @@
 | `tentacles-under-skin-anm-il-noob-anima` | tentacles under skin, tentacles in breasts, veiny breasts,, tentacles in belly,  | 1.1 | 1003 | A LoRA for adding tentacles under the subject's skin, usually the breasts but also works with stomach bulges.  | [link](https://civitai.com/models/1831054?modelVersionId=3058201) |
 | `Deeper Skin - Anima v1.0 - Anima_Deeper_SkinV1` | deeper skin | 1.0 | 880 | This is a more exaggerated version of the deep skin tag. It should works for breasts, asses, and bellies and p | [link](https://civitai.com/models/1701939?modelVersionId=3230243) |
 | `realistic-skin-face-professional-photograp-anima` | not stated | not stated | 800 | This model is part of the Realistic Skin & Face series — a growing collection dedicated to mastering real-worl | [link](https://civitai.com/models/1426727?modelVersionId=3416267) |
+| `muscle-slider-add-remove-muscle-with-enhan-anima` | not stated | 2 to 2 | 757 | ✨ Tired of typing prompts + want viral-ready art?  Pair Lazy Embeddings 🛋️⚡ (zero-typing magic for all models  | [link](https://civitai.com/models/2224995?modelVersionId=3219709) |
 | `enhanced-pussy-anatomy-anima` | pussy | not stated | 734 | 🌸  I created this LoRA because I was getting increasingly frustrated with how anatomical details in this parti | [link](https://civitai.com/models/2945709?modelVersionId=3335521) |
+| `add-micro-details-concept-anima` | addmicrodetails | not stated | 683 | Recommended settings: Steps: 25-40 CFG scale: 5-7 Strength – Varies (Sometimes it's hard to tell which one loo | [link](https://civitai.com/models/1377820?modelVersionId=3443066) |
 | `sweaty-skin-for-anima` | sweatyskin | 0.7 | 641 | ** base-v1.0 is recommended. ** Setting trigger words: sweatyskin reccomend prompts: shiny skin, very sweaty R | [link](https://civitai.com/models/2611324?modelVersionId=3317454) |
 | `ccbetter-skin-agm-anima` | not stated | not stated | 594 | At its core, this is an artistic style, yet it captures skin texture remarkably well; I created this model aft | [link](https://civitai.com/models/2958813?modelVersionId=3351820) |
 | `better-details-anima` | not stated | not stated | 525 | 优化细节的结构正确性 v6.0 景深 对比图，右侧是有lora的 | [link](https://civitai.com/models/2943602?modelVersionId=3349549) |
@@ -38,6 +42,7 @@
 | `enhanced-environment-hospital-ee-5-anima` | intricate environment | not stated | 244 | Tag: intricate environment This LORA is for enhancing the environment in a genetated image | [link](https://civitai.com/models/3033498?modelVersionId=3446583) |
 | `enhanced-environment-japanese-school-ee-4-anima` | intricate environment | not stated | 225 | Tag: intricate environment This LORA is for enhancing the environment in a genetated image | [link](https://civitai.com/models/3033493?modelVersionId=3446575) |
 | `derketo-acolyte-conan-exiles-enhanced-anima` | 1girl, solo, derketo_acolyte_cl, bone skull mask, black leather choker, black ch | 0.8 | 210 | Information A Clothing LoRA from Conan Exiles Enhanced. The outfit is called Derketo Acolyte. It's from the va | [link](https://civitai.com/models/2950478?modelVersionId=3341525) |
+| `masculine-photorealistic-modern-bedroom-in-anima` | ultra masculine photorealistic modern bedroom 1nt3r10r | not stated | 198 | Please don’t rely only on the LoRA title to understand what it does. The preview images are the real represent | [link](https://civitai.com/models/2784084?modelVersionId=3136235) |
 | `igbadde-edition-anima` | not stated | not stated | 197 | Trained on 133 hand-picked photos mix of framings: 24 close-ups, 32 upper body, 30 cowboy shots, 35 full body  | [link](https://civitai.com/models/2986363?modelVersionId=3385820) |
 | `enhanced-environment-love-hotel-ee-27-anima` | intricate environment | not stated | 186 | Tag: intricate environment This LORA is for enhancing the environment in a genetated image | [link](https://civitai.com/models/3042359?modelVersionId=3458229) |
 | `mercy-lifeguard-skin-anima` | lifeguard mercy, mercy (overwatch) | not stated | 177 | Yet another skin from this sexy lifeguard back to Pony ;D As always Hi-Res and Adetailer recommended | [link](https://civitai.com/models/616912?modelVersionId=3432266) |
@@ -47,10 +52,14 @@
 | `enhanced-environment-supermarket-ee-14-anima` | intricate environment | not stated | 159 | Tag: intricate environment This LORA is for enhancing the environment in a genetated image | [link](https://civitai.com/models/3038496?modelVersionId=3453067) |
 | `enhanced-environment-restaurant-ee-12-anima` | intricate environment | not stated | 150 | Tag: intricate environment This LORA is for enhancing the environment in a genetated image | [link](https://civitai.com/models/3037055?modelVersionId=3451190) |
 | `zamorian-dancer-conan-exiles-enhanced-anima` | 1girl, solo, zamorian_dancer_cl, large breasts, gold choker, maroon wrap crop to | 0.8 | 148 | Information A Clothing LoRA from Conan Exiles Enhanced. The outfit is called Zamorian Dancer. It's part of the | [link](https://civitai.com/models/2950374?modelVersionId=3341398) |
+| `hollow-vore-skinsuit-monster-transform-seq-anima` | hollowskin_MST, 1,hollowskin_MST,scared face,tears,crying,orange tentacles,livin | 1 | 142 | A parasitic skinsuit monster grabbed ur waifu！ Use this LoRA and follow the steps below to easily envelop your | [link](https://civitai.com/models/2573907?modelVersionId=3304724) |
 | `enhanced-environment-office-ee-24-anima` | intricate environment | not stated | 132 | Tag: intricate environment This LORA is for enhancing the environment in a genetated image | [link](https://civitai.com/models/3041686?modelVersionId=3457368) |
 | `enhanced-environment-gym-ee-30-anima` | intricate environment | not stated | 130 | Tag: intricate environment This LORA is for enhancing the environment in a genetated image | [link](https://civitai.com/models/3043890?modelVersionId=3460131) |
 | `enhanced-environment-cave-ee-20-anima` | intricate environment | not stated | 117 | Tag: intricate environment This LORA is for enhancing the environment in a genetated image | [link](https://civitai.com/models/3040334?modelVersionId=3455686) |
 | `sakura-reverie-realistic-edition-anima` | z1os | 1 | 108 | Finding all my models or profile elsewhere than Civitai is without my consent ! Please don't repost my files.  | [link](https://civitai.com/models/2986906?modelVersionId=3386491) |
 | `mrw-glossy-skin-anima` | mrw_style | not stated | 105 | trigger word: mrw_style | [link](https://civitai.com/models/3039264?modelVersionId=3454083) |
+| `enhanced-environment-wild-beach-ee-38-anima` | intricate environment | not stated | 103 | Tag: intricate environment This LORA is for enhancing the environment in a genetated image | [link](https://civitai.com/models/3045654?modelVersionId=3462408) |
+| `enhanced-environment-military-base-ee-39-anima` | intricate environment | not stated | 92 | Tag: intricate environment This LORA is for enhancing the environment in a genetated image | [link](https://civitai.com/models/3047126?modelVersionId=3464311) |
 | `enhanced-environment-art-gallery-ee-26-anima` | intricate environment | not stated | 87 | Tag: intricate environment This LORA is for enhancing the environment in a genetated image | [link](https://civitai.com/models/3042215?modelVersionId=3458051) |
+| `enhanced-environment-miniature-island-ee-4-anima` | intricate environment | not stated | 68 | Tag: intricate environment This LORA is for enhancing the environment in a genetated image | [link](https://civitai.com/models/3047132?modelVersionId=3464318) |
 | `andrd_peekaboostring-anima-000012.TA_trained` | not stated | not stated |  |  |  |

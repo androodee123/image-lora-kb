@@ -1,6 +1,6 @@
 # Pony (Pony Diffusion XL) — clothing
 
-201 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+228 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -16,9 +16,11 @@
 | `costumeskimpy-gal-request-pony` | front-tied shirt, micro bikini, areola slip, miniskirt, pleated skirt | not stated | 2214 |  | [link](https://civitai.com/models/815009?modelVersionId=911347) |
 | `costumelatex-outfit-request-pony` | latex shrug (clothing), latex legwear, reverse outfit | not stated | 2153 |  | [link](https://civitai.com/models/815828?modelVersionId=912285) |
 | `costumecross-swimsuit-request-pony` | cross swimsuit, areola slip, skin indention | not stated | 1967 |  | [link](https://civitai.com/models/830254?modelVersionId=928606) |
+| `male-pov-general-micropenis-chastity-cage-pony` | pov crotch, penis, 1girl, , 1boy,, multiple boys, , 2boys,, upper body,, imminen | not stated | 1669 | As requested, here's the LoRA. Comment or message me to let me know what to create next. I make whatever is mo | [link](https://civitai.com/models/1289738?modelVersionId=1455327) |
 | `cat-lingerie-pony` | cat lingerie,bra,panties,neck bell | 0.7 | 1658 | The recommended strength of lora is around 0.7. | [link](https://civitai.com/models/1284777?modelVersionId=1740093) |
 | `costumelatex-bodysuit-request-pony` | latex bodysuit | not stated | 1464 |  | [link](https://civitai.com/models/815657?modelVersionId=912094) |
 | `costumelatex-sailor-bunny-request-pony` | latex gloves, latex legwear, rabbit ears, sailor collar, showgirl skirt, pussy,  | not stated | 1325 |  | [link](https://civitai.com/models/812519?modelVersionId=908574) |
+| `thin-bodysuit-pony` | not stated | 0.8 | 1282 | A bodysuit LORA created for extremely thin, highleg style bodysuits. More LORA practice, think this one works  | [link](https://civitai.com/models/302118?modelVersionId=559115) |
 | `costumelace-bodysuit-request-pony` | lace bodysuit | not stated | 1234 |  | [link](https://civitai.com/models/829892?modelVersionId=928183) |
 | `costumemicro-shorts-request-pony` | micro shorts, denim, belt, thong | not stated | 1234 |  | [link](https://civitai.com/models/811348?modelVersionId=907294) |
 | `costumeblack-bodystocking-request-pony` | bodystocking | not stated | 1210 | TAGS: bodystocking I TAKE REQUESTS AT https://civitai.com/articles/7712/clothing-lora-requests | [link](https://civitai.com/models/812429?modelVersionId=908485) |
@@ -33,10 +35,12 @@
 | `Femdom POV - V1 - Upskirt_pov` | Upskirt_POV_ | not stated | 1024 |  | [link](https://civitai.com/models/1692530?modelVersionId=1915493) |
 | `costumeplain-white-lingerie-request-pony` | white bra, white panties | not stated | 1022 |  | [link](https://civitai.com/models/838019?modelVersionId=937569) |
 | `costumelong-pencil-skirt-request-pony` | longpencilskirt, long skirt | not stated | 1021 |  | [link](https://civitai.com/models/823870?modelVersionId=921276) |
+| `boyshorts-pony` | b0ysh0rts | not stated | 997 | A Lora for female boyshorts. Trained with 226 images, 10 epochs.  It works very well with animated checkpoints | [link](https://civitai.com/models/306080?modelVersionId=624442) |
 | `costumecheerleader-02-pony` | cheerleader | not stated | 977 |  | [link](https://civitai.com/models/817453?modelVersionId=914097) |
 | `costumepinstripe-blazer-dress-pony` | black dress, cleavage, long sleeves, short dress, thighs | not stated | 915 |  | [link](https://civitai.com/models/821583?modelVersionId=918723) |
 | `costumelow-rise-jeans-request-pony` | low-rise jeans | not stated | 910 |  | [link](https://civitai.com/models/839474?modelVersionId=939194) |
 | `costumecheerleader-request-pony` | cheerleader | not stated | 895 |  | [link](https://civitai.com/models/812728?modelVersionId=908816) |
+| `panty-pull-pony` | not stated | 0.1 | 895 | This is a complex idea for the AI to get correct as the panties need to loop around the legs/ass. The LoRa was | [link](https://civitai.com/models/1402272?modelVersionId=1585077) |
 | `costumevault-jumpsuit-request-pony` | blue jumpsuit | not stated | 865 |  | [link](https://civitai.com/models/805158?modelVersionId=900243) |
 | `costumelingerie-with-mesh-top-request-pony` | black bra, black panties, mesh | not stated | 863 |  | [link](https://civitai.com/models/840786?modelVersionId=940661) |
 | `costumeshort-dress-pony` | short dress, ribbed dress, cross-laced clothes, knit sweater | not stated | 863 |  | [link](https://civitai.com/models/800016?modelVersionId=894564) |
@@ -95,6 +99,7 @@
 | `costumeshirt-vest-cleavage-request-pony` | sweater vest, collared shirt, cleavage | not stated | 630 |  | [link](https://civitai.com/models/822454?modelVersionId=919715) |
 | `costumelingerie-03-request-pony` | pink bra, pink panties, cherry blossom print | not stated | 626 |  | [link](https://civitai.com/models/811136?modelVersionId=907049) |
 | `costumestrawberry-dress-pony` | strawberry dress | not stated | 626 | Trigger word: strawberry dress Sorry for having to use a trigger word, I may make a second version without it  | [link](https://civitai.com/models/99743?modelVersionId=632148) |
+| `male-pov-general-micropenis-chastity-cage-pony-2` | pov crotch, chastity cage,, 1girl, 1boy,, NTR,, Cuck pov, 2boys,  1girl, sex, ,  | not stated | 624 | As requested, here's the LoRA. Comment or message me to let me know what to create next. I make whatever is mo | [link](https://civitai.com/models/1289738?modelVersionId=1504008) |
 | `costumetwo-piece-04-pony` | cross-laced bra, cross-laced skirt, sequins | not stated | 622 |  | [link](https://civitai.com/models/803464?modelVersionId=898374) |
 | `costumesarong-request-pony` | sarong | not stated | 612 |  | [link](https://civitai.com/models/826146?modelVersionId=923896) |
 | `costumelong-dress-02-pony` | satin dress, cleavage, side slit | not stated | 604 |  | [link](https://civitai.com/models/807856?modelVersionId=903324) |
@@ -136,6 +141,7 @@
 | `costumenobara-kugisaki-request-pony` | cropped jacket, long sleeves, blue skirt, high-waist skirt, medium skirt, pantyh | not stated | 499 |  | [link](https://civitai.com/models/835039?modelVersionId=934242) |
 | `costumedokkaebi-casual-request-pony` | purple t-shirt, overalls | not stated | 497 |  | [link](https://civitai.com/models/826375?modelVersionId=924148) |
 | `costumefenty-rihanna-pony` | fenty, purple dress, strapless dress, necklace | not stated | 497 |  | [link](https://civitai.com/models/792232?modelVersionId=885875) |
+| `cammy-realistic-cosplay-pony` | cammyCosplayQuiron, green thong leotard, red beret, cammycosplay | not stated | 494 | 👑 Cammy cosplay - Pony - LORA 👑 ⚙️🔧Model base: Pony ______________ 📝🌟 Trigger: cammyCosplayQuiron, cammycospla | [link](https://civitai.com/models/472765?modelVersionId=968137) |
 | `costumerainbow-lined-lingerie-request-pony` | grey bra, grey panties | not stated | 492 |  | [link](https://civitai.com/models/840565?modelVersionId=940411) |
 | `costumeamerican-flag-bikini-request-pony` | american flag bikini | not stated | 485 |  | [link](https://civitai.com/models/826587?modelVersionId=924377) |
 | `costumetwo-piece-07-pony` | black shirt, long sleeves, spaghetti straps, ribbon, blue skirt | not stated | 485 |  | [link](https://civitai.com/models/808329?modelVersionId=903878) |
@@ -190,21 +196,42 @@
 | `costumebat-shoes-request-pony` | batshoes | not stated | 320 |  | [link](https://civitai.com/models/823623?modelVersionId=921000) |
 | `costumestriped-lingerie-request-pony` | striped sports bra, striped shorts | not stated | 315 |  | [link](https://civitai.com/models/818903?modelVersionId=915718) |
 | `costumeheart-goggles-pony` | goggles on head | not stated | 314 |  | [link](https://civitai.com/models/817406?modelVersionId=914042) |
+| `jockstrap-varied-colors-styles-and-concept-pony` | jockstrap, jockstrapfacemask, jocksniff, jockworship | not stated | 311 | KREA2 Turbo version 2: Updated because the v1 version was messing with my character loras a bit too much, so I | [link](https://civitai.com/models/269777?modelVersionId=1127806) |
 | `costumecaveira-elite-request-pony` | crop top, belt, pants, necklace, bandaged arm | not stated | 302 |  | [link](https://civitai.com/models/841586?modelVersionId=941545) |
 | `costumeaqua-floral-lingerie-pony` | aqua bra, aqua panties | not stated | 291 | TAGS: aqua bra, aqua panties | [link](https://civitai.com/models/1090103?modelVersionId=1224276) |
+| `condom-left-inside-pony` | condom in ass, condom in pussy | not stated | 285 | Recommended negative prompt: lowres, bad quality, worst quality, bad anatomy, jpeg artifacts, signature, water | [link](https://civitai.com/models/2088112?modelVersionId=2362540) |
 | `costumebowler-hat-request-pony` | bowler hat | not stated | 285 |  | [link](https://civitai.com/models/817843?modelVersionId=914529) |
+| `mirrored-sunglasses-concept-for-pony` | mirrored sunglasses, sunglasses, reflection, | 1.2-1.5 | 284 | Mirrored sunglasses with reflections. Anima version: It handles simple sentences well—those that include chara | [link](https://civitai.com/models/733687?modelVersionId=820470) |
+| `trans-girl-butt-plug-pony` | TGPlugged | not stated | 277 | This LORA was created to let you make better butt plugs in trans girls.  I run on that free life and would GLA | [link](https://civitai.com/models/2006555?modelVersionId=2271130) |
+| `suspender-stockings-pony` | not stated | not stated | 271 | A lora for a one-piece garment integrating stockings and garter belt. Keywords include fishnet, torn, and lace | [link](https://civitai.com/models/2087323?modelVersionId=2364295) |
 | `costumela-flora-academy-request-pony` | white shirt, red bowtie, red blazer, red skirt | not stated | 251 |  | [link](https://civitai.com/models/817821?modelVersionId=914503) |
+| `condom-bikini-condoms-tied-to-bikini-il-sd-pony` | C0ndom_bikini, tied condom, used condoms, condoms tied to bikini | not stated | 248 | Lets your favorite character wear a condom bikini, or bikini with used condoms tied on it. Have fun! | [link](https://civitai.com/models/1584792?modelVersionId=1793364) |
 | `costumelegwear-garter-request-pony` | sock garter | not stated | 232 | hopefully this is more stable! | [link](https://civitai.com/models/808089?modelVersionId=906519) |
+| `jacquard-leggings-pony` | jacquardleggings | not stated | 228 | Lora for ass lifting yoga pants, with or without texture. Add fishnet to your prompt for texture. | [link](https://civitai.com/models/1521437?modelVersionId=1809294) |
 | `costumemale-outfit-01-pony` | turtleneck, cardigan, argyle, brown pants | not stated | 227 |  | [link](https://civitai.com/models/805629?modelVersionId=900770) |
 | `costumefrilled-shirt-request-pony` | frilled shirt | not stated | 219 |  | [link](https://civitai.com/models/807638?modelVersionId=903072) |
+| `txbikini-pony` | txbikini | not stated | 218 | Initial version | [link](https://civitai.com/models/638546?modelVersionId=714046) |
+| `western-chaps-pony` | westernchaps, cowboy western, chaps | not stated | 216 | This lora provides western style chaps, leather leg coverings used to protect the legs of riders from rough br | [link](https://civitai.com/models/1136766?modelVersionId=1278149) |
+| `costumebloomers-request-v1-pony` | bloomers | not stated | 215 |  | [link](https://civitai.com/models/836328?modelVersionId=935696) |
 | `costumemale-outfit-02-pony` | hoodie, fishnets, long sleeves | not stated | 213 |  | [link](https://civitai.com/models/821712?modelVersionId=918871) |
+| `condoms-in-stomach-il-sd-pony` | c0ndoms_in_st0mach, condoms in stomach, x-ray | not stated | 137 | Leaves condoms in her stomach, very few pics of this (and I love making rare concepts), have fun! | [link](https://civitai.com/models/1445083?modelVersionId=1638071) |
+| `penis-under-another-s-bikini-penis-under-a-pony` | Penis under another's clothes, bikini | not stated | 135 | Have him stick his dick right under her bikini, the best spot! Have fun! | [link](https://civitai.com/models/2024170?modelVersionId=2290923) |
+| `nhs-nurse-sister-uniform-v3-pony` | NHS nurse dress | not stated | 121 | Latest iteration of my NHS nurse dress - I wanted a low that consistently produced the dark blue dress of a Wa | [link](https://civitai.com/models/1150801?modelVersionId=1294470) |
+| `dildo-under-panties-dildo-under-thong-dild-pony` | Dildo under panties, thong | not stated | 120 | Stretch out panties or thong with a dildo. Have fun! | [link](https://civitai.com/models/2572798?modelVersionId=2895462) |
 | `latex-women-submissive-dominatrix-pony` | not stated | not stated | 118 |  | [link](https://civitai.com/models/2995215?modelVersionId=3396904) |
+| `amateur-crossdressers-pony` | AmCDXX9, Amateur, Crossdresser | not stated | 103 | Trained on crossdresser porn — enjoy. Use my images as starting off points, if you need to. Toss a coin to you | [link](https://civitai.com/models/2685081?modelVersionId=3020588) |
+| `costumelegwear-garter-request-v1-pony` | legwear garter | not stated | 92 |  | [link](https://civitai.com/models/808089?modelVersionId=903592) |
+| `conical-straw-hat-pony` | strawhat, conical hat | not stated | 80 |  | [link](https://civitai.com/models/2063350?modelVersionId=2334823) |
 | `ruffle-lace-panties-pony` | rufflelace | not stated | 70 |  | [link](https://civitai.com/models/3022632?modelVersionId=3432307) |
+| `lace-pantyhose-hooked-on-heel-meme-il-sd-pony` | Pantyhose_hooked_on_heel, full body, from side, lying, on stomach, feet up, clot | not stated | 61 | Creates the meme/viral pose where the character's high heel shoe is hooked on lace pantyhose. Very sexy. Have  | [link](https://civitai.com/models/2212567?modelVersionId=2491064) |
 | `snowflake-designs-competition-leotard-pony` | Competition leotard, long sleeve | not stated | 52 |  | [link](https://civitai.com/models/3023240?modelVersionId=3433079) |
+| `condom-hair-ornament-condom-in-hair-condom-pony` | Condom_hair_ornament, used condom | not stated | 51 | The best hair ornament is a used condom. Have fun! | [link](https://civitai.com/models/2671338?modelVersionId=2999638) |
+| `ahegao-hoodie-pony` | Ahegao_pattern hoodie | not stated | 47 | M'lady, do you like my ahegao hoodie? Have fun! | [link](https://civitai.com/models/2510578?modelVersionId=2822011) |
 | `micro-bikini-pony` | m1cr0 | not stated | 41 |  | [link](https://civitai.com/models/2958153?modelVersionId=3351021) |
 | `seductress-witch-halloween-costume-cosplay-pony` | Sexy_Witch, Sexy_Witch, witch hat, front-tie cape, black bikini top, microskirt, | not stated | 39 | Seductress Witch Halloween Costume / Cosplay - t2ukmyjm | [link](https://civitai.com/models/2981843?modelVersionId=3380282) |
 | `heart-print-bikini-v-pony` | Red heart print ruffled bikini | not stated | 36 |  | [link](https://civitai.com/models/3037005?modelVersionId=3451134) |
 | `catwoman-costume-1989-pony` | bmcw | not stated | 35 |  | [link](https://civitai.com/models/3000665?modelVersionId=3403770) |
+| `miss-information-gameoverse-2-outfits-pony` | Msinfo, Msinfo, blonde hair, long hair, ponytail, purple eyes, purple lips, purp | not stated | 32 | Create the beautiful Miss Information from Gameoverse. Have fun! | [link](https://civitai.com/models/2642509?modelVersionId=2967153) |
 | `xxx-mas-lingerie-pony` | xxxlin | not stated | 25 |  | [link](https://civitai.com/models/3040344?modelVersionId=3455698) |
 | `red-cockring-pony` | not stated | not stated |  |  |  |
 | `stretched-nipple-piercing-v3-14-pony-xl` | not stated | not stated |  |  |  |

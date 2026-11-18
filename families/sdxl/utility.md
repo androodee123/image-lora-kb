@@ -1,6 +1,6 @@
 # SDXL — utility
 
-5 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+7 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -11,7 +11,9 @@
 | slug | triggers | strength | dl | what | source |
 |---|---|---|---:|---|---|
 | `thick-xl-thin-thick-body-build-slider-xl` | not stated | not stated | 369 |  | [link](https://civitai.com/models/2893137?modelVersionId=3271132) |
+| `bewbs-breast-size-slider-xl` | not stated | not stated | 265 |  | [link](https://civitai.com/models/2947454?modelVersionId=3337780) |
 | `sheer-clothing-transparency-slider-xl` | not stated | not stated | 140 |  | [link](https://civitai.com/models/2911617?modelVersionId=3293497) |
 | `oiled-oiled-skin-slider-xl` | not stated | not stated | 120 |  | [link](https://civitai.com/models/2981260?modelVersionId=3379540) |
+| `hyperpregnant-hyperpregnancy-il-sd-xl` | hyperpregnant, huge belly | not stated | 110 | Makes characters extremely pregnant, have fun! | [link](https://civitai.com/models/1703222?modelVersionId=1927565) |
 | `masculine-feminine-masculine-slider-xl` | not stated | not stated | 108 |  | [link](https://civitai.com/models/2976251?modelVersionId=3373279) |
 | `tan-lines-tanned-skin-slider-xl` | not stated | not stated | 79 |  | [link](https://civitai.com/models/3018894?modelVersionId=3427440) |

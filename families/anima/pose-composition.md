@@ -1,6 +1,6 @@
 # Anima — pose-composition
 
-63 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+66 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 | slug | triggers | strength | dl | what | source |
 |---|---|---|---:|---|---|
@@ -30,6 +30,7 @@
 | `pov_frottage_anima_v1-000005` | fr0t, frottage, pov, penis, 2 penises, from above, lying on back, from below, fr | not stated | 867 | Attempt at creating a POV Frotting / Frottage model. Experimental and pretty unstable. Anima version: Trigger: | [link](https://civitai.com/models/1838145?modelVersionId=2849308) |
 | `rpg_sv_actors-anima1.0-v1` | svactors,, transparent background, chibi, full body, multiple views,, A collecti | not stated | 831 | This Lora creates sprite sheets for use in RPG Maker. Recommended resolution: height: 1360. width: 2048. Promp | [link](https://civitai.com/models/2646716?modelVersionId=2971872) |
 | `bound-to-desk-origin-anima` | bound to desk,, 1girl, bound to desk, school desk, shoulders spreading, lying on | not stated | 792 | (English) kohya_ss This is the first Anima model I built. As explained in the previous announcement, I lost mo | [link](https://civitai.com/models/2986167?modelVersionId=3385589) |
+| `amen-pose-meme-v1-anima` | amen pose (meme), from behind, bent over, own hands together | 1 | 769 | Recommended negative prompt: lowres, bad quality, worst quality, bad anatomy, jpeg artifacts, signature, water | [link](https://civitai.com/models/2625801?modelVersionId=2948071) |
 | `double-penetration-from-below-anima` | interracial, threesome, mmf, view from below, (below dick view:1.5), view from u | not stated | 732 | OG by TheOfficialPit "speech bubbles, dialogue, words, text, english text, comic, thought bubbles," in neg | [link](https://civitai.com/models/2776697?modelVersionId=3126724) |
 | `fixed-point_camera` | fpcfpc, fixed-point camera: | not stated | 681 | 必須要說不算很成功 雖然triger短 但是想要得到想要的結果還是要prompt下功夫的 I must say it wasn't a great success. Although the triger is shor | [link](https://civitai.com/models/1903155?modelVersionId=2977990) |
 | `instant-loss-straddling-multiple-views-2ko-anima` | crotchless, netorare, multiple condoms, pussy, condom belt, sex, defeat, instant | not stated | 675 | Ohayo, my hot and kinky people 🔥😈!, I find myself needing to use this intro from now on for my original models | [link](https://civitai.com/models/2993821?modelVersionId=3395208) |
@@ -63,7 +64,9 @@
 | `mount-punch-mma-submission-pose-4-postions-anima` | MontPunch, MontPunch-Mount, MontPunch-Impact, femdom girl on top, maledom man on | not stated | 162 | My Mission: Keep the open-source spirit alive. Every bit of Buzz from this model fuels Your support directly f | [link](https://civitai.com/models/2006394?modelVersionId=3402702) |
 | `zesty-sonic-meme-anima` | zstsc pose | not stated | 130 | Zesty Sonic (Meme) | [link](https://civitai.com/models/3006947?modelVersionId=3411818) |
 | `Goatse_Pose_Real_Step_01600_ANI` | gtsprdpse, solo focus, hands spreading buttocks, exposed anus, low rear angle, s | not stated | 126 | This is a goatse concept trained on sythetic data generated with Morris_1026's goatse lora, but it was trained | [link](https://civitai.com/models/2426665?modelVersionId=3107254) |
+| `civitai-m-il-breast-presse-sitting-on-the-anima` | 1girl is breast press, her breasts together using her own arms.,, (1girl is stre | 0.8 | 126 | 思いつくと何となく作るという。 既存のものの差分みたくなってるけど一応新規 胸潰し尻もち座り M開脚しつつ開いた膝の内側へ手を下すポージング 太もも掴みと掴みなしの２ポーズパターン grabbing own thighs | [link](https://civitai.com/models/3055330?modelVersionId=3475391) |
 | `asuka-langley-neon-genesis-evangelion-anima` | not stated | 0.7–1.0 | 106 | Asuka Langley / Neon Genesis Evangelion / ANIMA LoRA Asuka Langley from Neon Genesis Evangelion is now availab | [link](https://civitai.com/models/3024793?modelVersionId=3435100) |
 | `world-is-mine-pose-1-outfit-meme-concept-anima` | WIMLP,, pink checkered blanket, lying on back, on floor, knees up, convenient le | not stated | 92 | I'm on a roll with old pose memes. 👀 | [link](https://civitai.com/models/2445576?modelVersionId=3466836) |
+| `romeo-to-cinderella-pose-meme-concept-anima` | RTCPC,  holding fruit, apple, open mouth, lying, on stomach, looking at viewer,  | not stated | 85 | Depending on the additional LoRAs you use the polka dot background can be cranky. So add weight or brackets to | [link](https://civitai.com/models/2498646?modelVersionId=3474229) |
 | `world-is-mine-pose-2-meme-concept-anima` | WIMEP, pink heart background, closed eyes, :o, hand up,, Outfit:, mini crown, cr | not stated | 78 | That song is stuck in my head for hours. Send help! | [link](https://civitai.com/models/2445698?modelVersionId=3466928) |
 | `endoscopicview-anima-v1-e10` | not stated | not stated |  |  |  |

@@ -1,10 +1,10 @@
 # Anima — concept
 
-278 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+296 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
-- Suggest ingest: [ロ○巨乳/Bust Size (Big)(XL,ill,pony)](https://civitai.com/models/458386) (anima, 11,476 dl) — `lkp` · strength `1.0` (stated) — **downloads 11476 >= 2x best available (3187) in same family+category**
+- Suggest ingest: [ロ○巨乳/Bust Size (Big)(XL,ill,pony)](https://civitai.com/models/458386) (anima, 11,526 dl) — `lkp` · strength `1.0` (stated) — **downloads 11526 >= 2x best available (3187) in same family+category**
 - Suggest ingest: [Mechanism concept](https://civitai.com/models/539249) (anima, 9,528 dl) — `mcnm` · strength `0.75-1` (stated) — **downloads 9528 >= 2x best available (3187) in same family+category**
 - Suggest ingest: [Spiderwebbed (Krea, Anima, ILXL, Pony)](https://civitai.com/models/384304) (anima, 7,562 dl) — `spiderwebbed` · strength not stated — **downloads 7562 >= 2x best available (3187) in same family+category**
 
@@ -21,6 +21,7 @@
 | `larger-female-xl` | size difference, larger female, smaller male | not stated | 1846 | This model should control the difference in size between a female and male character. Main prompts: size diffe | [link](https://civitai.com/models/863526?modelVersionId=3187783) |
 | `tentacle-lactation-anima` | tentacles on breasts, forced lactation | 1.0 | 1803 | For support that tentacle like object grabbing breasts and milking. Main tags: tentacles on breasts, forced la | [link](https://civitai.com/models/1615758?modelVersionId=3029787) |
 | `balllickingV1Anima` | balllicking, pov balllicking, cooperative balllicking | not stated | 1740 | Ball Licking concept helper (for a request) Trained on 65 pictures of multiple poses and views with booru tags | [link](https://civitai.com/models/2440417?modelVersionId=2743910) |
+| `cheating-netorare-prostitution-concept-ver-anima` | netorare, prostitution, imminet sex, groping, grabbing another's breast, fingeri | not stated | 1653 | Ohayo, my hot and kinky people 🔥😈!, I find myself needing to use this intro from now on for my original models | [link](https://civitai.com/models/1310495?modelVersionId=2988964) |
 | `tentacle_tweak_under_clothes-anima-v1` | tentacle_tweak_under_clothes | not stated | 1615 | concept: tentacle tweak under clothes | [link](https://civitai.com/models/2680255?modelVersionId=3009537) |
 | `corruption-anima` | corruption, thighhighs, elbow gloves, dark persona, pubic tattoo, leotard, bare  | not stated | 1568 | The strength of Lora is recommended to be around 1.0. The Flux version is a trial version. It has hardly been  | [link](https://civitai.com/models/1077106?modelVersionId=2980322) |
 | `enema-anima` | syringe enema, 1girl, object insertion, anal object insertion,holding syringe | 0.8 | 1556 | The strength of Lora is recommended to be 0.8〜1.2. I moved here. https://civitai.com/models/512353/enema | [link](https://civitai.com/models/469659?modelVersionId=3019797) |
@@ -63,6 +64,7 @@
 | `CHNYCWQQMYC7K419SRQKP4H6K0` | not stated | not stated | 716 | Mecha bound | [link](https://civitai.com/models/2715392?modelVersionId=3050893) |
 | `hanging-legs-anima` | female florting legs, hanging legs,, Legs dangling | not stated | 712 | 体格差により、挿入された側の足が地面に着かなくなった状態でセックスさせる内容になります。 Due to the difference in body size, the scene involves having sex | [link](https://civitai.com/models/2912458?modelVersionId=3294555) |
 | `double-insertion-ill-anima` | double insertion, double penetration | not stated | 710 | The strength of Lora is recommended to be around 1.0. | [link](https://civitai.com/models/557544?modelVersionId=3413002) |
+| `goblin-fest-anima` | goblin_fest, multiple boys, oral, fellatio, group sex, multiple girls, hetero, p | not stated | 705 | Use this prompt + this model Diving Anima to ultra quality result goblin_fest, multiple boys, oral, fellatio,  | [link](https://civitai.com/models/2947987?modelVersionId=3338450) |
 | `IrezumiAnima` | 1r3zum1, back tattoo, arm tattoo, full-body tattoo, shoulder tattoo, chest tatto | 0.8 | 695 | Creates an Irezumi / Yakuza Tattoo effect Strength of 0.8 Trigger: 1r3zum1 Additional: back tattoo, arm tattoo | [link](https://civitai.com/models/2679300?modelVersionId=3008451) |
 | `phimosis_tentacles-anima-v1` | phimosis_tentacles | not stated | 692 | concept: phimosis tentacles | [link](https://civitai.com/models/2724787?modelVersionId=3062507) |
 | `Ovary_pen_cor_anm_v1_epoch_8` | ovary penetration, cross-section, uterus, ovaries, ovary corruption, corruption, | not stated | 691 | LoRA for tentacles or slime penetrating all the way to the ovaries and corrupting them. Anima_a1: Same trainin | [link](https://civitai.com/models/2417258?modelVersionId=3034390) |
@@ -86,6 +88,7 @@
 | `biting_own_lip` | biting own lip | not stated | 534 | https://danbooru.donmai.us/posts?tags=biting_own_lip+&z=5 | [link](https://civitai.com/models/2631070?modelVersionId=2954049) |
 | `head-lock-sexy-fight-concept-version-anima` | head lock, scissorhold, crossed legs, lying, leg grab, leg lock, cunnilingus, fi | not stated | 533 | Ohayo, my hot and kinky people 🔥😈!, I find myself needing to use this intro from now on for my original models | [link](https://civitai.com/models/2931604?modelVersionId=3318117) |
 | `8855YRBT7F50H18MJ6TEVX9DH0` | not stated | not stated | 523 | knmp_037_tentaclelove, tentacle creature, tentacles, restrained, Thanks for the support :D If you like my work | [link](https://civitai.com/models/2699847?modelVersionId=3031853) |
+| `bitchsuit-very-experimental-anima` | Bitchsuit | not stated | 493 | It is an attempt to bring bitchsuit bondage to Anima. Its not particularly good. Try to use these tags: bitchs | [link](https://civitai.com/models/2719324?modelVersionId=3055786) |
 | `gibbet-anima` | Gibbet, | not stated | 463 | Mostly experimental. Tried to put together several pictures of the Gibbet style body cage to see if it would w | [link](https://civitai.com/models/2968521?modelVersionId=3363650) |
 | `silhouette-implied-nudity-anima` | silhouette-implied-nudity, implied nudity, shadow, clothes on ground, only the c | not stated | 461 | A LoRA trained on images clothing overlayed on a characters shadow.  The trigger word is: silhouette-implied-n | [link](https://civitai.com/models/2953603?modelVersionId=3345463) |
 | `side-bulge-anima` | sidebulge, futa side bulge | not stated | 460 | an alternative bulge shape to the front bulge that is usually depicted for futa bulges | [link](https://civitai.com/models/2502283?modelVersionId=3120308) |
@@ -120,6 +123,7 @@
 | `Acupuncture` | Acupuncture, needles | not stated | 341 | This is a health practice that has been passed down since ancient times. There is nothing dubious about it. It | [link](https://civitai.com/models/2706648?modelVersionId=3039990) |
 | `Phazon_Anima_v1_epoch_13` | phazon, blue glow, slime \(substance\),, phazon tentacles,, phazon slime girl, s | not stated | 340 | A LoRA for phazon, phazon corruption, and phazon tentacles. Comes with a side of Dark Samus because of bias in | [link](https://civitai.com/models/1475171?modelVersionId=3013200) |
 | `femdom-anima` | not stated | not stated | 338 | femdom position 1.reverse insertion into pussy: reverse insertion into pussy, penis in pussy, 1girl, dominant  | [link](https://civitai.com/models/2875825?modelVersionId=3249783) |
+| `armbinder-very-experimental-anima` | Armbinder | not stated | 332 | It is an attempt to bring armbinders to Anima. Its not particularly good.  Use: Armbinder, | [link](https://civitai.com/models/2729548?modelVersionId=3068425) |
 | `sea-demon-tentacles-fate-anm-anima` | sea demon tentacles, tentacle pit, tentacle sex, monster sex | not stated | 328 | Inspired by shiashibaK's monster seadevil (tentacle) LoRA for Illustrious XL, didn't feel like waiting to see  | [link](https://civitai.com/models/2982432?modelVersionId=3381002) |
 | `lovense-lush-anima-2` | lovense lush, pink sex toy | not stated | 325 | Pik sex toy vibrator | [link](https://civitai.com/models/2661913?modelVersionId=2989032) |
 | `Milk_Ducts_V1` | milk ducts, breast fat, filled ducts | not stated | 324 | First of all a huge shoutout to @aasuuaaa312835 for both providing the data set for this concept, as well as h | [link](https://civitai.com/models/2651925?modelVersionId=2977750) |
@@ -131,12 +135,15 @@
 | `breeding-mount-anima` | fillingcondom, normalbreeding, taurbreeding, tipout, x-raybreeding | not stated | 306 | Ver Anima V1 Trained base on Anima V0.1 base with LoRA_Easy_Training_Scripts. See about this version for train | [link](https://civitai.com/models/375635?modelVersionId=3414214) |
 | `sharing-double-dildo-anima` | double dildo penetration, double dildo, shared dildo, side view, profile | not stated | 303 | Idea from SHindoL. Dataset generated with controlnet. | [link](https://civitai.com/models/2998317?modelVersionId=3400822) |
 | `shocker-remodeling-table-an-il-anima` | shkr_remodeltable, circular remodeling table, blue surface, glowing table, hexag | 0.8 - 1.0 | 301 | Prop concept that originated with the original Kamen Rider series. Surgical table used by the Shocker Organiza | [link](https://civitai.com/models/1019810?modelVersionId=3397544) |
+| `big-ballgag-extremely-experimental-anima` | Big_Ballgag | not stated | 294 | It is an attempt to bring big ballgags to Anima. Its not particularly good and trained on poor material. Try t | [link](https://civitai.com/models/2721910?modelVersionId=3058933) |
 | `darkfire-two-panel-perversion-anima` | 1girl, 2panelslutification, the girl on the left becomes a complete slut on the  | not stated | 292 | Simple setup for side by side of girls turning into assorted perverts. Expand the notes for version specifics  | [link](https://civitai.com/models/2504302?modelVersionId=3447721) |
 | `Contortion_TripleQuadfold_Anima - v1.0 - Contortion_Anima-000032` | contortion,flexibility, quadfold, triplefold | not stated | 286 | 现在版本动作肢体还不稳定，将来会尝试更新更稳定的版本。 This version is still unstable for gesture and limbs. Attempting to make a more st | [link](https://civitai.com/models/2875210?modelVersionId=3248975) |
 | `ear-insert-brain-injection-anima` | a thick glossy white tentacle with a tapering tip is pushed into her ear canal,  | not stated | 284 | Anima模型权重1.0就可以了，效果比较明显 IL版本模型0.9~1.0 V1.1版本 忘掉之前的一切触发词教程，现在只需要一个词组即可让触手/寄生虫/植物/数据线马上插进你老婆的耳朵里！ V1.1version Fo | [link](https://civitai.com/models/2985977?modelVersionId=3385344) |
 | `amazon-position-femdom-kiss-v2-anima` | not stated | not stated | 282 | v2 test | [link](https://civitai.com/models/2753480?modelVersionId=3097963) |
+| `deep-fisting-anima` | extreme fisting, deep fisting,, anal fisting, vaginal fisting | not stated | 282 | This is a Lora designed for fisting. Please include "fisting" after "anal" and "vaginal." 腕を性器に突っ込ませるためのloraにな | [link](https://civitai.com/models/3054856?modelVersionId=3474751) |
 | `rounded-cute-fuller-shape-anima` | not stated | not stated | 282 | 没有触发词。 该lora内置画风，但是同样可以使用其他画风。 色彩配色更偏向冷色调，暖色不是很明显。 作用：让角色的脸蛋更圆润，让角色的身体更丰满。对于胸部我细调过，会让胸部轮廓不那么下垂。勒肉感更强。 具体示例可看参考 | [link](https://civitai.com/models/3043150?modelVersionId=3459199) |
 | `prostate-x-ray-cross-section-anima` | prostate, cross-section, x-ray, anal_fingering, anal_object_insertion, anal sex | 1.0 | 281 | Prostate X-Ray / Cross-Section — Anima · v0.1 Shows a physical prostate - either in an x-ray or cross-section  | [link](https://civitai.com/models/3024807?modelVersionId=3435140) |
+| `boxbinder-very-experimental-anima` | Boxbinder | not stated | 279 | It is an attempt to bring Boxbinders to Anima. It's not particularly good. This lora produces weak results. Yo | [link](https://civitai.com/models/2729558?modelVersionId=3068437) |
 | `How to talk to short people meme` | size difference, getting lifted, | not stated | 270 | How to talk to short people meme | [link](https://civitai.com/models/2820849?modelVersionId=3181997) |
 | `Y5RSQ1MMYN76RNYMWF3ADG7EH0` | not stated | not stated | 269 | A handy tag missing from the ANIMA data set. | [link](https://civitai.com/models/2691964?modelVersionId=3022593) |
 | `Tape_gag_ANIMA` | tape gag, tape gag indentation, grey tape, | not stated | 268 | Wrap-around head tape gag with (hopefully) optional skin indentation for all your kinky needs. Tag: tape gag,  | [link](https://civitai.com/models/2729226?modelVersionId=3068039) |
@@ -148,11 +155,13 @@
 | `TitCrusher` | titcrusher | not stated | 255 | Trained on the Anima Forge Trainer, available on my models page. Prompting makes all the difference here. Anim | [link](https://civitai.com/models/2738096?modelVersionId=3079001) |
 | `flaccid-anima` | flaccid, limp, penis, dick, futa, futanari, veins, veiny penis, bara, yaoi, prec | 0.7 – 1.0 | 255 | 📸 Share Your Creations I’d love to see what you make! ✨ Post your results in the Gallery — your creations insp | [link](https://civitai.com/models/1952146?modelVersionId=3316309) |
 | `trick-or-treat-anima` | tr1cktr34t, looking at viewer, halloween bucket, open door, standing, pov doorwa | not stated | 254 | Creates a "Trick or Treat" scene more consistently than regular prompting Trigger: tr1cktr34t Additional: look | [link](https://civitai.com/models/2987719?modelVersionId=3387483) |
+| `limmy-waking-up-meme-anima` | Wakeup | not stated | 253 | It had to come to Anima too. | [link](https://civitai.com/models/2742542?modelVersionId=3084463) |
 | `tailjob-anima` | not stated | not stated | 243 | 1.Convenient Censor Tail, <Tail_Grabbingsex:0.8>, 1girl, solo, tail censor, hair censor nipples, 2.tail spread | [link](https://civitai.com/models/3046342?modelVersionId=3463339) |
 | `hitachi-wand-anima` | @hitachi_wand | 1 | 241 | Hitachi magic wand Recommended weight : 1 Trigger words: @hitachi_wand Recommended tags: hitachi magic wand, s | [link](https://civitai.com/models/2989663?modelVersionId=3389995) |
 | `siren-tentacles-anm-il-anima` | siren tentacles | not stated | 240 | LoRA for tentacles inspired/based on the Sirens from Azur Lane, mostly Observer Alpha. Anm_v1: Trained on base | [link](https://civitai.com/models/2280269?modelVersionId=3196379) |
 | `slither-slugs-worms-anima` | alien slug, multiple slugs | not stated | 237 | Aliens parasitic worms/slugs from a film Slither (2006). Better add penis and penis head in negative promt) | [link](https://civitai.com/models/2137515?modelVersionId=3374201) |
 | `giant-sperm-anima` | Testicle bulge, veiny penis bulge, giant sperm, | not stated | 236 | Giant Sperm | [link](https://civitai.com/models/2820855?modelVersionId=3182009) |
+| `lady-vase-extremely-experimental-anima` | Ladyvase | not stated | 233 | It is an attempt to bring Lady pots to Anima. Its not particularly good and trained on poor material. Try to u | [link](https://civitai.com/models/2724489?modelVersionId=3062132) |
 | `tan-tattoo-anima` | tan tattoo [motif], tan tattoo "[caption]" text | 0.8-1.0 | 233 | Recommended Conditions Trigger: tan tattoo [motif], tan tattoo "[caption]" text Support Tag: dark skin Negativ | [link](https://civitai.com/models/2897988?modelVersionId=3276493) |
 | `Venomized Concept - Anima - v1.0 - venomized_anima_philon_v10` | v3n0miz3d,, symbiote, possessed, black slime \(substance\), black goo, tendrils, | not stated | 231 | A bit different LoRa this time. It's meant to be combined with a character that you want to get venomized. Res | [link](https://civitai.com/models/2877848?modelVersionId=3252298) |
 | `cervix-prolapse-fisting-anima` | gtrcp cervix prolapse fisting | not stated | 227 | Cervix prolapse is being fisted/anlly fisted while cervix is prolapsed Style influence is heavy as usual, try  | [link](https://civitai.com/models/3040019?modelVersionId=3455193) |
@@ -167,9 +176,11 @@
 | `asmr-anima` | ASMR_anima | not stated | 197 | Trigger Word: ASMR_anima, 1.pov, facing viewer, whispering in ear, <lora:ASMR_anima:0.8> ASMR_anima, 1girl, wh | [link](https://civitai.com/models/3048444?modelVersionId=3466311) |
 | `oliver-queen-s-grave-meme-anima` | gr4v3m3m3, smile, v, tombstone, squatting, grave | not stated | 196 | Creates the "Grant Gustin Next To Oliver Queen's Grave" Meme Trigger: gr4v3m3m3 Additional: smile, v, tombston | [link](https://civitai.com/models/2980900?modelVersionId=3379083) |
 | `conceptchibigurumi-anima` | chibigurumi, character doll | not stated | 195 | TAGS: chibigurumi, character doll Chibigurumi are a type of plushies! https://bsp-prize.jp/brand/2/  commissio | [link](https://civitai.com/models/2843123?modelVersionId=3209722) |
+| `revealing-layer-x-ray-vision-anima` | revealing layer, x-ray vision | not stated | 190 | Keep in mind that the success rate is low. 打率は低いです、ご承知おきください。 | [link](https://civitai.com/models/3055852?modelVersionId=3476111) |
 | `urethral-beads-anima` | urethral beads, | not stated | 188 | Urethral Beads | [link](https://civitai.com/models/3033546?modelVersionId=3446664) |
 | `double-single-leg-humping-femdom-leg-humpi-anima` | leghumping4nima | not stated | 184 | Pretty rare tag. Enjoy! | [link](https://civitai.com/models/3014103?modelVersionId=3421152) |
 | `bar-censor-anima` | bar censor, censored identity, censored eyes, censored nipple, nipple boxes, che | 0.8 - 1.0 | 180 | Bar Censor Concept lora to selectively censor eyes, nipples, and pussy via bars. How to use Add trigger bar ce | [link](https://civitai.com/models/3016600?modelVersionId=3424429) |
+| `onahole-muzzle-anima` | not stated | not stated | 177 | It's trained for colors on both the muzzle and orifice - for example: (black muzzle, pink orifice). Can handle | [link](https://civitai.com/models/2945785?modelVersionId=3335618) |
 | `tentacle-concept-v10-v10-anima` | not stated | not stated | 177 | 【中文】 触手概念 LoRA，训练于 3,000 张按材质分层抽样的图像，专注「材质 / 颜色 / 交互」三个维度的精确控制。 ━━━━━━━━━━━━━━━━━━━━ ■ 训练基础 · 底模：Anima base v1 | [link](https://civitai.com/models/3039513?modelVersionId=3454747) |
 | `dildo-peaking-anima` | insertion, dildo peaking out, long dildo, | not stated | 176 | Dildo Peaking | [link](https://civitai.com/models/3033571?modelVersionId=3446689) |
 | `male-on-femboy-anima` | male_on_femboy | not stated | 165 | I needed something to assist in creating pictures for erotica. Compatible with my other Illus models. Can gene | [link](https://civitai.com/models/2036658?modelVersionId=3308938) |
@@ -190,6 +201,7 @@
 | `demon-egg-demonization-corruption-sequence-anima` | DemonEgg_MST, 1,DemonEgg_MST,angry,purple tentacle,large cocoon,slime cocoon,pur | 0.8-1 | 136 | Use this LoRA to encase your waifu within a tentacle-entwined, demonic, Vore egg—then inject her with demonic  | [link](https://civitai.com/models/2655074?modelVersionId=3372251) |
 | `hoverboard-anima` | h0v3rb04rd, hoverboard, standing on hoverboard, sitting on hoverboard, lying on  | not stated | 134 | Creates a hoverboard scene Trigger: h0v3rb04rd Additional: hoverboard, standing on hoverboard, sitting on hove | [link](https://civitai.com/models/3017801?modelVersionId=3426040) |
 | `v-shaped-smile-anima` | vsmile, vsmug | 2 | 133 | Trigger word is vsmile For anima version: Use strength of 2 too if you don't see enough effect | [link](https://civitai.com/models/2875133?modelVersionId=3385875) |
+| `neckrings-extremely-experimental-anima` | Neckrings | not stated | 130 | It is an attempt to bring neck rings to Anima. Its not particularly good and trained on poor material. Try to  | [link](https://civitai.com/models/2724482?modelVersionId=3062126) |
 | `isometric-game-asset-anima` | assets123, isometric, dark4s4 | not stated | 129 | Trained on over 100 images of isometric game assets that i was able to get my hands on, which was hard to find | [link](https://civitai.com/models/2940272?modelVersionId=3386483) |
 | `doubleoralV1` | double oral | not stated | 125 | This is a LoRA for generating images of a man with two penises forced into his mouth. | [link](https://civitai.com/models/2839416?modelVersionId=3204978) |
 | `hairy-female-concept-anima` | not stated | not stated | 124 | It might also be useful in anima | [link](https://civitai.com/models/3009771?modelVersionId=3415478) |
@@ -212,8 +224,10 @@
 | `threeeyedcreature-anima` | tentacles, three eyed creature, tentacles curling dynamically,, three glowing or | 0.5 to 0.9 | 98 | I love the Anima model! I feel like it needs more tentacles! The images were created by collaging different Ca | [link](https://civitai.com/models/2723484?modelVersionId=3060877) |
 | `the-perfect-twink-anima` | not stated | 1.00 | 97 | Creates images of handsome twinks. V2 This version is greatly improved in many areas: very diverse use from fa | [link](https://civitai.com/models/1255347?modelVersionId=3437097) |
 | `Bushy_Pubes_Anima_epoch_10` | bigbushypubes | not stated | 96 | Fluffy, bushy pubes! Use "bigbushypubes" as trigger word. | [link](https://civitai.com/models/2722629?modelVersionId=3059827) |
+| `microwaist-anima` | not stated | not stated | 94 | Reduces waist size to unrealistic proportions. No trigger word, but narrow waist helps | [link](https://civitai.com/models/2945920?modelVersionId=3335790) |
 | `concept-Guyver-Anima-v01` | GuyverZero, GuyverOne, GuyverOneGT, GuyverTwoF, GuyverThree, GuyverThreeGT, | not stated | 92 | str: 0.7-1 trigger: (make sure the capitals are all right, and put 3d in neg) GuyverZero, GuyverOne, GuyverOne | [link](https://civitai.com/models/2686070?modelVersionId=3015954) |
 | `007-gun-barrel-sequence-anima` | gun_barrel_sequence, peephole, spiral lines, circle frame, view through gun barr | 2 | 89 | In Anima, the priority assigned to the character is so high that—even after conducting various tests—I have fo | [link](https://civitai.com/models/3007999?modelVersionId=3413180) |
+| `steelpunk-interior-buildings-ad-anima` | StePunInt | 0.8 to 1.25 | 88 | This is an Anima lora for the Steelpunk Interior architecture. A weight of 0.8 to 1.25 works well with this wi | [link](https://civitai.com/models/2926509?modelVersionId=3311589) |
 | `werewire-tf-corruption-sequence-anima` | WerewireTF_MST, 1,WerewireTF_MST,spoken question mark,one hand on waist,floating | 0.8-1.0 | 85 | ⚡️🐺Use this LoRA to cover your waifu’s face with a plug 🔌 and a suction cup, transforming her into a voluptuou | [link](https://civitai.com/models/3016574?modelVersionId=3433115) |
 | `zamn-meme-anima` | zamn meme, speech bubble, text: zamn, | not stated | 85 | Zamn Meme | [link](https://civitai.com/models/3006951?modelVersionId=3411822) |
 | `soul-pregnancy-anima` | soul pregnancy, pregnant, glowing spots on belly | not stated | 84 | v1.5:  Same dataset, same captions, but different config and tool.  Used Citron Legacy's LoRA training ui (htt | [link](https://civitai.com/models/2970673?modelVersionId=3366363) |
@@ -233,7 +247,9 @@
 | `Breeding mount_ANIMA` | solo focus, farm interior, shoes, cum in anus, sex, anal, from side, completely  | not stated | 45 | Ohayo, my hot and kinky people 🔥😈!, I find myself needing to use this intro from now on for my original models | [link](https://civitai.com/models/2020010?modelVersionId=3183528) |
 | `gawktoonanima-further-anima` | not stated | not stated | 44 | Blowjobs, with full bodies in frame, in different positions. Use example images for prompts. | [link](https://civitai.com/models/3007330?modelVersionId=3412336) |
 | `tentacles-from-book-anm-il-anima` | tentacles from book, floating book, holding book, book on ground | not stated | 44 | LoRA for tentacles coming out of a book.  Anm_a1: Same dataset as IL_a1, just on Anima now. Works decently wel | [link](https://civitai.com/models/3010998?modelVersionId=3469767) |
+| `moire-side-effects-op-art-anima` | moire effect | not stated | 39 | Moiré Side Effects Laconic: Moiré Side Effects is, as you can probably guess by the title, not the intention t | [link](https://civitai.com/models/3055142?modelVersionId=3475141) |
 | `poc-esculptur-anima` | esculptur | not stated | 39 | A Proof of Concept LoRa aiming to replicate 3D printer statues. The dataset wasn't the best, but the result ga | [link](https://civitai.com/models/3052869?modelVersionId=3472110) |
+| `pedal-pumping-cranking-anima` | pedal pushing, barefoot, shoes, car interior | not stated | 35 | I wanted to create some driving pictures, but found the options lacking. This model focuses on pedal pushing/p | [link](https://civitai.com/models/2139130?modelVersionId=3408845) |
 | `bite-me-umbrium-regional-mouths-anima` | mouthstyle arm, mouthstyle back, mouthstyle chest, mouthstyle face, mouthstyle f | 1.0 | 14 | Regional Mouths adds extra mouths to your character’s body, with separate triggers for nine regions. It is des | [link](https://civitai.com/models/3050863?modelVersionId=3469520) |
 | `Bowsette Fan-Art Super Mario - LoRA Anima NSFW Support - v1.0 - Bowsette_ANIMA_v1` | not stated | not stated |  |  |  |
 | `Catwoman DC Showcase Catwoman - LoRA Anima NSFW Support - v1.0 - DCShowcaseCatwoman_ANIMA_v1` | not stated | not stated |  |  |  |
@@ -252,6 +268,7 @@
 | `flshpck-anima-v1-e14` | not stated | not stated |  |  |  |
 | `fubuki-kancolle-anima` | not stated | not stated |  |  |  |
 | `giantess-stomp-anima` | not stated | not stated |  |  |  |
+| `giantess-vore-anima` | not stated | not stated |  |  |  |
 | `guinevere-a-connecticut-yankee-in-king-art-anima` | not stated | not stated |  |  |  |
 | `hitomi-dead-or-alive-5-nsfw-support-anima` | not stated | not stated |  |  |  |
 | `horibenny-anima-000010.TA_trained` | not stated | not stated |  |  |  |
@@ -259,6 +276,7 @@
 | `kaiser-on-kaiserart1-anima` | not stated | not stated |  |  |  |
 | `kapoymix-anima` | not stated | not stated |  |  |  |
 | `kirrill-anima-000010.TA_trained` | not stated | not stated |  |  |  |
+| `kiwinestyle_anima_v1` | not stated | not stated |  |  |  |
 | `komori-anima-v1e10` | not stated | not stated |  |  |  |
 | `luigi-di-savoia-duca-degli-abruzzi-kancoll-anima` | kancolle_abruzzi, medum breasts, pleated skirt, red skirt, gloves, short sleeves | not stated |  | luigi di savoia duca degli abruzzi, Kancolle, Kantai Collection | [link](https://civitai.com/models/2874920?modelVersionId=3248597) |
 | `mai-shiranui-fatal-fury-the-motion-picture-anima` | not stated | not stated |  |  |  |
@@ -284,7 +302,7 @@
 | `smegma-anima` | not stated | not stated |  |  |  |
 | `tracil-v1-anima-000020.TA_trained` | not stated | not stated |  |  |  |
 | `ucagedev-anima-v1e10` | not stated | not stated |  |  |  |
-| `urethracross-anima-v1-e10` | not stated | not stated |  |  |  |
+| `urethracross-anima` | not stated | not stated |  |  |  |
 | `urumi-kanzaki-from-the-great-teacher-onizu-anima` | not stated | not stated |  |  |  |
 | `vaia-alma-dorada-anima` | not stated | not stated |  |  |  |
 | `wooden-squat-toilet-v2-0-anima` | not stated | not stated |  |  |  |
