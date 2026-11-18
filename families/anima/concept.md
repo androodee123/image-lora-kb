@@ -1,6 +1,6 @@
 # Anima — concept
 
-292 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+297 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -185,6 +185,7 @@
 | `dildo-peaking-anima` | insertion, dildo peaking out, long dildo, | not stated | 176 | Dildo Peaking | [link](https://civitai.com/models/3033571?modelVersionId=3446689) |
 | `male-on-femboy-anima` | male_on_femboy | not stated | 165 | I needed something to assist in creating pictures for erotica. Compatible with my other Illus models. Can gene | [link](https://civitai.com/models/2036658?modelVersionId=3308938) |
 | `urethral-fisting-anima` | urethral fisting, penis fisting,, urethral fisting, penis fisting, self fisting, | not stated | 165 | Urethral Fisting | [link](https://civitai.com/models/3033536?modelVersionId=3446644) |
+| `evangelion-cockpit-anima` | evangelion_entry_plug | not stated | 161 | LoRA focused on generating the iconic Evangelion Entry Plug cockpit seat.  Trigger word: evangelion_entry_plug | [link](https://civitai.com/models/2885936?modelVersionId=3262247) |
 | `intestines-filled-inflated-stuffed-bulging-anima` | intest1nes f1lled, intestines filled | not stated | 161 | Modders locked model to "intended to generate mature content". Big L for everyone with blue buzz, sadly. :( Ba | [link](https://civitai.com/models/2907727?modelVersionId=3288553) |
 | `headscissors-anima` | Class37_headscissor_anima | not stated | 158 | Headscissors for anima | [link](https://civitai.com/models/2965081?modelVersionId=3359550) |
 | `castration-anima` | !dickless, !ballsless, !null | not stated | 157 | Can generate dickless, gelded or null male genitals. May take a few tries to get right. Works better with sket | [link](https://civitai.com/models/1133440?modelVersionId=3357644) |
@@ -265,17 +266,20 @@
 | `concept-uncencored-anima` | spread pussy, clitoris, urethra, cervix | not stated |  | Download Concept Uncencored Anima v01, a LORA for Anima. 1 file: uncencored-Anima-v01.safetensors (171 MB). Pu | [link](https://civitai.com/models/2674345?modelVersionId=3002835) |
 | `faye-valentine-cowboy-bebop-nsfw-support-anima` | not stated | not stated |  |  |  |
 | `flshpck-anima-v1-e14` | not stated | not stated |  |  |  |
+| `fubuki-kancolle-anima` | not stated | not stated |  |  |  |
 | `giantess-stomp-anima` | not stated | not stated |  |  |  |
 | `giantess-vore-anima` | not stated | not stated |  |  |  |
 | `guinevere-a-connecticut-yankee-in-king-art-anima` | not stated | not stated |  |  |  |
 | `hitomi-dead-or-alive-5-nsfw-support-anima` | not stated | not stated |  |  |  |
 | `horibenny-anima-000010.TA_trained` | not stated | not stated |  |  |  |
+| `jav-alone-with-a-nympho-on-the-last-train-anima` | not stated | not stated |  |  |  |
 | `jjmbkctm2-anima` | not stated | not stated |  |  |  |
 | `kaiser-on-kaiserart1-anima` | not stated | not stated |  |  |  |
 | `kapoymix-anima` | not stated | not stated |  |  |  |
 | `kirrill-anima-000010.TA_trained` | not stated | not stated |  |  |  |
 | `kiwinestyle_anima_v1` | not stated | not stated |  |  |  |
 | `komori-anima-v1e10` | not stated | not stated |  |  |  |
+| `luigi-di-savoia-duca-degli-abruzzi-kancoll-anima` | kancolle_abruzzi, medum breasts, pleated skirt, red skirt, gloves, short sleeves | not stated |  | luigi di savoia duca degli abruzzi, Kancolle, Kantai Collection | [link](https://civitai.com/models/2874920?modelVersionId=3248597) |
 | `mai-shiranui-fatal-fury-the-motion-picture-anima` | not stated | not stated |  |  |  |
 | `matsuura-1-0-anima` | not stated | not stated |  |  |  |
 | `mcb-core-anima-v1-e10` | not stated | not stated |  |  |  |
@@ -295,6 +299,7 @@
 | `rjbstyle-anima_v1-e10` | not stated | not stated |  |  |  |
 | `roxy-rm-og-anima` | not stated | not stated |  |  |  |
 | `sayama-chie-shoujo-ramune-kanzenban-anima` | not stated | not stated |  |  |  |
+| `sayuri-blue-archive-anima` | not stated | not stated |  |  |  |
 | `smegma-anima` | not stated | not stated |  |  |  |
 | `tracil-v1-anima-000020.TA_trained` | not stated | not stated |  |  |  |
 | `ucagedev-anima-v1e10` | not stated | not stated |  |  |  |

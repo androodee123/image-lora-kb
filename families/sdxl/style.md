@@ -1,6 +1,6 @@
 # SDXL — style
 
-43 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+44 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -42,6 +42,7 @@
 | `Ink Splatter Abstract Art Style SDXL LoRA - v1.0 - art_ink_splatter_abstract_v1` | not stated | not stated | 41 |  | [link](https://civitai.com/models/2870349?modelVersionId=3243001) |
 | `sanrio-art-style-il-sd-xl` | sanri0 | not stated | 41 | I noticed a lack of Sanrio Loras here, so decided to make one for the community. Have fun! | [link](https://civitai.com/models/1669121?modelVersionId=1889261) |
 | `Minimal White - Product Photography SDXL - v1.0 - minimal_white_whitemin` | not stated | not stated | 37 |  | [link](https://civitai.com/models/2871515?modelVersionId=3244408) |
+| `ndy-art-style-il-sd-xl` | Ndy_style, 3d | not stated | 35 | Based on NDY art style, amazing animator from YouTube. If he won't make porn, then we will 😁. Based primarily  | [link](https://civitai.com/models/2111576?modelVersionId=2388821) |
 | `almualim-style-il-sd-xl` | Almualim | not stated | 33 | Recreates almualim art style. Have fun! | [link](https://civitai.com/models/2302777?modelVersionId=2591095) |
 | `cicada-style-il-z-sd-xl` | not stated | not stated | 33 | Recreates the art style of Cicada. Have fun! | [link](https://civitai.com/models/2381896?modelVersionId=2678560) |
 | `kakuzatou-kakuzato-satousatotototo-il-sd-xl` | kakuzatou | not stated | 33 | Recreates Kakuzatou art style, have fun! | [link](https://civitai.com/models/2082420?modelVersionId=2356259) |

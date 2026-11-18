@@ -1,6 +1,6 @@
 # Krea2 (detailed-krea2) — lighting
 
-102 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+106 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -15,6 +15,7 @@
 | `dramatic-lighting-krea2` | not stated | not stated | 680 | This lora helps with creating images with dramatic lighting. | [link](https://civitai.com/models/2978166?modelVersionId=3375693) |
 | `flshpck-krea2-v1-e16` | not stated | not stated | 622 | Combine with your own lora's to create a custom Fleshlight™ | [link](https://civitai.com/models/2856472?modelVersionId=3226230) |
 | `gene-oryx-sculptural-chiaroscuro-krea2` | not stated | 0.85–1.0 | 615 | GENE ORYX — SCULPTURAL CHIAROSCURO / LoRA One weight slider — and the frame becomes a masterclass in fine-art  | [link](https://civitai.com/models/1856843?modelVersionId=3384891) |
+| `japanese-classroom-background-ad-krea2` | JapCla | 0.8 to 1.25 | 612 | This is a Krea2 lora for Japanese style Classroom backgrounds. A weight of 0.8 to 1.25 works well with this wi | [link](https://civitai.com/models/2953562?modelVersionId=3345412) |
 | `moodlit-dramatic-lighting-and-shadows-for-krea2-3` | not stated | not stated | 598 | (Please forgive the mess, using Civitai to host these LoRAs with different training settings to compare.) Enha | [link](https://civitai.com/models/2829780?modelVersionId=3193585) |
 | `moodlit-dramatic-lighting-and-shadows-for-krea2` | not stated | not stated | 596 | (Please forgive the mess, using Civitai to host these LoRAs with different training settings to compare.) Enha | [link](https://civitai.com/models/2829780?modelVersionId=3195810) |
 | `creator-loft-krea2` | cr34t0r l0ft | 0.8-1.0 | 555 | ENGLISH I created cr34t0r l0ft as a photorealistic ultra-luxury penthouse loft background fully equipped as a  | [link](https://civitai.com/models/2965914?modelVersionId=3360562) |
@@ -46,6 +47,7 @@
 | `dungeon-krea2` | not stated | not stated | 304 | Trisl for dungeon background | [link](https://civitai.com/models/2963414?modelVersionId=3357456) |
 | `rooms-onsen-v0473-krea2` | z1os | 0.8 to 1 | 292 | Finding all my models or profile elsewhere than Civitai is without my consent ! Please don't repost my files.  | [link](https://civitai.com/models/2798756?modelVersionId=3380473) |
 | `cyborg-sci-fi-background-krea2` | cyborg b4ckgr0und | not stated | 289 | Background Presentation — Cyborg / Sci-Fi Universe Usually, my background LoRAs are built around a single them | [link](https://civitai.com/models/2957058?modelVersionId=3349926) |
+| `japanese-school-gym-background-ad-krea2` | SchGy | 0.8 to 1.25 | 288 | This is a Krea2 lora for Japanese style Classroom backgrounds. A weight of 0.8 to 1.25 works well with this wi | [link](https://civitai.com/models/2955468?modelVersionId=3347718) |
 | `explore-dungeon-krea2` | 3xpl0r3 dung30n | 0.8-1.0 | 285 | ENGLISH I created 3xpl0r3 dung30n as a photorealistic colossal fantasy dungeon background LoRA built like a co | [link](https://civitai.com/models/2977801?modelVersionId=3375266) |
 | `duplex-house-duplex-camper-krea2` | duplex house,, ---other prompt---, duplex camper,, ---realistic style---, a real | 2.0 | 279 | Try size: 768 x 1024 or 768 x 1280 Weights: 0.7~1.0 (In krea2, you can use weight 2.0.) Clip skip: 2 Note: The | [link](https://civitai.com/models/2312795?modelVersionId=3323092) |
 | `rooms-background-creator-02-krea2` | z1os | 1 | 269 | Finding all my models or profile elsewhere than Civitai is without my consent ! Please don't repost my files.  | [link](https://civitai.com/models/2976969?modelVersionId=3374180) |
@@ -78,6 +80,7 @@
 | `rooms-apartments-05-krea2` | z1os, ultra detailed. | 0.8 to 1 | 179 | Finding all my models or profile elsewhere than Civitai is without my consent ! Please don't repost my files.  | [link](https://civitai.com/models/2974703?modelVersionId=3371328) |
 | `rooms-tiny-house-krea2` | z1os | 0.8 to 1 | 179 | Finding all my models or profile elsewhere than Civitai is without my consent ! Please don't repost my files.  | [link](https://civitai.com/models/3028124?modelVersionId=3439374) |
 | `cleopatre-palace-krea2` | cl30p4tr4 p4l4c3 | 0.7 | 177 | ENGLISH I designed cl30p4tr4 p4l4c3 as a background LoRA project exploring a generic royal palace of the first | [link](https://civitai.com/models/2997212?modelVersionId=3399789) |
+| `shops-sakura-stop-krea2` | z1os | 1 | 177 | Finding all my models or profile elsewhere than Civitai is without my consent ! Please don't repost my files.  | [link](https://civitai.com/models/2941695?modelVersionId=3330566) |
 | `mind-prison-krea2` | m1nd pr150n | 0.6-0.9 | 176 | ENGLISH I created m1nd pr150n as a background concept about a dreamlike mental prison: the inner world where a | [link](https://civitai.com/models/3020850?modelVersionId=3430005) |
 | `novadrift-high-contrast-glow-krea2` | not stated | 1.0 | 174 | Novadrift This style applies a high-contrast aesthetic where subjects are defined by intense, incandescent out | [link](https://civitai.com/models/2959173?modelVersionId=3352258) |
 | `medieval-worlds-edge-of-time-krea2` | not stated | 1 | 169 | Finding all my models or profile elsewhere than Civitai is without my consent ! Please don't repost my files.  | [link](https://civitai.com/models/3014249?modelVersionId=3421329) |
@@ -106,6 +109,7 @@
 | `neon-punk-ronin-krea2` | NeonRoninRK | 1 | 92 | Premium character LoRAs Original synthetic characters, bundles and AI tools are in my shop: https://rkrra.com/ | [link](https://civitai.com/models/3034809?modelVersionId=3448230) |
 | `moodlit-dramatic-lighting-and-shadows-for-krea2-2` | not stated | not stated | 91 | (Please forgive the mess, using Civitai to host these LoRAs with different training settings to compare.) Enha | [link](https://civitai.com/models/2829780?modelVersionId=3195801) |
 | `moodlit-dramatic-lighting-and-shadows-for-krea2-v0-2-sm18` | not stated | not stated | 89 | (Please forgive the mess, using Civitai to host these LoRAs with different training settings to compare.) Enha | [link](https://civitai.com/models/2829780?modelVersionId=3195808) |
+| `rei-ayanami-neon-genesis-evangelion-krea2` | rei | 0.8 – 1.0 | 87 | Rei Ayanami — Neon Genesis Evangelion · Krea 2 LoRA 触发词 / Trigger word： rei 真人写实向的绫波丽角色 LoRA，基于 Krea 2 (Krea 2 | [link](https://civitai.com/models/3028203?modelVersionId=3439480) |
 | `rooms-apartments-04-aircraft-garage-krea2` | z1os | 1 | 87 | Finding all my models or profile elsewhere than Civitai is without my consent ! Please don't repost my files.  | [link](https://civitai.com/models/3035696?modelVersionId=3449430) |
 | `m551-sheridan-krea2` | m551 | not stated | 77 | The M551 Sheridan was an airborne, amphibious light tank developed and operated by the U.S. military during th | [link](https://civitai.com/models/3039496?modelVersionId=3454425) |
 | `moodlit-dramatic-lighting-and-shadows-for-krea2-5` | not stated | not stated | 68 | (Please forgive the mess, using Civitai to host these LoRAs with different training settings to compare.) Enha | [link](https://civitai.com/models/2829780?modelVersionId=3193578) |

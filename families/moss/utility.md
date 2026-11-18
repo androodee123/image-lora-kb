@@ -1,12 +1,13 @@
 # MOSS (Moss Image / kromoss) — utility
 
-28 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+29 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 | slug | triggers | strength | dl | what | source |
 |---|---|---|---:|---|---|
 | `turbo-loras-moss` | not stated | not stated | 11500 | I'll be uploading different Moss Image Turbo LoRAs I use here and crediting the original creators. Included Lo | [link](https://civitai.com/models/3006599?modelVersionId=3414934) |
 | `pornmaster-moss-realism-slider-xl` | not stated | 2 | 5479 | 模型介紹為中英雙語，中文使用者可以關閉翻譯。 PornMaster 色情大師 Moss Lora權重: -2 to +4.5 使用正面lora權重時增加增真實感，使用負面lora權重時增加2d感。 LoRA Weight | [link](https://civitai.com/models/3010059?modelVersionId=3415845) |
 | `pornmaster-moss-detail-slider-xl` | not stated | not stated | 4239 | 模型介紹為中英雙語，中文使用者可以關閉翻譯。 PornMaster 色情大師 Moss Lora權重: -6 to +8 使用正面lora權重時增加增細節，使用負面lora權重時降低細節。 LoRA Weight: -6 | [link](https://civitai.com/models/3010274?modelVersionId=3416145) |
+| `base-age-slider-moss` | not stated | 1 | 4219 | Adjust the age of the characters while maintaining feature consistency, while minimizing the impact on the com | [link](https://civitai.com/models/3008912?modelVersionId=3414383) |
 | `weight-slider-moss` | not stated | 1.0 | 3869 | Weight Slider · MOSS Image A universal body-mass slider for MOSS Image: slide negative for a leaner build, pos | [link](https://civitai.com/models/3009566?modelVersionId=3415231) |
 | `bottom-slider-ass-hips-thighs-moss-xl` | not stated | 1 | 2520 | Model working strengths are from -2 to 4, beyond values do work, but you will loose on realism, prompt adheren | [link](https://civitai.com/models/3010764?modelVersionId=3416806) |
 | `hentai-studio-quality-illustriousxl-zimage-moss` | hentai_studio_quality, shiny skin, | 0.8 | 2393 | Moss version: weight between [0.8,1], best at 1 prompt : hentai_studio_quality, shiny skin Krea 2 version: wei | [link](https://civitai.com/models/1459030?modelVersionId=3420914) |

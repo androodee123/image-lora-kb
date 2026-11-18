@@ -53,7 +53,9 @@ Top candidates that meet the suggest-ingest rule, by `ingest_priority`. Andrew d
 | 57.5 | illustrious | anatomy | Sagging Breasts | 89056 | sagging breasts, breasts apart | downloads 89056 >= 2x best available (10931) in same family+category | https://civitai.com/models/139131 |
 | 57.4 | sdxl | anatomy | Real Pussy - Peach | 87846 | pussy_scale1, pussy_scale2, pussy_scale3 | downloads 87846 >= 2x best available (1707) in same family+category | https://civitai.com/models/99174 |
 | 57.3 | illustrious | quality-detail | Furry Anatomy Options [IL] (NSFW) | 84885 | kn0tsh3ath | downloads 84885 >= 2x best available (17180) in same family+category | https://civitai.com/models/1173463 |
+| 57.3 | pony | utility | Age Slider LoRA / PonyXL SDXL | 85482 | unknown | downloads 85482 >= 2x best available (5757) in same family+category | https://civitai.com/models/402667 |
 | 57.2 | anima | utility | Anima Turbo LoRA | 82342 | unknown | downloads 82342 >= 2x best available (13445) in same family+category | https://civitai.com/models/2560840 |
+| 57.1 | sdxl | quality-detail | NSFW: flat chested | 81292 | flat chested | downloads 81292 >= 2x best available (1779) in same family+category | https://civitai.com/models/155622 |
 | 57.1 | pony | character | THE PONYDEX (POKEMON) - [PONY XL / INDIGO XL] | 80829 | Abra | downloads 80829 >= 2x best available (7066) in same family+category | https://civitai.com/models/561630 |
 | 57.1 | pony | quality-detail | Pony Realism Enhancer ✨ | 80620 | unknown | downloads 80620 >= 2x best available (6585) in same family+category | https://civitai.com/models/927305 |
 | 57.0 | illustrious | anatomy | Feet XL + SD 1.5 + F1D + Pony + Illustrious + zit | 80227 | detailed | downloads 80227 >= 2x best available (10931) in same family+category | https://civitai.com/models/200251 |
@@ -79,6 +81,7 @@ Top candidates that meet the suggest-ingest rule, by `ingest_priority`. Andrew d
 | 56.0 | illustrious | utility | Add Detail - Slider | 63536 | unknown | downloads 63536 >= 2x best available (12347) in same family+category | https://civitai.com/models/1333749 |
 | 56.0 | sdxl | anatomy | Real Pussy - Cameltoe | 63670 | cameltoe_body, cameltoe_hips, cameltoe_pussy | downloads 63670 >= 2x best available (1707) in same family+category | https://civitai.com/models/137423 |
 | 56.0 | sdxl | anatomy | Hourglass Body Shape SD1.5/SDXL/PONY/FLUX / olaz | 62616 | hourglass body shape | downloads 62616 >= 2x best available (1707) in same family+category | https://civitai.com/models/129130 |
+| 55.9 | illustrious | utility | Age Slider LoRA / Illustrious XL | 61203 | unknown | downloads 61203 >= 2x best available (12347) in same family+category | https://civitai.com/models/1025710 |
 | 55.9 | illustrious | style | Fine Anime Screencap XL / Anime Screencap Style LoRa Illustr | 62145 | anime screencap, anime coloring | downloads 62145 >= 2x best available (24024) in same family+category | https://civitai.com/models/345962 |
 | 55.9 | krea2 | style | Cinematic Shot ✨ | 62180 | zy_cinematic | downloads 62180 >= 2x best available (11215) in same family+category | https://civitai.com/models/432586 |
 | 55.9 | pony | utility | Detail Slider LoRA / PonyXL SDXL | 61821 | unknown | downloads 61821 >= 2x best available (5757) in same family+category | https://civitai.com/models/402462 |
@@ -121,6 +124,3 @@ Top candidates that meet the suggest-ingest rule, by `ingest_priority`. Andrew d
 | 54.8 | illustrious | clothing | Virgin killer sweater | 47491 | virgin killer sweater, | downloads 47491 >= 2x best available (6777) in same family+category | https://civitai.com/models/10185 |
 | 54.8 | sdxl | utility | LCM&TurboMix LoRA (Only 12MB, 8-step sampling Effect is supe | 48053 | unknown | downloads 48053 >= 2x best available (369) in same family+category | https://civitai.com/models/216190 |
 | 54.8 | sdxl | pose-composition | Cowgirl Position Sex Non-POV / Third Person | 47903 | 1boy, sex, cowgirl position, girl on top, straddling | downloads 47903 >= 2x best available (7022) in same family+category | https://civitai.com/models/145887 |
-| 54.8 | pony | character | Honkai: Star Rail Girls [Pony] | 47713 | the herta \(honkai: star rail\) | downloads 47713 >= 2x best available (7066) in same family+category | https://civitai.com/models/348561 |
-| 54.7 | illustrious | utility | Dynamic Poses slider PONYXL | 47216 | dynamic pose, foreshortening, extreme perspective | downloads 47216 >= 2x best available (12347) in same family+category | https://civitai.com/models/438059 |
-| 54.7 | illustrious | anatomy | Ass worship | 46315 | worship | downloads 46315 >= 2x best available (10931) in same family+category | https://civitai.com/models/82926 |

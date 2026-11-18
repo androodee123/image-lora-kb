@@ -1,6 +1,6 @@
 # Pony (Pony Diffusion XL) — concept
 
-178 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+188 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -70,6 +70,7 @@
 | `bronze-age-clothing-pony` | BronzeAgeClothes | not stated | 282 |  | [link](https://civitai.com/models/1985745?modelVersionId=2247814) |
 | `sexy-balaclava-pony` | sexy_balaclava, knit mask, two-hole balaclava, three-hole balaclava | not stated | 282 | Initial version | [link](https://civitai.com/models/1097857?modelVersionId=1233208) |
 | `sleepless-marie-mamiya-reupload-pony` | mamiya marie | not stated | 280 |  | [link](https://civitai.com/models/1112147?modelVersionId=1249680) |
+| `kanao-tsuyuri-demon-slayer-kimetsu-no-yaib-pony` | 1girl,bangs,purple eyes,long hair,multicolored hair,purple hair,eyelashes,two-to | not stated | 271 |  | [link](https://civitai.com/models/1793244?modelVersionId=2029386) |
 | `crotch-kick-ballbusting-cbt-pony-3` | clothed female nude male,, heels,, boots,, ejaculation,, crotch kick, ballbustin | not stated | 269 |  | [link](https://civitai.com/models/910490?modelVersionId=1249414) |
 | `bitch-taken-for-walk-pet-play-walking-il-s-pony` | bitch_taken_for_walk, collar, leash | not stated | 268 | Take your favorite character (bitch) out for a walk, have fun! | [link](https://civitai.com/models/1757303?modelVersionId=1988803) |
 | `black-trans-girls-pony` | BlackTransGirl | not stated | 261 | It's so hard to generate good black trans women, so I made a lora for it. | [link](https://civitai.com/models/2084001?modelVersionId=2357970) |
@@ -80,11 +81,13 @@
 | `brazilian-travesti-pony` | travesti88 | not stated | 221 |  | [link](https://civitai.com/models/2013300?modelVersionId=2278621) |
 | `microbangs-small-blunt-bangs-pony` | M1croB4ngs | not stated | 221 |  | [link](https://civitai.com/models/2026772?modelVersionId=2293807) |
 | `kanedas-bike-akira-from-figure-pony` | KanedaBike_Akira, motor vehicle, motorcycle | not stated | 217 |  | [link](https://civitai.com/models/862716?modelVersionId=965275) |
+| `mai-zenin-jujutsu-kaisen-pony` | 1girl,black hair,short hair,brown eyes,bangs, sleeveless,high collar,school unif | not stated | 216 |  | [link](https://civitai.com/models/1653504?modelVersionId=2040151) |
 | `gay-interracial-kissing-pony-pony-new` | GayIntKiss2 | not stated | 215 | This is a similar one to the old one I had -- should do the same thing. Enjoy! | [link](https://civitai.com/models/1915665?modelVersionId=2168181) |
 | `miriya-parina-sterling-from-robotech-macro-pony` | Miriya, green eyes, green hair, , uniform,, helmet,, brown outfit, yellow scarf, | not stated | 212 |  | [link](https://civitai.com/models/1090663?modelVersionId=1224931) |
 | `easteuro-pony` | easteuro, ks_ass, monikav, 1r1ne, n0vaya, k8te, t1ndra | not stated | 208 | Initial version | [link](https://civitai.com/models/1047344?modelVersionId=1175095) |
 | `Femdom Reverse amazon position - sdxl - V1 - W5MYBQZ76W9M0VGE28SK9QEBD0` | 2_person_rev_amz_pp, 1 female and 1 male, pov, back view, female penetrated, par | not stated | 201 | Q | [link](https://civitai.com/models/2560402?modelVersionId=2877205) |
 | `action-figure-box-pony` | action figure b0x | not stated | 200 |  | [link](https://civitai.com/models/1463938?modelVersionId=1655637) |
+| `meyrin-hawke-mobile-suit-gundam-seed-desti-pony` | 1girl,red hair,black eyes,blue eyes,pink hair, twintails,uniform,military unifor | not stated | 200 |  | [link](https://civitai.com/models/1832475?modelVersionId=2073703) |
 | `pvc-pony` | PVC, FIGURE | not stated | 190 |  | [link](https://civitai.com/models/1639957?modelVersionId=1856267) |
 | `r2d2-print-pony` | r2d2 print | not stated | 190 | Applies an R2-D2 print to articles of clothing.  Sample prompt: score_9, score_8_up, score_7_up, r2d2 print, a | [link](https://civitai.com/models/840862?modelVersionId=940745) |
 | `really-saggy-tits-pony` | ReallySaggyTits, drooping breasts, sagging breasts | not stated | 189 | Alright, this is to push even further from PancakeTits model. My favorite saggy boobs model (Really Sagging Br | [link](https://civitai.com/models/2680264?modelVersionId=3009544) |
@@ -95,9 +98,11 @@
 | `meryl-dmitrys-pony` | not stated | not stated | 163 |  | [link](https://civitai.com/models/1190139?modelVersionId=1339930) |
 | `mime-girls-pony` | MimeGirls33 | not stated | 158 |  | [link](https://civitai.com/models/1905876?modelVersionId=2157211) |
 | `siegfried-fate-pony` | not stated | not stated | 155 |  | [link](https://civitai.com/models/756212?modelVersionId=845580) |
+| `yuko-chainsaw-man-pony` | 1girl, glasses, short hair, dress, pinafore dress, school uniform, shirt, ribbon | not stated | 154 |  | [link](https://civitai.com/models/1677628?modelVersionId=2029354) |
 | `crotch-kick-ballbusting-cbt-v2-pony` | not stated | not stated | 153 |  | [link](https://civitai.com/models/910490?modelVersionId=1018916) |
 | `fountain-transformation-il-sd-pony` | Fountain_transformation, fountain, change of status, petrification | not stated | 143 | Your favorite character has been defeated, petrified, and turned into a fountain for public use and humiliatio | [link](https://civitai.com/models/1862982?modelVersionId=2108488) |
 | `fulani-braids-cornrows-pony` | FulaniBr41ds | not stated | 142 | Braided hair styles are kind of shit on civitai so I wanted to make some better styles. Focused on female brai | [link](https://civitai.com/models/2412933?modelVersionId=2712897) |
+| `honda-super-cub-delivery-specification-fro-pony` | HondaSuperCub_delivery, motor vehicle, scooter, motorcycle | not stated | 130 |  | [link](https://civitai.com/models/856268?modelVersionId=958055) |
 | `nastol-pony` | nastol | not stated | 127 | Initial version | [link](https://civitai.com/models/1056711?modelVersionId=1185739) |
 | `reiko-kirishima-shounen-ga-otona-ni-natta-pony-2` | Reiko Kirishima, Reiko Kirishima, 1girl, brown eyes, glasses, black-framed eyewe | not stated | 127 |  | [link](https://civitai.com/models/1460575?modelVersionId=1651699) |
 | `sunnysundown-sundown-pulenkompot-human-il-pony` | sund0wn | not stated | 124 |  | [link](https://civitai.com/models/1315040?modelVersionId=1484548) |
@@ -120,6 +125,7 @@
 | `star-trek-klingons-pony` | KlingonsST | not stated | 81 | Ask and you shall receive. Klingons! Face fixing tends to mess up those beautiful ridges so be careful with it | [link](https://civitai.com/models/2504264?modelVersionId=2815041) |
 | `miami-beach-hotel-bedroom-background-ad-pony` | MiaBeaHotBed, hotel bedroom, interior | not stated | 77 |  | [link](https://civitai.com/models/2819331?modelVersionId=3180223) |
 | `flesh-wall-embedding-pony` | internal, inside_organism, ribbed_flesh_wall, narrow_gap, deep_crevice, sandwich | not stated | 75 |  | [link](https://civitai.com/models/2965206?modelVersionId=3359695) |
+| `civchan-sd-flux-pony` | Civchan, pink hair, purple eyes, maid outfit | not stated | 70 |  | [link](https://civitai.com/models/1444802?modelVersionId=1633328) |
 | `star-trek-andorians-pony` | AndoriansST | not stated | 70 | I've always thought they should use these little blue aliens more -- they were fun in Enterprise. | [link](https://civitai.com/models/2502675?modelVersionId=2813269) |
 | `i-m-this-clingy-meme-il-sd-pony` | Clingy-meme, head between thighs, pillow, on bed | not stated | 67 | Makes the "I'm This Clingy" meme images. Have fun! | [link](https://civitai.com/models/2287486?modelVersionId=2574282) |
 | `jane-insane-pony` | Jane Insane, Futa, Blue hair, Pale skin, Naughty, blue eyes | not stated | 65 |  | [link](https://civitai.com/models/1792075?modelVersionId=2028041) |
@@ -134,6 +140,7 @@
 | `miami-beach-hotel-interior-background-ad-pony` | MiaBeaHotInt, interior | not stated | 47 |  | [link](https://civitai.com/models/2819361?modelVersionId=3180252) |
 | `onna-senshi-isekai-yarisaa-pony` | Onna Senshi, o_senshi, dark red hair, long hair, light blue eyes, large breasts, | not stated | 46 |  | [link](https://civitai.com/models/2999423?modelVersionId=3402178) |
 | `Balloon Blowing 5.0 - Pony V6 - ZHM7R5PYKYTA2D185V3SSHZSZ0` | balloonblowing, necking | not stated | 45 | New images and tags | [link](https://civitai.com/models/1745568?modelVersionId=2747364) |
+| `sailor-pluto-pretty-soldier-sailor-moon-xl-pony` | pluto_a_pxl, 1girl, solo, Sailor pluto, green hair, long hair, single hair bun,  | not stated | 45 |  | [link](https://civitai.com/models/3015113?modelVersionId=3422437) |
 | `lesbian-dom-pony` | m455iv3, yuri, multiple girls, 3girls | not stated | 42 |  | [link](https://civitai.com/models/2910427?modelVersionId=3291977) |
 | `elena-isekai-yarisaa-pony` | Elena, e_isekaiy, blonde hair, long hair, light blue eyes, large breasts, 1girl, | not stated | 41 |  | [link](https://civitai.com/models/2987510?modelVersionId=3387221) |
 | `eve-angelique-agape-pony` | Eveangelique | not stated | 40 |  | [link](https://civitai.com/models/1509006?modelVersionId=1706928) |
@@ -160,6 +167,7 @@
 | `my-oc-casandra-pony` | CasandraOC, 1girl, gilf, white hair, short hair, pixie cut, hyper muscular, body | not stated | 24 |  | [link](https://civitai.com/models/2981052?modelVersionId=3379273) |
 | `nun-habit-pony` | snun | not stated | 24 |  | [link](https://civitai.com/models/3022123?modelVersionId=3431669) |
 | `katrina-van-tassel-untold-sleepy-hollow-pony` | untold_kat | not stated | 23 |  | [link](https://civitai.com/models/3045671?modelVersionId=3462434) |
+| `atelier-v1-pony` | not stated | not stated | 22 |  | [link](https://civitai.com/models/2968787?modelVersionId=3363996) |
 | `pilgrim-pony` | pgrim | not stated | 22 |  | [link](https://civitai.com/models/3037327?modelVersionId=3451533) |
 | `yoyo-xlv4-pony` | not stated | not stated | 21 | 很奇怪，拟合不够，但是很奇怪的是出来的图还可以，传上来尝尝味吧 | [link](https://civitai.com/models/3041993?modelVersionId=3461729) |
 | `bianca-agent-aika-pony` | bianca, bianca_aik, large breasts, short hair, red hair, brown eyes, 1girl, solo | not stated | 20 |  | [link](https://civitai.com/models/3031810?modelVersionId=3444365) |
@@ -173,6 +181,7 @@
 | `belle-delphine-for-ponyxlish-pony` | not stated | not stated |  |  |  |
 | `belle-delphine-pony` | not stated | not stated |  |  |  |
 | `black3ring-pony-16` | not stated | not stated |  |  |  |
+| `daten-route-xl-pony` | not stated | not stated |  |  |  |
 | `dora-the-explorer-adult-dora-coldarsenal-pony` | not stated | not stated |  |  |  |
 | `extreame-size-difference-pony` | not stated | not stated |  |  |  |
 | `flaccid-pony` | not stated | not stated |  |  |  |
@@ -182,6 +191,7 @@
 | `mildred-plush-pony` | not stated | not stated |  |  |  |
 | `penile-oviposition-pony` | not stated | not stated |  |  |  |
 | `queen-s-blade-gamebook-titlecover-concept-pony` | not stated | not stated |  |  |  |
+| `virtual-on-fei-yen-angelan-pochincoff-styl-pony` | not stated | not stated |  |  |  |
 | `yukokiryu-rapelay-illusion-pony` | not stated | not stated |  |  |  |
 | `yukokiryu-rapelay-illusion-pony-2` | not stated | not stated |  |  |  |
 | `shaved-female_epoch_8` **[HF only]** | female_headshave, head_shaving, bald, partially_shaved, half_shaved, short_hair, | not stated | 37 | I find it exceedingly difficult to generate completely bald females, so I created this lora to help | [link](https://civitai.com/models/2685839?modelVersionId=3015698) |

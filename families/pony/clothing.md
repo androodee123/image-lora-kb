@@ -1,6 +1,6 @@
 # Pony (Pony Diffusion XL) — clothing
 
-225 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+228 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -63,6 +63,7 @@
 | `costumeback-hair-bow-request-pony` | hairbackbow | not stated | 760 |  | [link](https://civitai.com/models/811771?modelVersionId=907750) |
 | `costumeparty-monster-request-pony` | fishnet top, bandeau, frilly skirt, suspenders, necklace | not stated | 760 |  | [link](https://civitai.com/models/810698?modelVersionId=906563) |
 | `costumebikini-with-pants-pony` | bikini under clothes, side-tie bikini bottom | not stated | 759 |  | [link](https://civitai.com/models/808512?modelVersionId=904087) |
+| `costumeschool-uniform-request-pony` | white shirt, brown sweater vest, sweater around waist, long sleeves, bowtie, ple | not stated | 757 |  | [link](https://civitai.com/models/841635?modelVersionId=941606) |
 | `costumeplaid-bikini-pony` | plaid bikini, highleg bikini, side-tie bikini bottom, thong | not stated | 752 |  | [link](https://civitai.com/models/797219?modelVersionId=891474) |
 | `costumelemon-yakishio-bikini-request-pony` | orange bikini, strapless bikini | not stated | 751 |  | [link](https://civitai.com/models/832146?modelVersionId=930845) |
 | `costumeopen-clothes-lingerie-request-pony` | open shirt, loose necktie, open pants, black bra, white panties | not stated | 751 |  | [link](https://civitai.com/models/823129?modelVersionId=920456) |
@@ -77,6 +78,7 @@
 | `costumeblue-lingerie-with-white-lace-reque-pony` | blue bra, lace, jewelry, elbow gloves, garter belt, garter straps, thighhighs | not stated | 715 |  | [link](https://civitai.com/models/832643?modelVersionId=931444) |
 | `costumelingerie-01-pony` | bow bra, bow panties | not stated | 712 |  | [link](https://civitai.com/models/805598?modelVersionId=900735) |
 | `costumebandeau-maid-pony` | maid, (color) bandeau, (color) skirt, underboob, waist apron, | not stated | 703 | TAGS: maid, (color) bandeau, (color) skirt, waist apron, underboob I don't use pony anymore so sorry if this t | [link](https://civitai.com/models/1050728?modelVersionId=1178991) |
+| `costumetinker-bell-pony` | strapless dress, green footwear, fairy wings | not stated | 698 |  | [link](https://civitai.com/models/816094?modelVersionId=912588) |
 | `costumesarashi-bandage-top-request-pony` | sarashi, chest sarashi | not stated | 696 |  | [link](https://civitai.com/models/821550?modelVersionId=918688) |
 | `costumebrazilian-miku-request-pony` | yellow shirt, shorts, bikini | not stated | 691 |  | [link](https://civitai.com/models/826195?modelVersionId=923954) |
 | `costumecat-stockings-pony` | catstocking, thighhighs | not stated | 686 |  | [link](https://civitai.com/models/815579?modelVersionId=912000) |
@@ -136,6 +138,7 @@
 | `costumestiletto-nails-pony` | stiletto nails, sharp nails | not stated | 509 |  | [link](https://civitai.com/models/813121?modelVersionId=909260) |
 | `costumeshort-dress-05-pony` | short dress, bare shoulders | not stated | 505 |  | [link](https://civitai.com/models/829078?modelVersionId=927237) |
 | `costumeblue-lingerie-request-pony` | blue bra, blue panties | not stated | 504 |  | [link](https://civitai.com/models/841196?modelVersionId=941107) |
+| `costumenobara-kugisaki-request-pony` | cropped jacket, long sleeves, blue skirt, high-waist skirt, medium skirt, pantyh | not stated | 499 |  | [link](https://civitai.com/models/835039?modelVersionId=934242) |
 | `costumedokkaebi-casual-request-pony` | purple t-shirt, overalls | not stated | 497 |  | [link](https://civitai.com/models/826375?modelVersionId=924148) |
 | `costumefenty-rihanna-pony` | fenty, purple dress, strapless dress, necklace | not stated | 497 |  | [link](https://civitai.com/models/792232?modelVersionId=885875) |
 | `cammy-realistic-cosplay-pony` | cammyCosplayQuiron, green thong leotard, red beret, cammycosplay | not stated | 494 | 👑 Cammy cosplay - Pony - LORA 👑 ⚙️🔧Model base: Pony ______________ 📝🌟 Trigger: cammyCosplayQuiron, cammycospla | [link](https://civitai.com/models/472765?modelVersionId=968137) |

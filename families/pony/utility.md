@@ -4,9 +4,9 @@
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
+- Suggest ingest: [Age Slider LoRA / PonyXL SDXL](https://civitai.com/models/402667) (pony, 85,482 dl) — trigger not stated · strength not stated — **downloads 85482 >= 2x best available (5757) in same family+category**
 - Suggest ingest: [Dramatic Lighting Slider [Pony, Illustrious]](https://civitai.com/models/1105685) (pony, 70,770 dl) — trigger not stated · strength not stated — **downloads 70770 >= 2x best available (5757) in same family+category**
 - Suggest ingest: [Detail Slider LoRA / PonyXL SDXL](https://civitai.com/models/402462) (pony, 61,821 dl) — trigger not stated · strength not stated — **downloads 61821 >= 2x best available (5757) in same family+category**
-- Suggest ingest: [Amateur style - slider](https://civitai.com/models/1410317) (pony, 50,928 dl) — trigger not stated · strength not stated — **downloads 50928 >= 2x best available (5757) in same family+category**
 
 | slug | triggers | strength | dl | what | source |
 |---|---|---|---:|---|---|

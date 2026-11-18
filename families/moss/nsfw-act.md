@@ -1,6 +1,6 @@
 # MOSS (Moss Image / kromoss) — nsfw-act
 
-27 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+32 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 | slug | triggers | strength | dl | what | source |
 |---|---|---|---:|---|---|
@@ -11,6 +11,7 @@
 | `pov-blowjob-moss` | Highly explicit, high-angle, close-up photo of a nude woman. She is performing o | not stated | 1272 | Basic Prompt: Highly explicit, high-angle, close-up photo of a nude woman. She is performing oral sex, blowjob | [link](https://civitai.com/models/2514609?modelVersionId=3434597) |
 | `cum-on-face-moss` | semen on her face, semen dripping from her chin | 0.8-0.6 | 1212 | Probably the only cumshot lora you will ever need. 💦💦 Weight: 0.8-0.6 Trigger words: semen on her face, Specif | [link](https://civitai.com/models/146522?modelVersionId=3434966) |
 | `blowjob-moss` | Highly explicit photo. She is performing oral sex, blowjob on a man whose erect  | not stated | 948 | Basic Prompt: Highly explicit photo of a nude woman. She is performing oral sex, blowjob on a man whose erect  | [link](https://civitai.com/models/2500766?modelVersionId=3431704) |
+| `teen-18-moss-xl` | not stated | not stated | 719 | Character LoRA for 18+ models Tags - amateur, butt, ass,1girl, solo, nipples, nude, 18, petite, legal, realist | [link](https://civitai.com/models/3010718?modelVersionId=3416742) |
 | `mouth-fuck-cheek-blowjob-moss` | not stated | not stated | 718 | First attempt at creating an NSFW action LoRA for Moss Image. This is a difficult model to train, so consider  | [link](https://civitai.com/models/3038469?modelVersionId=3453039) |
 | `tape-bondage-moss` | not stated | not stated | 513 | Improves tape bondage of base model. | [link](https://civitai.com/models/2351806?modelVersionId=3424808) |
 | `from-behind-gay-anal-moss` | missionary, doggystyle, riding cock | not stated | 492 | MOSS from behind  That's a little help with creating images containing gay anal sex in several position. It's  | [link](https://civitai.com/models/3037874?modelVersionId=3452221) |
@@ -29,5 +30,9 @@
 | `lusthra-xxx-moss` | not stated | not stated | 207 | I need the community’s help to test this NSFW LoRa model, which is why it’s freely available. It’s the first N | [link](https://civitai.com/models/3048066?modelVersionId=3465796) |
 | `shibari-hana-to-hebi-moss` | bondage, shibari, ropes, 1990年代风格 | not stated | 171 | Training lora need more buzz, give me support! Please leave a review if you like this lora！ ver. “花と蛇” the jap | [link](https://civitai.com/models/136849?modelVersionId=3457797) |
 | `c666d-tunnel-gape-anal-gaping-anus-v1-moss` | tunnel gape, anal gaping, gape pull, pov hands, | 1 | 94 | This lora makes a gigantic gaping anus, which you can look into, as if it's a deep dark tunnel. Trained Trigge | [link](https://civitai.com/models/3039558?modelVersionId=3454524) |
+| `mr-piglets-chavettes-and-essex-women-for-moss-3` | not stated | not stated | 89 | You don't have to like the LoRa, but you can show your appreciation for the work put into it with a thumbs-up  | [link](https://civitai.com/models/3028633?modelVersionId=3440435) |
+| `mr-piglets-chavettes-and-essex-women-for-moss-2` | not stated | not stated | 73 | You don't have to like the LoRa, but you can show your appreciation for the work put into it with a thumbs-up  | [link](https://civitai.com/models/3028633?modelVersionId=3440428) |
+| `mr-piglets-chavettes-and-essex-women-for-moss-4` | not stated | not stated | 72 | You don't have to like the LoRa, but you can show your appreciation for the work put into it with a thumbs-up  | [link](https://civitai.com/models/3028633?modelVersionId=3443794) |
+| `mr-piglets-chavettes-and-essex-women-for-moss` | not stated | not stated | 67 | You don't have to like the LoRa, but you can show your appreciation for the work put into it with a thumbs-up  | [link](https://civitai.com/models/3028633?modelVersionId=3440043) |
 | `better-cum-moss` | not stated | not stated |  |  |  |
 | `huge-anal` | not stated | not stated |  |  |  |

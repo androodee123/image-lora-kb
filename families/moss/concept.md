@@ -1,6 +1,6 @@
 # MOSS (Moss Image / kromoss) — concept
 
-131 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+132 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 | slug | triggers | strength | dl | what | source |
 |---|---|---|---:|---|---|
@@ -118,6 +118,7 @@
 | `mcb-jukebox` | not stated | not stated |  |  |  |
 | `mcb-love-hotel` | not stated | not stated |  |  |  |
 | `mcb-lubed` | not stated | not stated |  |  |  |
+| `mcb-nobara-nailed-it` | not stated | not stated |  |  |  |
 | `mcb-over-the-rainbow` | not stated | not stated |  |  |  |
 | `mcb-purple-gym` | not stated | not stated |  |  |  |
 | `mcb-reindeer` | not stated | not stated |  |  |  |

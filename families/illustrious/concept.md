@@ -1,6 +1,6 @@
 # Illustrious / NoobAI (Illustrious-XL based) — concept
 
-246 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+249 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -203,6 +203,7 @@
 | `alana-xl-2` | not stated | not stated |  |  |  |
 | `beegcl1tor1s-xl` | not stated | not stated |  |  |  |
 | `caway-dragon-ball-super-ill` | not stated | not stated |  |  |  |
+| `colorclimax-teenageschoolgirls-01-10-ill-xl` | not stated | not stated |  |  |  |
 | `dawn-of-the-silver-dragon-laia-ill` | not stated | not stated |  |  |  |
 | `defeat-ntr-netorare-netorase-concept-versi-ill` | not stated | not stated |  |  |  |
 | `dolphin-bestiality-ill` | not stated | not stated |  |  |  |
@@ -215,6 +216,7 @@
 | `giving-birth-ill` | giving birth ill | not stated |  | Download Giving birth v1.0, a LORA for Illustrious. 1 file: GBV-Illustrious_V1.safetensors (218 MB). Published | [link](https://civitai.com/models/2901543?modelVersionId=3280935) |
 | `hikawa-rinka-ill` | not stated | not stated |  |  |  |
 | `hitomi-tanaka-xl` | not stated | not stated |  |  |  |
+| `illya-il-v3-ill` | not stated | not stated |  |  |  |
 | `irui-ganeden-super-robot-wars-ill` | not stated | not stated |  |  |  |
 | `jav-dvd-cover-female-investigator-brave-un-ill` | not stated | not stated |  |  |  |
 | `karen-lilica-fairy-tail-ill` | not stated | not stated |  |  |  |
@@ -246,6 +248,7 @@
 | `traci-Illustrious` | not stated | not stated |  |  |  |
 | `trent-1-ill` | not stated | not stated |  |  |  |
 | `ugly-man-ill` | not stated | not stated |  |  |  |
+| `yuzuki-yukari-ai-vocaloid6-v6-ill` | not stated | not stated |  |  |  |
 | `shaved-female_epoch_10-ill` **[HF only]** | FEMALE_HEADSHAVE, HEAD_SHAVING, BALD, PARTIALLY_SHAVED, HALF_SHAVED, SHORT_HAIR, | not stated | 121 | I find it exceedingly difficult to generate completely bald females, so I created this lora to help | [link](https://civitai.com/models/2685839?modelVersionId=3015734) |
 | `Aimsee_Ill_epoch_10-ill` **[HF only]** | not stated | not stated |  |  |  |
 | `AndyDee_456_illustrious` **[HF only]** | not stated | not stated |  |  |  |

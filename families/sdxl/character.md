@@ -1,26 +1,30 @@
 # SDXL — character
 
-22 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+26 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
-- Suggest ingest: [Japanese Girl - SDXL](https://civitai.com/models/121579) (sdxl, 33,972 dl) — `jpn-girl` · strength `2` (stated) — **downloads 33972 >= 2x best available (379) in same family+category**
-- Suggest ingest: [Finenude](https://civitai.com/models/117603) (sdxl, 28,197 dl) — `woman` · strength not stated — **downloads 28197 >= 2x best available (379) in same family+category**
-- Suggest ingest: [SL Assorted Female Nobodies XL](https://civitai.com/models/160073) (sdxl, 27,829 dl) — trigger not stated · strength not stated — **downloads 27829 >= 2x best available (379) in same family+category**
+- Suggest ingest: [Japanese Girl - SDXL](https://civitai.com/models/121579) (sdxl, 33,972 dl) — `jpn-girl` · strength `2` (stated) — **downloads 33972 >= 2x best available (4715) in same family+category**
+- Suggest ingest: [Finenude](https://civitai.com/models/117603) (sdxl, 28,197 dl) — `woman` · strength not stated — **downloads 28197 >= 2x best available (4715) in same family+category**
+- Suggest ingest: [SL Assorted Female Nobodies XL](https://civitai.com/models/160073) (sdxl, 27,829 dl) — trigger not stated · strength not stated — **downloads 27829 >= 2x best available (4715) in same family+category**
 
 | slug | triggers | strength | dl | what | source |
 |---|---|---|---:|---|---|
+| `pornmaster-age-differencesize-differencesu-xl` | not stated | not stated | 4715 | SDXL模型使用自然语言效果更好。 SDXL models work better using natural language. -- SDXL-V1基于PornMaster-Pro-SDXL-V1-VAE训练。 SD | [link](https://civitai.com/models/279071?modelVersionId=1067539) |
+| `age-difference-old-woman-young-man-xl` | not stated | not stated | 438 |  | [link](https://civitai.com/models/2699607?modelVersionId=3031574) |
 | `cheetara-sdxl1-0-xl` | CheetaraQuiron character, skintight bodysuit, leotard | not stated | 379 | 👑 Cheetara Lora👑 SDXL1.0 v4p  Cheetara from Thundercats series 🔧Model base: SDXL1.0 _____________ 📝🌟 Trigger:  | [link](https://civitai.com/models/127430?modelVersionId=139420) |
 | `bbw-plus-sized-curvy-thicc-woman-il-sd-flu-xl` | bbw-m0del | not stated | 230 | Makes a pleasantly plump bbw, have fun! | [link](https://civitai.com/models/1349500?modelVersionId=1524287) |
 | `big-titty-goth-girl-big-tiddy-goth-gf-flux-xl` | B1g-t-g0th | not stated | 219 | Make your own big titty goth gf, have fun! | [link](https://civitai.com/models/1462381?modelVersionId=1653858) |
 | `shrugging-pose-woman-krea2` | not stated | not stated | 200 |  | [link](https://civitai.com/models/2689129?modelVersionId=3367802) |
 | `mature-milf-mature-woman-40-year-old-milf-xl` | Matur3-milf | not stated | 160 | Makes more mature looking MILFs around 40 years old. They've had work done and their faces have so age lines,  | [link](https://civitai.com/models/2087189?modelVersionId=2361766) |
 | `supermodel-runway-model-flux-il-sd-xl` | sup3rm0del | not stated | 160 | Make your very own supermodel or runway model. Perfect for fashion or nsfw pics, your choice! Have fun! | [link](https://civitai.com/models/1467351?modelVersionId=1659599) |
+| `roxy-the-forbidden-angel-xl` | R0XY | not stated | 146 | Built for artists who love alluring, confident women, this model gives you both realism and fantasy charm. Ide | [link](https://civitai.com/models/1939052?modelVersionId=2515245) |
 | `hela-deaths-elegant-daughter-xl` | not stated | not stated | 142 | Cold beauty, sharp eyes, and a presence that feels supernatural . works better for gothic portraits . Illustri | [link](https://civitai.com/models/2151066?modelVersionId=2505555) |
 | `tradwife-traditional-wife-flux-il-sd-xl` | tr4dwife | not stated | 127 | Make your own sexy tradwife, have fun! Not trained on any specific person. | [link](https://civitai.com/models/1590431?modelVersionId=1799765) |
 | `nurse-joy-jessie-misty-pokemon-waifus-xl` | Nurs3_j0y, pink hair, hair rings, blue eyes, pink dress, apron, nurse cap, white | not stated | 110 | Pokemon waifus, Nurse Joy, Jessie, and Misty | [link](https://civitai.com/models/1371251?modelVersionId=1591514) |
 | `luna-vchan-first-v1-01-0-xl` | Luna,, futa,, futanari, yandere, dakimakura (medium), dakimakura_(medium), skirt | not stated | 95 | Made with Pixai's Animagine XL v3.1 as base model (should work with any SDXL or Haruka/Hoshino in theory, leas | [link](https://civitai.com/models/1327599?modelVersionId=1498921) |
 | `better-bottom-xl` | not stated | not stated | 80 | Inpainting model for SDXL | [link](https://civitai.com/models/3055526?modelVersionId=3475684) |
+| `yasmine-ai-influencer-girl-xl` | Yasmine | not stated | 80 | This model is trained on stylized Flux generations and comes with its own visual style as well , Altho I haven | [link](https://civitai.com/models/1329929?modelVersionId=2471290) |
 | `latina-milf-thicc-latina-xl` | L4t1na-m1lf | not stated | 76 | Creates a realistic Latic MILF with thick curves you can have fun with. Enjoy! | [link](https://civitai.com/models/1390692?modelVersionId=1571827) |
 | `nurse-joy-jessie-misty-pokemon-waifus-xl-2` | J3ss1e, blue eyes, eyelashes, pink hair, very long hair, hair slicked back, earr | not stated | 73 | Pokemon waifus, Nurse Joy, Jessie, and Misty | [link](https://civitai.com/models/1371251?modelVersionId=1567071) |
 | `nurse-joy-jessie-misty-pokemon-waifus-xl-3` | M1sty, m1sty, orange hair, short hair, side ponytail, green eyes,bare arms, susp | not stated | 72 | Pokemon waifus, Nurse Joy, Jessie, and Misty | [link](https://civitai.com/models/1371251?modelVersionId=1549398) |

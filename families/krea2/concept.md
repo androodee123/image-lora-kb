@@ -1,6 +1,6 @@
 # Krea2 (detailed-krea2) — concept
 
-445 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+449 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 | slug | triggers | strength | dl | what | source |
 |---|---|---|---:|---|---|
@@ -86,6 +86,7 @@
 | `coltish-legs-krea2` | not stated | not stated | 874 | This Lora is an attempt to turn the "long legs" dial up to 11, without introducing any weird alien proportions | [link](https://civitai.com/models/2907075?modelVersionId=3287737) |
 | `braces-st-kreal-femboy-s-krea2` | braces- St-kreal-femboy's, | not stated | 846 | This Lora was designed using a collection of images of women wearing braces, available in a wide variety of co | [link](https://civitai.com/models/2908626?modelVersionId=3289672) |
 | `landingstrip-krea2` | landingstrip | not stated | 832 | Landing Strip (Krea 2 and MOSS Image) Concept LoRA for Krea 2 and for MOSS Image. One grooming cut, not a char | [link](https://civitai.com/models/2988756?modelVersionId=3388827) |
+| `onsen v2 - krea2 v2.0 - onsen v2` | old man with hot lady,, krea2osen, onsen, breasts, nipples, realistic, nude, het | 0.9 | 818 | If you like my models and want to support my work, please subscribe to my Patreon! For only $3.99 a month, you | [link](https://civitai.com/models/2578912?modelVersionId=3252305) |
 | `glam-porn-makeup-v1359-krea2` | not stated | not stated | 776 | You don't have to like the LoRa, but you can show your appreciation for the work put into it with a thumbs-up  | [link](https://civitai.com/models/2880688?modelVersionId=3261359) |
 | `bursting-out-images-krea2` | brstingout | 2.5 | 756 | Bursting Out - Image Model Krea 2 Update Released a version of this model for Krea 2 image generation. I recom | [link](https://civitai.com/models/2291854?modelVersionId=3369594) |
 | `shemale-huge-dildo-krea2` | ShemaleHugeDildo, extreme anal dildo | not stated | 752 | This Lora create Shemale characters playing with huge dildo and toys | [link](https://civitai.com/models/2921802?modelVersionId=3305860) |
@@ -339,6 +340,7 @@
 | `Mimasaka_Hideaki_krea2_v1-e10` | not stated | not stated |  |  |  |
 | `Mimasaka_Hideaki_krea2_v2-e14` | not stated | not stated |  |  |  |
 | `RD Krea Trans - Nessa - Krea Trans Nessa - KreaTransBabe` | not stated | not stated |  |  |  |
+| `Sakura Haruno KREA 2 - v1.1 - 3NXJJF5NCQYMQCGBZTYC4EW1P0` | not stated | not stated |  |  |  |
 | `StacyMoran-krea2-000004.TA_trained` | not stated | not stated |  |  |  |
 | `a-char-krea2` | not stated | not stated |  |  |  |
 | `acrylic-krea2` | not stated | not stated |  |  |  |
@@ -363,6 +365,7 @@
 | `beauty44-fairy-krea2` | not stated | not stated |  |  |  |
 | `belledelphine-krea2-000010.TA_trained` | not stated | not stated |  |  |  |
 | `blk3ring-KREA2-v1e8` | not stated | not stated |  |  |  |
+| `blue-archive-all-in-one-krea2` | not stated | not stated |  |  |  |
 | `bonnie-rabbit-krea2` | not stated | not stated |  |  |  |
 | `bottom-heavy-women-krea2` | not stated | not stated |  |  |  |
 | `bronwyn-adventure-time-krea2` | not stated | not stated |  |  |  |
@@ -390,6 +393,7 @@
 | `gotd-dirty-things-v-01-krea2` | not stated | not stated |  |  |  |
 | `gotd-fpm-melly-krea2` | not stated | not stated |  |  |  |
 | `goth-krea2` | not stated | not stated |  |  |  |
+| `hadam-seoul-atelier-krea2` | not stated | not stated |  |  |  |
 | `hazelmoore-h4z3l-krea2` | not stated | not stated |  |  |  |
 | `horibenny-krea2-000010.TA_trained` | not stated | not stated |  |  |  |
 | `jessicajaymes-jj4mes-krea2` | not stated | not stated |  |  |  |

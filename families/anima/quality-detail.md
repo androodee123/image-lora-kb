@@ -1,6 +1,6 @@
 # Anima — quality-detail
 
-52 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+53 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -33,6 +33,7 @@
 | `sweaty-skin-for-anima` | sweatyskin | 0.7 | 641 | ** base-v1.0 is recommended. ** Setting trigger words: sweatyskin reccomend prompts: shiny skin, very sweaty R | [link](https://civitai.com/models/2611324?modelVersionId=3317454) |
 | `ccbetter-skin-agm-anima` | not stated | not stated | 594 | At its core, this is an artistic style, yet it captures skin texture remarkably well; I created this model aft | [link](https://civitai.com/models/2958813?modelVersionId=3351820) |
 | `better-details-anima` | not stated | not stated | 525 | 优化细节的结构正确性 v6.0 景深 对比图，右侧是有lora的 | [link](https://civitai.com/models/2943602?modelVersionId=3349549) |
+| `NM_College_Girls_anm` | NM_College_girls, | not stated | 507 | A Lora of College girls/Student girls. trigger tag: NM_College_girls, You can support my work by following the | [link](https://civitai.com/models/1295775?modelVersionId=3170618) |
 | `shiny-wet-skin-anima` | shiny skin | 0.5-1.4 | 485 | This Lora can generate a wet skin with a strong gloss. If you are using Checkpoints or LoRAs with flat colorin | [link](https://civitai.com/models/2900158?modelVersionId=3447568) |
 | `conceptscrapbook-aesthetic-anima` | scr4pbook, washi tape, sticker, white outline, white border | not stated | 321 | TAGS scr4pbook, washi tape, sticker, white outline wildcard .yaml file is optional download. the file is used  | [link](https://civitai.com/models/2986089?modelVersionId=3385482) |
 | `transparent-skin-skeleton-visible-anima` | transparent_skin, skeleton visible, transparent skin, | 0.8-1.0 | 299 | Prompts: transparent_skin, skeleton visible, transparent skin, Strength: 0.8-1.0 I love making these LoRAs for | [link](https://civitai.com/models/1828110?modelVersionId=3400112) |

@@ -47,7 +47,9 @@ https://civitai.com/models/238419
 https://civitai.com/models/139131
 https://civitai.com/models/99174
 https://civitai.com/models/1173463
+https://civitai.com/models/402667
 https://civitai.com/models/2560840
+https://civitai.com/models/155622
 https://civitai.com/models/561630
 https://civitai.com/models/927305
 https://civitai.com/models/200251
@@ -73,6 +75,7 @@ https://civitai.com/models/269772
 https://civitai.com/models/1333749
 https://civitai.com/models/137423
 https://civitai.com/models/129130
+https://civitai.com/models/1025710
 https://civitai.com/models/345962
 https://civitai.com/models/432586
 https://civitai.com/models/402462
@@ -193,6 +196,7 @@ https://civitai.com/models/2112600
 https://civitai.com/models/1526286
 https://civitai.com/models/248856
 https://civitai.com/models/161061
+https://civitai.com/models/468265
 https://civitai.com/models/536170
 https://civitai.com/models/482233
 https://civitai.com/models/680129
@@ -223,6 +227,7 @@ https://civitai.com/models/837884
 https://civitai.com/models/127018
 https://civitai.com/models/572899
 https://civitai.com/models/653203
+https://civitai.com/models/1242549
 https://civitai.com/models/1204179
 https://civitai.com/models/2067704
 https://civitai.com/models/127139
@@ -293,8 +298,3 @@ https://civitai.com/models/653604
 https://civitai.com/models/464517
 https://civitai.com/models/727004
 https://civitai.com/models/135160
-https://civitai.com/models/144142
-https://civitai.com/models/391036
-https://civitai.com/models/102228
-https://civitai.com/models/432701
-https://civitai.com/models/708540

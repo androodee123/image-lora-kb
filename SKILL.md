@@ -4,23 +4,23 @@ description: >-
   Choose and stack text-to-image LoRAs for Illustrious/NoobAI, SDXL, Pony, Anima, Krea2 (detailed-krea2) and MOSS (kromoss)
   on Graydient. Goal-based chooser with recipes. Prefer LoRAs registered on Graydient; flag other HF-repo LoRAs; suggest ingesting strong CivitAI/HF
   LoRAs only under the suggest-ingest rule. Prompt matcher (scripts/suggest.py + data/semantic_catalog.jsonl) finds LoRAs from every
-  Graydient LoRA that move a draft prompt closer to its subject, intent, clothing, expression, object, pose and style. Never invent triggers or strengths. Adults only.
+  Graydient LoRA that move a draft prompt closer to its subject, intent, clothing, expression, object, pose and style. Never invent triggers or strengths. Minor-coded LoRAs are SFW-only.
 ---
 
 # Skill: choose text-to-image LoRAs (Illustrious · SDXL · Pony · Anima · Krea2 · MOSS)
 
-Snapshot 2026-11-18. Adults-only (18+) concepts; describe NSFW factually. No minor-coded LoRAs are in this KB.
+Snapshot 2026-11-18. Describe NSFW factually, adults (18+) only. LoRAs flagged `minor_coded` (minor/school-age characters, age sliders) are for SFW renders only and never go in an NSFW stack.
 
 ## Inventory at a glance
 
 | family | on Graydient | HF repo only (needs adding) | ingest candidates |
 |---|---:|---:|---:|
-| Illustrious / NoobAI (Illustrious-XL based) | 3315 | 14 | 4540 |
-| SDXL | 270 | 0 | 1588 |
-| Pony (Pony Diffusion XL) | 985 | 7 | 1260 |
-| Anima | 3857 | 0 | 1795 |
-| Krea2 (detailed-krea2) | 4105 | 3 | 2189 |
-| MOSS (Moss Image / kromoss) | 789 | 0 | 893 |
+| Illustrious / NoobAI (Illustrious-XL based) | 4280 | 14 | 5056 |
+| SDXL | 279 | 0 | 1653 |
+| Pony (Pony Diffusion XL) | 1010 | 7 | 1380 |
+| Anima | 4129 | 0 | 1991 |
+| Krea2 (detailed-krea2) | 4297 | 3 | 2244 |
+| MOSS (Moss Image / kromoss) | 812 | 0 | 918 |
 
 **Recommend only LoRAs registered on Graydient** (files in HF `Octavian123/civit`, `civit2`, `private`). LoRAs found only in other Octavian123 HF repos are listed *flagged* as needing to be added to Graydient. Candidates (CivitAI/HF, not available) appear only as capped *Suggest ingest* lines.
 
@@ -45,49 +45,50 @@ Use this whenever someone hands you a draft prompt, a render to improve, or an i
 3. **Or consult the catalog directly:** `data/semantic_catalog.jsonl` (one row per Graydient slug: `slug, family, base_model, name, triggers, no_trigger, weight, weight_source, source_url, creator, own, ingest_date, availability{graydient,hf,raid}, role, semantic{subject,concept,clothing,expression,object,pose,style,anatomy}`), e.g. `jq -c 'select(.family=="anima" and (.semantic.clothing//[]|index("latex")))' data/semantic_catalog.jsonl`. Counts: `data/semantic_summary.md`.
 4. **Propose additions, don't dump the list.** Pick at most one identity per person, one style, one detail/realism helper, then only the clothing/pose/expression/object/anatomy helpers the image needs. Skip picks whose *why* says `adds: …` (content the prompt didn't ask for) unless the user wants it, and skip identity LoRAs without a `name match`. Keep every LoRA in the checkpoint's family. Write them in the family syntax below — `<slug:weight>` blocks first, then the source triggers in the prompt text in the same order; no-trigger LoRAs go in by slug only. **Never invent a trigger or a strength.**
 5. Explain each addition in one line (what it should fix), and suggest testing one LoRA at a time.
+6. **Minor-coded LoRAs are SFW-only.** Entries flagged `minor_coded` (named minor/school-age characters, age sliders/de-aging) stay in the catalog for SFW renders; for NSFW prompts the matcher hides them, and never stack one with an NSFW or anatomy LoRA.
 
 Worked examples with real slugs: `guides/prompt-matching.md`. The catalog is rebuilt weekly by `scripts/update.sh` (`scripts/build_semantic.py`), and `scripts/check_new.py` reports new/untagged LoRAs.
 
 <!-- AUTO-UPDATE:START -->
 ## Live inventory (auto-updated by `scripts/update.py`, 2026-11-18)
 
-On Graydient: illustrious **3315** · sdxl **270** · pony **985** · anima **3857** · krea2 **4105** · moss **789**. Ingest candidates: illustrious 4540 · sdxl 1588 · pony 1260 · anima 1795 · krea2 2189 · moss 893.
+On Graydient: illustrious **4280** · sdxl **279** · pony **1010** · anima **4129** · krea2 **4297** · moss **812**. Ingest candidates: illustrious 5056 · sdxl 1653 · pony 1380 · anima 1991 · krea2 2244 · moss 918.
 
 **Recently available (newest first, max 20):**
 
-- 2026-11-18 `badge-maker-anime-civitai-badge-generator-v3011-anima` (anima/style) — badge, CivitaiBadge, hexagon,   black background, simple background,, gem, pearl (gemstone), gemstones, hexagon chest, crystal, hexagon cube,, glowing eyes, robot, science fiction, gradient, crack, screen, machine, mecha,, Flowers, jewels, leaves, portraits, wooden frames, crafts, paintings, picture frames, — https://civitai.com/models/2056293?modelVersionId=3263011
-- 2026-11-18 `jav-dvd-cover-female-investigator-brave-un-ill` (illustrious/concept) — trigger not stated
-- 2026-11-18 `badge-maker-anime-civitai-badge-generator-ill` (illustrious/style) — badge, civitaibadge, hexagon, — https://civitai.com/models/2056293?modelVersionId=2327005
-- 2026-11-18 `lo-chan-type-lo-mmd-model-xl-lo-pony` (pony/character) — trigger not stated
-- 2026-11-18 `tsurumaki-maki-mmd-model-mmd-voiceroid-voc-pony` (pony/character) — trigger not stated
-- 2026-11-18 `yuzuki-yukari-iwara-mmd-base-model-iwaramm-pony` (pony/character) — trigger not stated
-- 2026-11-18 `queen-s-blade-gamebook-titlecover-concept-pony` (pony/concept) — trigger not stated
+- 2026-11-18 `ass-ripple-original-anima` (anima/anatomy) — trigger not stated — https://civitai.com/models/2880606?modelVersionId=3255745
+- 2026-11-18 `anya-alstreim-code-geass-lelouch-of-the-re-anima` (anima/anatomy) — Anya_Anima, 1girl, pink hair, long hair, medium hair, twintails, ponytail, sidelocks, blunt bangs, pink eyes, lips, hairband, breasts, small breasts, midriff, red cape, cape, crop top, sleeveless shirt, shirt, sleeveless, open clothes, buttons, white shorts, short shorts, shorts, belt, belt buckle, buckle, black gloves, elbow gloves, gloves, kneehighs, socks, knee boots, ankle boots, high heel boots, boots, black footwear, high heels, bare shoulders, breasts, small breasts, midriff, tattoo, jewelry, earrings, crop top, black shirt, sleeveless shirt, shirt, sleeveless, white skirt, miniskirt, pleated skirt, skirt, underwear, panties, highleg panties, pink panties, purple panties, highleg, panty straps, black belt, belt, buckle, thigh strap, thigh belt, black gloves, elbow gloves, gloves, asymmetrical gloves, single glove, single elbow glove, latex gloves, pink thighhighs, purple thighhighs, thighhighs, thighhighs under boots, zettai ryouiki, high heel boots, knee boots, thigh boots, boots, black footwear, high heels, breasts, small breasts, midriff, black leotard, multicolored leotard, highleg leotard, leotard, highleg, clothing cutout, center opening, turtleneck, latex, white jacket, shrug (clothing), long sleeves, black gloves, gloves, pink thighhighs, thighhighs, thigh boots, high heel boots, boots, pink footwear, high heels, cropped jacket, jacket, open jacket, open clothes, shrug (clothing) — https://civitai.com/models/1615827?modelVersionId=3398415
+- 2026-11-18 `anya-alstreim2-xl` (anima/anatomy) — Anya_Anima, 1girl, pink hair, long hair, medium hair, twintails, ponytail, sidelocks, blunt bangs, pink eyes, lips, hairband, breasts, small breasts, midriff, red cape, cape, crop top, sleeveless shirt, shirt, sleeveless, open clothes, buttons, white shorts, short shorts, shorts, belt, belt buckle, buckle, black gloves, elbow gloves, gloves, kneehighs, socks, knee boots, ankle boots, high heel boots, boots, black footwear, high heels, bare shoulders, breasts, small breasts, midriff, tattoo, jewelry, earrings, crop top, black shirt, sleeveless shirt, shirt, sleeveless, white skirt, miniskirt, pleated skirt, skirt, underwear, panties, highleg panties, pink panties, purple panties, highleg, panty straps, black belt, belt, buckle, thigh strap, thigh belt, black gloves, elbow gloves, gloves, asymmetrical gloves, single glove, single elbow glove, latex gloves, pink thighhighs, purple thighhighs, thighhighs, thighhighs under boots, zettai ryouiki, high heel boots, knee boots, thigh boots, boots, black footwear, high heels, breasts, small breasts, midriff, black leotard, multicolored leotard, highleg leotard, leotard, highleg, clothing cutout, center opening, turtleneck, latex, white jacket, shrug (clothing), long sleeves, black gloves, gloves, pink thighhighs, thighhighs, thigh boots, high heel boots, boots, pink footwear, high heels, cropped jacket, jacket, open jacket, open clothes, shrug (clothing) — https://civitai.com/models/1615827?modelVersionId=3398415
+- 2026-11-18 `mao-hakawa-asuka-saki-hentai-renzu-futari-anima` (anima/anatomy) — Mao Hakawa, red hair, long hair, pink eyes, hairclip, hoop earrings, short red dress, star print, spaghetti straps, red rope, shibari, breast bondage, thigh strap, Asuka, short hair, brown hair, green eyes, freckles, stud earrings — https://civitai.com/models/2901846?modelVersionId=3281495
 - 2026-11-18 `c-c-code-geass-lelouch-of-the-rebellion-anima` (anima/anatomy) — C.C_Anima, See Model Info for outfit — https://civitai.com/models/1834731?modelVersionId=3474299
-- 2026-11-18 `tatsumaki-one-punch-man-anima` (anima/character) — Tatsumaki_Anima, See Model Info for outfits — https://civitai.com/models/2036896?modelVersionId=3474351
-- 2026-11-18 `aphrodite-record-of-ragnarok-shuumatsu-no-anima` (anima/character) — Aphrod1te, 1girl, blue eyes, blonde hair, blue eyes, hair flower, hair ornament, huge breasts | greco-roman clothes, ancient greek clothes, dress, sideboob — https://civitai.com/models/1210660?modelVersionId=3473363
-- 2026-11-18 `zella-understated-desire-anima` (anima/character) — zella — https://civitai.com/models/2330593?modelVersionId=3088422
-- 2026-11-18 `yor-forger-spy-family-anima` (anima/character) — YorDM, 1girl, solo, black hair, long hair, red eyes, white hairband, earrings, large breasts — https://civitai.com/models/3053592?modelVersionId=3473068
-- 2026-11-18 `yuri-sakazaki-king-of-fighters-maximum-imp-anima` (anima/character) — yuri_cosa,, yuri sakazaki, long hair, single braid, brown hair, headband, brown eyes,, dougi, fingerless gloves, spandex,, yuri_cosb, — https://civitai.com/models/3053952?modelVersionId=3473606
-- 2026-11-18 `lilith-the-maid-i-hired-recently-is-myster-anima` (anima/character) — MIHRIM Lilith, Main Outfit — https://civitai.com/models/2032721?modelVersionId=3474069
-- 2026-11-18 `blue-mary-king-of-fighters-maximum-impact-anima` (anima/character) — bmary_cosa,, short hair, blonde hair, bob cut, blue eyes, lips,, jewelry, green jacket, cropped jacket, necklace, pendant, tube top, crop top, cleavage, fingerless gloves, abs, midriff, belt, loose belt, baggy pants,, bmary_cosb, — https://civitai.com/models/3053965?modelVersionId=3473609
-- 2026-11-18 `ailish-sudeki-l-ponyxl-anima` (anima/character) — AilishDG,, blue hair, ponytail, pink eyes,, thighhighs, white gloves, jewelry, earrings,detached sleeves, revealing clothes, — https://civitai.com/models/467490?modelVersionId=3473725
-- 2026-11-18 `seiko-ayase-dandadan-xl-eps-v1-1-v1-0-anima` (anima/character) — seikdan, mature female, brown eyes, long hair, white hair, updo, parted bangs, red glasses, semi-rimless eyewear, under-rim eyewear, large breasts, white tank top, collarbone, cleavage, bare shoulders, grey gloves, elbow gloves, fingerless gloves, yellow haramaki, purple shorts, short shorts, dolphin shorts, grey thighhighs, stirrup legwear, yellow cardigan, off-shoulder cardigan, long sleeves, collarbone, cleavage, criss-cross halter, bare legs — https://civitai.com/models/1944761?modelVersionId=3473343
-- 2026-11-18 `nicole-demara-zenless-zone-zero-character-anima` (anima/character) — nicolezzz, nicolezzz, bright pink hair, green eyes, long twintails, black hair bows — https://civitai.com/models/3054124?modelVersionId=3473810
-- 2026-11-18 `claire-harvey-jab-comix-anima` (anima/character) — 1girl, Claire_papi, brown hair, brown eyes, big breasts, mature breasts, petite body, wide hips, slender thighs, bimbo ass, pubic hair, trimmed pubic hair,, hair bun, messy hair bun, single hair bun,, long hair,, high ponytail, — https://civitai.com/models/2717854?modelVersionId=3474000
-- 2026-11-18 `webtoon-cha-hyeyoon-intern-diver-anima` (anima/character) — trigger not stated — https://civitai.com/models/3053833?modelVersionId=3473419
+- 2026-11-18 `sailor-uranus-sailor-moon-anima` (anima/anatomy) — sailoruranus_pb82,, blonde hair, short hair, parted bangs, blue eyes, golden tiara,   earrings, blue choker,  makeup, small breasts,, sailor senshi uniform, white leotard, blue sailor collar, brooch, jewelry, covered navel, blue skirt, miniskirt, pleated skirt, yellow bow, ribbon, back bow, bow, elbow gloves, white gloves, black boots, short  boots, high heels,, holding saber, — https://civitai.com/models/2313377?modelVersionId=3458251
+- 2026-11-18 `ubette-goth-futa-oc-anima` (anima/anatomy) — ubette — https://civitai.com/models/3046233?modelVersionId=3463199
+- 2026-11-18 `draco-malfoid-malfoy-redteneri-genderswap-anima` (anima/character) — femdraco, 1girl, blonde hair, long hair, asymmetrical bangs, parted hair, hair intakes, hair behind ear, light-blue eyes, ringed eyes, pale skin, black hoop earrings, small breasts, hogwarts school uniform, black robe, grey sweater, collared shirt, green necktie, black pleated skirt, pantyhose, black loafers — https://civitai.com/models/2967285?modelVersionId=3362156
+- 2026-11-18 `kugisaki-nobara-jujutsu-kaisen-2nd-season-anima` (anima/character) — kugisaki nobara, jujutsu kaisen — https://civitai.com/models/1266763?modelVersionId=2963822
+- 2026-11-18 `sailor-venus-anima` (anima/character) — sailor venus,(solo:1.4),blonde hair,blue eyes,tiara,red hair bow,half updo,long hair,yellow back bow,brooch,blue bow,(no symbol orange choker:1.4),(sleeveless:1.4),jewelry,leotard,orange sailor collar,orange skirt,sailor senshi uniform,elbow gloves,white gloves,, (super sailor venus:1.4),(solo:1.4),blonde hair,blue eyes,tiara,red hair bow,half updo,long hair,yellow back bow,heart brooch,blue bow,star orange choker,elbow gloves,jewelry,leotard,orange sailor collar,orange skirt,sailor senshi uniform,white gloves,, aino minako,blonde hair,long hair,blue eyes,medium breasts,earrings,school uniform,blue skirt,hair bow,white shirt,blue sailor collar,serafuku,shirt,long sleeves,pleated skirt,red bowtie,bowtie, — https://civitai.com/models/1001281?modelVersionId=3276532
+- 2026-11-18 `Meiko Shiraki 白木芽衣子 Prison School 監獄学園 - AnimaBaseV1 - Anima - Meiko-Shiraki-Prison-School-AnimaBaseV1-StrangestArt` (anima/character) — shiraki_meiko, 1girl, hair bun, grey hair, brown eyes, glasses, large breasts, Meiko_uniform, jacket, white button-up shirt, open shirt, black skirt, black thighhighs,, Meiko_crop_top,  yellow tank top, crop top, pink shorts, dolphin shorts,, Meiko_Prison, striped crop top, striped pants, navel — https://civitai.com/models/2836819?modelVersionId=3201804
+- 2026-11-18 `euphoria-nemu-manaka-anima` (anima/character) — <lora:NemuManaka-Anima-v1-08:0.9>, ChopioNemu, brown hair, short hair with long locks, french braid, single hair bun, blunt bangs, purple eyes, looking at viewer, source_anime,, outfit_1, collar, black serafuku, black sailor collar, black shirt, grey neckerchief, breast pocket, long sleeves, black pleated skirt, black thighhighs,, white bra, white panties,, outfit_2, bdsm, collar, bondage outfit, o-ring body harness, black thighhighs, — https://civitai.com/models/2711043?modelVersionId=3045547
+- 2026-11-18 `atelier-yumia-anima` (anima/character) — atelier yumia anima — https://civitai.com/models/1392646?modelVersionId=3247839
+- 2026-11-18 `leona-morimoto-hentai-discipline-record-of-anima` (anima/character) — Leona Morimoto, 1girl, blonde hair, long hair, twin drills, blue eyes, half updo, hair bow, white bow, purple school uniform, two-tone jacket, necktie, pleated skirt, purple thighhighs, yellow trim, red armband, o-ring top, bondage outfit, red panties, elbow gloves, red gloves, highleg panties, latex, thigh boots, chastity bra, chastity belt, black collar, padlock, padlock on chastity belt, orange cloak — https://civitai.com/models/1738464?modelVersionId=3378238
+- 2026-11-18 `malfoid-harry-potter-fanfic-anima` (anima/character) — malfoid, blonde hair, long hair, green eyes, earrings, school uniform, collared shirt, green necktie, striped necktie, sweater, pleated skirt, thighhighs, cloak, — https://civitai.com/models/3011024?modelVersionId=3417144
+- 2026-11-18 `hatsune-miku-rabbit-hole-vocaloid-anima` (anima/character) — rabbithole bunny, blue eyes, pink pupils, blue hair, pink hair, two-tone hair, hair intakes, twintails, ahoge, x hair ornament, white fake rabbit ears, teardrop facial mark, detached collar, red bowtie, heart cutout, playboy bunny, pink ribbon, red nails, fishnet pantyhose, pink single thigh strap, black high heels,, rabbithole hoodie, blue eyes, pink pupils, blue hair, pink hair, two-tone hair, medium hair, surgical mask around neck, the price tag is attached to the hem of the hoodie., hood up, black hoodie, red nails, no print, no animal ears, bandaid on leg, garter straps, fishnet thighhighs, black high heels, — https://civitai.com/models/2986359?modelVersionId=3385819
+- 2026-11-18 `furinji-miu-kenichi-the-mightiest-disciple-anima` (anima/character) — furinji miu, blonde hair, long hair, blue eyes, fair skin, large breasts, curvy, parted bangs, mole, mole under eye, jacket, cropped jacket, open jacket, rolled up sleeves, purple unitard, high collar, bike shorts, tight clothes,, dougi, white jacket, wide sleeves, purple bodysuit, high collar, red belt, shorts, school uniform, white shirt, collared shirt, button up, red ribbon, ribbon tie, pleated skirt, miniskirt, yellow trim — https://civitai.com/models/3039695?modelVersionId=3454744
+- 2026-11-18 `kasugano-sakura-street-fighter-alpha2-zero-anima` (anima/character) — (kasugano_sakura), (brown eyes, brown hair, short hair, large breasts, bursting breasts), (hachimaki, high neck sports bra, high neck, sailor shirt, sports bra under sailor shirt, sailor collar, neckerchief, puffy short sleeves, midriff peek, mma gloves, red gloves, pleated skirt, miniskirt), (socks, high tops), (wind lift, red buruma peek), (forehead:1.3), (red high neck sports bra, sleeveless, midriff, buruma), (barefoot) — https://civitai.com/models/2073054?modelVersionId=3405036
+- 2026-11-18 `shifty-nikke-anima` (anima/character) — shifty, blue eyes, blue hair, two side up, long hair, hair ornament, animal ear headphones, headset, medium breasts, sailor collar, button badge, serafuku, blue neckerchief, grey shirt, short sleeves, wrist cuffs, breast pockets, impossible clothes, pouch, white dress, covered navel, bare legs, white footwear, sneakers, socks — https://civitai.com/models/2844483?modelVersionId=3211418
+- 2026-11-18 `haramura-nodoka-saki-anima` (anima/character) — haramura_nodoka, blue eyes, pink hair, long hair, hair bow, kiyosumi school uniform, serafuku, shirt overhang, midriff, blue skirt, petticoat, white thighhighs, — https://civitai.com/models/3014157?modelVersionId=3421220
 
 **Newest ingest candidates from the weekly update (proposals only; max 10):**
 
-- 2026-11-18 Taki - Soul Calibur (SC6) (pony/character) — takixl,  — https://civitai.com/models/87807
-- 2026-11-18 Supergirl - DC (Injustice 2) (pony/character) — powergirlxl — https://civitai.com/models/138382
-- 2026-11-18 Hisako - Killer instinct (horror) (pony/style) — hisakoxl, — https://civitai.com/models/82172
-- 2026-11-18 Lisa the Babysitter (Dexter's Laboratory) [Pony/IL] (illustrious/character) — xlisax, orange hair, medium hair, blue eyes, pink lips, hairband — https://civitai.com/models/526347
-- 2026-11-18 Painterly - CE (krea2/style) — pntrlyCE_style — https://civitai.com/models/957327
-- 2026-11-18 TeeKay's Custom Characters | N-R | Kr2 + Flux (krea2/character) — QuinnMixer — https://civitai.com/models/1885010
-- 2026-11-18 Sarah Bryant - Virtua Fighter RV (pony/character) — sarahbxl, — https://civitai.com/models/83433
-- 2026-11-18 Tira - Soul Calibur (SC6) (illustrious/character) — tirasc6xl, — https://civitai.com/models/98203
-- 2026-11-18 Long Maid Dress (anima/clothing) — maid, long dress, apron, maid apron, maid headdress, long sleeves — https://civitai.com/models/1786064
-- 2026-11-18 Trilla Suduri - Star Wars Fallen Order (Inquisitor) (pony/character) — trilla — https://civitai.com/models/113220
+- 2026-11-18 Age Slider LoRA | PonyXL SDXL (pony/utility) — trigger not stated — https://civitai.com/models/402667
+- 2026-11-18 NSFW: flat chested (sdxl/quality-detail) — flat chested — https://civitai.com/models/155622
+- 2026-11-18 THE PONYDEX (POKEMON) - [PONY XL | INDIGO XL] (pony/character) — Abra — https://civitai.com/models/561630
+- 2026-11-18 Age Slider LoRA | Illustrious XL (illustrious/utility) — trigger not stated — https://civitai.com/models/1025710
+- 2026-11-18 BArtstyle | Blue Archive Art Style LoRA | Anime Flat Color | 蔚蓝档案画风模型  (krea2/style) — azure youth anime art style — https://civitai.com/models/29215
+- 2026-11-18 Age Slider (pony/utility) — trigger not stated — https://civitai.com/models/468265
+- 2026-11-18 Tifa Lockhart (Final Fantasy 7) (Outfit Collection 23 Outfits) (illustrious/clothing) — tfff7lckhrt, brown eyes, black hair, long hair, swept bangs, silver earring, jewelry, white tank top, black undershirt, midriff, bare shoulders, toned, black gloves, elbow pad, red arm guard, single arm guard, elbow gloves, fingerless gloves, belt, black skirt, miniskirt, suspender skirt, black thighhighs, zettai ryouiki, suspenders, navel, — https://civitai.com/models/1242549
+- 2026-11-18 [PonyXL + 1.5] Pokemon - Lillie (pony/character) — 1lillie1, blonde hair, long hair, green eyes, 2default2, twin braids, white sunhat, white dress, sleeveless dress, kneehighs, blue footwear, 3anniversary3, twin braids, blue dress, purple dress, white gloves, elbow gloves, blue footwear, 4ponytail4, ponytail, white shirt, white skirt, pink backpack, white socks, white footwear — https://civitai.com/models/56025
+- 2026-11-18 (SDXL/Pony/SD1.5)  Sono Bisque Doll wa Koi wo Suru - Marin Kitagawa (pony/character) — Kitagawa Marin — https://civitai.com/models/362837
+- 2026-11-18 Marin Kitagawa (My Dress-Up Darling) - All cosplays, appearances, and  (illustrious/clothing) — mar1n, 1girl, blonde hair, long hair, multicolored hair, red eyes | pink nails, nail polish, fingernails, jewelry, earrings, ear piercing, necklace, choker, barbell piercing, bracelet, Shizuku Kuroe, cosplay, leash, wig, purple eyes, solo, purple hair, thighhighs, apron, frills, black thighhighs, dress, indoors, wide sleeves, chain leash, makeup, black dress, smile, lipstick, nail polish, necktie, detached collar, hair ornament, breasts, flower, frilled dress, black headwear, bonnet, red rose, hairband, Black Lobelia, long hair, cleavage, black gloves, collarbone, leotard, corset,  cosplay, highleg, epaulettes, dress, heterochromia, blue eyes, cleavage, red eyes, hat, choker, large breasts, black headwear, black choker, grey hair, peaked cap, military hat, coat, hair between eyes, jacket, collarbone, white hair, Prisoner Veronica, sharp teeth, breasts, white hair, dark-skinned female, dark skin, collar, teeth, hair over one eye, yellow eyes, belt bra, large breasts, ahoge, short hair, buckle, collarbone, bare shoulders, belt, partially nude, underboob — https://civitai.com/models/975648
 <!-- AUTO-UPDATE:END -->
 
 ## How to look up any LoRA
@@ -229,8 +230,8 @@ One style LoRA at a time; add a second only at a lower strength.
 - `anime-figure-xl` — `anifigurestyle` · strength `0.5 to 0.7` (stated) · 792 dl · Trained with SDXL base model, using this lora with other XL models will produce uncontrolled results · [source](https://civitai.com/models/429926?modelVersionId=508307)
 
 **Pony (Pony Diffusion XL)**
+- `Prison School anime style PDXL - PSV1F - Prison_School_anime_style_Pony_r2` — `score_9_up, score_8_up, score_7_up,` · strength not stated · 1,686 dl · [source](https://civitai.com/models/525298?modelVersionId=583646)
 - `uno-makoto-marumiya-pony-xl` — trigger not stated · strength not stated · 1,603 dl · [source](https://civitai.com/models/347454?modelVersionId=388734)
-- `terayama-reiko-anime-golden-boy-ponyxl-sd1-pony` — `Terayama Reiko, 1girl,`, `black hair, long hair, makeup, lipstick, brown eyes,`, `bikesuit,`, `open clothes, no bra, cleavage, unzipped` · strength not stated · 916 dl · XL version · [source](https://civitai.com/models/94159?modelVersionId=770710)
 
 **Anima**
 - `90s_anime_melancholy_Anima-step00003300` — `90s_melancholy, retro,` · strength `0.8` (stated) · 3,887 dl · Krea 2 version : weight between [0.8,1], best at 1 trigger words : 90s_melancholy, retro, Anima vers · [source](https://civitai.com/models/1738546?modelVersionId=2820017)
@@ -400,16 +401,16 @@ Search `data/loras.jsonl` by the character name (`rg -i name`). Use ONE identity
 - `Coochies_Manager_-_Art_of_Jaguar_v1.0` **[HF repo only - needs adding to Graydient]** — `c00chiesManager, 1girl, white hair, short hair, grey eyes, huge breast`, `white shirt, pencil skirt, necktie, garter straps, thighhighs, side sl` · strength `1.5` (stated) · 95 dl · Diner manager from art of Jaguar. Sometimes you might need to crank up the strength to 1.5 to get re · [source](https://civitai.com/models/2018495?modelVersionId=2284476)
 
 **SDXL**
-- `cheetara-sdxl1-0-xl` — `CheetaraQuiron character`, `skintight bodysuit`, `leotard` · strength not stated · 379 dl · 👑 Cheetara Lora👑 SDXL1.0 v4p  Cheetara from Thundercats series 🔧Model base: SDXL1.0 _____________ 📝🌟 · [source](https://civitai.com/models/127430?modelVersionId=139420)
-- `bbw-plus-sized-curvy-thicc-woman-il-sd-flu-xl` — `bbw-m0del` · strength not stated · 230 dl · Makes a pleasantly plump bbw, have fun! · [source](https://civitai.com/models/1349500?modelVersionId=1524287)
+- `pornmaster-age-differencesize-differencesu-xl` — trigger not stated · strength not stated · 4,715 dl · SDXL模型使用自然语言效果更好。 SDXL models work better using natural language. -- SDXL-V1基于PornMaster-Pro-SDXL-V1 · [source](https://civitai.com/models/279071?modelVersionId=1067539)
+- `age-difference-old-woman-young-man-xl` — trigger not stated · strength not stated · 438 dl · [source](https://civitai.com/models/2699607?modelVersionId=3031574)
 
 **Pony (Pony Diffusion XL)**
 - `defeated-waifu-imminent-penetration-concep-pony` — `defeatedwaifu`, `humiliation`, `slave`, `imminent penetration` · strength not stated · 7,066 dl · Ohayo, my hot and kinky people 🔥😈!, I find myself needing to use this intro from now on for my origi · [source](https://civitai.com/models/934757?modelVersionId=1046362)
 - `taimanin-rpgx-character-collection-concept-pony` — `taimanincc, 1 girl, Solo Focus, character profile title text, Simple b` · strength not stated · 2,837 dl · --SAMPLE <LORA>->Base->CommonWard->Character-- --------------------------------------  <lora:Taimani · [source](https://civitai.com/models/556011?modelVersionId=618819)
 
 **Anima**
+- `draco-malfoid-malfoy-redteneri-genderswap-anima` — `femdraco, 1girl, blonde hair, long hair, asymmetrical bangs, parted ha`, `hogwarts school uniform, black robe, grey sweater, collared shirt, gre` · strength not stated · 3,480 dl · Based on Redteneri's Genderswap Draco Prompts: femdraco, 1girl, pale blonde hair, long hair, asymmet · [source](https://civitai.com/models/2967285?modelVersionId=3362156)
 - `taimanin-rpgx-character-collection-concept-anima` — `1girl, white background, character name, character profile, multi-fram`, `((TITLE TEXT:2,"***Character Name***", ***Character Name***))` · strength not stated · 1,535 dl · --SAMPLE <LORA>->Base->CommonWard->Character-- --------------------------------------  <lora:Taimani · [source](https://civitai.com/models/556011?modelVersionId=3051237)
-- `glory-wall-anima` — `Promts for this LoRA:`, `bdsm, glory wall, handsfree breast squeeze, immobilization, public res` · strength not stated · 1,047 dl · My telegram chanel: (https://t.me/+-OTXaB0G5F8yNDJi) My discord server: (https://discord.gg/NWpyuzsH · [source](https://civitai.com/models/2897098?modelVersionId=3275413)
 
 **Krea2 (detailed-krea2)**
 - `alt-girl-e-girl-krea2` — trigger not stated · strength not stated · 9,378 dl · Trigger word AltGirl · [source](https://civitai.com/models/2274840?modelVersionId=3198266)
@@ -428,8 +429,8 @@ Search `data/loras.jsonl` by the character name (`rg -i name`). Use ONE identity
 Describe a single motivated light source in prose too.
 
 **Illustrious / NoobAI (Illustrious-XL based)**
+- `maya-ibuki-neon-genesis-evangelion-ill` — `Maya_Ibuki`, `hat, uniform, black hair, beret, boots, black footwear, black eyes, mi`, `1girl, uniform, brown hair, short hair, pantyhose, military uniform, b` · strength not stated · 1,222 dl · Maya Ibuki from EVA Tragger word: Maya_Ibuki Outfit 1: 1girl, uniform, brown hair, short hair, panty · [source](https://civitai.com/models/1613043?modelVersionId=1825441)
 - `digitaldelights-impossible-downward-dog-ill` — `<Lora:DigitalDelights-impossible-downward-dog:1>, top-down bottom-up, ` · strength not stated · 1,130 dl · Name is self explanatory it's a yoga pose named dog down taking it to the extreme XD · [source](https://civitai.com/models/2143059?modelVersionId=2423989)
-- `ritsuko-akagi-neon-genesis-evangelion-ill` — `1girl,brown eyes, blonde hair,mole,mole under eye, short hair`, `makeup,breasts,medium breasts,jewelry,earrings,coat,labcoat,open cloth`, `bangs,parted bangs,makeup,red lips,lipstick,earrings,necklace,jewelry,`, `makeup,lipstick,earrings,jewelry,bare shoulders,shirt,sleeveless,belt,` · strength not stated · 900 dl · Ritsuko Akagi from EVA Appearance: 1girl,brown eyes, blonde hair,mole,mole under eye, short hair Lab · [source](https://civitai.com/models/1905245?modelVersionId=2156508)
 
 **Anima**
 - `vixon-s-styles-gothic-neon-anima` — `g0thic n30n, neon lights, glowing` · strength not stated · 5,773 dl · the OG dataset now brought to anima! Hey guys! Hope you love using this new LoRA as much as I loved  · [source](https://civitai.com/models/888231?modelVersionId=3022620)
@@ -532,7 +533,7 @@ Sliders usually accept negative strengths; the source page states the range. Age
 
 **Krea2 (detailed-krea2)**
 - `penis-size-krea2` — `penis-size-krea2` · strength not stated · 21,904 dl · https://wallofthieves.com/  Krea 2 - V2 V2 is here, and it is MUCH better then V1. Improvements: - M · [source](https://civitai.com/models/2687793?modelVersionId=3154138)
-- `innie-labia-minora-slider-krea2` — `innie labia minora slider krea2` · strength not stated · 16,118 dl · https://wallofthieves.com/  Labia Minora Slider Works well to control the size of the labia minora,  · [source](https://civitai.com/models/2811308?modelVersionId=3170393)
+- `pornmaster-age-slider-krea2` — `pornmaster age slider krea2` · strength not stated · 16,394 dl · 模型介紹為中英雙語，中文使用者可以關閉翻譯。 PornMaster 色情大師-Krea2 V1: 權重-9 to +9 lora權重:+9 to -? 如果要增強老年人的效果可以寫上:皮膚有許多皺紋。 · [source](https://civitai.com/models/2772293?modelVersionId=3121449)
 
 **MOSS (Moss Image / kromoss)**
 - `pornmaster-moss-realism-slider-xl` — trigger not stated · strength `2` (stated) · 5,479 dl · 模型介紹為中英雙語，中文使用者可以關閉翻譯。 PornMaster 色情大師 Moss Lora權重: -2 to +4.5 使用正面lora權重時增加增真實感，使用負面lora權重時增加2d感。 L · [source](https://civitai.com/models/3010059?modelVersionId=3415845)
@@ -734,7 +735,7 @@ Use an anatomy LoRA only if the base model draws the area poorly.
 
 **Illustrious / NoobAI (Illustrious-XL based)**
 - `costumeblack-bodystocking-request-ill` — `bodystocking` · strength not stated · 2,400 dl · TAGS: bodystocking I TAKE REQUESTS AT https://civitai.com/articles/7712/clothing-lora-requests · [source](https://civitai.com/models/812429?modelVersionId=1244147)
-- `jacquard-leggings-ill` — `jacquardleggings`, `fishnet` · strength not stated · 1,034 dl · Lora for ass lifting yoga pants, with or without texture. Add fishnet to your prompt for texture. · [source](https://civitai.com/models/1521437?modelVersionId=1721371)
+- `bow-accent-kitten-heels-ill` — `highheels, bow,` · strength not stated · 1,318 dl · Hey guys! Hope you love using this new LoRA as much as I loved making it. Just a quick word of advic · [source](https://civitai.com/models/256493?modelVersionId=1506248)
 
 **SDXL**
 - `lace-pantyhose-hooked-on-heel-meme-il-sd-xl` — `Pantyhose_hooked_on_heel, full body, from side, lying, on stomach, fee` · strength not stated · 49 dl · Creates the meme/viral pose where the character's high heel shoe is hooked on lace pantyhose. Very s · [source](https://civitai.com/models/2212567?modelVersionId=2491084)
@@ -755,9 +756,9 @@ Use an anatomy LoRA only if the base model draws the area poorly.
 - `heel-grabbers-base-moss` — trigger not stated · strength not stated · 190 dl · Its nice to see you again OBVIOUS PERSON OF TASTE! I spent some time making something your 1girl is  · [source](https://civitai.com/models/3047057?modelVersionId=3464228)
 - `10-inches-pleaser-heels-moss` — `101ph`, `[Infinity997,Beyond008,Beyond009,Beyond010LG,Beyond010LG],`, `10 inch platform heels, [color,clear] massive extreme platform soles, `, `[color,clear] [criss-cross,slender thin woven interlaced multi-strap,p` · strength not stated · 166 dl · My Character LoRA Gallery (1000+ Downloadable Character LoRAs & 500+ Runnable Online) Moss Image: St · [source](https://civitai.com/models/1777689?modelVersionId=3451681)
 
+- Suggest ingest: [Tifa Lockhart (Final Fantasy 7) (Outfit Collection 23 Outfits)](https://civitai.com/models/1242549) (illustrious, 25,090 dl) — `tfff7lckhrt, brown eyes, black hair, long hair, swept bangs, silver ea` · strength not stated — **downloads 25090 >= 2x best available (6777) in same family+category**
 - Suggest ingest: [pantyhose](https://civitai.com/models/26760) (sdxl, 24,942 dl) — `panntyhose`, `black pantyhose`, `white pantyhose` · strength `0.5` (stated) — **downloads 24942 >= 2x best available (1359) in same family+category**
 - Suggest ingest: [Erza Scarlet (All Armors & Outfits) (61 Outfits) / Illustrious](https://civitai.com/models/902174) (illustrious, 21,556 dl) — `erz_bwaitress, brown eyes, red hair, long hair, hair over one eye, fak` · strength `0.8 - 1` (stated) — **downloads 21556 >= 2x best available (6777) in same family+category**
-- Suggest ingest: [NSFW Bunnysuit](https://civitai.com/models/109759) (illustrious, 19,383 dl) — `reverse bunnysuit,`, `pasties, maebari,`, `crotchless pantyhose` · strength not stated — **downloads 19383 >= 2x best available (6777) in same family+category**
 
 ### 22. Swimwear and beach
 
@@ -814,8 +815,8 @@ All characters must be adults.
 - `krea2 thong floss outfit` — `zithong, thong floss outfit, 1girl, breasts, solo, nipples, realistic,` · strength `0.8` (stated) · 1,606 dl · Krea2 thong_floss_outfit Lora type:Krea2 triger：zithong, thong floss outfit, prompt：zithong, thong f · [source](https://civitai.com/models/2217869?modelVersionId=3190414)
 
 **MOSS (Moss Image / kromoss)**
+- `team-rocket-cosplay-pokemon-ani-il-moss-xl` — `t34mr0ck3t,`, `t34mr0ck3t,  team rocket uniform, white jacket, cropped jacket, white ` · strength not stated · 253 dl · Prepare for trouble! 🚀 Follow me on X/Twitter for exclusive content: https://x.com/Citron_Legacy 😁 P · [source](https://civitai.com/models/371976?modelVersionId=3416558)
 - `maid-classic-moss` — `maid,maid apron,maid headdres` · strength not stated · 221 dl · The strength of Lora is recommended to be around 1.0. · [source](https://civitai.com/models/703211?modelVersionId=3456338)
-- `base-candid-getting-dressed-inspecting-pan-moss` — `p4nt135-1n5p3ct10n	She is inspecting her panties in her hand` · strength not stated · 213 dl · generates mid-action shots of a woman inspecting panties in her hand, in a getting dressed/undressed · [source](https://civitai.com/models/3049187?modelVersionId=3467286)
 
 - Suggest ingest: [Undressing SD1/XL/PONY/FLUX](https://civitai.com/models/505266) (sdxl, 55,860 dl) — `undressing` · strength `1.3` (stated) — **downloads 55860 >= 2x best available (1359) in same family+category**
 - Suggest ingest: [Slavekini, aka Slave Leia Outfit - Clothing [Krea2, Anima, IL, Pony, S](https://civitai.com/models/7913) (illustrious, 30,714 dl) — `slave leia outfit`, `or`, `slavekini, pelvic curtain , collar, armlet , hair ornament, braid` · strength `.8-1.0` (stated) — **downloads 30714 >= 2x best available (6777) in same family+category**

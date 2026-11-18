@@ -1,6 +1,6 @@
 # Krea2 (detailed-krea2) — utility
 
-80 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
+82 LoRAs. `[HF repo only]` = file exists in another Octavian123 HF repo but is not on Graydient yet.
 
 **Suggest ingest (max 3, nothing auto-downloads):**
 
@@ -10,10 +10,12 @@
 | slug | triggers | strength | dl | what | source |
 |---|---|---|---:|---|---|
 | `penis-size-krea2` | penis-size-krea2 | not stated | 21904 | https://wallofthieves.com/  Krea 2 - V2 V2 is here, and it is MUCH better then V1. Improvements: - More predic | [link](https://civitai.com/models/2687793?modelVersionId=3154138) |
+| `pornmaster-age-slider-krea2` | pornmaster age slider krea2 | not stated | 16394 | 模型介紹為中英雙語，中文使用者可以關閉翻譯。 PornMaster 色情大師-Krea2 V1: 權重-9 to +9 lora權重:+9 to -? 如果要增強老年人的效果可以寫上:皮膚有許多皺紋。 Lora weig | [link](https://civitai.com/models/2772293?modelVersionId=3121449) |
 | `innie-labia-minora-slider-krea2` | innie labia minora slider krea2 | not stated | 16118 | https://wallofthieves.com/  Labia Minora Slider Works well to control the size of the labia minora, but it won | [link](https://civitai.com/models/2811308?modelVersionId=3170393) |
 | `pubic-hair-slider-body-hair-slider-zit-krea2` | pubic hair slider body hair slider zit krea2 | not stated | 15955 | https://wallofthieves.com/  Krea2: I have made a completely new way of making slider LoRAs, witch allows me to | [link](https://civitai.com/models/2617090?modelVersionId=3136749) |
 | `size-difference-slider-krea2` | not stated | not stated | 11070 | Size Difference Slider This was suppose to be a height difference slider, but i dont think height is the corre | [link](https://civitai.com/models/2764837?modelVersionId=3111923) |
 | `nipples_protruding_krea2_loraholic` | not stated | not stated | 9459 | Krea2: At high values like 4.0 and up they dont always look as good as i would like. But with good prompts and | [link](https://civitai.com/models/2554559?modelVersionId=3191856) |
+| `age-slider-xl` | not stated | not stated | 8065 | Controls the age. (-) Younger (+) Older except for the Flux.1 Version B it's vice versa and female only | [link](https://civitai.com/models/2633687?modelVersionId=3139661) |
 | `flaccid_erect_krea2_loraholic` | not stated | not stated | 8021 | Flaccid / Erection Slider It's finally here! The long-awaited erection slider. If you want the "matte" look of | [link](https://civitai.com/models/2832299?modelVersionId=3196123) |
 | `genital_color_krea2_loraholic` | not stated | not stated | 7400 | Genital Color Slider The sample images show well how this LoRA works. Other LoRAs, prompt, ethnicity etc will  | [link](https://civitai.com/models/2825933?modelVersionId=3188207) |
 | `body-weight-slider-skinny-fat-slider-krea2` | not stated | not stated | 7200 | Recommended negative prompt: lowres, bad quality, worst quality, bad anatomy, jpeg artifacts, signature, water | [link](https://civitai.com/models/2513759?modelVersionId=3129180) |
