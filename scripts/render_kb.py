@@ -134,9 +134,9 @@ def main():
          "description: >-", "  Choose and stack text-to-image LoRAs for Illustrious/NoobAI, SDXL, Pony, Anima, Krea2 (detailed-krea2) and MOSS (kromoss)",
          "  on Graydient. Goal-based chooser with recipes. Prefer LoRAs registered on Graydient; flag other HF-repo LoRAs; suggest ingesting strong CivitAI/HF",
          "  LoRAs only under the suggest-ingest rule. Prompt matcher (scripts/suggest.py + data/semantic_catalog.jsonl) finds LoRAs from every",
-         "  Graydient LoRA that move a draft prompt closer to its subject, intent, clothing, expression, object, pose and style. Never invent triggers or strengths. Adults only.", "---", "",
+         "  Graydient LoRA that move a draft prompt closer to its subject, intent, clothing, expression, object, pose and style. Never invent triggers or strengths. Minor-coded LoRAs are SFW-only.", "---", "",
          "# Skill: choose text-to-image LoRAs (Illustrious · SDXL · Pony · Anima · Krea2 · MOSS)", "",
-         f"Snapshot {today}. Adults-only (18+) concepts; describe NSFW factually. No minor-coded LoRAs are in this KB.", "",
+         f"Snapshot {today}. Describe NSFW factually, adults (18+) only. LoRAs flagged `minor_coded` (minor/school-age characters, age sliders) are for SFW renders only and never go in an NSFW stack.", "",
          "## Inventory at a glance", "", "| family | on Graydient | HF repo only (needs adding) | ingest candidates |", "|---|---:|---:|---:|"]
     for f in FAMILIES:
         S.append(f"| {FAMILY_LABEL[f]} | {counts[f][0]} | {counts[f][1]} | {counts[f][2]} |")

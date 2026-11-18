@@ -205,7 +205,7 @@ def build_lora_row(r, models):
         "_sha": files[0].get("sha256"), "source_confirmed": bool(civ), "metadata_source": "civitai-hash" if civ else ("legacy-enrichment" if leg else "filename-only"),
     }
 
-HARD_RE = re.compile(r"\b(loli\w*|shota\w*|underage|under[- ]age|preteen|pre[- ]teen)\b", re.I)
+HARD_RE = re.compile(r"\b(loli(?!ta)\w*|shota(?!ro)\w*|underage|under[- ]age|preteen|pre[- ]teen)\b", re.I)
 
 def main():
     hf, byhash, models, legacy = load_inputs()
@@ -220,7 +220,7 @@ def main():
         civ = r["civ"] or {}
         m = models.get(civ.get("modelId"), {})
         hard = HARD_RE.search(strip_html(m.get("description") or "")[:1500]) if m else None
-        mr = minor_reason(" ".join(m.get("tags") or [])) or (f"possible minor-coded term in description: {hard.group(0)}" if hard else None)
+        mr = minor_reason(" ".join(m.get("tags") or []))  # description-only terms are flagged (minor_coded), not excluded
         if mr:
             excluded.append({"slug": r["slug"], "repo": r["files"][0]["repo"], "path": r["files"][0]["path"], "reason": mr, "family": r["family"]})
             continue
@@ -337,8 +337,8 @@ def build_candidates(loras, byhash, models, excluded):
                     break
         mr = minor_reason(c["name"], " ".join(c.get("tags") or []), " ".join(tw))
         hard = HARD_RE.search(strip_html(c.get("description") or "")[:1500])
-        if mr or hard:
-            excluded.append({"slug": f"civitai:{c['id']}", "repo": "candidate", "path": c["name"], "reason": mr or f"possible minor-coded term in description: {hard.group(0)}", "family": fam})
+        if mr:
+            excluded.append({"slug": f"civitai:{c['id']}", "repo": "candidate", "path": c["name"], "reason": mr, "family": fam})
             continue
         cat = categorize(c["name"], c.get("tags"), strip_html(c.get("description") or ""))
         dl = c.get("downloadCount") or 0

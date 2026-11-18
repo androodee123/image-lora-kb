@@ -94,8 +94,7 @@ def main():
                 continue
             tw = next((v.get("trainedWords") for v in c["versions"] if v.get("trainedWords")), [])
             if minor_reason(c["name"], " ".join(c.get("tags") or []), " ".join(tw or [])) or \
-               S.blocked_character(c["name"], " ".join(c.get("tags") or []), " ".join(tw or [])) or \
-               S.blocked(c["name"], " ".join(c.get("tags") or []), " ".join(tw or [])):
+               S.blocked(c["name"], " ".join(c.get("tags") or []), " ".join(tw or [])):  # hard terms only; others are flagged
                 continue
             if (c.get("downloadCount") or 0) < a.min_downloads:
                 continue
